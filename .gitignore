@@ -1,0 +1,92 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# nyc test coverage
+.nyc_output/
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# dotenv environment variables file
+.env
+
+# dotenv environment variables file for local development
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Mac OS specific files
+.DS_Store
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+tmp/
+temp/
+
+# System Files
+Thumbs.db
+Desktop.ini
+
+# Configurations
+/config/apnConfig.js
+history.json
+deletedItems.json
+
+# Ignore build output
+dist/
+build/
+
+# Ignore node-waf configuration
+.lock-wscript
+
+# Ignore hsqldb files
+*.log
+*.tmp
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore JetBrains IDE project files
+*.iml
+*.iws
+.idea/
+
+# Ignore Visual Studio Code project files
+.vscode/
+
+# Ignore logs, env, and coverage directory
+*.log
+.env
+coverage/
+
+# Miscellaneous
+.sass-cache/
+.connect-socket/
+
+# Secrets
+authKey.p8

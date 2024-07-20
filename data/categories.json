@@ -1,0 +1,6278 @@
+{
+  "4": {
+    "id": 4,
+    "title": "Clothes",
+    "parent_id": 1904,
+    "parent": "Women"
+  },
+  "5": {
+    "id": 5,
+    "title": "Men",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "8": {
+    "id": 8,
+    "title": "Suits & blazers",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "9": {
+    "id": 9,
+    "title": "Pants & leggings",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "10": {
+    "id": 10,
+    "title": "Dresses",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "11": {
+    "id": 11,
+    "title": "Skirts",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "12": {
+    "id": 12,
+    "title": "Tops & T-shirts",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "13": {
+    "id": 13,
+    "title": "Jumpers & sweaters",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "14": {
+    "id": 14,
+    "title": "Camis",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "15": {
+    "id": 15,
+    "title": "Shorts & cropped pants",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "16": {
+    "id": 16,
+    "title": "Shoes",
+    "parent_id": 1904,
+    "parent": "Women"
+  },
+  "18": {
+    "id": 18,
+    "title": "Other clothing",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "19": {
+    "id": 19,
+    "title": "Bags",
+    "parent_id": 1904,
+    "parent": "Women"
+  },
+  "20": {
+    "id": 20,
+    "title": "Belts",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "21": {
+    "id": 21,
+    "title": "Jewelry",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "22": {
+    "id": 22,
+    "title": "Watches",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "26": {
+    "id": 26,
+    "title": "Sunglasses",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "28": {
+    "id": 28,
+    "title": "Swimwear",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "29": {
+    "id": 29,
+    "title": "Lingerie & nightwear",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "30": {
+    "id": 30,
+    "title": "Activewear",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "32": {
+    "id": 32,
+    "title": "Suits & blazers",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "34": {
+    "id": 34,
+    "title": "Pants",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "73": {
+    "id": 73,
+    "title": "Activewear",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "76": {
+    "id": 76,
+    "title": "Tops & T-shirts",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "77": {
+    "id": 77,
+    "title": "T-shirts",
+    "parent_id": 76,
+    "parent": "Tops & T-shirts"
+  },
+  "79": {
+    "id": 79,
+    "title": "Jumpers & sweaters",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "80": {
+    "id": 80,
+    "title": "Shorts",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "82": {
+    "id": 82,
+    "title": "Accessories",
+    "parent_id": 5,
+    "parent": "Men"
+  },
+  "83": {
+    "id": 83,
+    "title": "Other men's clothing",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "84": {
+    "id": 84,
+    "title": "Swimwear",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "85": {
+    "id": 85,
+    "title": "Socks & underwear",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "86": {
+    "id": 86,
+    "title": "Hats & caps",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "87": {
+    "id": 87,
+    "title": "Scarves & shawls",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "88": {
+    "id": 88,
+    "title": "Hats & caps",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "89": {
+    "id": 89,
+    "title": "Scarves & shawls",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "90": {
+    "id": 90,
+    "title": "Gloves",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "91": {
+    "id": 91,
+    "title": "Gloves",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "92": {
+    "id": 92,
+    "title": "Costumes & special outfits",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "93": {
+    "id": 93,
+    "title": "Ties & pocket squares",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "94": {
+    "id": 94,
+    "title": "Bags & backpacks",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "95": {
+    "id": 95,
+    "title": "Jewelry",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "96": {
+    "id": 96,
+    "title": "Belts",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "97": {
+    "id": 97,
+    "title": "Watches",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "98": {
+    "id": 98,
+    "title": "Sunglasses",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "99": {
+    "id": 99,
+    "title": "Other",
+    "parent_id": 82,
+    "parent": "Accessories"
+  },
+  "119": {
+    "id": 119,
+    "title": "Bras",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "120": {
+    "id": 120,
+    "title": "Panties",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "123": {
+    "id": 123,
+    "title": "Sleepwear",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "124": {
+    "id": 124,
+    "title": "Other",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "139": {
+    "id": 139,
+    "title": "Grooming",
+    "parent_id": 5,
+    "parent": "Men"
+  },
+  "140": {
+    "id": 140,
+    "title": "Hair care",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "141": {
+    "id": 141,
+    "title": "Body care",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "142": {
+    "id": 142,
+    "title": "Hand & nail care",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "143": {
+    "id": 143,
+    "title": "Face care",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "144": {
+    "id": 144,
+    "title": "Makeup",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "145": {
+    "id": 145,
+    "title": "Aftershave & cologne",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "146": {
+    "id": 146,
+    "title": "Beauty",
+    "parent_id": 1904,
+    "parent": "Women"
+  },
+  "152": {
+    "id": 152,
+    "title": "Perfume",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "153": {
+    "id": 153,
+    "title": "Other beauty items",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "155": {
+    "id": 155,
+    "title": "Other bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "156": {
+    "id": 156,
+    "title": "Handbags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "157": {
+    "id": 157,
+    "title": "Backpacks",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "158": {
+    "id": 158,
+    "title": "Shoulder bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "159": {
+    "id": 159,
+    "title": "Clutches",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "160": {
+    "id": 160,
+    "title": "Purses & wallets",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "161": {
+    "id": 161,
+    "title": "Makeup bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "162": {
+    "id": 162,
+    "title": "Other Jewelry",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "163": {
+    "id": 163,
+    "title": "Earrings",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "164": {
+    "id": 164,
+    "title": "Necklaces, beads & pendants",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "165": {
+    "id": 165,
+    "title": "Bracelets",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "166": {
+    "id": 166,
+    "title": "Jewelry sets",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "167": {
+    "id": 167,
+    "title": "Brooches",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "176": {
+    "id": 176,
+    "title": "Other dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "178": {
+    "id": 178,
+    "title": "Mini-dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "179": {
+    "id": 179,
+    "title": "Jean dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "183": {
+    "id": 183,
+    "title": "Jeans",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "184": {
+    "id": 184,
+    "title": "Leather pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "185": {
+    "id": 185,
+    "title": "Skinny pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "187": {
+    "id": 187,
+    "title": "Tailored pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "189": {
+    "id": 189,
+    "title": "Other trousers",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "190": {
+    "id": 190,
+    "title": "V-neck sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "191": {
+    "id": 191,
+    "title": "Turtleneck sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "192": {
+    "id": 192,
+    "title": "Long sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "193": {
+    "id": 193,
+    "title": "¾-sleeve sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "194": {
+    "id": 194,
+    "title": "Cardigans",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "195": {
+    "id": 195,
+    "title": "Boleros",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "196": {
+    "id": 196,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "197": {
+    "id": 197,
+    "title": "Other jumpers & sweaters",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "198": {
+    "id": 198,
+    "title": "Mini-skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "199": {
+    "id": 199,
+    "title": "Midi skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "200": {
+    "id": 200,
+    "title": "Maxi-skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "201": {
+    "id": 201,
+    "title": "Other skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "203": {
+    "id": 203,
+    "title": "Knee-length shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "204": {
+    "id": 204,
+    "title": "Cropped pants",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "205": {
+    "id": 205,
+    "title": "Other shorts & cropped pants",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "211": {
+    "id": 211,
+    "title": "Knee-high boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "213": {
+    "id": 213,
+    "title": "Rain boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "215": {
+    "id": 215,
+    "title": "Slippers",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "218": {
+    "id": 218,
+    "title": "One-pieces",
+    "parent_id": 28,
+    "parent": "Swimwear"
+  },
+  "219": {
+    "id": 219,
+    "title": "Bikinis & tankinis",
+    "parent_id": 28,
+    "parent": "Swimwear"
+  },
+  "220": {
+    "id": 220,
+    "title": "Other Swimwear & Beachwear",
+    "parent_id": 28,
+    "parent": "Swimwear"
+  },
+  "221": {
+    "id": 221,
+    "title": "T-shirts",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "222": {
+    "id": 222,
+    "title": "Shirts",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "223": {
+    "id": 223,
+    "title": "Short-sleeved tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "224": {
+    "id": 224,
+    "title": "Long-sleeved tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "225": {
+    "id": 225,
+    "title": "¾-sleeve tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "227": {
+    "id": 227,
+    "title": "Tunics",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "228": {
+    "id": 228,
+    "title": "Other tops & t-shirts",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "229": {
+    "id": 229,
+    "title": "Sets",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "230": {
+    "id": 230,
+    "title": "Caps",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "231": {
+    "id": 231,
+    "title": "Hats",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "232": {
+    "id": 232,
+    "title": "Warm hats",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "233": {
+    "id": 233,
+    "title": "Berets",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "234": {
+    "id": 234,
+    "title": "Headbands",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "235": {
+    "id": 235,
+    "title": "Other",
+    "parent_id": 88,
+    "parent": "Hats & caps"
+  },
+  "236": {
+    "id": 236,
+    "title": "Knit scarves",
+    "parent_id": 89,
+    "parent": "Scarves & shawls"
+  },
+  "237": {
+    "id": 237,
+    "title": "Head scarves",
+    "parent_id": 89,
+    "parent": "Scarves & shawls"
+  },
+  "238": {
+    "id": 238,
+    "title": "Oversized scarves & shawls",
+    "parent_id": 89,
+    "parent": "Scarves & shawls"
+  },
+  "239": {
+    "id": 239,
+    "title": "Shawls",
+    "parent_id": 89,
+    "parent": "Scarves & shawls"
+  },
+  "240": {
+    "id": 240,
+    "title": "Other",
+    "parent_id": 89,
+    "parent": "Scarves & shawls"
+  },
+  "241": {
+    "id": 241,
+    "title": "Necklaces & Pendants",
+    "parent_id": 95,
+    "parent": "Jewelry"
+  },
+  "242": {
+    "id": 242,
+    "title": "Rings",
+    "parent_id": 95,
+    "parent": "Jewelry"
+  },
+  "243": {
+    "id": 243,
+    "title": "Bracelets",
+    "parent_id": 95,
+    "parent": "Jewelry"
+  },
+  "244": {
+    "id": 244,
+    "title": "Other",
+    "parent_id": 95,
+    "parent": "Jewelry"
+  },
+  "245": {
+    "id": 245,
+    "title": "Handbags",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "246": {
+    "id": 246,
+    "title": "Backpacks",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "247": {
+    "id": 247,
+    "title": "Shoulder Bags",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "248": {
+    "id": 248,
+    "title": "Wallets",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "249": {
+    "id": 249,
+    "title": "Other",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "257": {
+    "id": 257,
+    "title": "Jeans",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "259": {
+    "id": 259,
+    "title": "Skinny pants",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "260": {
+    "id": 260,
+    "title": "Wide-leg pants",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "261": {
+    "id": 261,
+    "title": "Tailored pants",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "263": {
+    "id": 263,
+    "title": "Other",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "264": {
+    "id": 264,
+    "title": "V-neck sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "265": {
+    "id": 265,
+    "title": "Turtleneck sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "266": {
+    "id": 266,
+    "title": "Cardigans",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "267": {
+    "id": 267,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "268": {
+    "id": 268,
+    "title": "Other",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "271": {
+    "id": 271,
+    "title": "Cropped pants",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "272": {
+    "id": 272,
+    "title": "Other shorts",
+    "parent_id": 80,
+    "parent": "Shorts"
+  },
+  "283": {
+    "id": 283,
+    "title": "Knitted Scarves",
+    "parent_id": 87,
+    "parent": "Scarves & shawls"
+  },
+  "284": {
+    "id": 284,
+    "title": "Head scarves",
+    "parent_id": 87,
+    "parent": "Scarves & shawls"
+  },
+  "285": {
+    "id": 285,
+    "title": "Large Scarves & Shawls",
+    "parent_id": 87,
+    "parent": "Scarves & shawls"
+  },
+  "286": {
+    "id": 286,
+    "title": "Other",
+    "parent_id": 87,
+    "parent": "Scarves & shawls"
+  },
+  "287": {
+    "id": 287,
+    "title": "Caps",
+    "parent_id": 86,
+    "parent": "Hats & caps"
+  },
+  "288": {
+    "id": 288,
+    "title": "Hats",
+    "parent_id": 86,
+    "parent": "Hats & caps"
+  },
+  "289": {
+    "id": 289,
+    "title": "Winter Hats",
+    "parent_id": 86,
+    "parent": "Hats & caps"
+  },
+  "290": {
+    "id": 290,
+    "title": "Berets",
+    "parent_id": 86,
+    "parent": "Hats & caps"
+  },
+  "291": {
+    "id": 291,
+    "title": "Other",
+    "parent_id": 86,
+    "parent": "Hats & caps"
+  },
+  "525": {
+    "id": 525,
+    "title": "Leggings",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "526": {
+    "id": 526,
+    "title": "Harem pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "529": {
+    "id": 529,
+    "title": "Knitted sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "532": {
+    "id": 532,
+    "title": "Blazers",
+    "parent_id": 8,
+    "parent": "Suits & blazers"
+  },
+  "534": {
+    "id": 534,
+    "title": "Tank tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "536": {
+    "id": 536,
+    "title": "Shirts",
+    "parent_id": 76,
+    "parent": "Tops & T-shirts"
+  },
+  "538": {
+    "id": 538,
+    "title": "Jean shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "539": {
+    "id": 539,
+    "title": "High-waist skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "540": {
+    "id": 540,
+    "title": "Denim skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "541": {
+    "id": 541,
+    "title": "Tulip skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "542": {
+    "id": 542,
+    "title": "Pencil skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "543": {
+    "id": 543,
+    "title": "Heels",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "548": {
+    "id": 548,
+    "title": "Ballerinas",
+    "parent_id": 1909,
+    "parent": "Flat shoes"
+  },
+  "552": {
+    "id": 552,
+    "title": "Tote bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "553": {
+    "id": 553,
+    "title": "Rings",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "560": {
+    "id": 560,
+    "title": "Vests & sleeveless T-shirts",
+    "parent_id": 76,
+    "parent": "Tops & T-shirts"
+  },
+  "571": {
+    "id": 571,
+    "title": "Outerwear",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "572": {
+    "id": 572,
+    "title": "Tracksuits",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "573": {
+    "id": 573,
+    "title": "Pants",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "574": {
+    "id": 574,
+    "title": "Dresses",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "575": {
+    "id": 575,
+    "title": "Skirts",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "576": {
+    "id": 576,
+    "title": "Tops & T-shirts",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "577": {
+    "id": 577,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "578": {
+    "id": 578,
+    "title": "Shorts",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "579": {
+    "id": 579,
+    "title": "Sports accessories",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "580": {
+    "id": 580,
+    "title": "Other activewear",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "581": {
+    "id": 581,
+    "title": "Outerwear",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "582": {
+    "id": 582,
+    "title": "Tracksuits",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "583": {
+    "id": 583,
+    "title": "Pants",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "584": {
+    "id": 584,
+    "title": "Tops & T-shirts",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "585": {
+    "id": 585,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "586": {
+    "id": 586,
+    "title": "Shorts",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "587": {
+    "id": 587,
+    "title": "Sports accessories",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "588": {
+    "id": 588,
+    "title": "Other activewear",
+    "parent_id": 30,
+    "parent": "Activewear"
+  },
+  "948": {
+    "id": 948,
+    "title": "Face care",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "950": {
+    "id": 950,
+    "title": "Face-care tools",
+    "parent_id": 1906,
+    "parent": "Beauty tools"
+  },
+  "956": {
+    "id": 956,
+    "title": "Body care",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "958": {
+    "id": 958,
+    "title": "Body-care tools",
+    "parent_id": 1906,
+    "parent": "Beauty tools"
+  },
+  "960": {
+    "id": 960,
+    "title": "Nail Care",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "962": {
+    "id": 962,
+    "title": "Nail-care tools",
+    "parent_id": 1906,
+    "parent": "Beauty tools"
+  },
+  "964": {
+    "id": 964,
+    "title": "Makeup",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "967": {
+    "id": 967,
+    "title": "Makeup tools",
+    "parent_id": 1906,
+    "parent": "Beauty tools"
+  },
+  "968": {
+    "id": 968,
+    "title": "Other grooming items",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "971": {
+    "id": 971,
+    "title": "Other tools",
+    "parent_id": 2055,
+    "parent": "Tools & accessories"
+  },
+  "1030": {
+    "id": 1030,
+    "title": "Dressing gowns",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "1035": {
+    "id": 1035,
+    "title": "Jumpsuits & rompers",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "1037": {
+    "id": 1037,
+    "title": "Outerwear",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "1041": {
+    "id": 1041,
+    "title": "Crop tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1042": {
+    "id": 1042,
+    "title": "Off-the-shoulder tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1043": {
+    "id": 1043,
+    "title": "Blouses",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1044": {
+    "id": 1044,
+    "title": "Halter tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1045": {
+    "id": 1045,
+    "title": "Turtlenecks",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1049": {
+    "id": 1049,
+    "title": "Boots",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "1055": {
+    "id": 1055,
+    "title": "Long dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1056": {
+    "id": 1056,
+    "title": "Midi-dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1057": {
+    "id": 1057,
+    "title": "Formal & work dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1058": {
+    "id": 1058,
+    "title": "Little black dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1059": {
+    "id": 1059,
+    "title": "Casual dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1060": {
+    "id": 1060,
+    "title": "Backless dresses",
+    "parent_id": 1774,
+    "parent": "Special-occasion dresses"
+  },
+  "1061": {
+    "id": 1061,
+    "title": "Strapless dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1065": {
+    "id": 1065,
+    "title": "Summer dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1066": {
+    "id": 1066,
+    "title": "Other sweaters",
+    "parent_id": 1917,
+    "parent": "Sweaters"
+  },
+  "1067": {
+    "id": 1067,
+    "title": "Kimonos",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "1070": {
+    "id": 1070,
+    "title": "Cropped pants & chinos",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "1071": {
+    "id": 1071,
+    "title": "Wide-leg pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "1076": {
+    "id": 1076,
+    "title": "Peacoats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "1078": {
+    "id": 1078,
+    "title": "Bomber jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "1079": {
+    "id": 1079,
+    "title": "Denim jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "1080": {
+    "id": 1080,
+    "title": "Raincoats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "1086": {
+    "id": 1086,
+    "title": "Fleece jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "1087": {
+    "id": 1087,
+    "title": "Parkas",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "1090": {
+    "id": 1090,
+    "title": "Faux fur coats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "1092": {
+    "id": 1092,
+    "title": "A-line skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "1093": {
+    "id": 1093,
+    "title": "Slim fit skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "1094": {
+    "id": 1094,
+    "title": "Skater skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "1097": {
+    "id": 1097,
+    "title": "Pleated skirts",
+    "parent_id": 11,
+    "parent": "Skirts"
+  },
+  "1099": {
+    "id": 1099,
+    "title": "High-waist shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "1100": {
+    "id": 1100,
+    "title": "Leather shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "1101": {
+    "id": 1101,
+    "title": "Lace shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "1103": {
+    "id": 1103,
+    "title": "Cargo shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "1120": {
+    "id": 1120,
+    "title": "Other bags",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "1123": {
+    "id": 1123,
+    "title": "Hair accessories",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "1125": {
+    "id": 1125,
+    "title": "Pantsuits",
+    "parent_id": 8,
+    "parent": "Suits & blazers"
+  },
+  "1126": {
+    "id": 1126,
+    "title": "Skirt suits",
+    "parent_id": 8,
+    "parent": "Suits & blazers"
+  },
+  "1128": {
+    "id": 1128,
+    "title": "Suit separates",
+    "parent_id": 8,
+    "parent": "Suits & blazers"
+  },
+  "1129": {
+    "id": 1129,
+    "title": "Other suits & blazers",
+    "parent_id": 8,
+    "parent": "Suits & blazers"
+  },
+  "1131": {
+    "id": 1131,
+    "title": "Jumpsuits",
+    "parent_id": 1035,
+    "parent": "Jumpsuits & rompers"
+  },
+  "1132": {
+    "id": 1132,
+    "title": "Rompers",
+    "parent_id": 1035,
+    "parent": "Jumpsuits & rompers"
+  },
+  "1134": {
+    "id": 1134,
+    "title": "Other jumpsuits & rompers",
+    "parent_id": 1035,
+    "parent": "Jumpsuits & rompers"
+  },
+  "1140": {
+    "id": 1140,
+    "title": "Other accessories",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "1176": {
+    "id": 1176,
+    "title": "Maternity clothes",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "1177": {
+    "id": 1177,
+    "title": "Maternity pants",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1178": {
+    "id": 1178,
+    "title": "Maternity skirts",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1179": {
+    "id": 1179,
+    "title": "Maternity tops",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1181": {
+    "id": 1181,
+    "title": "Maternity jumpsuits & rompers",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1182": {
+    "id": 1182,
+    "title": "Maternity dresses",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1183": {
+    "id": 1183,
+    "title": "Maternity coats & jackets",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1184": {
+    "id": 1184,
+    "title": "Maternity sweaters",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1185": {
+    "id": 1185,
+    "title": "Maternity shorts",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1186": {
+    "id": 1186,
+    "title": "Maternity swimwear & beachwear",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1187": {
+    "id": 1187,
+    "title": "Accessories",
+    "parent_id": 1904,
+    "parent": "Women"
+  },
+  "1193": {
+    "id": 1193,
+    "title": "Kids",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "1194": {
+    "id": 1194,
+    "title": "Boys clothing",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1195": {
+    "id": 1195,
+    "title": "Girls clothing",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1196": {
+    "id": 1196,
+    "title": "Baby boys' clothing",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1197": {
+    "id": 1197,
+    "title": "Outerwear",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1198": {
+    "id": 1198,
+    "title": "Tops & T-shirts",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1199": {
+    "id": 1199,
+    "title": "Sweaters & hoodies",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1200": {
+    "id": 1200,
+    "title": "Pants, shorts & overalls",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1201": {
+    "id": 1201,
+    "title": "Shorts & cropped pants",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1202": {
+    "id": 1202,
+    "title": "Swimwear",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1203": {
+    "id": 1203,
+    "title": "Underwear & socks",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1204": {
+    "id": 1204,
+    "title": "Activewear",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1205": {
+    "id": 1205,
+    "title": "Other boys' clothing",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1206": {
+    "id": 1206,
+    "title": "Outerwear",
+    "parent_id": 2050,
+    "parent": "Clothes"
+  },
+  "1221": {
+    "id": 1221,
+    "title": "Tech accessories",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "1223": {
+    "id": 1223,
+    "title": "Bomber jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "1224": {
+    "id": 1224,
+    "title": "Denim jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "1225": {
+    "id": 1225,
+    "title": "Duffle coats",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "1226": {
+    "id": 1226,
+    "title": "Harrington jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "1227": {
+    "id": 1227,
+    "title": "Parkas",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "1230": {
+    "id": 1230,
+    "title": "Trench coats",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "1231": {
+    "id": 1231,
+    "title": "Shoes",
+    "parent_id": 5,
+    "parent": "Men"
+  },
+  "1233": {
+    "id": 1233,
+    "title": "Boots",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "1238": {
+    "id": 1238,
+    "title": "Formal shoes",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "1242": {
+    "id": 1242,
+    "title": "Sneakers",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "1243": {
+    "id": 1243,
+    "title": "Baby clothing",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1244": {
+    "id": 1244,
+    "title": "Outerwear",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1245": {
+    "id": 1245,
+    "title": "Tops & T-shirts",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1246": {
+    "id": 1246,
+    "title": "Sweaters & hoodies",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1247": {
+    "id": 1247,
+    "title": "Dresses",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1248": {
+    "id": 1248,
+    "title": "Skirts",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1249": {
+    "id": 1249,
+    "title": "Pants, shorts & overalls",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1250": {
+    "id": 1250,
+    "title": "Shorts & cropped pants",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1251": {
+    "id": 1251,
+    "title": "Swimwear",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1252": {
+    "id": 1252,
+    "title": "Underwear & socks",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1253": {
+    "id": 1253,
+    "title": "Activewear",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1254": {
+    "id": 1254,
+    "title": "Other girls' clothing",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1255": {
+    "id": 1255,
+    "title": "Shoes",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1256": {
+    "id": 1256,
+    "title": "Shoes",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1257": {
+    "id": 1257,
+    "title": "Bags & backpacks",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1258": {
+    "id": 1258,
+    "title": "Bags & backpacks",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1262": {
+    "id": 1262,
+    "title": "Socks",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "1263": {
+    "id": 1263,
+    "title": "Tights & stockings",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "1264": {
+    "id": 1264,
+    "title": "Hand Care",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "1439": {
+    "id": 1439,
+    "title": "Sports bras",
+    "parent_id": 73,
+    "parent": "Activewear"
+  },
+  "1440": {
+    "id": 1440,
+    "title": "Scarves",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1441": {
+    "id": 1441,
+    "title": "Glasses",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1442": {
+    "id": 1442,
+    "title": "Watches & wristbands",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1443": {
+    "id": 1443,
+    "title": "Hats",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1444": {
+    "id": 1444,
+    "title": "Gloves",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1445": {
+    "id": 1445,
+    "title": "Protectors",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1446": {
+    "id": 1446,
+    "title": "Other accessories",
+    "parent_id": 579,
+    "parent": "Sports accessories"
+  },
+  "1452": {
+    "id": 1452,
+    "title": "Sport shoes",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "1453": {
+    "id": 1453,
+    "title": "Running shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "1467": {
+    "id": 1467,
+    "title": "Indoor training shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "1470": {
+    "id": 1470,
+    "title": "Scarves",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1471": {
+    "id": 1471,
+    "title": "Glasses",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1472": {
+    "id": 1472,
+    "title": "Watches & wristbands",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1473": {
+    "id": 1473,
+    "title": "Hats",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1474": {
+    "id": 1474,
+    "title": "Gloves",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1475": {
+    "id": 1475,
+    "title": "Protective items",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1476": {
+    "id": 1476,
+    "title": "Other accessories",
+    "parent_id": 587,
+    "parent": "Sports accessories"
+  },
+  "1493": {
+    "id": 1493,
+    "title": "Patterned & embroidered bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "1495": {
+    "id": 1495,
+    "title": "Chairs",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1496": {
+    "id": 1496,
+    "title": "Strollers",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1497": {
+    "id": 1497,
+    "title": "Ride-on toys",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1498": {
+    "id": 1498,
+    "title": "Kid & baby furniture",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1499": {
+    "id": 1499,
+    "title": "Toys & games",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1500": {
+    "id": 1500,
+    "title": "Baby care",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1501": {
+    "id": 1501,
+    "title": "School supplies",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1502": {
+    "id": 1502,
+    "title": "Other kids' items",
+    "parent_id": 1193,
+    "parent": "Kids"
+  },
+  "1503": {
+    "id": 1503,
+    "title": "Car seats",
+    "parent_id": 1495,
+    "parent": "Chairs"
+  },
+  "1504": {
+    "id": 1504,
+    "title": "Feeding chairs",
+    "parent_id": 1495,
+    "parent": "Chairs"
+  },
+  "1508": {
+    "id": 1508,
+    "title": "School bags",
+    "parent_id": 1501,
+    "parent": "School supplies"
+  },
+  "1509": {
+    "id": 1509,
+    "title": "School supplies",
+    "parent_id": 1501,
+    "parent": "School supplies"
+  },
+  "1510": {
+    "id": 1510,
+    "title": "Clothing bundles",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1511": {
+    "id": 1511,
+    "title": "Stroller accessories",
+    "parent_id": 1496,
+    "parent": "Strollers"
+  },
+  "1512": {
+    "id": 1512,
+    "title": "Umbrella strollers",
+    "parent_id": 1496,
+    "parent": "Strollers"
+  },
+  "1514": {
+    "id": 1514,
+    "title": "Rompers",
+    "parent_id": 1243,
+    "parent": "Baby clothing"
+  },
+  "1515": {
+    "id": 1515,
+    "title": "Bodysuits",
+    "parent_id": 1243,
+    "parent": "Baby clothing"
+  },
+  "1516": {
+    "id": 1516,
+    "title": "Overalls",
+    "parent_id": 1243,
+    "parent": "Baby clothing"
+  },
+  "1517": {
+    "id": 1517,
+    "title": "Sets",
+    "parent_id": 1243,
+    "parent": "Baby clothing"
+  },
+  "1518": {
+    "id": 1518,
+    "title": "Vests",
+    "parent_id": 1244,
+    "parent": "Outerwear"
+  },
+  "1519": {
+    "id": 1519,
+    "title": "Coats",
+    "parent_id": 1244,
+    "parent": "Outerwear"
+  },
+  "1521": {
+    "id": 1521,
+    "title": "Jackets",
+    "parent_id": 1244,
+    "parent": "Outerwear"
+  },
+  "1525": {
+    "id": 1525,
+    "title": "Baby shoes",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1526": {
+    "id": 1526,
+    "title": "Flat shoes",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1528": {
+    "id": 1528,
+    "title": "Formal & special occasion shoes",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1530": {
+    "id": 1530,
+    "title": "Boots",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1533": {
+    "id": 1533,
+    "title": "Sneakers",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1534": {
+    "id": 1534,
+    "title": "Slippers",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "1535": {
+    "id": 1535,
+    "title": "T-shirts",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1536": {
+    "id": 1536,
+    "title": "Polo shirts",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1537": {
+    "id": 1537,
+    "title": "Shirts",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1538": {
+    "id": 1538,
+    "title": "Short-sleeved tops",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1539": {
+    "id": 1539,
+    "title": "Long-sleeved tops",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1540": {
+    "id": 1540,
+    "title": "Sleeveless tops",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1541": {
+    "id": 1541,
+    "title": "Tunics",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1542": {
+    "id": 1542,
+    "title": "Sweaters",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1543": {
+    "id": 1543,
+    "title": "V-neck sweaters",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1544": {
+    "id": 1544,
+    "title": "Turtleneck sweaters",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1548": {
+    "id": 1548,
+    "title": "Zip-up jumpers",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1549": {
+    "id": 1549,
+    "title": "Boleros",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1550": {
+    "id": 1550,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1551": {
+    "id": 1551,
+    "title": "Sweater vests",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1553": {
+    "id": 1553,
+    "title": "Long dresses",
+    "parent_id": 1247,
+    "parent": "Dresses"
+  },
+  "1554": {
+    "id": 1554,
+    "title": "Short dresses",
+    "parent_id": 1247,
+    "parent": "Dresses"
+  },
+  "1559": {
+    "id": 1559,
+    "title": "Jeans",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1560": {
+    "id": 1560,
+    "title": "Skinny pants",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1561": {
+    "id": 1561,
+    "title": "Cribs & cradles",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1562": {
+    "id": 1562,
+    "title": "Wide-leg pants",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1563": {
+    "id": 1563,
+    "title": "Cribs",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1565": {
+    "id": 1565,
+    "title": "Leggings",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1566": {
+    "id": 1566,
+    "title": "Toddler beds",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1567": {
+    "id": 1567,
+    "title": "Mattresses",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1568": {
+    "id": 1568,
+    "title": "Jumpsuits & overalls",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1569": {
+    "id": 1569,
+    "title": "Crib mattresses",
+    "parent_id": 1567,
+    "parent": "Mattresses"
+  },
+  "1570": {
+    "id": 1570,
+    "title": "Baby bed mattresses",
+    "parent_id": 1567,
+    "parent": "Mattresses"
+  },
+  "1571": {
+    "id": 1571,
+    "title": "Kid bed mattresses",
+    "parent_id": 1567,
+    "parent": "Mattresses"
+  },
+  "1572": {
+    "id": 1572,
+    "title": "Playmats",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1573": {
+    "id": 1573,
+    "title": "Playpens",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1574": {
+    "id": 1574,
+    "title": "Accessories",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1575": {
+    "id": 1575,
+    "title": "Changing pads & tables",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1576": {
+    "id": 1576,
+    "title": "Furniture",
+    "parent_id": 1498,
+    "parent": "Kid & baby furniture"
+  },
+  "1577": {
+    "id": 1577,
+    "title": "Caps & hats",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1578": {
+    "id": 1578,
+    "title": "Gloves",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1579": {
+    "id": 1579,
+    "title": "Chairs",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1580": {
+    "id": 1580,
+    "title": "Scarves & shawls",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1581": {
+    "id": 1581,
+    "title": "Belts",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1582": {
+    "id": 1582,
+    "title": "Hairbands & hairclips",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1584": {
+    "id": 1584,
+    "title": "Wallets & purses",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1585": {
+    "id": 1585,
+    "title": "Tables",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1586": {
+    "id": 1586,
+    "title": "Jewelry",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1587": {
+    "id": 1587,
+    "title": "Carpets",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1588": {
+    "id": 1588,
+    "title": "Wardrobes",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1589": {
+    "id": 1589,
+    "title": "Shelves",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1590": {
+    "id": 1590,
+    "title": "One-piece swimsuits",
+    "parent_id": 1251,
+    "parent": "Swimwear"
+  },
+  "1591": {
+    "id": 1591,
+    "title": "Play furniture",
+    "parent_id": 1576,
+    "parent": "Furniture"
+  },
+  "1592": {
+    "id": 1592,
+    "title": "Bikinis & tankinis",
+    "parent_id": 1251,
+    "parent": "Swimwear"
+  },
+  "1593": {
+    "id": 1593,
+    "title": "Bathrobes",
+    "parent_id": 1251,
+    "parent": "Swimwear"
+  },
+  "1594": {
+    "id": 1594,
+    "title": "Sleepwear & nightwear",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1595": {
+    "id": 1595,
+    "title": "Bicycle seats & trailers",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1596": {
+    "id": 1596,
+    "title": "One-piece pajamas",
+    "parent_id": 1594,
+    "parent": "Sleepwear & nightwear"
+  },
+  "1597": {
+    "id": 1597,
+    "title": "Two-piece pajamas",
+    "parent_id": 1594,
+    "parent": "Sleepwear & nightwear"
+  },
+  "1598": {
+    "id": 1598,
+    "title": "Nightgowns",
+    "parent_id": 1594,
+    "parent": "Sleepwear & nightwear"
+  },
+  "1599": {
+    "id": 1599,
+    "title": "Baby walkers",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1600": {
+    "id": 1600,
+    "title": "Socks",
+    "parent_id": 1252,
+    "parent": "Underwear & socks"
+  },
+  "1601": {
+    "id": 1601,
+    "title": "Pantyhose & leggings",
+    "parent_id": 1252,
+    "parent": "Underwear & socks"
+  },
+  "1602": {
+    "id": 1602,
+    "title": "Underwear",
+    "parent_id": 1252,
+    "parent": "Underwear & socks"
+  },
+  "1603": {
+    "id": 1603,
+    "title": "Push & pull toys",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1604": {
+    "id": 1604,
+    "title": "Clothing for twins",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1605": {
+    "id": 1605,
+    "title": "Scooters",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1606": {
+    "id": 1606,
+    "title": "Costumes",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "1607": {
+    "id": 1607,
+    "title": "Tricycles",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1608": {
+    "id": 1608,
+    "title": "Bicycles",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1609": {
+    "id": 1609,
+    "title": "Outdoor vehicles",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1610": {
+    "id": 1610,
+    "title": "Sleds, skis & snowboards",
+    "parent_id": 1497,
+    "parent": "Ride-on toys"
+  },
+  "1611": {
+    "id": 1611,
+    "title": "Sport strollers",
+    "parent_id": 1496,
+    "parent": "Strollers"
+  },
+  "1612": {
+    "id": 1612,
+    "title": "Universal strollers",
+    "parent_id": 1496,
+    "parent": "Strollers"
+  },
+  "1613": {
+    "id": 1613,
+    "title": "Strollers for twins",
+    "parent_id": 1496,
+    "parent": "Strollers"
+  },
+  "1614": {
+    "id": 1614,
+    "title": "Maternity underwear",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "1615": {
+    "id": 1615,
+    "title": "Maternity panties",
+    "parent_id": 1614,
+    "parent": "Maternity underwear"
+  },
+  "1616": {
+    "id": 1616,
+    "title": "Sleepwear",
+    "parent_id": 1614,
+    "parent": "Maternity underwear"
+  },
+  "1617": {
+    "id": 1617,
+    "title": "Pregnancy & postpartum belts",
+    "parent_id": 1614,
+    "parent": "Maternity underwear"
+  },
+  "1618": {
+    "id": 1618,
+    "title": "Pregnancy & breastfeeding bras",
+    "parent_id": 1614,
+    "parent": "Maternity underwear"
+  },
+  "1620": {
+    "id": 1620,
+    "title": "Sleep accessories",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1621": {
+    "id": 1621,
+    "title": "Nursing & feeding",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1622": {
+    "id": 1622,
+    "title": "Blankets",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1623": {
+    "id": 1623,
+    "title": "Pillows",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1624": {
+    "id": 1624,
+    "title": "Throws",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1625": {
+    "id": 1625,
+    "title": "Sleeping bags",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1626": {
+    "id": 1626,
+    "title": "Bedding",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1627": {
+    "id": 1627,
+    "title": "Heating pads & electric blankets",
+    "parent_id": 1620,
+    "parent": "Sleep accessories"
+  },
+  "1628": {
+    "id": 1628,
+    "title": "Cutlery",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1629": {
+    "id": 1629,
+    "title": "Baby bottles",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1630": {
+    "id": 1630,
+    "title": "Pacifiers & soothers",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1631": {
+    "id": 1631,
+    "title": "Dishes",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1633": {
+    "id": 1633,
+    "title": "Flasks & bottle warmers",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1640": {
+    "id": 1640,
+    "title": "Other nursing & feeding items",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "1642": {
+    "id": 1642,
+    "title": "Rompers",
+    "parent_id": 1196,
+    "parent": "Baby boys' clothing"
+  },
+  "1643": {
+    "id": 1643,
+    "title": "Bodysuits",
+    "parent_id": 1196,
+    "parent": "Baby boys' clothing"
+  },
+  "1644": {
+    "id": 1644,
+    "title": "Overalls",
+    "parent_id": 1196,
+    "parent": "Baby boys' clothing"
+  },
+  "1645": {
+    "id": 1645,
+    "title": "Sets",
+    "parent_id": 1196,
+    "parent": "Baby boys' clothing"
+  },
+  "1646": {
+    "id": 1646,
+    "title": "Vests",
+    "parent_id": 1197,
+    "parent": "Outerwear"
+  },
+  "1647": {
+    "id": 1647,
+    "title": "Coats",
+    "parent_id": 1197,
+    "parent": "Outerwear"
+  },
+  "1649": {
+    "id": 1649,
+    "title": "Jackets",
+    "parent_id": 1197,
+    "parent": "Outerwear"
+  },
+  "1653": {
+    "id": 1653,
+    "title": "Baby shoes",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "1655": {
+    "id": 1655,
+    "title": "Formal & special occasion shoes",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "1657": {
+    "id": 1657,
+    "title": "Boots",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "1660": {
+    "id": 1660,
+    "title": "Sneakers",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "1661": {
+    "id": 1661,
+    "title": "Slippers",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "1662": {
+    "id": 1662,
+    "title": "T-shirts",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1663": {
+    "id": 1663,
+    "title": "Polo shirts",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1664": {
+    "id": 1664,
+    "title": "Shirts",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1665": {
+    "id": 1665,
+    "title": "Short-sleeved tops",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1666": {
+    "id": 1666,
+    "title": "Long-sleeved tops",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1667": {
+    "id": 1667,
+    "title": "Sleeveless tops",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1668": {
+    "id": 1668,
+    "title": "Sweaters",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1669": {
+    "id": 1669,
+    "title": "V-neck sweaters",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1670": {
+    "id": 1670,
+    "title": "Turtleneck sweaters",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1671": {
+    "id": 1671,
+    "title": "Zip-up sweaters",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1672": {
+    "id": 1672,
+    "title": "Hoodies & sweatshirts",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1673": {
+    "id": 1673,
+    "title": "Sweater vests",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1674": {
+    "id": 1674,
+    "title": "Baby carriers & wraps",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1675": {
+    "id": 1675,
+    "title": "Swimming equipment",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1676": {
+    "id": 1676,
+    "title": "Diapers & skincare",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1678": {
+    "id": 1678,
+    "title": "Diapers",
+    "parent_id": 1676,
+    "parent": "Diapers & skincare"
+  },
+  "1679": {
+    "id": 1679,
+    "title": "Baby hygiene",
+    "parent_id": 1676,
+    "parent": "Diapers & skincare"
+  },
+  "1680": {
+    "id": 1680,
+    "title": "Baby changing bags",
+    "parent_id": 1676,
+    "parent": "Diapers & skincare"
+  },
+  "1681": {
+    "id": 1681,
+    "title": "Childcare accessories & tech",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1682": {
+    "id": 1682,
+    "title": "Baby monitors",
+    "parent_id": 1681,
+    "parent": "Childcare accessories & tech"
+  },
+  "1683": {
+    "id": 1683,
+    "title": "Food heaters",
+    "parent_id": 1681,
+    "parent": "Childcare accessories & tech"
+  },
+  "1684": {
+    "id": 1684,
+    "title": "Breast pumps & accessories",
+    "parent_id": 1681,
+    "parent": "Childcare accessories & tech"
+  },
+  "1685": {
+    "id": 1685,
+    "title": "Sterilizers",
+    "parent_id": 1681,
+    "parent": "Childcare accessories & tech"
+  },
+  "1686": {
+    "id": 1686,
+    "title": "Thermometers & scales",
+    "parent_id": 1681,
+    "parent": "Childcare accessories & tech"
+  },
+  "1687": {
+    "id": 1687,
+    "title": "Bouncers & swings",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1688": {
+    "id": 1688,
+    "title": "Bouncers",
+    "parent_id": 1687,
+    "parent": "Bouncers & swings"
+  },
+  "1689": {
+    "id": 1689,
+    "title": "Swings",
+    "parent_id": 1687,
+    "parent": "Bouncers & swings"
+  },
+  "1690": {
+    "id": 1690,
+    "title": "Bibs",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1691": {
+    "id": 1691,
+    "title": "Potties",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1692": {
+    "id": 1692,
+    "title": "Childproofing & safety equipment",
+    "parent_id": 1500,
+    "parent": "Baby care"
+  },
+  "1695": {
+    "id": 1695,
+    "title": "Childproofing gates & guards",
+    "parent_id": 1692,
+    "parent": "Childproofing & safety equipment"
+  },
+  "1696": {
+    "id": 1696,
+    "title": "Jeans",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1697": {
+    "id": 1697,
+    "title": "Skinny pants",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1698": {
+    "id": 1698,
+    "title": "Wide-leg pants",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1700": {
+    "id": 1700,
+    "title": "Car sun shades & screens",
+    "parent_id": 1692,
+    "parent": "Childproofing & safety equipment"
+  },
+  "1701": {
+    "id": 1701,
+    "title": "Leggings",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1702": {
+    "id": 1702,
+    "title": "Jumpsuits & overalls",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1703": {
+    "id": 1703,
+    "title": "Cycling & roller skating safety equipment",
+    "parent_id": 1692,
+    "parent": "Childproofing & safety equipment"
+  },
+  "1714": {
+    "id": 1714,
+    "title": "Accessories",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1725": {
+    "id": 1725,
+    "title": "Electronic games",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1730": {
+    "id": 1730,
+    "title": "Action figures",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1731": {
+    "id": 1731,
+    "title": "Dolls",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1740": {
+    "id": 1740,
+    "title": "Gloves",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1741": {
+    "id": 1741,
+    "title": "Scarves & shawls",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1743": {
+    "id": 1743,
+    "title": "Belts",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1745": {
+    "id": 1745,
+    "title": "Wallets",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1746": {
+    "id": 1746,
+    "title": "Ties & bow ties",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1748": {
+    "id": 1748,
+    "title": "Other accessories",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1749": {
+    "id": 1749,
+    "title": "Caps & hats",
+    "parent_id": 1714,
+    "parent": "Accessories"
+  },
+  "1750": {
+    "id": 1750,
+    "title": "Swimming trunks",
+    "parent_id": 1202,
+    "parent": "Swimwear"
+  },
+  "1751": {
+    "id": 1751,
+    "title": "Bathrobes",
+    "parent_id": 1202,
+    "parent": "Swimwear"
+  },
+  "1752": {
+    "id": 1752,
+    "title": "Sleepwear",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1754": {
+    "id": 1754,
+    "title": "One-piece pajamas",
+    "parent_id": 1752,
+    "parent": "Sleepwear"
+  },
+  "1755": {
+    "id": 1755,
+    "title": "Two-piece pajamas",
+    "parent_id": 1752,
+    "parent": "Sleepwear"
+  },
+  "1757": {
+    "id": 1757,
+    "title": "Socks",
+    "parent_id": 1203,
+    "parent": "Underwear & socks"
+  },
+  "1758": {
+    "id": 1758,
+    "title": "Tights & leggings",
+    "parent_id": 1203,
+    "parent": "Underwear & socks"
+  },
+  "1759": {
+    "id": 1759,
+    "title": "Underwear",
+    "parent_id": 1203,
+    "parent": "Underwear & socks"
+  },
+  "1760": {
+    "id": 1760,
+    "title": "Clothing bundles",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1761": {
+    "id": 1761,
+    "title": "Clothing for twins",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1762": {
+    "id": 1762,
+    "title": "Costumes",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "1763": {
+    "id": 1763,
+    "title": "Educational toys & games",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1764": {
+    "id": 1764,
+    "title": "Soft toys & stuffed animals",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1765": {
+    "id": 1765,
+    "title": "Rattles & chew toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1766": {
+    "id": 1766,
+    "title": "Musical toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1767": {
+    "id": 1767,
+    "title": "Construction toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1768": {
+    "id": 1768,
+    "title": "Wooden toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1769": {
+    "id": 1769,
+    "title": "Hanging mobiles",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1770": {
+    "id": 1770,
+    "title": "Water toys & games",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1771": {
+    "id": 1771,
+    "title": "Outdoor toys & games",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "1772": {
+    "id": 1772,
+    "title": "Other childproofing & safety equipment",
+    "parent_id": 1692,
+    "parent": "Childproofing & safety equipment"
+  },
+  "1773": {
+    "id": 1773,
+    "title": "Capes & ponchos",
+    "parent_id": 1037,
+    "parent": "Outerwear"
+  },
+  "1774": {
+    "id": 1774,
+    "title": "Special-occasion dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1775": {
+    "id": 1775,
+    "title": "Party & cocktail dresses",
+    "parent_id": 1774,
+    "parent": "Special-occasion dresses"
+  },
+  "1776": {
+    "id": 1776,
+    "title": "Wedding dresses",
+    "parent_id": 1774,
+    "parent": "Special-occasion dresses"
+  },
+  "1777": {
+    "id": 1777,
+    "title": "Prom dresses",
+    "parent_id": 1774,
+    "parent": "Special-occasion dresses"
+  },
+  "1778": {
+    "id": 1778,
+    "title": "Evening dresses",
+    "parent_id": 1774,
+    "parent": "Special-occasion dresses"
+  },
+  "1779": {
+    "id": 1779,
+    "title": "Winter dresses",
+    "parent_id": 10,
+    "parent": "Dresses"
+  },
+  "1780": {
+    "id": 1780,
+    "title": "Cover-ups & sarongs",
+    "parent_id": 28,
+    "parent": "Swimwear"
+  },
+  "1781": {
+    "id": 1781,
+    "title": "Shapewear",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "1782": {
+    "id": 1782,
+    "title": "Costumes & special outfits",
+    "parent_id": 4,
+    "parent": "Clothes"
+  },
+  "1784": {
+    "id": 1784,
+    "title": "Satchels",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "1785": {
+    "id": 1785,
+    "title": "Anklets",
+    "parent_id": 21,
+    "parent": "Jewelry"
+  },
+  "1786": {
+    "id": 1786,
+    "title": "Suit jackets & blazers",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1787": {
+    "id": 1787,
+    "title": "Suit pants",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1788": {
+    "id": 1788,
+    "title": "Vests",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1789": {
+    "id": 1789,
+    "title": "Suit sets",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1790": {
+    "id": 1790,
+    "title": "Wedding suits",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1795": {
+    "id": 1795,
+    "title": "Rain boots",
+    "parent_id": 1233,
+    "parent": "Boots"
+  },
+  "1797": {
+    "id": 1797,
+    "title": "Satchels",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "1798": {
+    "id": 1798,
+    "title": "Carryalls, Holdalls",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "1799": {
+    "id": 1799,
+    "title": "Bum bags",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "1800": {
+    "id": 1800,
+    "title": "Cuff links",
+    "parent_id": 95,
+    "parent": "Jewelry"
+  },
+  "1801": {
+    "id": 1801,
+    "title": "Checked shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1802": {
+    "id": 1802,
+    "title": "Jean shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1803": {
+    "id": 1803,
+    "title": "Plain shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1804": {
+    "id": 1804,
+    "title": "Print shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1805": {
+    "id": 1805,
+    "title": "Striped shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1806": {
+    "id": 1806,
+    "title": "Plain T-shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1807": {
+    "id": 1807,
+    "title": "Print T-shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1808": {
+    "id": 1808,
+    "title": "Striped T-shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1809": {
+    "id": 1809,
+    "title": "Polo shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1810": {
+    "id": 1810,
+    "title": "Long-sleeved T-shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1811": {
+    "id": 1811,
+    "title": "Sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1812": {
+    "id": 1812,
+    "title": "Zip-up hoodies",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1813": {
+    "id": 1813,
+    "title": "Crew-neck sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1814": {
+    "id": 1814,
+    "title": "Long sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1815": {
+    "id": 1815,
+    "title": "Thick-knit sweaters",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1816": {
+    "id": 1816,
+    "title": "Ripped jeans",
+    "parent_id": 257,
+    "parent": "Jeans"
+  },
+  "1817": {
+    "id": 1817,
+    "title": "Skinny jeans",
+    "parent_id": 257,
+    "parent": "Jeans"
+  },
+  "1818": {
+    "id": 1818,
+    "title": "Slim fit jeans",
+    "parent_id": 257,
+    "parent": "Jeans"
+  },
+  "1819": {
+    "id": 1819,
+    "title": "Straight fit jeans",
+    "parent_id": 257,
+    "parent": "Jeans"
+  },
+  "1820": {
+    "id": 1820,
+    "title": "Chinos",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "1821": {
+    "id": 1821,
+    "title": "Sweatpants",
+    "parent_id": 34,
+    "parent": "Pants"
+  },
+  "1822": {
+    "id": 1822,
+    "title": "Cargo shorts",
+    "parent_id": 80,
+    "parent": "Shorts"
+  },
+  "1823": {
+    "id": 1823,
+    "title": "Chino shorts",
+    "parent_id": 80,
+    "parent": "Shorts"
+  },
+  "1824": {
+    "id": 1824,
+    "title": "Jean shorts",
+    "parent_id": 80,
+    "parent": "Shorts"
+  },
+  "1825": {
+    "id": 1825,
+    "title": "Sweater vests",
+    "parent_id": 79,
+    "parent": "Jumpers & sweaters"
+  },
+  "1826": {
+    "id": 1826,
+    "title": "Shaving tools",
+    "parent_id": 2055,
+    "parent": "Tools & accessories"
+  },
+  "1827": {
+    "id": 1827,
+    "title": "Grooming tools",
+    "parent_id": 2055,
+    "parent": "Tools & accessories"
+  },
+  "1828": {
+    "id": 1828,
+    "title": "Socks",
+    "parent_id": 85,
+    "parent": "Socks & underwear"
+  },
+  "1829": {
+    "id": 1829,
+    "title": "Pants & boxers",
+    "parent_id": 85,
+    "parent": "Socks & underwear"
+  },
+  "1830": {
+    "id": 1830,
+    "title": "Dressing gowns",
+    "parent_id": 85,
+    "parent": "Socks & underwear"
+  },
+  "1834": {
+    "id": 1834,
+    "title": "Trench coats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "1835": {
+    "id": 1835,
+    "title": "Bodysuits",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1837": {
+    "id": 1837,
+    "title": "Peplum tops",
+    "parent_id": 12,
+    "parent": "Tops & T-shirts"
+  },
+  "1838": {
+    "id": 1838,
+    "title": "Low-waist shorts",
+    "parent_id": 15,
+    "parent": "Shorts & cropped pants"
+  },
+  "1839": {
+    "id": 1839,
+    "title": "Boyfriend jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1840": {
+    "id": 1840,
+    "title": "Cropped jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1841": {
+    "id": 1841,
+    "title": "Flared jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1842": {
+    "id": 1842,
+    "title": "High-waisted jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1843": {
+    "id": 1843,
+    "title": "Ripped jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1844": {
+    "id": 1844,
+    "title": "Skinny jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1845": {
+    "id": 1845,
+    "title": "Straight jeans",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1846": {
+    "id": 1846,
+    "title": "Straight-leg pants",
+    "parent_id": 9,
+    "parent": "Pants & leggings"
+  },
+  "1847": {
+    "id": 1847,
+    "title": "Lingerie accessories",
+    "parent_id": 29,
+    "parent": "Lingerie & nightwear"
+  },
+  "1848": {
+    "id": 1848,
+    "title": "Bum bags",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "1849": {
+    "id": 1849,
+    "title": "Carryalls, Holdalls",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "1850": {
+    "id": 1850,
+    "title": "Luggage & suitcases",
+    "parent_id": 19,
+    "parent": "Bags"
+  },
+  "1851": {
+    "id": 1851,
+    "title": "Umbrellas",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "1852": {
+    "id": 1852,
+    "title": "Keyrings",
+    "parent_id": 1187,
+    "parent": "Accessories"
+  },
+  "1858": {
+    "id": 1858,
+    "title": "Fleece jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "1859": {
+    "id": 1859,
+    "title": "Raincoats",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "1861": {
+    "id": 1861,
+    "title": "Peacoats",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "1862": {
+    "id": 1862,
+    "title": "Luggage",
+    "parent_id": 94,
+    "parent": "Bags & backpacks"
+  },
+  "1863": {
+    "id": 1863,
+    "title": "Grooming kits",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "1864": {
+    "id": 1864,
+    "title": "Other",
+    "parent_id": 183,
+    "parent": "Jeans"
+  },
+  "1865": {
+    "id": 1865,
+    "title": "Other shirts",
+    "parent_id": 536,
+    "parent": "Shirts"
+  },
+  "1866": {
+    "id": 1866,
+    "title": "Other suits & blazers",
+    "parent_id": 32,
+    "parent": "Suits & blazers"
+  },
+  "1867": {
+    "id": 1867,
+    "title": "Other socks & underwear",
+    "parent_id": 85,
+    "parent": "Socks & underwear"
+  },
+  "1868": {
+    "id": 1868,
+    "title": "Other T-shirts",
+    "parent_id": 77,
+    "parent": "T-shirts"
+  },
+  "1870": {
+    "id": 1870,
+    "title": "Other pants, shorts & overalls",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1871": {
+    "id": 1871,
+    "title": "Other underwear & socks",
+    "parent_id": 1203,
+    "parent": "Underwear & socks"
+  },
+  "1872": {
+    "id": 1872,
+    "title": "Other underwear & socks",
+    "parent_id": 1252,
+    "parent": "Underwear & socks"
+  },
+  "1874": {
+    "id": 1874,
+    "title": "Vests",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "1875": {
+    "id": 1875,
+    "title": "Other baby girls' clothing",
+    "parent_id": 1243,
+    "parent": "Baby clothing"
+  },
+  "1877": {
+    "id": 1877,
+    "title": "Other sweaters & hoodies",
+    "parent_id": 1246,
+    "parent": "Sweaters & hoodies"
+  },
+  "1878": {
+    "id": 1878,
+    "title": "Other tops & T-shirts",
+    "parent_id": 1245,
+    "parent": "Tops & T-shirts"
+  },
+  "1880": {
+    "id": 1880,
+    "title": "Other pants, shorts & overalls",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "1881": {
+    "id": 1881,
+    "title": "Other accessories",
+    "parent_id": 1574,
+    "parent": "Accessories"
+  },
+  "1883": {
+    "id": 1883,
+    "title": "Other baby boys' clothing",
+    "parent_id": 1196,
+    "parent": "Baby boys' clothing"
+  },
+  "1886": {
+    "id": 1886,
+    "title": "Other tops & T-shirts",
+    "parent_id": 1198,
+    "parent": "Tops & T-shirts"
+  },
+  "1887": {
+    "id": 1887,
+    "title": "Other sweaters & hoodies",
+    "parent_id": 1199,
+    "parent": "Sweaters & hoodies"
+  },
+  "1902": {
+    "id": 1902,
+    "title": "Hair care",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "1903": {
+    "id": 1903,
+    "title": "Hair-styling tools",
+    "parent_id": 1906,
+    "parent": "Beauty tools"
+  },
+  "1904": {
+    "id": 1904,
+    "title": "Women",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "1906": {
+    "id": 1906,
+    "title": "Beauty tools",
+    "parent_id": 146,
+    "parent": "Beauty"
+  },
+  "1907": {
+    "id": 1907,
+    "title": "Coats",
+    "parent_id": 1037,
+    "parent": "Outerwear"
+  },
+  "1908": {
+    "id": 1908,
+    "title": "Jackets",
+    "parent_id": 1037,
+    "parent": "Outerwear"
+  },
+  "1909": {
+    "id": 1909,
+    "title": "Flat shoes",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "1917": {
+    "id": 1917,
+    "title": "Sweaters",
+    "parent_id": 13,
+    "parent": "Jumpers & sweaters"
+  },
+  "1918": {
+    "id": 1918,
+    "title": "Home",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "1919": {
+    "id": 1919,
+    "title": "Textiles",
+    "parent_id": 1918,
+    "parent": "Home"
+  },
+  "1920": {
+    "id": 1920,
+    "title": "Tableware",
+    "parent_id": 1918,
+    "parent": "Home"
+  },
+  "1924": {
+    "id": 1924,
+    "title": "Bedding",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1925": {
+    "id": 1925,
+    "title": "Blankets",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1926": {
+    "id": 1926,
+    "title": "Curtains & drapes",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1927": {
+    "id": 1927,
+    "title": "Rugs & mats",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1928": {
+    "id": 1928,
+    "title": "Table linen",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1929": {
+    "id": 1929,
+    "title": "Tapestries & wall hangings",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1930": {
+    "id": 1930,
+    "title": "Towels",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "1931": {
+    "id": 1931,
+    "title": "Cutlery",
+    "parent_id": 1920,
+    "parent": "Tableware"
+  },
+  "1932": {
+    "id": 1932,
+    "title": "Dinnerware",
+    "parent_id": 1920,
+    "parent": "Tableware"
+  },
+  "1934": {
+    "id": 1934,
+    "title": "Home accessories",
+    "parent_id": 1918,
+    "parent": "Home"
+  },
+  "1935": {
+    "id": 1935,
+    "title": "Candles & candle holders",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1936": {
+    "id": 1936,
+    "title": "Clocks",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1937": {
+    "id": 1937,
+    "title": "Picture & photo frames",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1938": {
+    "id": 1938,
+    "title": "Mirrors",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1939": {
+    "id": 1939,
+    "title": "Storage",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1940": {
+    "id": 1940,
+    "title": "Vases",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1941": {
+    "id": 1941,
+    "title": "Display shelves",
+    "parent_id": 1934,
+    "parent": "Home accessories"
+  },
+  "1942": {
+    "id": 1942,
+    "title": "Bedding sets",
+    "parent_id": 1924,
+    "parent": "Bedding"
+  },
+  "1943": {
+    "id": 1943,
+    "title": "Comforter covers",
+    "parent_id": 1924,
+    "parent": "Bedding"
+  },
+  "1944": {
+    "id": 1944,
+    "title": "Pillowcases",
+    "parent_id": 1924,
+    "parent": "Bedding"
+  },
+  "1945": {
+    "id": 1945,
+    "title": "Sheets",
+    "parent_id": 1924,
+    "parent": "Bedding"
+  },
+  "1946": {
+    "id": 1946,
+    "title": "Opaque curtains & drapes",
+    "parent_id": 1926,
+    "parent": "Curtains & drapes"
+  },
+  "1947": {
+    "id": 1947,
+    "title": "Bath towels",
+    "parent_id": 1930,
+    "parent": "Towels"
+  },
+  "1948": {
+    "id": 1948,
+    "title": "Beach towels",
+    "parent_id": 1930,
+    "parent": "Towels"
+  },
+  "1949": {
+    "id": 1949,
+    "title": "Hand towels",
+    "parent_id": 1930,
+    "parent": "Towels"
+  },
+  "1950": {
+    "id": 1950,
+    "title": "Cutlery sets",
+    "parent_id": 1931,
+    "parent": "Cutlery"
+  },
+  "1951": {
+    "id": 1951,
+    "title": "Forks",
+    "parent_id": 1931,
+    "parent": "Cutlery"
+  },
+  "1952": {
+    "id": 1952,
+    "title": "Spoons",
+    "parent_id": 1931,
+    "parent": "Cutlery"
+  },
+  "1953": {
+    "id": 1953,
+    "title": "Doormats & floor mats",
+    "parent_id": 1927,
+    "parent": "Rugs & mats"
+  },
+  "1954": {
+    "id": 1954,
+    "title": "Rugs",
+    "parent_id": 1927,
+    "parent": "Rugs & mats"
+  },
+  "1955": {
+    "id": 1955,
+    "title": "Sheer curtains & drapes",
+    "parent_id": 1926,
+    "parent": "Curtains & drapes"
+  },
+  "1956": {
+    "id": 1956,
+    "title": "Candles",
+    "parent_id": 1935,
+    "parent": "Candles & candle holders"
+  },
+  "1957": {
+    "id": 1957,
+    "title": "Candle holders",
+    "parent_id": 1935,
+    "parent": "Candles & candle holders"
+  },
+  "1958": {
+    "id": 1958,
+    "title": "Dinner sets",
+    "parent_id": 1932,
+    "parent": "Dinnerware"
+  },
+  "1959": {
+    "id": 1959,
+    "title": "Bowls",
+    "parent_id": 1932,
+    "parent": "Dinnerware"
+  },
+  "1960": {
+    "id": 1960,
+    "title": "Plates",
+    "parent_id": 1932,
+    "parent": "Dinnerware"
+  },
+  "1961": {
+    "id": 1961,
+    "title": "Trays",
+    "parent_id": 1932,
+    "parent": "Dinnerware"
+  },
+  "1962": {
+    "id": 1962,
+    "title": "Baskets",
+    "parent_id": 1939,
+    "parent": "Storage"
+  },
+  "1963": {
+    "id": 1963,
+    "title": "Boxes",
+    "parent_id": 1939,
+    "parent": "Storage"
+  },
+  "1964": {
+    "id": 1964,
+    "title": "Jewelry organizers",
+    "parent_id": 1939,
+    "parent": "Storage"
+  },
+  "1965": {
+    "id": 1965,
+    "title": "Makeup organizers",
+    "parent_id": 1939,
+    "parent": "Storage"
+  },
+  "1966": {
+    "id": 1966,
+    "title": "Table clocks",
+    "parent_id": 1936,
+    "parent": "Clocks"
+  },
+  "1967": {
+    "id": 1967,
+    "title": "Wall clocks",
+    "parent_id": 1936,
+    "parent": "Clocks"
+  },
+  "1968": {
+    "id": 1968,
+    "title": "Wall mirrors",
+    "parent_id": 1938,
+    "parent": "Mirrors"
+  },
+  "1969": {
+    "id": 1969,
+    "title": "Table mirrors",
+    "parent_id": 1938,
+    "parent": "Mirrors"
+  },
+  "1970": {
+    "id": 1970,
+    "title": "Table knives",
+    "parent_id": 1931,
+    "parent": "Cutlery"
+  },
+  "1974": {
+    "id": 1974,
+    "title": "Throw pillows",
+    "parent_id": 1919,
+    "parent": "Textiles"
+  },
+  "2005": {
+    "id": 2005,
+    "title": "Drinkware",
+    "parent_id": 1920,
+    "parent": "Tableware"
+  },
+  "2006": {
+    "id": 2006,
+    "title": "Cups & mugs",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2007": {
+    "id": 2007,
+    "title": "Coffeepots & teapots",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2008": {
+    "id": 2008,
+    "title": "Jugs",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2009": {
+    "id": 2009,
+    "title": "Stemmed glasses",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2010": {
+    "id": 2010,
+    "title": "Tumblers",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2011": {
+    "id": 2011,
+    "title": "Drinkware sets",
+    "parent_id": 2005,
+    "parent": "Drinkware"
+  },
+  "2012": {
+    "id": 2012,
+    "title": "Clothes bags & hangers",
+    "parent_id": 1939,
+    "parent": "Storage"
+  },
+  "2050": {
+    "id": 2050,
+    "title": "Clothes",
+    "parent_id": 5,
+    "parent": "Men"
+  },
+  "2051": {
+    "id": 2051,
+    "title": "Coats",
+    "parent_id": 1206,
+    "parent": "Outerwear"
+  },
+  "2052": {
+    "id": 2052,
+    "title": "Jackets",
+    "parent_id": 1206,
+    "parent": "Outerwear"
+  },
+  "2055": {
+    "id": 2055,
+    "title": "Tools & accessories",
+    "parent_id": 139,
+    "parent": "Grooming"
+  },
+  "2079": {
+    "id": 2079,
+    "title": "Harem pants",
+    "parent_id": 1249,
+    "parent": "Pants, shorts & overalls"
+  },
+  "2080": {
+    "id": 2080,
+    "title": "Formal wear & special occasion clothing",
+    "parent_id": 1195,
+    "parent": "Girls clothing"
+  },
+  "2082": {
+    "id": 2082,
+    "title": "Harem pants",
+    "parent_id": 1200,
+    "parent": "Pants, shorts & overalls"
+  },
+  "2083": {
+    "id": 2083,
+    "title": "Formal wear & special occasion clothing",
+    "parent_id": 1194,
+    "parent": "Boys clothing"
+  },
+  "2084": {
+    "id": 2084,
+    "title": "Maternity activewear",
+    "parent_id": 1176,
+    "parent": "Maternity clothes"
+  },
+  "2085": {
+    "id": 2085,
+    "title": "Kitchen toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "2086": {
+    "id": 2086,
+    "title": "Sleeping toys",
+    "parent_id": 1499,
+    "parent": "Toys & games"
+  },
+  "2087": {
+    "id": 2087,
+    "title": "Diaper waste containers",
+    "parent_id": 1676,
+    "parent": "Diapers & skincare"
+  },
+  "2088": {
+    "id": 2088,
+    "title": "Feeding pillows",
+    "parent_id": 1621,
+    "parent": "Nursing & feeding"
+  },
+  "2093": {
+    "id": 2093,
+    "title": "Pet care",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "2095": {
+    "id": 2095,
+    "title": "Dogs",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2096": {
+    "id": 2096,
+    "title": "Cats",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2097": {
+    "id": 2097,
+    "title": "Beds",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2098": {
+    "id": 2098,
+    "title": "Bowls & feeders",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2099": {
+    "id": 2099,
+    "title": "Bowls",
+    "parent_id": 2098,
+    "parent": "Bowls & feeders"
+  },
+  "2109": {
+    "id": 2109,
+    "title": "Beds & blankets",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2110": {
+    "id": 2110,
+    "title": "Bowls & feeders",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2111": {
+    "id": 2111,
+    "title": "Carriers & crates",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2112": {
+    "id": 2112,
+    "title": "Clothing & accessories",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2113": {
+    "id": 2113,
+    "title": "Collars & leashes",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2114": {
+    "id": 2114,
+    "title": "Grooming",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2115": {
+    "id": 2115,
+    "title": "Toys",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2117": {
+    "id": 2117,
+    "title": "Bowls",
+    "parent_id": 2110,
+    "parent": "Bowls & feeders"
+  },
+  "2118": {
+    "id": 2118,
+    "title": "Feeders",
+    "parent_id": 2110,
+    "parent": "Bowls & feeders"
+  },
+  "2119": {
+    "id": 2119,
+    "title": "Coats & jackets",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2120": {
+    "id": 2120,
+    "title": "Shoes & boots",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2121": {
+    "id": 2121,
+    "title": "Accessories",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2122": {
+    "id": 2122,
+    "title": "Collars",
+    "parent_id": 2113,
+    "parent": "Collars & leashes"
+  },
+  "2123": {
+    "id": 2123,
+    "title": "Leashes",
+    "parent_id": 2113,
+    "parent": "Collars & leashes"
+  },
+  "2124": {
+    "id": 2124,
+    "title": "Harnesses",
+    "parent_id": 2113,
+    "parent": "Collars & leashes"
+  },
+  "2125": {
+    "id": 2125,
+    "title": "Travel carriers",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2126": {
+    "id": 2126,
+    "title": "Feeders",
+    "parent_id": 2098,
+    "parent": "Bowls & feeders"
+  },
+  "2127": {
+    "id": 2127,
+    "title": "Clothing & accessories",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2128": {
+    "id": 2128,
+    "title": "Clothing",
+    "parent_id": 2127,
+    "parent": "Clothing & accessories"
+  },
+  "2129": {
+    "id": 2129,
+    "title": "Costumes",
+    "parent_id": 2127,
+    "parent": "Clothing & accessories"
+  },
+  "2130": {
+    "id": 2130,
+    "title": "Accessories",
+    "parent_id": 2127,
+    "parent": "Clothing & accessories"
+  },
+  "2131": {
+    "id": 2131,
+    "title": "Collars & leashes",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2133": {
+    "id": 2133,
+    "title": "Collars",
+    "parent_id": 2131,
+    "parent": "Collars & leashes"
+  },
+  "2134": {
+    "id": 2134,
+    "title": "Harnesses & leashes",
+    "parent_id": 2131,
+    "parent": "Collars & leashes"
+  },
+  "2136": {
+    "id": 2136,
+    "title": "Grooming",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2137": {
+    "id": 2137,
+    "title": "Toys",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2138": {
+    "id": 2138,
+    "title": "Small pets",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2140": {
+    "id": 2140,
+    "title": "Habitats & accessories",
+    "parent_id": 2138,
+    "parent": "Small pets"
+  },
+  "2142": {
+    "id": 2142,
+    "title": "Toys",
+    "parent_id": 2138,
+    "parent": "Small pets"
+  },
+  "2309": {
+    "id": 2309,
+    "title": "Entertainment",
+    "parent_id": 0,
+    "parent": "No Parent"
+  },
+  "2310": {
+    "id": 2310,
+    "title": "Music & video",
+    "parent_id": 2309,
+    "parent": "Entertainment"
+  },
+  "2311": {
+    "id": 2311,
+    "title": "Games & puzzles",
+    "parent_id": 2309,
+    "parent": "Entertainment"
+  },
+  "2312": {
+    "id": 2312,
+    "title": "Books",
+    "parent_id": 2309,
+    "parent": "Entertainment"
+  },
+  "2313": {
+    "id": 2313,
+    "title": "Video games & consoles",
+    "parent_id": 2309,
+    "parent": "Entertainment"
+  },
+  "2314": {
+    "id": 2314,
+    "title": "Music",
+    "parent_id": 2310,
+    "parent": "Music & video"
+  },
+  "2315": {
+    "id": 2315,
+    "title": "Video",
+    "parent_id": 2310,
+    "parent": "Music & video"
+  },
+  "2318": {
+    "id": 2318,
+    "title": "Kids & young adults",
+    "parent_id": 2312,
+    "parent": "Books"
+  },
+  "2319": {
+    "id": 2319,
+    "title": "Literature & fiction",
+    "parent_id": 2312,
+    "parent": "Books"
+  },
+  "2320": {
+    "id": 2320,
+    "title": "Non-fiction",
+    "parent_id": 2312,
+    "parent": "Books"
+  },
+  "2321": {
+    "id": 2321,
+    "title": "Board games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2322": {
+    "id": 2322,
+    "title": "Card games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2323": {
+    "id": 2323,
+    "title": "Nintendo 3DS & 2DS",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2324": {
+    "id": 2324,
+    "title": "Nintendo Game Boy",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2328": {
+    "id": 2328,
+    "title": "CDs",
+    "parent_id": 2314,
+    "parent": "Music"
+  },
+  "2329": {
+    "id": 2329,
+    "title": "Cassettes",
+    "parent_id": 2314,
+    "parent": "Music"
+  },
+  "2330": {
+    "id": 2330,
+    "title": "Vinyl",
+    "parent_id": 2314,
+    "parent": "Music"
+  },
+  "2332": {
+    "id": 2332,
+    "title": "Older audio formats",
+    "parent_id": 2314,
+    "parent": "Music"
+  },
+  "2333": {
+    "id": 2333,
+    "title": "DVD",
+    "parent_id": 2315,
+    "parent": "Video"
+  },
+  "2334": {
+    "id": 2334,
+    "title": "VHS",
+    "parent_id": 2315,
+    "parent": "Video"
+  },
+  "2336": {
+    "id": 2336,
+    "title": "Classical literature",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2337": {
+    "id": 2337,
+    "title": "Comics & graphic novels",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2338": {
+    "id": 2338,
+    "title": "Contemporary fiction",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2339": {
+    "id": 2339,
+    "title": "Crime & thrillers",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2340": {
+    "id": 2340,
+    "title": "Humor",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2341": {
+    "id": 2341,
+    "title": "Poetry & drama",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2342": {
+    "id": 2342,
+    "title": "Romance",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2343": {
+    "id": 2343,
+    "title": "Science fiction & fantasy",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2344": {
+    "id": 2344,
+    "title": "Other literature & fiction",
+    "parent_id": 2319,
+    "parent": "Literature & fiction"
+  },
+  "2345": {
+    "id": 2345,
+    "title": "Arts & entertainment",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2346": {
+    "id": 2346,
+    "title": "Biography",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2347": {
+    "id": 2347,
+    "title": "Business & finance",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2348": {
+    "id": 2348,
+    "title": "Computers & tech",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2349": {
+    "id": 2349,
+    "title": "Food & drink",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2350": {
+    "id": 2350,
+    "title": "Health & wellbeing",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2351": {
+    "id": 2351,
+    "title": "History",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2352": {
+    "id": 2352,
+    "title": "Hobbies, crafts & DIY",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2353": {
+    "id": 2353,
+    "title": "Parenting & family",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2354": {
+    "id": 2354,
+    "title": "Politics & society",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2355": {
+    "id": 2355,
+    "title": "Professional & technical",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2356": {
+    "id": 2356,
+    "title": "Reference",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2357": {
+    "id": 2357,
+    "title": "Religion & spirituality",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2358": {
+    "id": 2358,
+    "title": "Science & nature",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2359": {
+    "id": 2359,
+    "title": "Sports",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2360": {
+    "id": 2360,
+    "title": "Study materials & textbooks",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2361": {
+    "id": 2361,
+    "title": "Travel",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2362": {
+    "id": 2362,
+    "title": "Other non-fiction",
+    "parent_id": 2320,
+    "parent": "Non-fiction"
+  },
+  "2363": {
+    "id": 2363,
+    "title": "Young adults",
+    "parent_id": 2318,
+    "parent": "Kids & young adults"
+  },
+  "2364": {
+    "id": 2364,
+    "title": "Kids",
+    "parent_id": 2318,
+    "parent": "Kids & young adults"
+  },
+  "2365": {
+    "id": 2365,
+    "title": "Babies & toddlers",
+    "parent_id": 2318,
+    "parent": "Kids & young adults"
+  },
+  "2366": {
+    "id": 2366,
+    "title": "Older Nintendo",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2367": {
+    "id": 2367,
+    "title": "Sega",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2368": {
+    "id": 2368,
+    "title": "PC games",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2369": {
+    "id": 2369,
+    "title": "Virtual reality",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2370": {
+    "id": 2370,
+    "title": "Retro gaming",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2371": {
+    "id": 2371,
+    "title": "Xbox Series X & S",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2372": {
+    "id": 2372,
+    "title": "Xbox One",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2373": {
+    "id": 2373,
+    "title": "Older Xbox",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2374": {
+    "id": 2374,
+    "title": "PlayStation 5",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2375": {
+    "id": 2375,
+    "title": "PlayStation 4",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2376": {
+    "id": 2376,
+    "title": "Nintendo Switch",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2377": {
+    "id": 2377,
+    "title": "Older PlayStation",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2378": {
+    "id": 2378,
+    "title": "Games",
+    "parent_id": 2371,
+    "parent": "Xbox Series X & S"
+  },
+  "2379": {
+    "id": 2379,
+    "title": "Consoles",
+    "parent_id": 2371,
+    "parent": "Xbox Series X & S"
+  },
+  "2380": {
+    "id": 2380,
+    "title": "Accessories",
+    "parent_id": 2371,
+    "parent": "Xbox Series X & S"
+  },
+  "2381": {
+    "id": 2381,
+    "title": "Games",
+    "parent_id": 2372,
+    "parent": "Xbox One"
+  },
+  "2382": {
+    "id": 2382,
+    "title": "Consoles",
+    "parent_id": 2372,
+    "parent": "Xbox One"
+  },
+  "2383": {
+    "id": 2383,
+    "title": "Accessories",
+    "parent_id": 2372,
+    "parent": "Xbox One"
+  },
+  "2384": {
+    "id": 2384,
+    "title": "Games",
+    "parent_id": 2373,
+    "parent": "Older Xbox"
+  },
+  "2385": {
+    "id": 2385,
+    "title": "Consoles",
+    "parent_id": 2373,
+    "parent": "Older Xbox"
+  },
+  "2386": {
+    "id": 2386,
+    "title": "Accessories",
+    "parent_id": 2373,
+    "parent": "Older Xbox"
+  },
+  "2390": {
+    "id": 2390,
+    "title": "Games",
+    "parent_id": 2374,
+    "parent": "PlayStation 5"
+  },
+  "2391": {
+    "id": 2391,
+    "title": "Consoles",
+    "parent_id": 2374,
+    "parent": "PlayStation 5"
+  },
+  "2392": {
+    "id": 2392,
+    "title": "Accessories",
+    "parent_id": 2374,
+    "parent": "PlayStation 5"
+  },
+  "2399": {
+    "id": 2399,
+    "title": "Games",
+    "parent_id": 2375,
+    "parent": "PlayStation 4"
+  },
+  "2402": {
+    "id": 2402,
+    "title": "Consoles",
+    "parent_id": 2375,
+    "parent": "PlayStation 4"
+  },
+  "2405": {
+    "id": 2405,
+    "title": "Accessories",
+    "parent_id": 2375,
+    "parent": "PlayStation 4"
+  },
+  "2406": {
+    "id": 2406,
+    "title": "Games",
+    "parent_id": 2377,
+    "parent": "Older PlayStation"
+  },
+  "2407": {
+    "id": 2407,
+    "title": "Consoles",
+    "parent_id": 2377,
+    "parent": "Older PlayStation"
+  },
+  "2409": {
+    "id": 2409,
+    "title": "Accessories",
+    "parent_id": 2377,
+    "parent": "Older PlayStation"
+  },
+  "2412": {
+    "id": 2412,
+    "title": "Games",
+    "parent_id": 2376,
+    "parent": "Nintendo Switch"
+  },
+  "2420": {
+    "id": 2420,
+    "title": "Consoles",
+    "parent_id": 2376,
+    "parent": "Nintendo Switch"
+  },
+  "2421": {
+    "id": 2421,
+    "title": "Accessories",
+    "parent_id": 2376,
+    "parent": "Nintendo Switch"
+  },
+  "2422": {
+    "id": 2422,
+    "title": "Nintendo Wii & Wii U",
+    "parent_id": 2313,
+    "parent": "Video games & consoles"
+  },
+  "2431": {
+    "id": 2431,
+    "title": "Games",
+    "parent_id": 2422,
+    "parent": "Nintendo Wii & Wii U"
+  },
+  "2447": {
+    "id": 2447,
+    "title": "Consoles",
+    "parent_id": 2422,
+    "parent": "Nintendo Wii & Wii U"
+  },
+  "2448": {
+    "id": 2448,
+    "title": "Accessories",
+    "parent_id": 2422,
+    "parent": "Nintendo Wii & Wii U"
+  },
+  "2449": {
+    "id": 2449,
+    "title": "Games",
+    "parent_id": 2323,
+    "parent": "Nintendo 3DS & 2DS"
+  },
+  "2450": {
+    "id": 2450,
+    "title": "Consoles",
+    "parent_id": 2323,
+    "parent": "Nintendo 3DS & 2DS"
+  },
+  "2451": {
+    "id": 2451,
+    "title": "Accessories",
+    "parent_id": 2323,
+    "parent": "Nintendo 3DS & 2DS"
+  },
+  "2452": {
+    "id": 2452,
+    "title": "Games",
+    "parent_id": 2324,
+    "parent": "Nintendo Game Boy"
+  },
+  "2453": {
+    "id": 2453,
+    "title": "Consoles",
+    "parent_id": 2324,
+    "parent": "Nintendo Game Boy"
+  },
+  "2454": {
+    "id": 2454,
+    "title": "Accessories",
+    "parent_id": 2324,
+    "parent": "Nintendo Game Boy"
+  },
+  "2455": {
+    "id": 2455,
+    "title": "Games",
+    "parent_id": 2366,
+    "parent": "Older Nintendo"
+  },
+  "2456": {
+    "id": 2456,
+    "title": "Consoles",
+    "parent_id": 2366,
+    "parent": "Older Nintendo"
+  },
+  "2458": {
+    "id": 2458,
+    "title": "Accessories",
+    "parent_id": 2366,
+    "parent": "Older Nintendo"
+  },
+  "2459": {
+    "id": 2459,
+    "title": "Steam",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2460": {
+    "id": 2460,
+    "title": "Intellivision",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2461": {
+    "id": 2461,
+    "title": "Atari",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2462": {
+    "id": 2462,
+    "title": "ColecoVision",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2463": {
+    "id": 2463,
+    "title": "Commodore",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2464": {
+    "id": 2464,
+    "title": "3DO",
+    "parent_id": 2370,
+    "parent": "Retro gaming"
+  },
+  "2465": {
+    "id": 2465,
+    "title": "Games",
+    "parent_id": 2369,
+    "parent": "Virtual reality"
+  },
+  "2466": {
+    "id": 2466,
+    "title": "Consoles",
+    "parent_id": 2369,
+    "parent": "Virtual reality"
+  },
+  "2469": {
+    "id": 2469,
+    "title": "Accessories",
+    "parent_id": 2369,
+    "parent": "Virtual reality"
+  },
+  "2474": {
+    "id": 2474,
+    "title": "Games",
+    "parent_id": 2367,
+    "parent": "Sega"
+  },
+  "2475": {
+    "id": 2475,
+    "title": "Consoles",
+    "parent_id": 2367,
+    "parent": "Sega"
+  },
+  "2476": {
+    "id": 2476,
+    "title": "Accessories",
+    "parent_id": 2367,
+    "parent": "Sega"
+  },
+  "2477": {
+    "id": 2477,
+    "title": "Tile-based games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2478": {
+    "id": 2478,
+    "title": "Jigsaw puzzles",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2479": {
+    "id": 2479,
+    "title": "Brain teasers & puzzles",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2480": {
+    "id": 2480,
+    "title": "Travel & pocket games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2481": {
+    "id": 2481,
+    "title": "Tabletop & miniature gaming",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2482": {
+    "id": 2482,
+    "title": "Stacking & balancing games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2483": {
+    "id": 2483,
+    "title": "Floor games",
+    "parent_id": 2311,
+    "parent": "Games & puzzles"
+  },
+  "2484": {
+    "id": 2484,
+    "title": "Sweaters",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2485": {
+    "id": 2485,
+    "title": "Fish",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2486": {
+    "id": 2486,
+    "title": "Birds",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2487": {
+    "id": 2487,
+    "title": "Reptiles",
+    "parent_id": 2093,
+    "parent": "Pet care"
+  },
+  "2488": {
+    "id": 2488,
+    "title": "Training accessories",
+    "parent_id": 2095,
+    "parent": "Dogs"
+  },
+  "2489": {
+    "id": 2489,
+    "title": "Litter boxes",
+    "parent_id": 2096,
+    "parent": "Cats"
+  },
+  "2490": {
+    "id": 2490,
+    "title": "Decoration & accessories",
+    "parent_id": 2485,
+    "parent": "Fish"
+  },
+  "2491": {
+    "id": 2491,
+    "title": "Aquarium equipment",
+    "parent_id": 2485,
+    "parent": "Fish"
+  },
+  "2492": {
+    "id": 2492,
+    "title": "Toys",
+    "parent_id": 2486,
+    "parent": "Birds"
+  },
+  "2493": {
+    "id": 2493,
+    "title": "Cages & accessories",
+    "parent_id": 2486,
+    "parent": "Birds"
+  },
+  "2494": {
+    "id": 2494,
+    "title": "Decoration & accessories",
+    "parent_id": 2487,
+    "parent": "Reptiles"
+  },
+  "2495": {
+    "id": 2495,
+    "title": "Terrarium equipment",
+    "parent_id": 2487,
+    "parent": "Reptiles"
+  },
+  "2496": {
+    "id": 2496,
+    "title": "Brushes & combs",
+    "parent_id": 2136,
+    "parent": "Grooming"
+  },
+  "2497": {
+    "id": 2497,
+    "title": "Claw care",
+    "parent_id": 2136,
+    "parent": "Grooming"
+  },
+  "2498": {
+    "id": 2498,
+    "title": "Hard carriers",
+    "parent_id": 2125,
+    "parent": "Travel carriers"
+  },
+  "2499": {
+    "id": 2499,
+    "title": "Soft carriers & backpacks",
+    "parent_id": 2125,
+    "parent": "Travel carriers"
+  },
+  "2500": {
+    "id": 2500,
+    "title": "Teasers & wands",
+    "parent_id": 2137,
+    "parent": "Toys"
+  },
+  "2501": {
+    "id": 2501,
+    "title": "Balls",
+    "parent_id": 2137,
+    "parent": "Toys"
+  },
+  "2502": {
+    "id": 2502,
+    "title": "Soft toys",
+    "parent_id": 2137,
+    "parent": "Toys"
+  },
+  "2503": {
+    "id": 2503,
+    "title": "Scratchers",
+    "parent_id": 2137,
+    "parent": "Toys"
+  },
+  "2504": {
+    "id": 2504,
+    "title": "Interactive toys",
+    "parent_id": 2137,
+    "parent": "Toys"
+  },
+  "2505": {
+    "id": 2505,
+    "title": "Claw care",
+    "parent_id": 2114,
+    "parent": "Grooming"
+  },
+  "2506": {
+    "id": 2506,
+    "title": "Brushes & combs",
+    "parent_id": 2114,
+    "parent": "Grooming"
+  },
+  "2507": {
+    "id": 2507,
+    "title": "Crates",
+    "parent_id": 2111,
+    "parent": "Carriers & crates"
+  },
+  "2508": {
+    "id": 2508,
+    "title": "Travel carriers",
+    "parent_id": 2111,
+    "parent": "Carriers & crates"
+  },
+  "2509": {
+    "id": 2509,
+    "title": "Bags",
+    "parent_id": 2488,
+    "parent": "Training accessories"
+  },
+  "2510": {
+    "id": 2510,
+    "title": "Whistles",
+    "parent_id": 2488,
+    "parent": "Training accessories"
+  },
+  "2511": {
+    "id": 2511,
+    "title": "Blankets",
+    "parent_id": 2109,
+    "parent": "Beds & blankets"
+  },
+  "2512": {
+    "id": 2512,
+    "title": "Beds",
+    "parent_id": 2109,
+    "parent": "Beds & blankets"
+  },
+  "2513": {
+    "id": 2513,
+    "title": "Tough & durable toys",
+    "parent_id": 2115,
+    "parent": "Toys"
+  },
+  "2514": {
+    "id": 2514,
+    "title": "Soft toys",
+    "parent_id": 2115,
+    "parent": "Toys"
+  },
+  "2515": {
+    "id": 2515,
+    "title": "Balls & fetch toys",
+    "parent_id": 2115,
+    "parent": "Toys"
+  },
+  "2516": {
+    "id": 2516,
+    "title": "Muzzles",
+    "parent_id": 2113,
+    "parent": "Collars & leashes"
+  },
+  "2517": {
+    "id": 2517,
+    "title": "T-shirts",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2518": {
+    "id": 2518,
+    "title": "Costumes",
+    "parent_id": 2112,
+    "parent": "Clothing & accessories"
+  },
+  "2521": {
+    "id": 2521,
+    "title": "Blu-ray",
+    "parent_id": 2315,
+    "parent": "Video"
+  },
+  "2524": {
+    "id": 2524,
+    "title": "Vests",
+    "parent_id": 1037,
+    "parent": "Outerwear"
+  },
+  "2525": {
+    "id": 2525,
+    "title": "Duffle coats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "2526": {
+    "id": 2526,
+    "title": "Overcoats & long coats",
+    "parent_id": 1907,
+    "parent": "Coats"
+  },
+  "2527": {
+    "id": 2527,
+    "title": "Biker & racer jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2528": {
+    "id": 2528,
+    "title": "Field & utility jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2529": {
+    "id": 2529,
+    "title": "Shackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2530": {
+    "id": 2530,
+    "title": "Ski & snowboard jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2531": {
+    "id": 2531,
+    "title": "Varsity jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2532": {
+    "id": 2532,
+    "title": "Windbreakers",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2533": {
+    "id": 2533,
+    "title": "Overcoats & long coats",
+    "parent_id": 2051,
+    "parent": "Coats"
+  },
+  "2534": {
+    "id": 2534,
+    "title": "Biker & racer jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2535": {
+    "id": 2535,
+    "title": "Field & utility jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2536": {
+    "id": 2536,
+    "title": "Puffer jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2537": {
+    "id": 2537,
+    "title": "Quilted jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2538": {
+    "id": 2538,
+    "title": "Shackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2539": {
+    "id": 2539,
+    "title": "Ski & snowboard jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2540": {
+    "id": 2540,
+    "title": "Duffle coats",
+    "parent_id": 1519,
+    "parent": "Coats"
+  },
+  "2541": {
+    "id": 2541,
+    "title": "Parkas",
+    "parent_id": 1519,
+    "parent": "Coats"
+  },
+  "2542": {
+    "id": 2542,
+    "title": "Peacoats",
+    "parent_id": 1519,
+    "parent": "Coats"
+  },
+  "2543": {
+    "id": 2543,
+    "title": "Trench coats",
+    "parent_id": 1519,
+    "parent": "Coats"
+  },
+  "2544": {
+    "id": 2544,
+    "title": "Blazers",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2545": {
+    "id": 2545,
+    "title": "Bomber jackets",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2546": {
+    "id": 2546,
+    "title": "Denim jackets",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2547": {
+    "id": 2547,
+    "title": "Fleece jackets",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2548": {
+    "id": 2548,
+    "title": "Puffer jackets",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2549": {
+    "id": 2549,
+    "title": "Windbreakers",
+    "parent_id": 1521,
+    "parent": "Jackets"
+  },
+  "2550": {
+    "id": 2550,
+    "title": "Varsity jackets",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2551": {
+    "id": 2551,
+    "title": "Windbreakers",
+    "parent_id": 2052,
+    "parent": "Jackets"
+  },
+  "2552": {
+    "id": 2552,
+    "title": "Ponchos",
+    "parent_id": 1206,
+    "parent": "Outerwear"
+  },
+  "2553": {
+    "id": 2553,
+    "title": "Vests",
+    "parent_id": 1206,
+    "parent": "Outerwear"
+  },
+  "2554": {
+    "id": 2554,
+    "title": "Rain gear",
+    "parent_id": 1244,
+    "parent": "Outerwear"
+  },
+  "2555": {
+    "id": 2555,
+    "title": "Rain pants",
+    "parent_id": 2554,
+    "parent": "Rain gear"
+  },
+  "2556": {
+    "id": 2556,
+    "title": "Ponchos",
+    "parent_id": 2554,
+    "parent": "Rain gear"
+  },
+  "2557": {
+    "id": 2557,
+    "title": "Rain suits & sets",
+    "parent_id": 2554,
+    "parent": "Rain gear"
+  },
+  "2558": {
+    "id": 2558,
+    "title": "Raincoats",
+    "parent_id": 2554,
+    "parent": "Rain gear"
+  },
+  "2559": {
+    "id": 2559,
+    "title": "Snow gear",
+    "parent_id": 1244,
+    "parent": "Outerwear"
+  },
+  "2560": {
+    "id": 2560,
+    "title": "Snow jackets & coats",
+    "parent_id": 2559,
+    "parent": "Snow gear"
+  },
+  "2561": {
+    "id": 2561,
+    "title": "Duffle coats",
+    "parent_id": 1647,
+    "parent": "Coats"
+  },
+  "2562": {
+    "id": 2562,
+    "title": "Parkas",
+    "parent_id": 1647,
+    "parent": "Coats"
+  },
+  "2563": {
+    "id": 2563,
+    "title": "Peacoats",
+    "parent_id": 1647,
+    "parent": "Coats"
+  },
+  "2564": {
+    "id": 2564,
+    "title": "Trench coats",
+    "parent_id": 1647,
+    "parent": "Coats"
+  },
+  "2565": {
+    "id": 2565,
+    "title": "Snow suits & sets",
+    "parent_id": 2559,
+    "parent": "Snow gear"
+  },
+  "2571": {
+    "id": 2571,
+    "title": "Blazers",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2573": {
+    "id": 2573,
+    "title": "Bomber jackets",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2574": {
+    "id": 2574,
+    "title": "Denim jackets",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2575": {
+    "id": 2575,
+    "title": "Fleece jackets",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2576": {
+    "id": 2576,
+    "title": "Puffer jackets",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2577": {
+    "id": 2577,
+    "title": "Windbreakers",
+    "parent_id": 1649,
+    "parent": "Jackets"
+  },
+  "2582": {
+    "id": 2582,
+    "title": "Snow pants",
+    "parent_id": 2559,
+    "parent": "Snow gear"
+  },
+  "2583": {
+    "id": 2583,
+    "title": "Rain gear",
+    "parent_id": 1197,
+    "parent": "Outerwear"
+  },
+  "2590": {
+    "id": 2590,
+    "title": "Snow gear",
+    "parent_id": 1197,
+    "parent": "Outerwear"
+  },
+  "2596": {
+    "id": 2596,
+    "title": "Quilted jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2602": {
+    "id": 2602,
+    "title": "Rain pants",
+    "parent_id": 2583,
+    "parent": "Rain gear"
+  },
+  "2604": {
+    "id": 2604,
+    "title": "Ponchos",
+    "parent_id": 2583,
+    "parent": "Rain gear"
+  },
+  "2606": {
+    "id": 2606,
+    "title": "Raincoats",
+    "parent_id": 2583,
+    "parent": "Rain gear"
+  },
+  "2609": {
+    "id": 2609,
+    "title": "Rain suits & sets",
+    "parent_id": 2583,
+    "parent": "Rain gear"
+  },
+  "2610": {
+    "id": 2610,
+    "title": "Snow jackets & coats",
+    "parent_id": 2590,
+    "parent": "Snow gear"
+  },
+  "2612": {
+    "id": 2612,
+    "title": "Snow pants",
+    "parent_id": 2590,
+    "parent": "Snow gear"
+  },
+  "2613": {
+    "id": 2613,
+    "title": "Snow suits & sets",
+    "parent_id": 2590,
+    "parent": "Snow gear"
+  },
+  "2614": {
+    "id": 2614,
+    "title": "Puffer jackets",
+    "parent_id": 1908,
+    "parent": "Jackets"
+  },
+  "2618": {
+    "id": 2618,
+    "title": "Ankle boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "2619": {
+    "id": 2619,
+    "title": "Mid-calf boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "2620": {
+    "id": 2620,
+    "title": "Over-the-knee boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "2621": {
+    "id": 2621,
+    "title": "Snow boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "2622": {
+    "id": 2622,
+    "title": "Work boots",
+    "parent_id": 1049,
+    "parent": "Boots"
+  },
+  "2623": {
+    "id": 2623,
+    "title": "Clogs & mules",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "2624": {
+    "id": 2624,
+    "title": "Flip-flops, flat sandals & slides",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "2630": {
+    "id": 2630,
+    "title": "Sport shoes",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "2632": {
+    "id": 2632,
+    "title": "Sneakers",
+    "parent_id": 16,
+    "parent": "Shoes"
+  },
+  "2633": {
+    "id": 2633,
+    "title": "Boat shoes, loafers & moccasins",
+    "parent_id": 1909,
+    "parent": "Flat shoes"
+  },
+  "2634": {
+    "id": 2634,
+    "title": "Espadrilles",
+    "parent_id": 1909,
+    "parent": "Flat shoes"
+  },
+  "2635": {
+    "id": 2635,
+    "title": "Lace-up shoes",
+    "parent_id": 1909,
+    "parent": "Flat shoes"
+  },
+  "2636": {
+    "id": 2636,
+    "title": "Flip-flops",
+    "parent_id": 2624,
+    "parent": "Flip-flops, flat sandals & slides"
+  },
+  "2637": {
+    "id": 2637,
+    "title": "Flat sandals",
+    "parent_id": 2624,
+    "parent": "Flip-flops, flat sandals & slides"
+  },
+  "2638": {
+    "id": 2638,
+    "title": "Slides",
+    "parent_id": 2624,
+    "parent": "Flip-flops, flat sandals & slides"
+  },
+  "2639": {
+    "id": 2639,
+    "title": "Basketball shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2640": {
+    "id": 2640,
+    "title": "Climbing & bouldering shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2641": {
+    "id": 2641,
+    "title": "Cycling shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2642": {
+    "id": 2642,
+    "title": "Dance shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2643": {
+    "id": 2643,
+    "title": "Soccer cleats",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2644": {
+    "id": 2644,
+    "title": "Golf shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2645": {
+    "id": 2645,
+    "title": "Hiking boots & shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2646": {
+    "id": 2646,
+    "title": "Skates",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2647": {
+    "id": 2647,
+    "title": "Indoor soccer shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2648": {
+    "id": 2648,
+    "title": "Indoor training shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2649": {
+    "id": 2649,
+    "title": "Motorcycle boots",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2650": {
+    "id": 2650,
+    "title": "Roller skates & inline skates",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2651": {
+    "id": 2651,
+    "title": "Running shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2652": {
+    "id": 2652,
+    "title": "Ski boots",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2653": {
+    "id": 2653,
+    "title": "Snowboard boots",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2654": {
+    "id": 2654,
+    "title": "Swimming & water shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2655": {
+    "id": 2655,
+    "title": "Tennis shoes",
+    "parent_id": 2630,
+    "parent": "Sport shoes"
+  },
+  "2656": {
+    "id": 2656,
+    "title": "Boat shoes, loafers & moccasins",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "2657": {
+    "id": 2657,
+    "title": "Espadrilles",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "2658": {
+    "id": 2658,
+    "title": "Flip-flops, sandals & slides",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "2659": {
+    "id": 2659,
+    "title": "Slippers",
+    "parent_id": 1231,
+    "parent": "Shoes"
+  },
+  "2661": {
+    "id": 2661,
+    "title": "Chelsea & slip-on boots",
+    "parent_id": 1233,
+    "parent": "Boots"
+  },
+  "2662": {
+    "id": 2662,
+    "title": "Desert & lace-up boots",
+    "parent_id": 1233,
+    "parent": "Boots"
+  },
+  "2663": {
+    "id": 2663,
+    "title": "Snow boots",
+    "parent_id": 1233,
+    "parent": "Boots"
+  },
+  "2664": {
+    "id": 2664,
+    "title": "Work boots",
+    "parent_id": 1233,
+    "parent": "Boots"
+  },
+  "2665": {
+    "id": 2665,
+    "title": "Clogs & mules",
+    "parent_id": 2658,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2666": {
+    "id": 2666,
+    "title": "Flip-flops",
+    "parent_id": 2658,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2667": {
+    "id": 2667,
+    "title": "Sandals",
+    "parent_id": 2658,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2668": {
+    "id": 2668,
+    "title": "Slides",
+    "parent_id": 2658,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2669": {
+    "id": 2669,
+    "title": "Lace-up shoes",
+    "parent_id": 1238,
+    "parent": "Formal shoes"
+  },
+  "2670": {
+    "id": 2670,
+    "title": "Slip-on shoes",
+    "parent_id": 1238,
+    "parent": "Formal shoes"
+  },
+  "2671": {
+    "id": 2671,
+    "title": "Monk strap shoes",
+    "parent_id": 1238,
+    "parent": "Formal shoes"
+  },
+  "2672": {
+    "id": 2672,
+    "title": "Basketball shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2673": {
+    "id": 2673,
+    "title": "Climbing & bouldering shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2674": {
+    "id": 2674,
+    "title": "Cycling shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2675": {
+    "id": 2675,
+    "title": "Dance shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2676": {
+    "id": 2676,
+    "title": "Soccer cleats",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2677": {
+    "id": 2677,
+    "title": "Golf shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2678": {
+    "id": 2678,
+    "title": "Hiking boots & shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2679": {
+    "id": 2679,
+    "title": "Skates",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2680": {
+    "id": 2680,
+    "title": "Indoor soccer shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2681": {
+    "id": 2681,
+    "title": "Motorcycle boots",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2682": {
+    "id": 2682,
+    "title": "Roller skates & inline skates",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2683": {
+    "id": 2683,
+    "title": "Ski boots",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2684": {
+    "id": 2684,
+    "title": "Snowboard boots",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2685": {
+    "id": 2685,
+    "title": "Swimming & water shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2686": {
+    "id": 2686,
+    "title": "Tennis shoes",
+    "parent_id": 1452,
+    "parent": "Sport shoes"
+  },
+  "2687": {
+    "id": 2687,
+    "title": "Pumps",
+    "parent_id": 543,
+    "parent": "Heels"
+  },
+  "2688": {
+    "id": 2688,
+    "title": "High-heeled sandals",
+    "parent_id": 543,
+    "parent": "Heels"
+  },
+  "2689": {
+    "id": 2689,
+    "title": "Mary Janes",
+    "parent_id": 1909,
+    "parent": "Flat shoes"
+  },
+  "2690": {
+    "id": 2690,
+    "title": "Clogs & mules",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "2691": {
+    "id": 2691,
+    "title": "Flip-flops, sandals & slides",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "2692": {
+    "id": 2692,
+    "title": "Heels",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "2693": {
+    "id": 2693,
+    "title": "Sport shoes",
+    "parent_id": 1255,
+    "parent": "Shoes"
+  },
+  "2695": {
+    "id": 2695,
+    "title": "Ankle boots",
+    "parent_id": 1530,
+    "parent": "Boots"
+  },
+  "2696": {
+    "id": 2696,
+    "title": "Mid-calf boots",
+    "parent_id": 1530,
+    "parent": "Boots"
+  },
+  "2697": {
+    "id": 2697,
+    "title": "Snow boots",
+    "parent_id": 1530,
+    "parent": "Boots"
+  },
+  "2698": {
+    "id": 2698,
+    "title": "Rain boots",
+    "parent_id": 1530,
+    "parent": "Boots"
+  },
+  "2701": {
+    "id": 2701,
+    "title": "Espadrilles",
+    "parent_id": 1526,
+    "parent": "Flat shoes"
+  },
+  "2702": {
+    "id": 2702,
+    "title": "Lace-up shoes",
+    "parent_id": 1526,
+    "parent": "Flat shoes"
+  },
+  "2704": {
+    "id": 2704,
+    "title": "Flip-flops",
+    "parent_id": 2691,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2705": {
+    "id": 2705,
+    "title": "Sandals",
+    "parent_id": 2691,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2707": {
+    "id": 2707,
+    "title": "Slides",
+    "parent_id": 2691,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2708": {
+    "id": 2708,
+    "title": "Basketball shoes",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2709": {
+    "id": 2709,
+    "title": "Dance shoes",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2710": {
+    "id": 2710,
+    "title": "Soccer cleats",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2711": {
+    "id": 2711,
+    "title": "Hiking boots & shoes",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2712": {
+    "id": 2712,
+    "title": "Skates",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2713": {
+    "id": 2713,
+    "title": "Roller skates & inline skates",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2714": {
+    "id": 2714,
+    "title": "Running shoes",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2715": {
+    "id": 2715,
+    "title": "Ski boots",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2716": {
+    "id": 2716,
+    "title": "Snowboard boots",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2717": {
+    "id": 2717,
+    "title": "Swimming & water shoes",
+    "parent_id": 2693,
+    "parent": "Sport shoes"
+  },
+  "2718": {
+    "id": 2718,
+    "title": "Hook-and-loop sneakers",
+    "parent_id": 1533,
+    "parent": "Sneakers"
+  },
+  "2719": {
+    "id": 2719,
+    "title": "Lace-up sneakers",
+    "parent_id": 1533,
+    "parent": "Sneakers"
+  },
+  "2720": {
+    "id": 2720,
+    "title": "Slip-on sneakers",
+    "parent_id": 1533,
+    "parent": "Sneakers"
+  },
+  "2721": {
+    "id": 2721,
+    "title": "Boat shoes, loafers & moccasins",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "2722": {
+    "id": 2722,
+    "title": "Espadrilles",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "2723": {
+    "id": 2723,
+    "title": "Flip-flops, sandals & slides",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "2724": {
+    "id": 2724,
+    "title": "Sport shoes",
+    "parent_id": 1256,
+    "parent": "Shoes"
+  },
+  "2726": {
+    "id": 2726,
+    "title": "Ankle boots",
+    "parent_id": 1657,
+    "parent": "Boots"
+  },
+  "2727": {
+    "id": 2727,
+    "title": "Mid-calf boots",
+    "parent_id": 1657,
+    "parent": "Boots"
+  },
+  "2728": {
+    "id": 2728,
+    "title": "Snow boots",
+    "parent_id": 1657,
+    "parent": "Boots"
+  },
+  "2729": {
+    "id": 2729,
+    "title": "Rain boots",
+    "parent_id": 1657,
+    "parent": "Boots"
+  },
+  "2730": {
+    "id": 2730,
+    "title": "Clogs & mules",
+    "parent_id": 2723,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2732": {
+    "id": 2732,
+    "title": "Flip-flops",
+    "parent_id": 2723,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2733": {
+    "id": 2733,
+    "title": "Sandals",
+    "parent_id": 2723,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2734": {
+    "id": 2734,
+    "title": "Slides",
+    "parent_id": 2723,
+    "parent": "Flip-flops, sandals & slides"
+  },
+  "2735": {
+    "id": 2735,
+    "title": "Basketball shoes",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2737": {
+    "id": 2737,
+    "title": "Dance shoes",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2738": {
+    "id": 2738,
+    "title": "Soccer cleats",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2742": {
+    "id": 2742,
+    "title": "Hiking boots & shoes",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2743": {
+    "id": 2743,
+    "title": "Skates",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2744": {
+    "id": 2744,
+    "title": "Roller skates & inline skates",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2745": {
+    "id": 2745,
+    "title": "Running shoes",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2746": {
+    "id": 2746,
+    "title": "Ski boots",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2748": {
+    "id": 2748,
+    "title": "Snowboard boots",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2749": {
+    "id": 2749,
+    "title": "Swimming & water shoes",
+    "parent_id": 2724,
+    "parent": "Sport shoes"
+  },
+  "2750": {
+    "id": 2750,
+    "title": "Hook-and-loop sneakers",
+    "parent_id": 1660,
+    "parent": "Sneakers"
+  },
+  "2751": {
+    "id": 2751,
+    "title": "Lace-up sneakers",
+    "parent_id": 1660,
+    "parent": "Sneakers"
+  },
+  "2752": {
+    "id": 2752,
+    "title": "Slip-on sneakers",
+    "parent_id": 1660,
+    "parent": "Sneakers"
+  },
+  "2753": {
+    "id": 2753,
+    "title": "Ballerinas, Mary Janes & T-Bar shoes",
+    "parent_id": 1526,
+    "parent": "Flat shoes"
+  }
+}
