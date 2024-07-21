@@ -1,7 +1,9 @@
 const express = require('express');
+const { setTimer, clearTimer } = require('../timerManager');
 const { updateCacheForUser } = require('../cron/updateCache');
+const { setUserInterval } = require('../userFilters');
 
-module.exports = (timers) => {
+module.exports = () => {
     const router = express.Router();
 
     router.post('/', (req, res) => {
@@ -16,15 +18,13 @@ module.exports = (timers) => {
             return res.status(400).json({ message: 'Device token is required to set interval' });
         }
 
-        // Очищення існуючого інтервалу, якщо такий є
-        if (timers[req.sessionID]) {
-            clearInterval(timers[req.sessionID]);
-        }
+        const sessionId = req.sessionID;
 
-        req.session.interval = interval;
-        timers[req.sessionID] = setInterval(() => {
-            updateCacheForUser(req);
-        }, interval * 1000);
+        // Очищення існуючого інтервалу, якщо такий є
+        clearTimer(sessionId);
+
+        setUserInterval(sessionId, interval);
+        setTimer(sessionId, interval, updateCacheForUser);
         console.log('Updated interval:', interval);
 
         res.status(200).json({ interval });

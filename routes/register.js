@@ -18,11 +18,11 @@ module.exports = (timers) => {
         // Налаштування фільтрів
         try {
             const filters = {
-                brand: 73306, // id бренду Stone Island
-                size: 'XXL',
+                brand: 'Stone Island', // id бренду Stone Island
+                size: 'L',
                 minPrice: 0,
                 maxPrice: 1000,
-                category: 'Men' // id категорії Clothes
+                category: 'Men'// id категорії Clothes
             };
             const filterResponse = await axios.post('http://localhost:3000/filters', filters);
             console.log('Filters set successfully:', filterResponse.data);
@@ -33,7 +33,7 @@ module.exports = (timers) => {
 
         // Налаштування інтервалу для сесії тільки якщо є deviceToken
         if (!req.session.intervalSet) {
-            const interval = req.session.interval || 60; // Інтервал за замовчуванням 60 секунд
+            const interval = 10; // Інтервал 10 секунд для тестування
             if (timers[req.sessionID]) {
                 clearInterval(timers[req.sessionID]);
             }

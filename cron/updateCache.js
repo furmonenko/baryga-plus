@@ -1,48 +1,48 @@
 const { fetchDataFromOctapi } = require('../services/fetchData');
 const { getDeletedItems, loadHistory, saveHistory } = require('../utils/fileOperations');
-const { sendNotification } = require('../services/notifications');
-const { getFilters } = require('../routes/filters');
+const { sendTelegramMessage } = require('../utils/telegram');
+const { getUserFilters } = require('../userFilters');
 
-async function updateCacheForUser(req) {
-    if (!req.session.deviceToken) {
+async function updateCacheForUser(chatId) {
+    if (!chatId) {
+        console.log('No chatId provided. Skipping update.');
         return;
     }
 
-    const filters = getFilters(req);
+    const filters = getUserFilters(chatId);
+    if (!filters) {
+        console.log(`No filters found for chatId: ${chatId}. Skipping update.`);
+        return;
+    }
+
+    console.log('Using filters:', filters);
 
     const items = await fetchDataFromOctapi(filters);
 
     if (items) {
-        let history = loadHistory(req.sessionID) || [];
+        let history = loadHistory(chatId) || [];
+        const latestItem = items.find(item =>
+            filters.size.some(size => item.size.toLowerCase() === size.toLowerCase())
+        );
 
-        let newItems = [];
+        if (latestItem && !getDeletedItems().includes(latestItem.productId)) {
+            const itemExistsInHistory = history.some(item => item.productId === latestItem.productId);
 
-        if (history.length === 0) {
-            if (!getDeletedItems().includes(items[0].productId)) {
-                const newestItem = items[0];
-                newItems.push(newestItem);
-                history.unshift(newestItem);
+            if (!itemExistsInHistory) {
+                // Зберігаємо лише найновіший предмет в історії
+                history.unshift(latestItem);
+                saveHistory(chatId, history);
+
+                await sendTelegramMessage(chatId, `New item found: ${latestItem.title} - ${latestItem.url}`);
+                console.log(`New item added to history and notification sent: ${latestItem.title}`);
+            } else {
+                console.log('No new items found.');
             }
         } else {
-            const lastItemTimestamp = new Date(history[0].timestamp);
-
-            newItems = items.filter(item => {
-                const itemTimestamp = new Date(item.timestamp);
-                const isNewItem = itemTimestamp > lastItemTimestamp;
-                const isNotDeleted = !getDeletedItems().includes(item.productId);
-
-                return isNewItem && isNotDeleted;
-            });
-
-            history = newItems.concat(history);
+            console.log('No new items found or the latest item is in the deleted items list.');
         }
-
-        if (newItems.length > 0) {
-            newItems.forEach(item => {
-                sendNotification(item, req.session.deviceToken);
-            });
-            saveHistory(req.sessionID, history);
-        }
+    } else {
+        console.log('Failed to fetch data from Octapi.');
     }
 }
 

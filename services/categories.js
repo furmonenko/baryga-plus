@@ -1,10 +1,13 @@
 const fs = require('fs');
+const path = require('path');
 
 let categories = {};
 
-if (fs.existsSync('data/categories.json')) {
+const categoriesPath = path.join(__dirname, '../data', 'categories.json');
+
+if (fs.existsSync(categoriesPath)) {
     try {
-        const fileContent = fs.readFileSync('data/categories.json', 'utf8');
+        const fileContent = fs.readFileSync(categoriesPath, 'utf8');
         if (fileContent) {
             categories = JSON.parse(fileContent);
         } else {

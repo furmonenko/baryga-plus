@@ -1,11 +1,14 @@
 const axios = require('axios');
 const fs = require('fs');
+const path = require('path');
 
 let brands = {};
 
-if (fs.existsSync('data/brands.json')) {
+const brandsPath = path.join(__dirname, '../data', 'brands.json');
+
+if (fs.existsSync(brandsPath)) {
     try {
-        const fileContent = fs.readFileSync('data/brands.json', 'utf8');
+        const fileContent = fs.readFileSync(brandsPath, 'utf8');
         if (fileContent) {
             brands = JSON.parse(fileContent);
         } else {
@@ -19,7 +22,7 @@ if (fs.existsSync('data/brands.json')) {
 }
 
 function saveBrands() {
-    fs.writeFileSync('data/brands.json', JSON.stringify(brands, null, 2));
+    fs.writeFileSync(brandsPath, JSON.stringify(brands, null, 2));
 }
 
 async function fetchBrandId(brandName) {
@@ -27,24 +30,19 @@ async function fetchBrandId(brandName) {
         return brands[brandName];
     }
 
-    console.log(brandName);
-
     const options = {
         method: 'GET',
         url: 'https://vinted3.p.rapidapi.com/getBrandSearch',
         params: { country: 'pl', keyword: brandName },
         headers: {
-            'x-rapidapi-key': 'c11cc0dfd2msh1ba92ec23df8848p18e756jsn53f19a689b23',
+            'x-rapidapi-key': process.env.RAPIDAPI_KEY,
             'x-rapidapi-host': 'vinted3.p.rapidapi.com'
         }
     };
 
     try {
         const response = await axios.request(options);
-
         const brandId = response.data && response.data[0] ? response.data[0].brandId : null;
-
-        console.log("brand id - ", brandId)
 
         if (brandId) {
             brands[brandName] = brandId;

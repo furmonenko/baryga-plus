@@ -90,3 +90,12 @@ coverage/
 
 # Secrets
 authKey.p8
+utils/secretKeyGenerator.js
+data/history_18yFOjNFPBGpGFTFNT9trHkT20Tprb3i.json
+data/history_318167809.json
+data/history_339637034.json
+data/history_482802934.json
+data/history_WTrr4DOK48zzHYOh3-cI4A2osvfXO8Uy.json
+clearMessages.js
+resetWebhook.js
+routes/clearSessions.js
