@@ -1,17 +1,18 @@
 const express = require('express');
 const router = express.Router();
-const { getHistory, saveHistory, deleteHistoryItem, saveDeletedItems } = require('../services/fetchData');
+const { loadHistory, saveHistory, deleteHistoryItem } = require('../utils/fileOperations');
 
 router.get('/', (req, res) => {
-    res.json(getHistory());
+    const history = loadHistory(req.sessionID);
+    res.json(history);
 });
 
 router.post('/', (req, res) => {
     const newItem = req.body;
-    const history = getHistory();
+    const history = loadHistory(req.sessionID);
     if (!history.some(item => item.productId === newItem.productId)) {
         history.unshift(newItem);
-        saveHistory(history);
+        saveHistory(req.sessionID, history);
         res.status(201).json(newItem);
     } else {
         res.status(409).json({ message: 'Item already exists in history' });
@@ -20,8 +21,8 @@ router.post('/', (req, res) => {
 
 router.delete('/:productId', (req, res) => {
     const productId = parseInt(req.params.productId, 10);
-    const updatedHistory = deleteHistoryItem(productId);
-    saveHistory(updatedHistory);
+    const updatedHistory = deleteHistoryItem(req.sessionID, productId);
+    saveHistory(req.sessionID, updatedHistory);
     res.sendStatus(200);
 });
 

@@ -1,16 +1,16 @@
-require('dotenv').config();
-
+require('dotenv').config(); // Завантаження змінних середовища з файлу .env
 const express = require('express');
 const bodyParser = require('body-parser');
 const session = require('express-session');
 const axios = require('axios');
 const { updateCacheForUser } = require('./cron/updateCache');
+
 const app = express();
 const port = 3000;
 
 app.use(bodyParser.json());
 app.use(session({
-    secret: process.env.SESSION_SECRET,
+    secret: process.env.SESSION_SECRET, // Використання секретного ключа з файлу .env
     resave: false,
     saveUninitialized: true,
     cookie: { secure: false }
