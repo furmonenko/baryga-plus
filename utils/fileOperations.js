@@ -1,6 +1,13 @@
 const fs = require('fs');
 const path = require('path');
 
+function saveBrand(brandName, brandId) {
+    const brandsPath = path.join(__dirname, '../data/brands.json');
+    const brands = getBrands();
+    brands[brandName] = brandId;
+    fs.writeFileSync(brandsPath, JSON.stringify(brands, null, 2));
+}
+
 function getBrands() {
     const brandsPath = path.join(__dirname, '../data', 'brands.json');
     if (fs.existsSync(brandsPath)) {
@@ -118,5 +125,6 @@ module.exports = {
     deleteHistoryItem,
     clearHistory,
     getDeletedItems,
-    saveDeletedItems
+    saveDeletedItems,
+    saveBrand
 };

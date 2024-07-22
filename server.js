@@ -41,7 +41,7 @@ app.use('/register', require('./routes/register')());
 app.use('/history', require('./routes/history'));
 app.use('/filters', require('./routes/filters'));
 app.use('/interval', require('./routes/interval')());
-app.use('/telegram', require('./routes/telegram')()); // Додаємо новий маршрут для Telegram
+app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
 
 app.listen(port, async () => {
     await setBotCommands(); // Встановлення команд бота при запуску сервера

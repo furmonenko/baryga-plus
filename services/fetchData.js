@@ -13,7 +13,6 @@ async function fetchDataFromOctapi(filters) {
                 country: 'pl',
                 page: '1',
                 brands: filters.brand,
-                size: filters.size,  // Зверніть увагу, що можливо параметр має бути 'sizes', а не 'size'
                 minPrice: filters.minPrice,
                 maxPrice: filters.maxPrice,
                 category: filters.category,
