@@ -13,7 +13,12 @@ const {
     processClearHistoryCommand,
     processPresetCommand,
     processStartCommand,
-    processCategorySelection
+    processCategorySelection,
+    showBrands,
+    showSizes,
+    showPrices,
+    showIntervals,
+    handleCallbackQuery
 } = require('../handlers/messageHandlers');
 
 const users = {};
@@ -21,30 +26,23 @@ const users = {};
 router.post('/webhook', async (req, res) => {
     const { message, callback_query } = req.body;
     const chatId = message ? message.chat.id : callback_query.from.id;
-    let text = message ? message.text.trim() : callback_query.data;
-
-    if (text.startsWith('command_')) {
-        text = text.replace('command_', '');
-    }
-
-    const command = text.split(' ')[0];
+    const text = message ? message.text.trim() : callback_query.data;
 
     if (!users[chatId]) {
         users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men' };
     }
 
-    console.log(text)
+    if (callback_query) {
+        await handleCallbackQuery(chatId, callback_query.data, users);
+    } else if (message) {
+        const command = text.split(' ')[0];
 
-    if (text.startsWith('/category_')) {
-        const categoryTitle = text.replace('/category_', '');
-        await processCategorySelection(chatId, categoryTitle);
-    } else {
         switch (command) {
             case '/start':
                 await processStartCommand(chatId);
                 break;
             case '/filters':
-                await processFiltersCommand(chatId, text, users[chatId].selectedCategory);
+                await showBrands(chatId);
                 break;
             case '/interval':
                 await processIntervalCommand(chatId, text);

@@ -9,14 +9,14 @@ const {updateCacheForUser} = require("../cron/updateCache");
 
 const users = {};
 
-async function processFiltersCommand(chatId, text, selectedCategory) {
-    console.log(`Received /filters command from chatId: ${chatId}, text: ${text}`);
+async function processFiltersCommand(chatId, users) {
+    console.log(`Processing filters command for chatId: ${chatId}`);
 
-    const parts = text.replace('/filters', '').trim().match(/(?:\[.*?\]|[^,]+)/g).map(part => part.trim());
-    console.log(`Parsed parts: ${JSON.stringify(parts)}`);
+    const userFilters = users[chatId].filters;
+    const selectedCategory = users[chatId].selectedCategory;
 
-    if (parts.length !== 4) { // Modified to 4 because category is handled separately
-        await sendTelegramMessage(chatId, 'Please use the correct format: /filters brand, size (e.g., [S, M, L]), minPrice, maxPrice');
+    if (!userFilters.brand || !userFilters.size || !userFilters.maxPrice || !selectedCategory) {
+        await sendTelegramMessage(chatId, 'Please ensure all filters are set: brand, size, maxPrice, and category.');
         return;
     }
 
@@ -24,13 +24,13 @@ async function processFiltersCommand(chatId, text, selectedCategory) {
     setUserReady(chatId, false);
     console.log(`Cleared timer and set user ready status to false for chatId: ${chatId}`);
 
-    const brandName = parts[0];
-    const sizeText = parts[1];
-    const minPrice = parseInt(parts[2], 10);
-    const maxPrice = parseInt(parts[3], 10);
+    const brandName = userFilters.brand;
+    const sizeArray = userFilters.size.replace(/[\[\]]/g, '').split(',').map(s => s.trim().toUpperCase());
+    const minPrice = 0;  // Default minPrice is set to 0
+    const maxPrice = parseInt(userFilters.maxPrice, 10);
     const categoryName = selectedCategory;
 
-    console.log(`Extracted parts - Brand: ${brandName}, Size: ${sizeText}, MinPrice: ${minPrice}, MaxPrice: ${maxPrice}, Category: ${categoryName}`);
+    console.log(`Extracted parts - Brand: ${brandName}, Size: ${sizeArray}, MinPrice: ${minPrice}, MaxPrice: ${maxPrice}, Category: ${categoryName}`);
 
     resetUserFilters(chatId);
 
@@ -47,9 +47,6 @@ async function processFiltersCommand(chatId, text, selectedCategory) {
         await sendTelegramMessage(chatId, `Invalid category name: ${categoryName}`);
         return;
     }
-
-    const sizeArray = sizeText.replace(/[\[\]]/g, '').split(',').map(s => s.trim().toUpperCase());
-    console.log(`Parsed size array: ${JSON.stringify(sizeArray)}`);
 
     const filters = {
         brand: brandId,
@@ -70,63 +67,6 @@ async function processFiltersCommand(chatId, text, selectedCategory) {
     if (isUserReady(chatId)) {
         setTimer(chatId, getUserInterval(chatId), updateCacheForUser);
         console.log(`Timer set for chatId: ${chatId} with interval: ${getUserInterval(chatId)}`);
-    }
-}
-
-async function showCategories(chatId) {
-    const categories = getCategories();
-    const categoryButtons = Object.values(categories).map(category => {
-        return [{ text: `${category.title}` }];
-    });
-
-    const options = {
-        reply_markup: {
-            keyboard: categoryButtons,
-            one_time_keyboard: true,
-            resize_keyboard: true
-        }
-    };
-
-    await sendTelegramMessage(chatId, 'Please select a category:', options);
-}
-
-
-async function handleCallbackQuery(chatId, data, users) {
-    const command = data.replace('command_/', ''); // Видаляємо 'command_/' з початку
-
-    switch (command) {
-        case 'categories':
-            await showCategories(chatId);
-            break;
-        case 'presets':
-            await processPresetCommand(chatId);
-            break;
-        case 'clearhistory':
-            await processClearHistoryCommand(chatId);
-            break;
-        case 'reset':
-            await processResetCommand(chatId);
-            break;
-        case 'stop':
-            await processStopCommand(chatId);
-            break;
-        case 'go':
-            await processGoCommand(chatId);
-            break;
-        case 'history':
-            await processHistoryCommand(chatId);
-            break;
-        case 'interval':
-            await sendTelegramMessage(chatId, 'Please enter the interval in seconds using the format: /interval <seconds>');
-            break;
-        case 'filters':
-            await sendTelegramMessage(chatId, 'Please enter your filters in the format: /filters brand, size (e.g., [S, M, L]), minPrice, maxPrice, category');
-            break;
-        default:
-            if (command.startsWith('category_')) {
-                const categoryId = command.replace('category_', '');
-                await processCategorySelection(chatId, categoryId);
-            }
     }
 }
 
@@ -153,6 +93,9 @@ async function processCategorySelection(chatId, categoryTitle) {
         if (!users[chatId]) {
             users[chatId] = { filters: {}, interval: 60, ready: false };
         }
+
+
+        console.log(selectedCategory);
         users[chatId].selectedCategory = selectedCategory.title;
         await sendTelegramMessage(chatId, `Category selected: ${selectedCategory.title}`);
     } else {
@@ -170,23 +113,6 @@ async function processBrandSelection(chatId, brandName, users) {
     } else {
         await sendTelegramMessage(chatId, `Failed to fetch brand ID for ${brandName}.`);
     }
-}
-
-async function showBrands(chatId) {
-    const brands = getBrands();
-    const brandButtons = Object.keys(brands).map(brand => {
-        return [{ text: `/brand_${brand}` }];
-    });
-
-    const options = {
-        reply_markup: {
-            keyboard: brandButtons,
-            one_time_keyboard: true,
-            resize_keyboard: true
-        }
-    };
-
-    await sendTelegramMessage(chatId, 'Please select a brand or type a new one:', options);
 }
 
 async function processIntervalCommand(chatId, text) {
@@ -276,6 +202,156 @@ async function processStartCommand(chatId) {
     await sendTelegramMessage(chatId, 'Welcome to the bot! Use the buttons below to set your filters and start searching.', options);
 }
 
+async function showBrands(chatId) {
+    const brands = getBrands();
+    const brandButtons = Object.keys(brands).map(brand => {
+        return [{ text: brand, callback_data: `/brand ${brand}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: brandButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendTelegramMessage(chatId, 'Please select a brand or type a new one:', options);
+}
+
+async function showSizes(chatId) {
+    const sizes = ['S', 'M', 'L', 'XL', 'XXL', 'XXXL'];
+    const sizeButtons = sizes.map(size => {
+        return [{ text: size, callback_data: `/size ${size}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: sizeButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendTelegramMessage(chatId, 'Please select a size:', options);
+}
+
+async function showPrices(chatId) {
+    const prices = [200, 250, 300, 400, 500, 800, 1000, 5000];
+    const priceButtons = prices.map(price => {
+        return [{ text: `${price}`, callback_data: `/price ${price}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: priceButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendTelegramMessage(chatId, 'Please select a max price:', options);
+}
+
+async function showCategories(chatId) {
+    const categories = getCategories();
+    const categoryButtons = Object.values(categories).map(category => {
+        return [{ text: category.title, callback_data: `/category ${category.title}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: categoryButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendTelegramMessage(chatId, 'Please select a category:', options);
+}
+
+async function showIntervals(chatId) {
+    const intervals = [120, 300, 600]; // Інтервали в секундах
+    const intervalButtons = intervals.map(interval => {
+        return [{ text: `${interval / 60} minutes`, callback_data: `/interval ${interval}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: intervalButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendTelegramMessage(chatId, 'Please select an interval:', options);
+}
+
+async function handleCallbackQuery(chatId, data, users) {
+    const [command, ...args] = data.split(' ');
+    const value = args.join(' ');
+    console.log(`Command: ${command}, Value: ${value}`);
+
+    if (!users[chatId]) {
+        users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men' };
+    }
+
+    switch (command) {
+        case 'command_/categories':
+            await showCategories(chatId);
+            break;
+        case 'command_/presets':
+            await processPresetCommand(chatId);
+            break;
+        case 'command_/clearhistory':
+            await processClearHistoryCommand(chatId);
+            break;
+        case 'command_/reset':
+            await processResetCommand(chatId);
+            break;
+        case 'command_/stop':
+            await processStopCommand(chatId);
+            break;
+        case 'command_/go':
+            await processGoCommand(chatId);
+            break;
+        case 'command_/history':
+            await processHistoryCommand(chatId);
+            break;
+        case 'command_/interval':
+            await showIntervals(chatId);
+            break;
+        case 'command_/filters':
+            await showBrands(chatId);
+            break;
+        default:
+            if (command === '/brand') {
+                users[chatId].filters.brand = value;
+                await sendTelegramMessage(chatId, `Brand selected: ${value}`);
+                await showSizes(chatId);
+            } else if (command === '/size') {
+                users[chatId].filters.size = value;
+                await sendTelegramMessage(chatId, `Size selected: ${value}`);
+                await showPrices(chatId);
+            } else if (command === '/price') {
+                users[chatId].filters.maxPrice = value;
+                await sendTelegramMessage(chatId, `Max price selected: ${value}`);
+                await showCategories(chatId);
+            } else if (command === '/category') {
+                users[chatId].selectedCategory = value;
+                await sendTelegramMessage(chatId, `Category selected: ${value}`);
+                await showIntervals(chatId);
+            } else if (command === '/interval') {
+                users[chatId].interval = parseInt(value, 10);
+                await sendTelegramMessage(chatId, `Interval selected: ${value} seconds.`);
+                // Proceed with the filters
+                await processFiltersCommand(chatId, users);
+            } else {
+                await sendTelegramMessage(chatId, 'Unknown command.');
+            }
+    }
+}
+
 module.exports = {
     processFiltersCommand,
     applyPresetFilters,
@@ -290,5 +366,9 @@ module.exports = {
     processStartCommand,
     handleTextMessage,
     handleCallbackQuery,
-    processCategorySelection
+    processCategorySelection,
+    showBrands,
+    showSizes,
+    showPrices,
+    showIntervals
 };
