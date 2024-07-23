@@ -1,13 +1,19 @@
 {
-    "30": {
-        "id": 30,
-        "title": "Activewear",
-        "parent_id": 2050,
-        "parent": "Clothes"
+    "5": {
+        "id": 5,
+        "title": "Men",
+        "parent_id": 0,
+        "parent": "No parent"
     },
-    "32": {
-        "id": 32,
-        "title": "Suits & blazers",
+    "2050": {
+        "id": 2050,
+        "title": "Clothes",
+        "parent_id": 5,
+        "parent": "Men"
+    },
+    "79": {
+        "id": 79,
+        "title": "Jumpers & sweaters",
         "parent_id": 2050,
         "parent": "Clothes"
     },
@@ -23,39 +29,9 @@
         "parent_id": 2050,
         "parent": "Clothes"
     },
-    "79": {
-        "id": 79,
-        "title": "Jumpers & sweaters",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
     "80": {
         "id": 80,
         "title": "Shorts",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
-    "82": {
-        "id": 82,
-        "title": "Accessories",
-        "parent_id": 5,
-        "parent": "Men"
-    },
-    "83": {
-        "id": 83,
-        "title": "Other men's clothing",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
-    "84": {
-        "id": 84,
-        "title": "Swimwear",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
-    "85": {
-        "id": 85,
-        "title": "Socks & underwear",
         "parent_id": 2050,
         "parent": "Clothes"
     },
@@ -65,119 +41,11 @@
         "parent_id": 82,
         "parent": "Accessories"
     },
-    "87": {
-        "id": 87,
-        "title": "Scarves & shawls",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "91": {
-        "id": 91,
-        "title": "Gloves",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "92": {
-        "id": 92,
-        "title": "Costumes & special outfits",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
     "93": {
         "id": 93,
         "title": "Ties & pocket squares",
         "parent_id": 82,
         "parent": "Accessories"
-    },
-    "94": {
-        "id": 94,
-        "title": "Bags & backpacks",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "95": {
-        "id": 95,
-        "title": "Jewelry",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "96": {
-        "id": 96,
-        "title": "Belts",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "97": {
-        "id": 97,
-        "title": "Watches",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "98": {
-        "id": 98,
-        "title": "Sunglasses",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "99": {
-        "id": 99,
-        "title": "Other",
-        "parent_id": 82,
-        "parent": "Accessories"
-    },
-    "139": {
-        "id": 139,
-        "title": "Grooming",
-        "parent_id": 5,
-        "parent": "Men"
-    },
-    "140": {
-        "id": 140,
-        "title": "Hair care",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "141": {
-        "id": 141,
-        "title": "Body care",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "142": {
-        "id": 142,
-        "title": "Hand & nail care",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "143": {
-        "id": 143,
-        "title": "Face care",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "144": {
-        "id": 144,
-        "title": "Makeup",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "145": {
-        "id": 145,
-        "title": "Aftershave & cologne",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "257": {
-        "id": 257,
-        "title": "Jeans",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
-    "968": {
-        "id": 968,
-        "title": "Other grooming items",
-        "parent_id": 139,
-        "parent": "Grooming"
     },
     "1206": {
         "id": 1206,
@@ -190,71 +58,5 @@
         "title": "Shoes",
         "parent_id": 5,
         "parent": "Men"
-    },
-    "1233": {
-        "id": 1233,
-        "title": "Boots",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "1238": {
-        "id": 1238,
-        "title": "Formal shoes",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "1242": {
-        "id": 1242,
-        "title": "Sneakers",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "1452": {
-        "id": 1452,
-        "title": "Sport shoes",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "1863": {
-        "id": 1863,
-        "title": "Grooming kits",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "2050": {
-        "id": 2050,
-        "title": "Clothes",
-        "parent_id": 5,
-        "parent": "Men"
-    },
-    "2055": {
-        "id": 2055,
-        "title": "Tools & accessories",
-        "parent_id": 139,
-        "parent": "Grooming"
-    },
-    "2656": {
-        "id": 2656,
-        "title": "Boat shoes, loafers & moccasins",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "2657": {
-        "id": 2657,
-        "title": "Espadrilles",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "2658": {
-        "id": 2658,
-        "title": "Flip-flops, sandals & slides",
-        "parent_id": 1231,
-        "parent": "Shoes"
-    },
-    "2659": {
-        "id": 2659,
-        "title": "Slippers",
-        "parent_id": 1231,
-        "parent": "Shoes"
     }
 }

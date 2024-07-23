@@ -20,31 +20,39 @@ async function updateCacheForUser(chatId) {
     const items = await fetchDataFromOctapi(filters);
 
     if (items) {
-        console.log(`Fetched ${items.length} items from Octapi.`);
-
         let history = loadHistory(chatId) || [];
-        console.log(`Loaded history with ${history.length} items for chatId: ${chatId}.`);
 
-        // Фільтруємо предмети, які відповідають розмірам з фільтрів
+        // Фільтруємо предмети, які відповідають розмірам з фільтрів або не мають розміру
         const filteredItems = items.filter(item => {
-            const itemSize = item.size ? item.size.toUpperCase() : '';
-            const sizesToCheck = filters.size[0].split(' ').map(s => s.trim().toUpperCase());
-            console.log(`Checking item size: ${itemSize} against filters: ${JSON.stringify(sizesToCheck)}`);
-            return sizesToCheck.includes(itemSize);
+            if (!item.size) {
+                console.log(`Item ${item.title} does not have a size.`);
+                return true; // Додаємо предмети без розміру
+            }
+            const itemSize = item.size.toUpperCase();
+            console.log(`Checking item size: ${itemSize} against filters: ${JSON.stringify(filters.size)}`);
+            return filters.size.some(size => itemSize.includes(size));
         });
 
         console.log(`Filtered items count: ${filteredItems.length}`);
 
         if (filteredItems.length > 0) {
-            const latestItem = filteredItems[0];
-            const itemExistsInHistory = history.some(item => item.productId === latestItem.productId);
+            let newItems = [];
 
-            if (!itemExistsInHistory) {
-                history.unshift(latestItem);
+            if (history.length === 0) {
+                newItems.push(filteredItems[0]);
+            } else {
+                const latestHistoryItem = history[0];
+                newItems = filteredItems.filter(item => item.productId !== latestHistoryItem.productId && new Date(item.addedDate) > new Date(latestHistoryItem.addedDate));
+            }
+
+            if (newItems.length > 0) {
+                history = [...newItems, ...history];
                 saveHistory(chatId, history);
 
-                await sendTelegramMessage(chatId, `New item found: ${latestItem.title} - ${latestItem.url}`);
-                console.log(`New item added to history and notification sent: ${latestItem.title}`);
+                for (const item of newItems) {
+                    await sendTelegramMessage(chatId, `New item found: ${item.title} - ${item.url}`);
+                    console.log(`New item added to history and notification sent: ${item.title}`);
+                }
             } else {
                 console.log('No new items found.');
             }

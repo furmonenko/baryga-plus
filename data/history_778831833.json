@@ -1,0 +1,71 @@
+[
+  {
+    "productId": 4798242402,
+    "title": "Stone Island majica",
+    "url": "https://www.vinted.pl/items/4798242402-stone-island-majica",
+    "image": "https://images1.vinted.net/tc/03_01d76_8Hq3JEnL4bHQiwzyJNyptSQR/1721724674.jpeg?s=a8e0d8d96b867f0f09f6be2b23c82caf3e5f21df",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "173.19",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "9.36",
+      "totalAmount": "182.55"
+    },
+    "seller": {
+      "userId": 194541115,
+      "username": "jggggg18",
+      "profile": "https://www.vinted.pl/member/194541115-jggggg18",
+      "profilePicture": "https://images1.vinted.net/t/02_01de4_KefVDBGZWHRQeiRdtVFiqrmN/f800/1711105545.jpeg?s=cb07f4702862025937649e4658feecf6b695d170"
+    }
+  },
+  {
+    "productId": 4798205985,
+    "title": "Stone Island bluza xl",
+    "url": "https://www.vinted.pl/items/4798205985-stone-island-bluza-xl",
+    "image": "https://images1.vinted.net/tc/03_00028_5Qrtcy3Jnz5qLQkqKPDFVPfg/1721724113.jpeg?s=ea2b428d3e9c63f4307b4034a026c62cd25b456b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "99.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "5.65",
+      "totalAmount": "104.65"
+    },
+    "seller": {
+      "userId": 202843220,
+      "username": "krak90",
+      "profile": "https://www.vinted.pl/member/202843220-krak90",
+      "profilePicture": null
+    }
+  },
+  {
+    "productId": 4798021822,
+    "title": "koszulka polo stone island",
+    "url": "https://www.vinted.pl/items/4798021822-koszulka-polo-stone-island",
+    "image": "https://images1.vinted.net/tc/01_004d5_mJHEnaP1zPMeRWaBm57tBt9b/1721720911.jpeg?s=1fd69a2e31a8be51b694b32f73cde67ba6006444",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "115.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "6.45",
+      "totalAmount": "121.45"
+    },
+    "seller": {
+      "userId": 115942722,
+      "username": "antoni83352",
+      "profile": "https://www.vinted.pl/member/115942722-antoni83352",
+      "profilePicture": "https://images1.vinted.net/t/03_01388_XaSfoBA7EbwSwRwN6Ukbu7iF/f800/1713374730.jpeg?s=ad93103af895a94b81691c31eb240cec8313b8a7"
+    }
+  }
+]

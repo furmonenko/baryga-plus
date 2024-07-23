@@ -29,7 +29,7 @@ router.post('/webhook', async (req, res) => {
     const text = message ? message.text.trim() : callback_query.data;
 
     if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men' };
+        users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men', selectedSizes: [] };
     }
 
     if (callback_query) {
