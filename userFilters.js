@@ -1,10 +1,21 @@
 const users = {};
+const DEFAULT_INTERVAL= 10
 
 function setUserFilters(chatId, filters) {
     if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false };
+        users[chatId] = { filters: {}, interval: DEFAULT_INTERVAL, ready: false };
     }
     users[chatId].filters = filters;
+}
+
+function getAllUserFilters() {
+    const allFilters = [];
+    for (const chatId in users) {
+        if (users.hasOwnProperty(chatId)) {
+            allFilters.push(users[chatId].filters);
+        }
+    }
+    return allFilters;
 }
 
 function getUserFilters(chatId) {
@@ -13,7 +24,7 @@ function getUserFilters(chatId) {
 
 function setUserReady(chatId, isReady) {
     if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false };
+        users[chatId] = { filters: {}, interval: DEFAULT_INTERVAL, ready: false };
     }
     users[chatId].ready = isReady;
 }
@@ -24,13 +35,13 @@ function isUserReady(chatId) {
 
 function setUserInterval(chatId, interval) {
     if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false };
+        users[chatId] = { filters: {}, interval: DEFAULT_INTERVAL, ready: false };
     }
     users[chatId].interval = interval;
 }
 
 function getUserInterval(chatId) {
-    return users[chatId] ? users[chatId].interval : 60;
+    return users[chatId] ? users[chatId].interval : DEFAULT_INTERVAL;
 }
 
 function resetUserFilters(chatId) {
@@ -46,5 +57,6 @@ module.exports = {
     isUserReady,
     setUserInterval,
     getUserInterval,
-    resetUserFilters
+    resetUserFilters,
+    getAllUserFilters
 };

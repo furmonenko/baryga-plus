@@ -1,8 +1,10 @@
 require('dotenv').config(); // Завантаження змінних середовища з файлу .env
 const express = require('express');
+const cron = require('node-cron');
 const bodyParser = require('body-parser');
 const session = require('express-session');
 const { setBotCommands } = require('./utils/telegram');
+const { updateCache } = require("./services/fetchData.js");
 
 const app = express();
 const port = 3000;
@@ -35,15 +37,36 @@ app.use((req, res, next) => {
     console.log(`Received request: ${req.method} ${req.url}`);
     next();
 });
+console.log("Starting cron job setup...");
+
+cron.schedule('* * * * *', () => {
+    console.log('Cron job triggered...');
+    updateCache().catch(error => {
+        console.error('Error during updateCache:', error);
+    });
+});
+
+console.log("Cron job setup completed.");
+
 
 // Маршрути
-app.use('/register', require('./routes/register')());
+app.use('/register', require('./routes/register'));
 app.use('/history', require('./routes/history'));
 app.use('/filters', require('./routes/filters'));
 app.use('/interval', require('./routes/interval')());
 app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
 
+// Обробка помилок
+app.use((err, req, res, next) => {
+    console.error('Error:', err);
+    res.status(500).send('Something went wrong.');
+});
+
 app.listen(port, async () => {
-    await setBotCommands(); // Встановлення команд бота при запуску сервера
-    console.log(`Server is running on http://localhost:${port}`);
+    try {
+        await setBotCommands(); // Встановлення команд бота при запуску сервера
+        console.log(`Server is running on http://localhost:${port}`);
+    } catch (err) {
+        console.error('Error setting bot commands:', err);
+    }
 });

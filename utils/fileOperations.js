@@ -6,6 +6,7 @@ function saveBrand(brandName, brandId) {
     const brands = getBrands();
     brands[brandName] = brandId;
     fs.writeFileSync(brandsPath, JSON.stringify(brands, null, 2));
+    console.log(`Brand saved: ${brandName} with ID ${brandId}`);
 }
 
 function getBrands() {
@@ -13,12 +14,14 @@ function getBrands() {
     if (fs.existsSync(brandsPath)) {
         try {
             const fileContent = fs.readFileSync(brandsPath, 'utf8');
+            // console.log(`Loaded brands data: ${fileContent}`);
             return JSON.parse(fileContent);
         } catch (error) {
             console.error('Error reading or parsing brands.json:', error);
             return {};
         }
     } else {
+        console.log('Brands file does not exist.');
         return {};
     }
 }
@@ -28,12 +31,14 @@ function getCategories() {
     if (fs.existsSync(categoriesPath)) {
         try {
             const fileContent = fs.readFileSync(categoriesPath, 'utf8');
+            // console.log(`Loaded categories data: ${fileContent}`);
             return JSON.parse(fileContent);
         } catch (error) {
             console.error('Error reading or parsing categories.json:', error);
             return {};
         }
     } else {
+        console.log('Categories file does not exist.');
         return {};
     }
 }
@@ -47,13 +52,22 @@ function loadHistory(sessionID) {
     if (fs.existsSync(historyFilePath)) {
         try {
             const fileContent = fs.readFileSync(historyFilePath, 'utf8');
+            console.log(`Loaded history for ${sessionID}`);
             return JSON.parse(fileContent);
         } catch (error) {
             console.error(`Error reading or parsing ${historyFilePath}:`, error);
             return [];
         }
     } else {
-        return [];
+        console.log(`History file for ${sessionID} does not exist. Creating new file.`);
+        try {
+            const initialData = [];
+            fs.writeFileSync(historyFilePath, JSON.stringify(initialData, null, 2));
+            return initialData;
+        } catch (error) {
+            console.error(`Error creating new history file ${historyFilePath}:`, error);
+            return [];
+        }
     }
 }
 
@@ -97,12 +111,14 @@ function getDeletedItems() {
     if (fs.existsSync(deletedItemsPath)) {
         try {
             const fileContent = fs.readFileSync(deletedItemsPath, 'utf8');
+            console.log(`Loaded deleted items: ${fileContent}`);
             return JSON.parse(fileContent);
         } catch (error) {
             console.error('Error reading or parsing deletedItems.json:', error);
             return [];
         }
     } else {
+        console.log('Deleted items file does not exist.');
         return [];
     }
 }
@@ -117,6 +133,27 @@ function saveDeletedItems(deletedItems) {
     }
 }
 
+function getUsersHistory() {
+    const dataDir = path.join(__dirname, '../data');
+    const historyFiles = fs.readdirSync(dataDir).filter(file => file.startsWith('history_') && file.endsWith('.json'));
+    const usersHistory = {};
+
+    historyFiles.forEach(file => {
+        const userId = file.replace('history_', '').replace('.json', '');
+        usersHistory[userId] = loadHistory(userId);
+        console.log(`Loaded history for user ${userId}: ${JSON.stringify(usersHistory[userId])}`);
+    });
+
+    return usersHistory;
+}
+
+function saveUserHistory(usersHistory) {
+    for (const [userId, history] of Object.entries(usersHistory)) {
+        saveHistory(userId, history);
+        console.log(`Saved history for user ${userId}: ${JSON.stringify(history)}`);
+    }
+}
+
 module.exports = {
     getBrands,
     getCategories,
@@ -126,5 +163,7 @@ module.exports = {
     clearHistory,
     getDeletedItems,
     saveDeletedItems,
-    saveBrand
+    saveBrand,
+    getUsersHistory,
+    saveUserHistory
 };
