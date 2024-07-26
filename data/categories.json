@@ -17,12 +17,6 @@
         "parent_id": 2050,
         "parent": "Clothes"
     },
-    "34": {
-        "id": 34,
-        "title": "Pants",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
     "76": {
         "id": 76,
         "title": "Tops & T-shirts",
@@ -46,11 +40,5 @@
         "title": "Outerwear",
         "parent_id": 2050,
         "parent": "Clothes"
-    },
-    "1231": {
-        "id": 1231,
-        "title": "Shoes",
-        "parent_id": 5,
-        "parent": "Men"
     }
 }

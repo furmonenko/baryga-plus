@@ -1,98 +1,93 @@
 const axios = require('axios');
-const cron = require('node-cron');
 const { saveHistory } = require('../utils/fileOperations');
 const { getAllUserFilters } = require('../userFilters');
+const brandsData = require('../data/brands.json'); // Завантаження брендових даних
 
-// Об'єднані фільтри для всіх користувачів
-let combinedFilters = {
-    brands: new Set(),
-    sizes: new Set(),
-    maxPrice: 0
-};
+// Функція затримки
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
 
-// Функція для об'єднання фільтрів користувачів
+// Функція об'єднання фільтрів користувачів
 function mergeUserFilters(userFilters) {
-    console.log('Merging user filters...');
-    combinedFilters = { brands: new Set(), sizes: new Set(), maxPrice: 0 }; // Reset combined filters
+    let combinedFilters = {
+        brands: new Set(),
+        sizes: new Set(),
+        maxPrice: 0,
+        categories: new Set()
+    };
+
     for (const filters of userFilters) {
-        console.log(`Processing filters: ${JSON.stringify(filters)}`);
-        if (filters.brand) {
-            combinedFilters.brands.add(filters.brand);
-            console.log(`Added brand: ${filters.brand}`);
+        if (filters.brand && brandsData[filters.brand]) {
+            combinedFilters.brands.add(brandsData[filters.brand]); // Заміна назви бренду на ID
         }
-        if (filters.size) {
-            filters.size.forEach(size => combinedFilters.sizes.add(size));
-            console.log(`Added sizes: ${filters.size}`);
-        }
-        if (filters.maxPrice > combinedFilters.maxPrice) {
-            combinedFilters.maxPrice = filters.maxPrice;
-            console.log(`Updated maxPrice to: ${filters.maxPrice}`);
-        }
+        if (filters.size) filters.size.forEach(size => combinedFilters.sizes.add(size));
+        if (filters.maxPrice > combinedFilters.maxPrice) combinedFilters.maxPrice = filters.maxPrice;
+        if (filters.category) combinedFilters.categories.add(filters.category);
     }
-    console.log(`Combined filters: Brands - ${Array.from(combinedFilters.brands)}, Sizes - ${Array.from(combinedFilters.sizes)}, MaxPrice - ${combinedFilters.maxPrice}`);
+
+    return combinedFilters;
 }
 
-async function fetchDataFromVinted() {
-    try {
-        // Конвертуємо множини в масиви для запиту
-        const brands = Array.from(combinedFilters.brands).join(',');
-        const sizes = Array.from(combinedFilters.sizes).join(',');
+// Функція отримання даних з API
+async function fetchDataFromVinted(combinedFilters) {
+    const brands = Array.from(combinedFilters.brands).join(',');
+    const sizes = Array.from(combinedFilters.sizes).join(',');
+    let allData = [];
 
-        console.log('Sending request to Octapi with combined filters:', {
-            brands,
-            sizes,
-            maxPrice: combinedFilters.maxPrice
-        });
+    for (const category of combinedFilters.categories) {
+        try {
+            const response = await axios.get('https://vinted3.p.rapidapi.com/getSearch', {
+                headers: {
+                    'x-rapidapi-key': process.env.RAPIDAPI_KEY,
+                    'x-rapidapi-host': 'vinted3.p.rapidapi.com'
+                },
+                params: {
+                    country: 'pl',
+                    page: '1',
+                    brands: brands,
+                    sizes: sizes,
+                    minPrice: 0,
+                    maxPrice: combinedFilters.maxPrice,
+                    category: category,
+                    order: 'newest_first'
+                }
+            });
 
-        const response = await axios.get('https://vinted3.p.rapidapi.com/getSearch', {
-            headers: {
-                'x-rapidapi-key': process.env.RAPIDAPI_KEY,
-                'x-rapidapi-host': 'vinted3.p.rapidapi.com'
-            },
-            params: {
-                country: 'pl',
-                page: '1',
-                brands: brands,
-                sizes: sizes,
-                minPrice: 0, // Мінімальна ціна за замовчуванням 0
-                maxPrice: combinedFilters.maxPrice,
-                category: 3, // Категорія Men, наприклад
-                order: 'newest_first'
-            }
-        });
+            const data = response.data || [];
 
-        console.log('Response from Octapi:', response.data);
-        return response.data;
-    } catch (error) {
-        console.error('Error fetching data from Octapi:', error.response ? error.response.data : error.message);
-        return null;
+            // Збереження назви категорії для кожного товару
+            const categorizedData = data.map(item => ({
+                ...item,
+                brand: item.brand,
+                category: category // Збереження ID категорії
+            }));
+
+            allData = allData.concat(categorizedData);
+
+            await delay(1000); // Затримка між запитами
+        } catch (error) {
+            console.error(`Error fetching data for category ${category}:`, error);
+        }
     }
+
+    return allData;
 }
 
-// Функція оновлення кешу на сервері
+// Функція оновлення кешу
 async function updateCache() {
-    console.log('updateCache function called...');
-
-    // Отримуємо всі фільтри користувачів і об'єднуємо їх
     const allUserFilters = getAllUserFilters();
-    console.log(`Retrieved all user filters: ${JSON.stringify(allUserFilters)}`);
-    mergeUserFilters(allUserFilters);
 
-    // Перевірка наявності фільтрів
+    const combinedFilters = mergeUserFilters(allUserFilters);
+
     if (combinedFilters.maxPrice === 0) {
-        console.log('Користувачі не задали ніяких фільтрів, сервер не фетчить дані.');
         return;
     }
 
-    const data = await fetchDataFromVinted();
+    const data = await fetchDataFromVinted(combinedFilters);
     if (data) {
         saveHistory('server_cache', data);
-        console.log('Cache updated successfully.');
-    } else {
-        console.error('Failed to update cache.');
     }
 }
 
-module.exports = {
-    updateCache
-};
+module.exports = { updateCache };

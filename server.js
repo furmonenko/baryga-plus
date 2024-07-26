@@ -37,9 +37,10 @@ app.use((req, res, next) => {
     console.log(`Received request: ${req.method} ${req.url}`);
     next();
 });
+
 console.log("Starting cron job setup...");
 
-cron.schedule('* * * * *', () => {
+cron.schedule('*/10 * * * *', () => {
     console.log('Cron job triggered...');
     updateCache().catch(error => {
         console.error('Error during updateCache:', error);
@@ -48,12 +49,7 @@ cron.schedule('* * * * *', () => {
 
 console.log("Cron job setup completed.");
 
-
 // Маршрути
-app.use('/register', require('./routes/register'));
-app.use('/history', require('./routes/history'));
-app.use('/filters', require('./routes/filters'));
-app.use('/interval', require('./routes/interval')());
 app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
 
 // Обробка помилок

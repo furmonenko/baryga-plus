@@ -31,7 +31,6 @@ function getCategories() {
     if (fs.existsSync(categoriesPath)) {
         try {
             const fileContent = fs.readFileSync(categoriesPath, 'utf8');
-            // console.log(`Loaded categories data: ${fileContent}`);
             return JSON.parse(fileContent);
         } catch (error) {
             console.error('Error reading or parsing categories.json:', error);
@@ -81,19 +80,6 @@ function saveHistory(sessionID, history) {
     }
 }
 
-function deleteHistoryItem(sessionID, productId) {
-    let history = loadHistory(sessionID);
-    history = history.filter(item => item.productId !== productId);
-    saveHistory(sessionID, history);
-
-    const deletedItems = getDeletedItems();
-    if (!deletedItems.includes(productId)) {
-        deletedItems.push(productId);
-        saveDeletedItems(deletedItems);
-    }
-    return history;
-}
-
 function clearHistory(sessionID) {
     const historyFilePath = getHistoryFilePath(sessionID);
     try {
@@ -106,64 +92,11 @@ function clearHistory(sessionID) {
     }
 }
 
-function getDeletedItems() {
-    const deletedItemsPath = path.join(__dirname, '../data', 'deletedItems.json');
-    if (fs.existsSync(deletedItemsPath)) {
-        try {
-            const fileContent = fs.readFileSync(deletedItemsPath, 'utf8');
-            console.log(`Loaded deleted items: ${fileContent}`);
-            return JSON.parse(fileContent);
-        } catch (error) {
-            console.error('Error reading or parsing deletedItems.json:', error);
-            return [];
-        }
-    } else {
-        console.log('Deleted items file does not exist.');
-        return [];
-    }
-}
-
-function saveDeletedItems(deletedItems) {
-    const deletedItemsPath = path.join(__dirname, '../data', 'deletedItems.json');
-    try {
-        fs.writeFileSync(deletedItemsPath, JSON.stringify(deletedItems, null, 2));
-        console.log(`Deleted items saved to ${deletedItemsPath}`);
-    } catch (error) {
-        console.error(`Error writing to ${deletedItemsPath}:`, error);
-    }
-}
-
-function getUsersHistory() {
-    const dataDir = path.join(__dirname, '../data');
-    const historyFiles = fs.readdirSync(dataDir).filter(file => file.startsWith('history_') && file.endsWith('.json'));
-    const usersHistory = {};
-
-    historyFiles.forEach(file => {
-        const userId = file.replace('history_', '').replace('.json', '');
-        usersHistory[userId] = loadHistory(userId);
-        console.log(`Loaded history for user ${userId}: ${JSON.stringify(usersHistory[userId])}`);
-    });
-
-    return usersHistory;
-}
-
-function saveUserHistory(usersHistory) {
-    for (const [userId, history] of Object.entries(usersHistory)) {
-        saveHistory(userId, history);
-        console.log(`Saved history for user ${userId}: ${JSON.stringify(history)}`);
-    }
-}
-
 module.exports = {
     getBrands,
     getCategories,
     loadHistory,
     saveHistory,
-    deleteHistoryItem,
     clearHistory,
-    getDeletedItems,
-    saveDeletedItems,
-    saveBrand,
-    getUsersHistory,
-    saveUserHistory
+    saveBrand
 };

@@ -1,51 +1,60 @@
 const { sendTelegramMessage } = require('../utils/telegram');
-const { fetchBrandId } = require('../services/brands');
 const { getCategoryIdByName } = require('../services/categories');
 const { clearTimer, setTimer} = require('../timerManager');
 const { loadHistory, clearHistory, getCategories, getBrands, saveBrand} = require('../utils/fileOperations');
-const { applyPresetFilters } = require('../handlers/applyPresetFilters');
 const {setUserInterval, isUserReady, resetUserFilters, setUserReady, setUserFilters, getUserInterval} = require("../userFilters");
 const {updateCacheForUser} = require("../cron/updateCache");
 
 const users = {};
 
+async function deleteMessage(chatId, messageId) {
+    const token = process.env.TELEGRAM_BOT_TOKEN; // Використайте свій токен бота
+    const url = `https://api.telegram.org/bot${token}/deleteMessage`;
+
+    const fetch = (await import('node-fetch')).default;
+
+    try {
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                chat_id: chatId,
+                message_id: messageId
+            })
+        });
+
+        const data = await response.json();
+        if (!data.ok) {
+            console.error('Failed to delete message:', data);
+        } else {
+            console.log(`Message ${messageId} deleted successfully.`);
+        }
+    } catch (error) {
+        console.error('Error deleting message:', error);
+    }
+}
+
+
 async function processFiltersCommand(chatId, users) {
-    let selectedCategory = null;
-    if (users[chatId].selectedCategory === undefined){
-        selectedCategory = getCategoryIdByName('Men');
-    }
-    else{
-        selectedCategory = users[chatId].selectedCategory;
-    }
+    let selectedCategory = users[chatId].selectedCategory ?? getCategoryIdByName('Men');
 
-    // const selectedCategory = users[chatId].selectedCategory;
-    const { brand, size, maxPrice } = users[chatId].filters;
-
-    console.log(`Applying filters for chatId: ${chatId}, Brand: ${brand}, Sizes: ${size}, MaxPrice: ${maxPrice}, Category: ${selectedCategory}`);
+    console.log(`Applying filters for chatId: ${chatId}`);
+    console.log(`Brand: ${users[chatId].filters.brand}, Sizes: ${users[chatId].filters.size}, MaxPrice: ${users[chatId].filters.maxPrice}, Category: ${selectedCategory}`);
 
     clearTimer(chatId);
     setUserReady(chatId, false);
-    console.log(`Cleared timer and set user ready status to false for chatId: ${chatId}`);
-
-    const brandId = await fetchBrandId(brand);
-    console.log(`Fetched brandId: ${brandId} for brandName: ${brand}`);
-    if (!brandId) {
-        await sendTelegramMessage(chatId, `Invalid brand name: ${brand}`);
-        return;
-    }
 
     const categoryId = getCategoryIdByName(selectedCategory);
-    console.log(`Fetched categoryId: ${categoryId} for categoryName: ${selectedCategory}`);
     if (!categoryId) {
         await sendTelegramMessage(chatId, `Invalid category name: ${selectedCategory}`);
         return;
     }
 
     const filters = {
-        brand: brandId,
-        size: size,
+        brand: users[chatId].filters.brand,
+        size: users[chatId].filters.size,
         minPrice: 0,
-        maxPrice: maxPrice,
+        maxPrice: users[chatId].filters.maxPrice,
         category: categoryId
     };
 
@@ -53,27 +62,10 @@ async function processFiltersCommand(chatId, users) {
 
     setUserFilters(chatId, filters);
     await sendTelegramMessage(chatId, 'Filters have been set.');
-    console.log(`Filters set for chatId: ${chatId}`);
 
     setUserReady(chatId, true);
-
     if (isUserReady(chatId)) {
         setTimer(chatId, getUserInterval(chatId), updateCacheForUser);
-        console.log(`Timer set for chatId: ${chatId} with interval: ${getUserInterval(chatId)}`);
-    }
-}
-
-async function handleTextMessage(chatId, text) {
-    const brandName = text.trim();
-    if (brandName) {
-        const brandId = await fetchBrandId(brandName);
-        if (brandId) {
-            saveBrand(brandName, brandId);
-            users[chatId].selectedBrand = brandName;
-            await sendTelegramMessage(chatId, `Brand ${brandName} has been added with ID ${brandId}.`);
-        } else {
-            await sendTelegramMessage(chatId, `Failed to fetch brand ID for ${brandName}.`);
-        }
     }
 }
 
@@ -92,18 +84,6 @@ async function processCategorySelection(chatId, categoryTitle) {
         await sendTelegramMessage(chatId, `Category selected: ${selectedCategory.title}`);
     } else {
         await sendTelegramMessage(chatId, 'Invalid category selection.');
-    }
-}
-
-async function processBrandSelection(chatId, brandName, users) {
-    console.log(`Processing brand selection: ${brandName} for chatId: ${chatId}`);
-    const brandId = await fetchBrandId(brandName);
-    if (brandId) {
-        saveBrand(brandName, brandId);
-        users[chatId].selectedBrand = brandName;
-        await sendTelegramMessage(chatId, `Brand ${brandName} has been added with ID ${brandId}.`);
-    } else {
-        await sendTelegramMessage(chatId, `Failed to fetch brand ID for ${brandName}.`);
     }
 }
 
@@ -229,7 +209,7 @@ async function showSizes(chatId, selectedSizes = []) {
 }
 
 async function showPrices(chatId) {
-    const prices = [200, 250, 300, 400, 500, 800, 1000, 5000];
+    const prices = [50, 200, 250, 300, 400, 500, 800, 1000, 5000];
     const priceButtons = prices.map(price => {
         return [{ text: `${price}`, callback_data: `/price ${price}` }];
     });
@@ -262,24 +242,8 @@ async function showCategories(chatId) {
     await sendTelegramMessage(chatId, 'Please select a category:', options);
 }
 
-// async function showIntervals(chatId) {
-//     const intervals = [120, 300, 600]; // Інтервали в секундах
-//     const intervalButtons = intervals.map(interval => {
-//         return [{ text: `${interval / 60} minutes`, callback_data: `/interval ${interval}` }];
-//     });
-//
-//     const options = {
-//         reply_markup: {
-//             inline_keyboard: intervalButtons,
-//             one_time_keyboard: true,
-//             resize_keyboard: true
-//         }
-//     };
-//
-//     await sendTelegramMessage(chatId, 'Please select an interval:', options);
-// }
 
-async function handleCallbackQuery(chatId, data, users) {
+async function handleCallbackQuery(chatId, data, users, callbackQuery) {
     const [command, ...args] = data.split(' ');
     const value = args.join(' ');
     console.log(`Command: ${command}, Value: ${value}`);
@@ -288,71 +252,68 @@ async function handleCallbackQuery(chatId, data, users) {
         users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men', selectedSizes: [] };
     }
 
-    switch (command) {
-        // case 'command_/categories':
-        //     await showCategories(chatId);
-        //     break;
-        case 'command_/presets':
-            await processPresetCommand(chatId);
-            break;
-        case 'command_/clearhistory':
-            await processClearHistoryCommand(chatId);
-            break;
-        case 'command_/reset':
-            await processResetCommand(chatId);
-            break;
-        case 'command_/stop':
-            await processStopCommand(chatId);
-            break;
-        case 'command_/go':
-            await processGoCommand(chatId);
-            break;
-        case 'command_/history':
-            await processHistoryCommand(chatId);
-            break;
-        // case 'command_/interval':
-        //     await showIntervals(chatId);
-        //     break;
-        case 'command_/filters':
-            await showBrands(chatId);
-            break;
-        default:
-            if (command === '/brand') {
-                users[chatId].filters.brand = value;
-                await sendTelegramMessage(chatId, `Brand selected: ${value}`);
-                await showSizes(chatId);
-            } else if (command === '/size') {
-                if (value !== 'done') {
-                    users[chatId].selectedSizes.push(value);
-                    await sendTelegramMessage(chatId, `Size added: ${value}`);
-                    await showSizes(chatId, users[chatId].selectedSizes);
-                } else {
-                    if (users[chatId].selectedSizes.length === 0) {
-                        users[chatId].filters.size = ['S', 'M', 'L', 'XL', 'XXL', 'XXXL']; // Додаємо всі розміри, якщо жоден не вибрано
+    try {
+        switch (command) {
+            case 'command_/presets':
+                await processPresetCommand(chatId);
+                break;
+            case 'command_/clearhistory':
+                await processClearHistoryCommand(chatId);
+                break;
+            case 'command_/reset':
+                await processResetCommand(chatId);
+                break;
+            case 'command_/stop':
+                await processStopCommand(chatId);
+                break;
+            case 'command_/go':
+                await processGoCommand(chatId);
+                break;
+            case 'command_/history':
+                await processHistoryCommand(chatId);
+                break;
+            case 'command_/filters':
+                await showBrands(chatId);
+                break;
+            default:
+                if (command === '/brand') {
+                    users[chatId].filters.brand = value;
+                    await sendTelegramMessage(chatId, `Brand selected: ${value}`);
+                    await showCategories(chatId);
+                } else if (command === '/category') {
+                    users[chatId].selectedCategory = value;
+                    await sendTelegramMessage(chatId, `Category selected: ${value}`);
+                    await showSizes(chatId);
+                } else if (command === '/size') {
+                    if (value !== 'done') {
+                        users[chatId].selectedSizes.push(value);
+                        await sendTelegramMessage(chatId, `Size added: ${value}`);
+                        await showSizes(chatId, users[chatId].selectedSizes);
                     } else {
-                        users[chatId].filters.size = users[chatId].selectedSizes;
+                        if (users[chatId].selectedSizes.length === 0) {
+                            users[chatId].filters.size = ['S', 'M', 'L', 'XL', 'XXL', 'XXXL']; // Додаємо всі розміри, якщо жоден не вибрано
+                        } else {
+                            users[chatId].filters.size = users[chatId].selectedSizes;
+                        }
+                        await sendTelegramMessage(chatId, `Sizes selected: ${users[chatId].filters.size.join(', ')}`);
+                        await showPrices(chatId);
                     }
-                    await sendTelegramMessage(chatId, `Sizes selected: ${users[chatId].filters.size.join(', ')}`);
-                    await showPrices(chatId);
+                } else if (command === '/price') {
+                    users[chatId].filters.maxPrice = value;
+                    await sendTelegramMessage(chatId, `Max price selected: ${value}`);
+                    await processFiltersCommand(chatId, users);
+                }  else {
+                    await sendTelegramMessage(chatId, 'Unknown command.');
                 }
-            } else if (command === '/price') {
-                users[chatId].filters.maxPrice = value;
-                await sendTelegramMessage(chatId, `Max price selected: ${value}`);
-                await showCategories(chatId);
-            } else if (command === '/category') {
-                users[chatId].selectedCategory = value;
-                await sendTelegramMessage(chatId, `Category selected: ${value}`);
-                await processFiltersCommand(chatId, users);
-            } else {
-                await sendTelegramMessage(chatId, 'Unknown command.');
-            }
+        }
+    } catch (error) {
+        console.error('Error handling callback query:', error);
+        await sendTelegramMessage(chatId, 'An error occurred while processing your request.');
     }
 }
 
-
 module.exports = {
     processFiltersCommand,
-    applyPresetFilters,
     showCategories,
     processIntervalCommand,
     processHistoryCommand,
@@ -367,5 +328,4 @@ module.exports = {
     showBrands,
     showSizes,
     showPrices
-    // showIntervals
 };
