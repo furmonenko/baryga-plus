@@ -58,10 +58,10 @@ app.use((err, req, res, next) => {
     res.status(500).send('Something went wrong.');
 });
 
-app.listen(port, async () => {
+app.listen(port, '0.0.0.0', async () => {
     try {
         await setBotCommands(); // Встановлення команд бота при запуску сервера
-        console.log(`Server is running on http://localhost:${port}`);
+        console.log(`Server is running on http://0.0.0.0:${port}`);
     } catch (err) {
         console.error('Error setting bot commands:', err);
     }
