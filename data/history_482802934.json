@@ -1,0 +1,26 @@
+[
+  {
+    "productId": 4816372317,
+    "title": "Sweter Ralfh Lauren",
+    "url": "https://www.vinted.pl/items/4816372317-sweter-ralfh-lauren",
+    "image": "https://images1.vinted.net/tc/02_01a1e_iafRmqRNawBfLPfN9Q4udth4/1722103119.jpeg?s=2ead53629c0476a7222e3ba6eb81d6f3716dff56",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Ralph Lauren",
+    "size": "XL",
+    "price": {
+      "amount": "75.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "4.45",
+      "totalAmount": "79.45"
+    },
+    "seller": {
+      "userId": 95897883,
+      "username": "iszki123",
+      "profile": "https://www.vinted.pl/member/95897883-iszki123",
+      "profilePicture": "https://images1.vinted.net/t/03_007b2_BoXfRQxfxx6ofghSfVuFGBbb/f800/1654624825.jpeg?s=1ff3140d3aebc342fbbc3b16094ed79be828a677"
+    },
+    "category": 79
+  }
+]
