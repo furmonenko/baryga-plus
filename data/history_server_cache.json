@@ -1,25 +1,433 @@
 [
   {
-    "productId": 4813179868,
-    "title": "Stone island nylon cargo",
-    "url": "https://www.vinted.pl/items/4813179868-stone-island-nylon-cargo",
-    "image": "https://images1.vinted.net/tc/01_00a6b_UjuyDqBUAgN3c4iYHVV8Diva/1722026008.jpeg?s=74a66231249598b7ac72da7853ccdacbf1f8c706",
+    "productId": 4815759372,
+    "title": "Koszulka polo  stone island casual drip y2k rozmiar xl",
+    "url": "https://www.vinted.pl/items/4815759372-koszulka-polo-stone-island-casual-drip-y2k-rozmiar-xl",
+    "image": "https://images1.vinted.net/tc/02_00fbf_wsELtGgHv21wyv3ZTsxa2moS/1722094526.jpeg?s=d8e72665af9b9282e84d08830812ec7373f136c8",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "140.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "7.7",
+      "totalAmount": "147.7"
+    },
+    "seller": {
+      "userId": 203146562,
+      "username": "maro.spawaro",
+      "profile": "https://www.vinted.pl/member/203146562-marospawaro",
+      "profilePicture": "https://images1.vinted.net/t/01_01fbe_Tud68ZwJaPUnYnvjtfa6FxFB/f800/1720447297.jpeg?s=f18885c1d2b4910040fef01c0322156e236e0fd1"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815345861,
+    "title": "Tricou Stone Island",
+    "url": "https://www.vinted.pl/items/4815345861-tricou-stone-island",
+    "image": "https://images1.vinted.net/tc/03_02388_tFRGxPsYmKs67ikruxGvPLNk/1722089574.jpeg?s=3623c41aa7d71760cd547ab37dfad63390618b9f",
+    "promoted": false,
+    "favourites": 2,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "69.55",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "4.18",
+      "totalAmount": "73.73"
+    },
+    "seller": {
+      "userId": 194430748,
+      "username": "dragosdadyy",
+      "profile": "https://www.vinted.pl/member/194430748-dragosdadyy",
+      "profilePicture": "https://images1.vinted.net/t/03_01012_oMrbhT94PDDri9Lbc3Su2DkX/f800/1711039434.jpeg?s=0aaafae215d9995d8d361aeb2dcdcd0857685e01"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815479691,
+    "title": "Blå Stone island piké",
+    "url": "https://www.vinted.pl/items/4815479691-bla-stone-island-pike",
+    "image": "https://images1.vinted.net/tc/03_00425_br7NYMH9zSCtEciUC1xhwAF6/1722091176.jpeg?s=879137dafb712d9eba7c171a528c4e834ac4bf95",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "110.5",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "6.23",
+      "totalAmount": "116.73"
+    },
+    "seller": {
+      "userId": 197786696,
+      "username": "evelynlund",
+      "profile": "https://www.vinted.pl/member/197786696-evelynlund",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815465138,
+    "title": "Rosa stone island tshirt",
+    "url": "https://www.vinted.pl/items/4815465138-rosa-stone-island-tshirt",
+    "image": "https://images1.vinted.net/tc/03_0035d_MMdjkYLPUz5irPjf38n7Z9Fo/1722091002.jpeg?s=b33f53229f6732ad8a209eeacb4ee64fb93bd0c4",
+    "promoted": false,
+    "favourites": 2,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "257.82",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "13.59",
+      "totalAmount": "271.41"
+    },
+    "seller": {
+      "userId": 197786696,
+      "username": "evelynlund",
+      "profile": "https://www.vinted.pl/member/197786696-evelynlund",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815423303,
+    "title": "Stone island cargo pants",
+    "url": "https://www.vinted.pl/items/4815423303-stone-island-cargo-pants",
+    "image": "https://images1.vinted.net/tc/01_004c3_RpMziLUPP44H3cTsUQdxDrjQ/1722090505.jpeg?s=76eaf8fec8c993d0a422af9704f4824effec676a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "260.59",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "13.73",
+      "totalAmount": "274.32"
+    },
+    "seller": {
+      "userId": 167571473,
+      "username": "lynge135",
+      "profile": "https://www.vinted.pl/member/167571473-lynge135",
+      "profilePicture": "https://images1.vinted.net/t/03_01871_gs1Lr5bE7jC7KjWgPtfcSqdx/f800/1720634066.jpeg?s=e4387cbd09269241bf97e0089a9b9cd3913d9d4c"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815379461,
+    "title": "Vit pikétröja Stone Island",
+    "url": "https://www.vinted.pl/items/4815379461-vit-piketroja-stone-island",
+    "image": "https://images1.vinted.net/tc/02_004ea_RggT5qbxrMhyhLihKci4dyvM/1722089980.jpeg?s=1de4e23188c9220c2684e43dd72effa05db15399",
     "promoted": false,
     "favourites": 1,
     "brand": "Stone Island",
-    "size": "52 | W36",
+    "size": "M",
     "price": {
-      "amount": "247.94",
+      "amount": "165.74",
       "currency": "PLN",
       "discount": null,
-      "fees": "13.1",
-      "totalAmount": "261.04"
+      "fees": "8.99",
+      "totalAmount": "174.73"
+    },
+    "seller": {
+      "userId": 132645818,
+      "username": "davidssonandersson",
+      "profile": "https://www.vinted.pl/member/132645818-davidssonandersson",
+      "profilePicture": "https://images1.vinted.net/t/01_012c4_7tqKPWY3LD8E6VR5oqArE9pu/f800/1707194003.jpeg?s=b477dbfb644368acac8ecdd1851266acc5fce733"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815335351,
+    "title": "Stone island jeans",
+    "url": "https://www.vinted.pl/items/4815335351-stone-island-jeans",
+    "image": "https://images1.vinted.net/tc/03_009bf_ZQ348aRxxRJp5Bm4rtpSaUhH/1722089449.jpeg?s=7b34ab73c7126b572e8486595094dc6727ec63d6",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "46 | W29",
+    "price": {
+      "amount": "153.34",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "8.37",
+      "totalAmount": "161.71"
     },
     "seller": {
       "userId": 171999806,
       "username": "qweral",
       "profile": "https://www.vinted.pl/member/171999806-qweral",
       "profilePicture": "https://images1.vinted.net/t/02_023f8_2fhQ3u2kQFDnWGrkBmLqYs8w/f800/1699961425.jpeg?s=bed5dd28e58298f7836a361ebe1f0f6fdf43d4ce"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4815101785,
+    "title": "Stone Island",
+    "url": "https://www.vinted.pl/items/4815101785-stone-island",
+    "image": "https://images1.vinted.net/tc/03_00b87_R7YQkFEzmTXEQZK57WNXV9Rp/1722086695.jpeg?s=09c87581e47ccbd1ac257c25e4cfa2faed46d83d",
+    "promoted": false,
+    "favourites": 4,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "55.32",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.47",
+      "totalAmount": "58.79"
+    },
+    "seller": {
+      "userId": 192507399,
+      "username": "b.h.adel",
+      "profile": "https://www.vinted.pl/member/192507399-bhadel",
+      "profilePicture": "https://images1.vinted.net/t/01_01c55_DmH7aojyN1ezTxTjQFYexshx/f800/1711920805.jpeg?s=49325f65a839eac7ee0275d11dd4231fdc147835"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4809868001,
+    "title": "Koszulka stone island",
+    "url": "https://www.vinted.pl/items/4809868001-koszulka-stone-island",
+    "image": "https://images1.vinted.net/tc/03_0116e_wEXafiePXRK8WAw6i21imnwt/1721946470.jpeg?s=e9f569c57c4b6adf24a9716c262634df754e9a83",
+    "promoted": false,
+    "favourites": 5,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "140.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "7.7",
+      "totalAmount": "147.7"
+    },
+    "seller": {
+      "userId": 137302439,
+      "username": "daniel96690",
+      "profile": "https://www.vinted.pl/member/137302439-daniel96690",
+      "profilePicture": "https://images1.vinted.net/t/02_01cac_6wC2XXyan8Au55E5mtY636KN/f800/1698041334.jpeg?s=a961e0f297bfc2da6e225f7864c986fd13b3447e"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4814932050,
+    "title": "Stone Island polo Shirt Biała 72x57cm",
+    "url": "https://www.vinted.pl/items/4814932050-stone-island-polo-shirt-biala-72x57cm",
+    "image": "https://images1.vinted.net/tc/03_018bb_CQCtW7dhYxYTRgE459CvEofa/1722084653.jpeg?s=9d01804a6502485273dbc4190833e3f5961475c5",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "100.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "5.7",
+      "totalAmount": "105.7"
+    },
+    "seller": {
+      "userId": 90552880,
+      "username": "j.tarnowska02",
+      "profile": "https://www.vinted.pl/member/90552880-jtarnowska02",
+      "profilePicture": "https://images1.vinted.net/t/02_009dc_NTrPyuLqrE1UvGj6RxFmnyPf/f800/1652707296.jpeg?s=6b5130846e45479fa7b1418aebc6e0d2ce1acce0"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4814373120,
+    "title": "Vintage Stone Island spodnie 90s casual pants luxury cargo baggy Italian designer streetwear",
+    "url": "https://www.vinted.pl/items/4814373120-vintage-stone-island-spodnie-90s-casual-pants-luxury-cargo-baggy-italian-designer-streetwear",
+    "image": "https://images1.vinted.net/tc/03_01290_n2EiiaS9wjF8EDB8CoY7VEo8/1722077433.jpeg?s=1bdd3629799d56addce4142cd6ae6ad90e4fd9ce",
+    "promoted": true,
+    "favourites": 6,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "135.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "7.45",
+      "totalAmount": "142.45"
+    },
+    "seller": {
+      "userId": 92110493,
+      "username": "fzcnbch",
+      "profile": "https://www.vinted.pl/member/92110493-fzcnbch",
+      "profilePicture": "https://images1.vinted.net/t/03_01176_nNMJ3EFehx4RsiPiyEBYHuCf/f800/1695159845.jpeg?s=f75c2ad81e2d7ea45a026f2ad37c1c83bb7fef50"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4814342787,
+    "title": "Stone island polo",
+    "url": "https://www.vinted.pl/items/4814342787-stone-island-polo",
+    "image": "https://images1.vinted.net/tc/02_01c52_Z4WjFvmUWtZDXsecSrsmSFQQ/1722077025.jpeg?s=1d593631b9724a62100a45aa85f97b190f3d66ea",
+    "promoted": false,
+    "favourites": 5,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "121.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "6.75",
+      "totalAmount": "127.75"
+    },
+    "seller": {
+      "userId": 218836522,
+      "username": "mantas3315",
+      "profile": "https://www.vinted.pl/member/218836522-mantas3315",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
+    "productId": 4813995685,
+    "title": "Koszulka stone island",
+    "url": "https://www.vinted.pl/items/4813995685-koszulka-stone-island",
+    "image": "https://images1.vinted.net/tc/03_01117_iYVbjc4ETapQFzw5td4STkcC/1722072378.jpeg?s=73e014ad6346d61499d7a1a9f806df3988cbbab3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "70.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "4.2",
+      "totalAmount": "74.2"
+    },
+    "seller": {
+      "userId": 192102564,
+      "username": "truesato",
+      "profile": "https://www.vinted.pl/member/192102564-truesato",
+      "profilePicture": "https://images1.vinted.net/t/03_006f1_CDoVwTjyzteRLhe14XsH8aim/f800/1721951724.jpeg?s=e462949ce13dcd635998cafd560926ca8ffb2bfe"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4813793842,
+    "title": "Koszulka polo  Stone Island L",
+    "url": "https://www.vinted.pl/items/4813793842-koszulka-polo-stone-island-l",
+    "image": "https://images1.vinted.net/tc/03_02348_sQDPGAcr1C45zYQ3jQ7DKeFX/1722069236.jpeg?s=589661a0627eb6925688d2cda19e76f869dd0cbe",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "180.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "9.7",
+      "totalAmount": "189.7"
+    },
+    "seller": {
+      "userId": 91840111,
+      "username": "annaolanowak",
+      "profile": "https://www.vinted.pl/member/91840111-annaolanowak",
+      "profilePicture": "https://images1.vinted.net/t/01_004c0_2B7qpzasZstMLqxzUJDh3RYG/f800/1652884463.jpeg?s=1a71e61c9070fdced5ef3e64d7beb6b4c05d6ace"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4813581871,
+    "title": "Stone Island t-shirt",
+    "url": "https://www.vinted.pl/items/4813581871-stone-island-t-shirt",
+    "image": "https://images1.vinted.net/tc/02_01514_jdeLsy86hxF9pSFrdU7tERmK/1722064366.jpeg?s=d3989d0b6209996ee97e8230862d6a4198be1b0b",
+    "promoted": false,
+    "favourites": 4,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "115.24",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "6.46",
+      "totalAmount": "121.7"
+    },
+    "seller": {
+      "userId": 219110865,
+      "username": "nichskicks",
+      "profile": "https://www.vinted.pl/member/219110865-nichskicks",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
+    "productId": 4809207410,
+    "title": "Czapka z daszkiem stone island",
+    "url": "https://www.vinted.pl/items/4809207410-czapka-z-daszkiem-stone-island",
+    "image": "https://images1.vinted.net/tc/01_01f5e_RECetQYBZrPsdsvBoZ3SzWZP/1721931928.jpeg?s=4bd8fa02ff502add64ac039019e83760bcf33fd4",
+    "promoted": false,
+    "favourites": 12,
+    "brand": "Stone Island",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": "90.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "5.2",
+      "totalAmount": "95.2"
+    },
+    "seller": {
+      "userId": 137302439,
+      "username": "daniel96690",
+      "profile": "https://www.vinted.pl/member/137302439-daniel96690",
+      "profilePicture": "https://images1.vinted.net/t/02_01cac_6wC2XXyan8Au55E5mtY636KN/f800/1698041334.jpeg?s=a961e0f297bfc2da6e225f7864c986fd13b3447e"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4813403774,
+    "title": "Tricou Stone Island cu defect",
+    "url": "https://www.vinted.pl/items/4813403774-tricou-stone-island-cu-defect",
+    "image": "https://images1.vinted.net/tc/03_00d8c_dSoa6Dk4kcKPsU1Uy4eL7gPB/1722037964.jpeg?s=b78022ed67126ed0e640d4424eb994c9c0e3f643",
+    "promoted": false,
+    "favourites": 2,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "25.21",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.96",
+      "totalAmount": "27.17"
+    },
+    "seller": {
+      "userId": 199679282,
+      "username": "fashionpassions",
+      "profile": "https://www.vinted.pl/member/199679282-fashionpassions",
+      "profilePicture": "https://images1.vinted.net/t/01_00d21_QXyTeMAiheXxzm1YocpvxzBX/f800/1720850223.jpeg?s=a2fdad6347d988de1bed56190fc6268804011752"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4813111484,
+    "title": "Bluza stone island streetwear skate drill drip hype",
+    "url": "https://www.vinted.pl/items/4813111484-bluza-stone-island-streetwear-skate-drill-drip-hype",
+    "image": "https://images1.vinted.net/tc/01_0005e_i9Lq5nz54UZmtWFrrFcnteCA/1722024212.jpeg?s=8902924298585fd5656c617903039012c7e5a5d2",
+    "promoted": false,
+    "favourites": 4,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "299.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.65",
+      "totalAmount": "314.65"
+    },
+    "seller": {
+      "userId": 185338704,
+      "username": "szafadarka00",
+      "profile": "https://www.vinted.pl/member/185338704-szafadarka00",
+      "profilePicture": "https://images1.vinted.net/t/02_021ac_K8TefUf5Aofq4H6vembzXvi7/f800/1712088620.jpeg?s=072b07a9aa6513bf7c6fd74096d2cba481d92381"
     },
     "category": 5
   },
@@ -48,6 +456,30 @@
     "category": 5
   },
   {
+    "productId": 4807958268,
+    "title": "Stone Island Bluza",
+    "url": "https://www.vinted.pl/items/4807958268-stone-island-bluza",
+    "image": "https://images1.vinted.net/tc/01_005d0_87ZegrG1zGYuhh8inBESuSSz/1721916065.jpeg?s=587fd14d122395aeb8a64e6661df4285b7cdb634",
+    "promoted": false,
+    "favourites": 12,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 154080498,
+      "username": "koval26",
+      "profile": "https://www.vinted.pl/member/154080498-koval26",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
     "productId": 4813020267,
     "title": "Stone Island Polo Shirt (burgundy) (S)",
     "url": "https://www.vinted.pl/items/4813020267-stone-island-polo-shirt-burgundy-s",
@@ -57,11 +489,11 @@
     "brand": "Stone Island",
     "size": "S",
     "price": {
-      "amount": "113.46",
+      "amount": "113.02",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.37",
-      "totalAmount": "119.83"
+      "fees": "6.35",
+      "totalAmount": "119.37"
     },
     "seller": {
       "userId": 151280458,
@@ -81,11 +513,11 @@
     "brand": "Stone Island",
     "size": "M",
     "price": {
-      "amount": "145.25",
+      "amount": "144.77",
       "currency": "PLN",
       "discount": null,
-      "fees": "7.96",
-      "totalAmount": "153.21"
+      "fees": "7.94",
+      "totalAmount": "152.71"
     },
     "seller": {
       "userId": 217706925,
@@ -96,44 +528,20 @@
     "category": 5
   },
   {
-    "productId": 4812820890,
-    "title": "Stone island",
-    "url": "https://www.vinted.pl/items/4812820890-stone-island",
-    "image": "https://images1.vinted.net/tc/02_0263d_eGwPVWK5kU5Ne1RoJgpv34fX/1722018079.jpeg?s=0bcfaf9b3144d1151a59a7cd1ec73bedc91f095b",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "XXL",
-    "price": {
-      "amount": "125.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.95",
-      "totalAmount": "131.95"
-    },
-    "seller": {
-      "userId": 107979120,
-      "username": "anton16258",
-      "profile": "https://www.vinted.pl/member/107979120-anton16258",
-      "profilePicture": "https://images1.vinted.net/t/02_01f79_sJKQNGgT1qeU6YrzfA5eiMpt/f800/1687027537.jpeg?s=dc9ee51f7a83e0a27e20077123687953810e515f"
-    },
-    "category": 5
-  },
-  {
     "productId": 4812817882,
     "title": "Šortai.",
     "url": "https://www.vinted.pl/items/4812817882-sortai",
     "image": "https://images1.vinted.net/tc/03_00da4_1jRr5h9tNo5HuSRhV3QkTYxX/1722018021.jpeg?s=6a2ed47d1a59fc2714553e97b49719461f905d9c",
     "promoted": false,
-    "favourites": 2,
+    "favourites": 4,
     "brand": "Stone Island",
     "size": "48 | W32",
     "price": {
-      "amount": "216.81",
+      "amount": "216.07",
       "currency": "PLN",
       "discount": null,
-      "fees": "11.54",
-      "totalAmount": "228.35"
+      "fees": "11.5",
+      "totalAmount": "227.57"
     },
     "seller": {
       "userId": 41407661,
@@ -153,11 +561,11 @@
     "brand": "Stone Island",
     "size": "XXL",
     "price": {
-      "amount": "120.0",
+      "amount": "100.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.7",
-      "totalAmount": "126.7"
+      "fees": "5.7",
+      "totalAmount": "105.7"
     },
     "seller": {
       "userId": 107979120,
@@ -177,11 +585,11 @@
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "208.5",
+      "amount": "208.1",
       "currency": "PLN",
       "discount": null,
-      "fees": "11.13",
-      "totalAmount": "219.63"
+      "fees": "11.11",
+      "totalAmount": "219.21"
     },
     "seller": {
       "userId": 167793416,
@@ -192,26 +600,74 @@
     "category": 5
   },
   {
-    "productId": 4812444579,
-    "title": "Bluza z kapturem Stone Island",
-    "url": "https://www.vinted.pl/items/4812444579-bluza-z-kapturem-stone-island",
-    "image": "https://images1.vinted.net/tc/01_0155f_LFvGmmiRrHAXf5kKh9VrxVzu/1722011768.jpeg?s=669cd144fb71fa794f67556e342e39214a6c75d9",
+    "productId": 4812611121,
+    "title": "Bluza crewneck stone island drip basic",
+    "url": "https://www.vinted.pl/items/4812611121-bluza-crewneck-stone-island-drip-basic",
+    "image": "https://images1.vinted.net/tc/02_0012e_sMbG8sWeFAAaztbTg3JijfBg/1722014300.jpeg?s=8c699f4e63de8c2516ba48911520d8b85bb3ed6b",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 90894310,
+      "username": "dominik989",
+      "profile": "https://www.vinted.pl/member/90894310-dominik989",
+      "profilePicture": "https://images1.vinted.net/t/03_0155b_ut95iKM962rcW9nB1jbAkEjs/f800/1714310075.jpeg?s=7e64a9ea9d8e4fb885f6aabd2047afb13d1dab6c"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4812453835,
+    "title": "Stone Island T-shirt",
+    "url": "https://www.vinted.pl/items/4812453835-stone-island-t-shirt",
+    "image": "https://images1.vinted.net/tc/01_00435_bMVFGZoXoHCXYaYosqSk68zr/1722011903.jpeg?s=5f3d5b8e367cb0adda466f126cfc4938467a8e0e",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "298.18",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.61",
+      "totalAmount": "313.79"
+    },
+    "seller": {
+      "userId": 207420836,
+      "username": "moulaga45",
+      "profile": "https://www.vinted.pl/member/207420836-moulaga45",
+      "profilePicture": null
+    },
+    "category": 5
+  },
+  {
+    "productId": 4812440698,
+    "title": "Stone Island bukser",
+    "url": "https://www.vinted.pl/items/4812440698-stone-island-bukser",
+    "image": "https://images1.vinted.net/tc/02_006a6_p2QnMZmvThHd6ekyUYPnivKz/1722011713.jpeg?s=03472be0eef87b3ec750d543fa3d4987652b270c",
     "promoted": false,
     "favourites": 4,
     "brand": "Stone Island",
-    "size": "XL",
+    "size": "S",
     "price": {
-      "amount": "180.0",
+      "amount": "289.54",
       "currency": "PLN",
       "discount": null,
-      "fees": "9.7",
-      "totalAmount": "189.7"
+      "fees": "15.18",
+      "totalAmount": "304.72"
     },
     "seller": {
-      "userId": 90934852,
-      "username": "1-tanio-2-modnie",
-      "profile": "https://www.vinted.pl/member/90934852-1-tanio-2-modnie",
-      "profilePicture": "https://images1.vinted.net/t/03_02630_1QAEC5LQLJiVkojKrz48dNk6/f800/1652778393.jpeg?s=09433603d7f7c9cd18a1fd056c07909d30590e50"
+      "userId": 175937441,
+      "username": "amandamobergg",
+      "profile": "https://www.vinted.pl/member/175937441-amandamobergg",
+      "profilePicture": "https://images1.vinted.net/t/01_006c6_X8oXeqHvLxWkaiZHC3UuHfxr/f800/1701903076.jpeg?s=7cc632202089f6e1838e6b69561f74064e034cb7"
     },
     "category": 5
   },
@@ -221,15 +677,15 @@
     "url": "https://www.vinted.pl/items/4812271690-lila-stone-island-t-shirt",
     "image": "https://images1.vinted.net/tc/01_001b8_WD5hwCYJAMWpbEg7x2kbzc4B/1722009340.jpeg?s=12d97bec2fdfe1a56a379e42a94a22aef160bcd5",
     "promoted": true,
-    "favourites": 1,
+    "favourites": 2,
     "brand": "Stone Island",
     "size": "M",
     "price": {
-      "amount": "166.06",
+      "amount": "165.74",
       "currency": "PLN",
       "discount": null,
-      "fees": "9.0",
-      "totalAmount": "175.06"
+      "fees": "8.99",
+      "totalAmount": "174.73"
     },
     "seller": {
       "userId": 209939029,
@@ -245,7 +701,7 @@
     "url": "https://www.vinted.pl/items/4812259391-tshirt-polo-stone-island-xxl",
     "image": "https://images1.vinted.net/tc/01_007c5_Jxfp81fqNYAvrhbBZm1hCfAt/1722009173.jpeg?s=862e30eb664d52335f5a52e5204152f84e1df1f4",
     "promoted": false,
-    "favourites": 0,
+    "favourites": 1,
     "brand": "Stone Island",
     "size": "XXL",
     "price": {
@@ -269,7 +725,7 @@
     "url": "https://www.vinted.pl/items/4812258091-spodenki-stone-island-blekitne",
     "image": "https://images1.vinted.net/tc/01_000e4_C1HRnZa5mmsgZYz6tVFfxNg1/1722009157.jpeg?s=20db88fc1b66b6c20373ac269bacbe5d735ea26c",
     "promoted": false,
-    "favourites": 3,
+    "favourites": 4,
     "brand": "Stone Island",
     "size": "XL",
     "price": {
@@ -293,7 +749,7 @@
     "url": "https://www.vinted.pl/items/4812191766-spodnie-stone-island",
     "image": "https://images1.vinted.net/tc/03_012d6_Ms8HvDi8z1PVvxeH5CyJFevN/1722008264.jpeg?s=421806ac0b2d7f51610a4434255dde2e67bfec4e",
     "promoted": false,
-    "favourites": 4,
+    "favourites": 5,
     "brand": "Stone Island",
     "size": "52 | W36",
     "price": {
@@ -317,15 +773,15 @@
     "url": "https://www.vinted.pl/items/4812113218-stone-island-tee",
     "image": "https://images1.vinted.net/tc/02_01e09_ihmZEqQVgMpCU69JVkoiHMzJ/1722007208.jpeg?s=127768e587d0da772225b5d0fba63b6957db9f52",
     "promoted": false,
-    "favourites": 1,
+    "favourites": 3,
     "brand": "Stone Island",
     "size": "M",
     "price": {
-      "amount": "87.15",
+      "amount": "86.86",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.06",
-      "totalAmount": "92.21"
+      "fees": "5.04",
+      "totalAmount": "91.9"
     },
     "seller": {
       "userId": 216590889,
@@ -365,15 +821,15 @@
     "url": "https://www.vinted.pl/items/4812022483-stone-island-hoodie",
     "image": "https://images1.vinted.net/tc/01_02480_cGcswp8jDbP9n8wbQZ3Lvnio/1722006016.jpeg?s=56a785b68f7a456796f0885dc42d64a1d8746ca8",
     "promoted": false,
-    "favourites": 1,
+    "favourites": 3,
     "brand": "Stone Island",
     "size": "M",
     "price": {
-      "amount": "176.81",
+      "amount": "177.02",
       "currency": "PLN",
       "discount": null,
-      "fees": "9.54",
-      "totalAmount": "186.35"
+      "fees": "9.55",
+      "totalAmount": "186.57"
     },
     "seller": {
       "userId": 219025707,
@@ -393,11 +849,11 @@
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "100.0",
+      "amount": "80.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
+      "fees": "4.7",
+      "totalAmount": "84.7"
     },
     "seller": {
       "userId": 193280071,
@@ -437,15 +893,15 @@
     "url": "https://www.vinted.pl/items/4811771095-stone-island-ferfi-rovidnadrag-l-es-meretben",
     "image": "https://images1.vinted.net/tc/03_00ce3_Y7pzfxFcovH1y2yEQGvD8bhD/1722003649.jpeg?s=5206c8e1b27bb794e9e1ca5c0e3d9a88190a2336",
     "promoted": false,
-    "favourites": 1,
+    "favourites": 3,
     "brand": "Stone Island",
     "size": "L",
     "price": {
-      "amount": "132.6",
+      "amount": "132.76",
       "currency": "PLN",
       "discount": null,
-      "fees": "7.33",
-      "totalAmount": "139.93"
+      "fees": "7.34",
+      "totalAmount": "140.1"
     },
     "seller": {
       "userId": 135902563,
@@ -480,26 +936,26 @@
     "category": 5
   },
   {
-    "productId": 4811731375,
-    "title": "Dwie patki naszywki Stone Island orginalnae",
-    "url": "https://www.vinted.pl/items/4811731375-dwie-patki-naszywki-stone-island-orginalnae",
-    "image": "https://images1.vinted.net/tc/03_0080d_R9M433u4Aiss7BAAHGzfBD9W/1722002210.jpeg?s=4dff2ced0c29a1bd83248bb167dff6ae4922eadb",
+    "productId": 4811498916,
+    "title": "Stone Island mikina vintage",
+    "url": "https://www.vinted.pl/items/4811498916-stone-island-mikina-vintage",
+    "image": "https://images1.vinted.net/tc/01_00b2f_q3x74AbLjGBZNDHXgps6Swox/1721999222.jpeg?s=38af4815c65939a2b7b2d60d09a1d54e9d5f20ed",
     "promoted": false,
-    "favourites": 9,
+    "favourites": 4,
     "brand": "Stone Island",
-    "size": null,
+    "size": "S",
     "price": {
-      "amount": "65.0",
+      "amount": "264.08",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.95",
-      "totalAmount": "68.95"
+      "fees": "13.9",
+      "totalAmount": "277.98"
     },
     "seller": {
-      "userId": 193908787,
-      "username": "marcinekdro",
-      "profile": "https://www.vinted.pl/member/193908787-marcinekdro",
-      "profilePicture": "https://images1.vinted.net/t/02_004eb_KYzGfGsXz9ykVHwsbNx83Qwo/f800/1710787210.jpeg?s=c75dfa72bc5f4e11fe487aa3645c0b8f462b5b40"
+      "userId": 165172607,
+      "username": "volodymyr.1",
+      "profile": "https://www.vinted.pl/member/165172607-volodymyr1",
+      "profilePicture": "https://images1.vinted.net/t/02_012b0_e7xypJTn4YPtr68d19APgfak/f800/1712147245.jpeg?s=0b2f5f21f5afac924524161ef86d5253756592a6"
     },
     "category": 5
   },
@@ -509,15 +965,15 @@
     "url": "https://www.vinted.pl/items/4811444947-vintage-y2k-stone-island-longsleeve",
     "image": "https://images1.vinted.net/tc/01_0083f_Q2KnMjn9yD3DYuSzznpR8jTT/1721998534.jpeg?s=4c16335dd96a0d49f953c2b6deb2653d4288633c",
     "promoted": false,
-    "favourites": 2,
+    "favourites": 3,
     "brand": "Stone Island",
     "size": "S",
     "price": {
-      "amount": "65.46",
+      "amount": "65.2",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.97",
-      "totalAmount": "69.43"
+      "fees": "3.96",
+      "totalAmount": "69.16"
     },
     "seller": {
       "userId": 147726708,
@@ -528,26 +984,26 @@
     "category": 5
   },
   {
-    "productId": 4810802924,
-    "title": "Koszulka Stone Island L",
-    "url": "https://www.vinted.pl/items/4810802924-koszulka-stone-island-l",
-    "image": "https://images1.vinted.net/tc/03_01d45_HC1gLf3qauoLG1a1YUhe8eQ1/1721989617.jpeg?s=3380c7983d791a050b4a48c5642539aa5372e294",
+    "productId": 4811106107,
+    "title": "Stone Island super spodnie męskie czarne eleganckie materiałowe cienkie jeansy",
+    "url": "https://www.vinted.pl/items/4811106107-stone-island-super-spodnie-meskie-czarne-eleganckie-materialowe-cienkie-jeansy",
+    "image": "https://images1.vinted.net/tc/03_00e59_4GghirVjXLbXDxWJKXU5j4Jp/1721993947.jpeg?s=b693dd59003718f76bf438fc31598ef4ac215437",
     "promoted": false,
-    "favourites": 17,
+    "favourites": 4,
     "brand": "Stone Island",
-    "size": "L",
+    "size": "XL",
     "price": {
-      "amount": "152.0",
+      "amount": "299.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "8.3",
-      "totalAmount": "160.3"
+      "fees": "15.65",
+      "totalAmount": "314.65"
     },
     "seller": {
-      "userId": 190242679,
-      "username": "andr2151",
-      "profile": "https://www.vinted.pl/member/190242679-andr2151",
-      "profilePicture": "https://images1.vinted.net/t/02_011ba_Dim7ZYjJcrKzHBWuCcacgKEh/f800/1709146716.jpeg?s=e9cab9b8ae1b47800236c0736f3ae084535b186a"
+      "userId": 90761197,
+      "username": "best.ever93",
+      "profile": "https://www.vinted.pl/member/90761197-bestever93",
+      "profilePicture": "https://images1.vinted.net/t/03_00a93_kMBNDR2XYnFTZXnbL2jNEw8u/f800/1652727502.jpeg?s=54f0feee6328df51f706ad532b8c46f86a132f22"
     },
     "category": 5
   },
@@ -557,15 +1013,15 @@
     "url": "https://www.vinted.pl/items/4810517960-stone-island-short-sleeve",
     "image": "https://images1.vinted.net/tc/02_00384_QKxRSz5MtfYgkKF9owP6YrC7/1721985566.jpeg?s=67a0d7730be08e3cbb14723f8a67cc0de62c0fd0",
     "promoted": false,
-    "favourites": 8,
+    "favourites": 9,
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "232.11",
+      "amount": "231.67",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.31",
-      "totalAmount": "244.42"
+      "fees": "12.28",
+      "totalAmount": "243.95"
     },
     "seller": {
       "userId": 167793416,
@@ -585,11 +1041,11 @@
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "221.01",
+      "amount": "199.15",
       "currency": "PLN",
       "discount": null,
-      "fees": "11.75",
-      "totalAmount": "232.76"
+      "fees": "10.66",
+      "totalAmount": "209.81"
     },
     "seller": {
       "userId": 209708113,
@@ -629,7 +1085,7 @@
     "url": "https://www.vinted.pl/items/4809782479-sprzedam-guziki-stone-island",
     "image": "https://images1.vinted.net/tc/01_01ef1_4jdbzXkcZnnpkserkLP3ewdE/1721942792.jpeg?s=2dfe79c2715d36921e2d308d84872e50aa61f48a",
     "promoted": false,
-    "favourites": 4,
+    "favourites": 7,
     "brand": "Stone Island",
     "size": null,
     "price": {
@@ -729,11 +1185,11 @@
     "brand": "Stone Island",
     "size": "50 | W33",
     "price": {
-      "amount": "92.25",
+      "amount": "92.08",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.31",
-      "totalAmount": "97.56"
+      "fees": "5.3",
+      "totalAmount": "97.38"
     },
     "seller": {
       "userId": 173873138,
@@ -753,11 +1209,11 @@
     "brand": "Stone Island",
     "size": "85 cm",
     "price": {
-      "amount": "175.28",
+      "amount": "174.95",
       "currency": "PLN",
       "discount": null,
-      "fees": "9.46",
-      "totalAmount": "184.74"
+      "fees": "9.45",
+      "totalAmount": "184.4"
     },
     "seller": {
       "userId": 173873138,
@@ -797,7 +1253,7 @@
     "url": "https://www.vinted.pl/items/4808923573-stone-island-biala-bialy-tshirt-koszulka-bawelna-s",
     "image": "https://images1.vinted.net/tc/02_014a9_UQo2LUi98yN68eiTU2iYkRxh/1721927848.jpeg?s=71a116c9c7f236ebb5dcb45cf367d839dbebf5f6",
     "promoted": false,
-    "favourites": 4,
+    "favourites": 6,
     "brand": "Stone Island",
     "size": "S",
     "price": {
@@ -816,6 +1272,30 @@
     "category": 5
   },
   {
+    "productId": 4804379441,
+    "title": "Stone Island new Bluza",
+    "url": "https://www.vinted.pl/items/4804379441-stone-island-new-bluza",
+    "image": "https://images1.vinted.net/tc/02_0067c_qVQBpXrjQsV3kURxWj75qbb7/1721834560.jpeg?s=2393a9a5f4fbf0f70ff291127c2330f75f92d194",
+    "promoted": false,
+    "favourites": 7,
+    "brand": "Stone Island",
+    "size": "XL",
+    "price": {
+      "amount": "275.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "14.45",
+      "totalAmount": "289.45"
+    },
+    "seller": {
+      "userId": 178087754,
+      "username": "mark.shop.pl",
+      "profile": "https://www.vinted.pl/member/178087754-markshoppl",
+      "profilePicture": "https://images1.vinted.net/t/03_011ee_BZbjLU1XHunHKTiQG3M8WEaa/f800/1709832223.jpeg?s=fb3fb896cb68e83e293df7c4089094175a7904a5"
+    },
+    "category": 5
+  },
+  {
     "productId": 4807986347,
     "title": "Tricou stone island",
     "url": "https://www.vinted.pl/items/4807986347-tricou-stone-island",
@@ -825,11 +1305,11 @@
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "165.82",
+      "amount": "165.18",
       "currency": "PLN",
       "discount": null,
-      "fees": "8.99",
-      "totalAmount": "174.81"
+      "fees": "8.96",
+      "totalAmount": "174.14"
     },
     "seller": {
       "userId": 170517300,
@@ -845,15 +1325,15 @@
     "url": "https://www.vinted.pl/items/4807962807-pulover-stone-island",
     "image": "https://images1.vinted.net/tc/01_0160e_AfvUNEUCHrRXrBGfpgT7p8Fh/1721916118.jpeg?s=142fe5d3a0d1e630333f9003709b9b7281972912",
     "promoted": false,
-    "favourites": 16,
+    "favourites": 19,
     "brand": "Stone Island",
     "size": "S",
     "price": {
-      "amount": "174.55",
+      "amount": "173.87",
       "currency": "PLN",
       "discount": null,
-      "fees": "9.43",
-      "totalAmount": "183.98"
+      "fees": "9.39",
+      "totalAmount": "183.26"
     },
     "seller": {
       "userId": 186074440,
@@ -864,20 +1344,68 @@
     "category": 5
   },
   {
+    "productId": 4807792499,
+    "title": "Spodnie cargo stone island khaki slim fit",
+    "url": "https://www.vinted.pl/items/4807792499-spodnie-cargo-stone-island-khaki-slim-fit",
+    "image": "https://images1.vinted.net/tc/03_01837_CAZcnpJzmQknmAwhQHmy2Qmr/1721914136.jpeg?s=254f8d11dccde74ea4b169e265ad8f9cdf87682a",
+    "promoted": false,
+    "favourites": 7,
+    "brand": "Stone Island",
+    "size": "50 | W34",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 90562550,
+      "username": "bryk_bartosz",
+      "profile": "https://www.vinted.pl/member/90562550-brykbartosz",
+      "profilePicture": "https://images1.vinted.net/t/02_003cf_H3rdifQvWn4GAGdWFWCnsBVm/f800/1660218576.jpeg?s=befddb883b74d521e5a3d223165650cae3e1ea24"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4807702270,
+    "title": "Spodenki stone island",
+    "url": "https://www.vinted.pl/items/4807702270-spodenki-stone-island",
+    "image": "https://images1.vinted.net/tc/02_01cdd_gDQ74BVakEdQTGBD7wBCDyMJ/1721913081.jpeg?s=6b71e34e09ec273077f5459e263ab818aa359114",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "299.99",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.69"
+    },
+    "seller": {
+      "userId": 215234587,
+      "username": "aniadec0",
+      "profile": "https://www.vinted.pl/member/215234587-aniadec0",
+      "profilePicture": "https://images1.vinted.net/t/03_009a7_RJnUgf9MQQnHdpvF6otrm9iT/f800/1720299851.jpeg?s=5c15178f222781eee6c786b5f809bef9e0226efe"
+    },
+    "category": 5
+  },
+  {
     "productId": 4638793135,
     "title": "Stone island tričko",
     "url": "https://www.vinted.pl/items/4638793135-stone-island-tricko",
     "image": "https://images1.vinted.net/tc/01_025a5_1qGkg6V17GAgCWq495PCZi2f/1718303327.jpeg?s=97b2e371b48b4f4c9b32f0219f4e3c03c20137d7",
     "promoted": false,
-    "favourites": 12,
+    "favourites": 13,
     "brand": "Stone Island",
     "size": "L",
     "price": {
-      "amount": "151.77",
+      "amount": "151.25",
       "currency": "PLN",
       "discount": null,
-      "fees": "8.29",
-      "totalAmount": "160.06"
+      "fees": "8.26",
+      "totalAmount": "159.51"
     },
     "seller": {
       "userId": 126743487,
@@ -893,7 +1421,7 @@
     "url": "https://www.vinted.pl/items/4807509727-koszulka-stone-island",
     "image": "https://images1.vinted.net/tc/01_00b37_NZXxvo5Kz6s6Dd6ShEz8JvHM/1721910794.jpeg?s=c181bd27a22ba1832c81ff612193fb58763c6672",
     "promoted": false,
-    "favourites": 3,
+    "favourites": 4,
     "brand": "Stone Island",
     "size": "XXL",
     "price": {
@@ -921,11 +1449,11 @@
     "brand": "Stone Island",
     "size": "XXL",
     "price": {
-      "amount": "165.65",
+      "amount": "165.85",
       "currency": "PLN",
       "discount": null,
-      "fees": "8.98",
-      "totalAmount": "174.63"
+      "fees": "8.99",
+      "totalAmount": "174.84"
     },
     "seller": {
       "userId": 121941053,
@@ -941,15 +1469,15 @@
     "url": "https://www.vinted.pl/items/4807434187-stone-island-patch-program-sweatshirt",
     "image": "https://images1.vinted.net/tc/03_00f93_FPw91J7abQYYDfLqHen7PCno/1721909880.jpeg?s=fab481c362a4293258c6204fb975513ab7686c3f",
     "promoted": false,
-    "favourites": 4,
+    "favourites": 8,
     "brand": "Stone Island",
     "size": "L",
     "price": {
-      "amount": "221.01",
+      "amount": "221.27",
       "currency": "PLN",
       "discount": null,
-      "fees": "11.75",
-      "totalAmount": "232.76"
+      "fees": "11.76",
+      "totalAmount": "233.03"
     },
     "seller": {
       "userId": 138191567,
@@ -989,7 +1517,7 @@
     "url": "https://www.vinted.pl/items/4778370906-kapelusz-stone-island-vintage-opium-drip-drill",
     "image": "https://images1.vinted.net/tc/02_01f25_tngpRiqZmRUXFZo5jfvztdrx/1721750479.jpeg?s=2b73403d0489859d13b332caa1b9078b7ca09041",
     "promoted": false,
-    "favourites": 21,
+    "favourites": 23,
     "brand": "Stone Island",
     "size": "Uniwersalny",
     "price": {
@@ -1013,7 +1541,7 @@
     "url": "https://www.vinted.pl/items/4807284831-czarny-sweter",
     "image": "https://images1.vinted.net/tc/01_02507_aknKg1XW2E36c2A7eSBcLSS1/1721908025.jpeg?s=6608400f412e925949e183259e63c6a581d0650c",
     "promoted": false,
-    "favourites": 4,
+    "favourites": 7,
     "brand": "Stone Island",
     "size": "S",
     "price": {
@@ -1037,21 +1565,69 @@
     "url": "https://www.vinted.pl/items/4806958921-w36dydzio-stone-island-sortai",
     "image": "https://images1.vinted.net/tc/01_0121a_T8qSTHP7P5c1N7PLRz9qVCEk/1721903864.jpeg?s=e949ce1bf5dfb5dfccdd2ac603c7211209adb9f2",
     "promoted": false,
-    "favourites": 19,
+    "favourites": 24,
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "121.41",
+      "amount": "121.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.77",
-      "totalAmount": "128.18"
+      "fees": "6.75",
+      "totalAmount": "127.75"
     },
     "seller": {
       "userId": 41354988,
       "username": "linajuoz",
       "profile": "https://www.vinted.pl/member/41354988-linajuoz",
       "profilePicture": "https://images1.vinted.net/t/02_01096_GCRf3sfDHWjHoHVKwczCCu5Y/f800/1663853167.jpeg?s=8782b328b5b11ccdec292d9c82cc95f6c7e5cb32"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4806752283,
+    "title": "Svart keps från Stone island",
+    "url": "https://www.vinted.pl/items/4806752283-svart-keps-fran-stone-island",
+    "image": "https://images1.vinted.net/tc/02_00b41_L7XEJnpdAjZdDAL5kN1hmiqz/1721901272.jpeg?s=1a4eee314b2c6618234b797c67670ba54e664326",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "294.66",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.43",
+      "totalAmount": "310.09"
+    },
+    "seller": {
+      "userId": 157764686,
+      "username": "sannakr96",
+      "profile": "https://www.vinted.pl/member/157764686-sannakr96",
+      "profilePicture": "https://images1.vinted.net/t/02_025af_mrj8rXk8hfSUNx5apTGFnfaQ/f800/1705127071.jpeg?s=8d4bf48b7a0d90b87d9d86810f63460b6cd29081"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4806580860,
+    "title": "Szara bluza stone island",
+    "url": "https://www.vinted.pl/items/4806580860-szara-bluza-stone-island",
+    "image": "https://images1.vinted.net/tc/03_01d7a_wUB7mU5w2LR1n2b4ZEAJh1Qd/1721899139.jpeg?s=4ad2c2b54b3c478604ee8adb5106645b74c09bc0",
+    "promoted": false,
+    "favourites": 17,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 104219720,
+      "username": "grudik",
+      "profile": "https://www.vinted.pl/member/104219720-grudik",
+      "profilePicture": "https://images1.vinted.net/t/02_006bd_dRF9KsVYXbexdXjurypHkNFq/f800/1715191651.jpeg?s=772ee08d665c6674d98ec907540209339eec2bba"
     },
     "category": 5
   },
@@ -1089,11 +1665,11 @@
     "brand": "Stone Island",
     "size": "L",
     "price": {
-      "amount": "231.28",
+      "amount": "230.38",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.26",
-      "totalAmount": "243.54"
+      "fees": "12.22",
+      "totalAmount": "242.6"
     },
     "seller": {
       "userId": 216889607,
@@ -1109,15 +1685,15 @@
     "url": "https://www.vinted.pl/items/4805347116-en-fed-stone-island-t-shirt-i-hvid-passer-en-m",
     "image": "https://images1.vinted.net/tc/03_00050_szy3bspQB52MS7NCi8qSB2uZ/1721846633.jpeg?s=a2c67fd13920d8bd9b0103cda63b182c7b15077a",
     "promoted": false,
-    "favourites": 3,
+    "favourites": 4,
     "brand": "Stone Island",
     "size": "XL",
     "price": {
-      "amount": "74.95",
+      "amount": "74.7",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.45",
-      "totalAmount": "79.4"
+      "fees": "4.44",
+      "totalAmount": "79.14"
     },
     "seller": {
       "userId": 218860042,
@@ -1128,26 +1704,50 @@
     "category": 5
   },
   {
-    "productId": 4804554385,
-    "title": "Koszulka polo Stone Island",
-    "url": "https://www.vinted.pl/items/4804554385-koszulka-polo-stone-island",
-    "image": "https://images1.vinted.net/tc/02_004e7_hDPJoC8PRKp5wDCTne78to4K/1721836569.jpeg?s=430be1ccd4c597a4d734360bfa678aec52bc0565",
+    "productId": 4804756483,
+    "title": "Spodnie męskie stone island",
+    "url": "https://www.vinted.pl/items/4804756483-spodnie-meskie-stone-island",
+    "image": "https://images1.vinted.net/tc/01_0252e_vu97cQWHzjEXnu4YG6YEbEPh/1721838929.jpeg?s=a1b8c88c4373e5a7fb8bdf499971a14234a3fcc3",
     "promoted": false,
-    "favourites": 6,
+    "favourites": 0,
     "brand": "Stone Island",
-    "size": "L",
+    "size": "S",
     "price": {
-      "amount": "139.99",
+      "amount": "250.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "7.7",
-      "totalAmount": "147.69"
+      "fees": "13.2",
+      "totalAmount": "263.2"
     },
     "seller": {
-      "userId": 188962256,
-      "username": "k276",
-      "profile": "https://www.vinted.pl/member/188962256-k276",
-      "profilePicture": "https://images1.vinted.net/t/02_02368_DszdbwpJ3W81DjY8gWdmfV9V/f800/1708518121.jpeg?s=581c291fa4eea22d954d652022cd5b1bce0aebeb"
+      "userId": 157806358,
+      "username": "szafffa_natki",
+      "profile": "https://www.vinted.pl/member/157806358-szafffanatki",
+      "profilePicture": "https://images1.vinted.net/t/03_0009d_7HSQcjVfRMxc1ACf86cDWhJK/f800/1715457327.jpeg?s=95f75d97be946f0d4f898bdbe918a7498bbf8034"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4803936969,
+    "title": "Stone island",
+    "url": "https://www.vinted.pl/items/4803936969-stone-island",
+    "image": "https://images1.vinted.net/tc/02_0055d_aainzUuqs1HLgzwuWs2EsDKZ/1721829611.jpeg?s=4f5c9bb6db2ed9baef5d55850632d62c162376f8",
+    "promoted": false,
+    "favourites": 8,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "259.29",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "13.66",
+      "totalAmount": "272.95"
+    },
+    "seller": {
+      "userId": 155107179,
+      "username": "emil020209",
+      "profile": "https://www.vinted.pl/member/155107179-emil020209",
+      "profilePicture": "https://images1.vinted.net/t/03_0080a_b8Y2NVQeuEEGJ6E7VgN9SHh9/f800/1698328472.jpeg?s=3a8a38947d4c1e150ec492631576bcf6be12ea51"
     },
     "category": 5
   },
@@ -1157,7 +1757,7 @@
     "url": "https://www.vinted.pl/items/4803492271-spodenki-stone-island",
     "image": "https://images1.vinted.net/tc/02_00f0d_4qC8h95jFAqPWMAxgivMgi9a/1721824586.jpeg?s=0ea8ebff4b3c611a8a5542c0a8d47fab7d1ce887",
     "promoted": false,
-    "favourites": 6,
+    "favourites": 7,
     "brand": "Stone Island",
     "size": "M",
     "price": {
@@ -1172,6 +1772,30 @@
       "username": "edublo123",
       "profile": "https://www.vinted.pl/member/180320940-edublo123",
       "profilePicture": "https://images1.vinted.net/t/03_00437_WzSNcZZYUCmkHB3rMLLDo2EB/f800/1704221162.jpeg?s=dc4a76952df9806d79a6f2b305a315f7d4ff5e71"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4803347752,
+    "title": "Koszulka Polo Stone Island",
+    "url": "https://www.vinted.pl/items/4803347752-koszulka-polo-stone-island",
+    "image": "https://images1.vinted.net/tc/01_01407_CVvMeMHk7bxRKzMqfVWyPqSV/1721822898.jpeg?s=de9b5f5d653ead46c8649d916672df857b5ba087",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 92991185,
+      "username": "loorek178",
+      "profile": "https://www.vinted.pl/member/92991185-loorek178",
+      "profilePicture": null
     },
     "category": 5
   },
@@ -1200,12 +1824,36 @@
     "category": 5
   },
   {
+    "productId": 4803192979,
+    "title": "spodenki stone island",
+    "url": "https://www.vinted.pl/items/4803192979-spodenki-stone-island",
+    "image": "https://images1.vinted.net/tc/02_01886_NoHWsRKZmJ2zkGbxx74dFVx5/1721821036.jpeg?s=4faa33de446d6bedb967f230154a72ebfdba5ccc",
+    "promoted": false,
+    "favourites": 18,
+    "brand": "Stone Island",
+    "size": "48 | W32",
+    "price": {
+      "amount": "260.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "13.7",
+      "totalAmount": "273.7"
+    },
+    "seller": {
+      "userId": 190337529,
+      "username": "lodz.streetwear.shop",
+      "profile": "https://www.vinted.pl/member/190337529-lodzstreetwearshop",
+      "profilePicture": "https://images1.vinted.net/t/02_0160a_CgANwWQVijbny5K3vkKC7BhK/f800/1710850760.jpeg?s=83af2ae23a8ceb91305b6540285d6bbe62c57fb2"
+    },
+    "category": 5
+  },
+  {
     "productId": 4803187376,
     "title": "Stone Island Tshirt Koszulka",
     "url": "https://www.vinted.pl/items/4803187376-stone-island-tshirt-koszulka",
     "image": "https://images1.vinted.net/tc/03_023b8_B6kKsaL1PiwqGt7xyRKEEcUy/1721820966.jpeg?s=a5376e4c29d01b2dcfbac140003b47287f43e05a",
     "promoted": false,
-    "favourites": 24,
+    "favourites": 29,
     "brand": "Stone Island",
     "size": "M",
     "price": {
@@ -1224,12 +1872,36 @@
     "category": 5
   },
   {
+    "productId": 4803173783,
+    "title": "Stone Island spodnie beżowe cargo proste W34",
+    "url": "https://www.vinted.pl/items/4803173783-stone-island-spodnie-bezowe-cargo-proste-w34",
+    "image": "https://images1.vinted.net/tc/02_02410_iULdJThsbo71CERDLY2MP2GK/1721820795.jpeg?s=c1b87e5a6d15c6ea21bac5f91996512d85a57f80",
+    "promoted": false,
+    "favourites": 2,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "249.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "13.15",
+      "totalAmount": "262.15"
+    },
+    "seller": {
+      "userId": 91951274,
+      "username": "nicely_wear",
+      "profile": "https://www.vinted.pl/member/91951274-nicelywear",
+      "profilePicture": "https://images1.vinted.net/t/03_0223f_aK47pxxUMcVvEFbx882LcibU/f800/1705243814.jpeg?s=ca78a6e6a26e7202a2e7dc68d60bb87e1ab85f6f"
+    },
+    "category": 5
+  },
+  {
     "productId": 4803152791,
     "title": "Czarna koszulka Stone Island",
     "url": "https://www.vinted.pl/items/4803152791-czarna-koszulka-stone-island",
     "image": "https://images1.vinted.net/tc/03_00f31_G5Rpfa4NHUc8q6SNyjrtbjrz/1721820537.jpeg?s=b140c953f8f8bb53287ccd25d6bfc5939fe89017",
     "promoted": true,
-    "favourites": 11,
+    "favourites": 12,
     "brand": "Stone Island",
     "size": "XL",
     "price": {
@@ -1296,12 +1968,36 @@
     "category": 5
   },
   {
+    "productId": 4801240691,
+    "title": "Vintage Stone Island sweatshirt",
+    "url": "https://www.vinted.pl/items/4801240691-vintage-stone-island-sweatshirt",
+    "image": "https://images1.vinted.net/tc/02_018de_QGGjosS9GhSExHHkhXPBn7wZ/1721761012.jpeg?s=37a62f24fa17b8f2985d3ee06c8e73d365dda2f7",
+    "promoted": false,
+    "favourites": 20,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "289.54",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.18",
+      "totalAmount": "304.72"
+    },
+    "seller": {
+      "userId": 161621257,
+      "username": "keenanan",
+      "profile": "https://www.vinted.pl/member/161621257-keenanan",
+      "profilePicture": "https://images1.vinted.net/t/02_01bba_DMFb1yEjkHMgwDNyrCE37UNk/f800/1712659685.jpeg?s=65281396c9a65e6104b2c47966b4d94dcca9ed6f"
+    },
+    "category": 5
+  },
+  {
     "productId": 4801342627,
     "title": "Koszulka Stone Island",
     "url": "https://www.vinted.pl/items/4801342627-koszulka-stone-island",
     "image": "https://images1.vinted.net/tc/03_005a2_H1sSYbbAAR1aYpP8cJQCabAq/1721762422.jpeg?s=21b7a236a59a7c2a907503e0872a4f8661461abc",
     "promoted": false,
-    "favourites": 17,
+    "favourites": 19,
     "brand": "Stone Island",
     "size": "M",
     "price": {
@@ -1353,11 +2049,11 @@
     "brand": "Stone Island",
     "size": "M",
     "price": {
-      "amount": "249.82",
+      "amount": "249.01",
       "currency": "PLN",
       "discount": null,
-      "fees": "13.19",
-      "totalAmount": "263.01"
+      "fees": "13.15",
+      "totalAmount": "262.16"
     },
     "seller": {
       "userId": 161621257,
@@ -1401,11 +2097,11 @@
     "brand": "Stone Island",
     "size": "XXL",
     "price": {
-      "amount": "195.13",
+      "amount": "194.47",
       "currency": "PLN",
       "discount": null,
-      "fees": "10.46",
-      "totalAmount": "205.59"
+      "fees": "10.42",
+      "totalAmount": "204.89"
     },
     "seller": {
       "userId": 211031433,
@@ -1440,26 +2136,50 @@
     "category": 5
   },
   {
-    "productId": 4800131089,
-    "title": "Stone Island Mössa",
-    "url": "https://www.vinted.pl/items/4800131089-stone-island-mossa",
-    "image": "https://images1.vinted.net/tc/03_02234_DAJRLDUPEodD6RegETTpGdDU/1721747422.jpeg?s=e331e7c2609217e1272e7202c33ce5f3175d51be",
+    "productId": 4800387626,
+    "title": "Stone Island",
+    "url": "https://www.vinted.pl/items/4800387626-stone-island",
+    "image": "https://images1.vinted.net/tc/03_01f51_Y51sKAASWvLxKotbuJxVYYjP/1721750327.jpeg?s=fadf8445bcf694af7d4c18253d23881e0c9aa0e9",
     "promoted": false,
-    "favourites": 7,
+    "favourites": 5,
     "brand": "Stone Island",
-    "size": "Uniwersalny",
+    "size": "L",
     "price": {
-      "amount": "195.58",
+      "amount": "38.72",
       "currency": "PLN",
       "discount": null,
-      "fees": "10.48",
-      "totalAmount": "206.06"
+      "fees": "2.64",
+      "totalAmount": "41.36"
     },
     "seller": {
-      "userId": 210194163,
-      "username": "omc011",
-      "profile": "https://www.vinted.pl/member/210194163-omc011",
-      "profilePicture": "https://images1.vinted.net/t/03_01b62_Stu7uXb8QcYEXFnuC3X1SGbF/f800/1717782396.jpeg?s=49227ec354c1ae6144e720267f34ffc130df15fd"
+      "userId": 130519145,
+      "username": "gyuri20021106",
+      "profile": "https://www.vinted.pl/member/130519145-gyuri20021106",
+      "profilePicture": "https://images1.vinted.net/t/01_022b9_LP5RR7RiLRabtpYhnpiZF4ah/f800/1675167710.jpeg?s=1d204c623cbe54305a68764032c223afc9a1221c"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4799309314,
+    "title": "Bluza Stone Island",
+    "url": "https://www.vinted.pl/items/4799309314-bluza-stone-island",
+    "image": "https://images1.vinted.net/tc/02_019d6_wj4snqCVLavVeDScGKdTp5hj/1721749978.jpeg?s=8887e95c63fa9dd6f4a248d2e861795748847d72",
+    "promoted": false,
+    "favourites": 10,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "300.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.7",
+      "totalAmount": "315.7"
+    },
+    "seller": {
+      "userId": 91997694,
+      "username": "dufson",
+      "profile": "https://www.vinted.pl/member/91997694-dufson",
+      "profilePicture": "https://images1.vinted.net/t/02_013a0_EGaXBF8BMqZrEZAfPJnippni/f800/1701806229.jpeg?s=f0583a173641e6b718d96c33c6ae1b39141235f7"
     },
     "category": 5
   },
@@ -1488,6 +2208,78 @@
     "category": 5
   },
   {
+    "productId": 4800002525,
+    "title": "Stone Island sweatshirt",
+    "url": "https://www.vinted.pl/items/4800002525-stone-island-sweatshirt",
+    "image": "https://images1.vinted.net/tc/02_013a4_d2wfw9ceVG5R2u1vaJ7HPtuH/1721745970.jpeg?s=3b1f4a8a4e17e7d0e5d1ac3e0872c14e0683ab97",
+    "promoted": false,
+    "favourites": 8,
+    "brand": "Stone Island",
+    "size": "M",
+    "price": {
+      "amount": "286.65",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.03",
+      "totalAmount": "301.68"
+    },
+    "seller": {
+      "userId": 198786853,
+      "username": "marbaren",
+      "profile": "https://www.vinted.pl/member/198786853-marbaren",
+      "profilePicture": "https://images1.vinted.net/t/01_01165_qtneVsoTax75Lzw9kywPMRuY/f800/1713020265.jpeg?s=6a17e84f7fc648169a040c2f27332071d307f87f"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4799987037,
+    "title": "Bluza z kapturem hoodie stone island patch patka cp company vintage premium navy classic",
+    "url": "https://www.vinted.pl/items/4799987037-bluza-z-kapturem-hoodie-stone-island-patch-patka-cp-company-vintage-premium-navy-classic",
+    "image": "https://images1.vinted.net/tc/02_024ec_wFWnLo2XMchbVRE2N8Y5rJ1L/1721745795.jpeg?s=5e6536910418d96ef77fdf857106bd5142401fbe",
+    "promoted": false,
+    "favourites": 26,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "299.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "15.65",
+      "totalAmount": "314.65"
+    },
+    "seller": {
+      "userId": 91046272,
+      "username": "vintagevoguefs",
+      "profile": "https://www.vinted.pl/member/91046272-vintagevoguefs",
+      "profilePicture": "https://images1.vinted.net/t/02_01e78_iN3bUqFUmqeDCZp8wKXxQtTH/f800/1691598057.jpeg?s=1bcc906748783b5a5635b61981aff51df164f03d"
+    },
+    "category": 5
+  },
+  {
+    "productId": 4799468062,
+    "title": "Stone island pocket sweatshirt",
+    "url": "https://www.vinted.pl/items/4799468062-stone-island-pocket-sweatshirt",
+    "image": "https://images1.vinted.net/tc/03_013d5_PoQpCk4YwbqjoanMogHUX3wW/1721739966.jpeg?s=e6896d3f67b9ba86c8719ca80f325f3fd5c58c36",
+    "promoted": false,
+    "favourites": 11,
+    "brand": "Stone Island",
+    "size": "S",
+    "price": {
+      "amount": "280.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "14.75",
+      "totalAmount": "295.65"
+    },
+    "seller": {
+      "userId": 209310763,
+      "username": "saytren005",
+      "profile": "https://www.vinted.pl/member/209310763-saytren005",
+      "profilePicture": "https://images1.vinted.net/t/02_012c9_nwuTUw2odKP9JuZwc72mM2kA/f800/1718204555.jpeg?s=60dff5872c70417c1e1ba6a25aa5c1e42740d647"
+    },
+    "category": 5
+  },
+  {
     "productId": 4799371652,
     "title": "Sweter Stone Island Golf Wełna",
     "url": "https://www.vinted.pl/items/4799371652-sweter-stone-island-golf-welna",
@@ -1508,798 +2300,6 @@
       "username": "grifus69",
       "profile": "https://www.vinted.pl/member/104132437-grifus69",
       "profilePicture": "https://images1.vinted.net/t/02_00fc0_dTeMmADyCTrbhCo1naUkNiir/f800/1660636566.jpeg?s=514c42ad679e7695d41d3762a7b6609ad7052d7f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4784288331,
-    "title": "Koszulka Polo Stone Island",
-    "url": "https://www.vinted.pl/items/4784288331-koszulka-polo-stone-island",
-    "image": "https://images1.vinted.net/tc/02_00113_U8LVccqJBqbM3PEdFLVJvS7x/1721405317.jpeg?s=5c1421ad4b5e657a5fb25cfbfed93b8234882a43",
-    "promoted": false,
-    "favourites": 6,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "149.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.15",
-      "totalAmount": "157.15"
-    },
-    "seller": {
-      "userId": 196577424,
-      "username": "fajne_ceny",
-      "profile": "https://www.vinted.pl/member/196577424-fajneceny",
-      "profilePicture": "https://images1.vinted.net/t/01_026f8_1G56LJdhtBiDGUxDtVzejvQN/f800/1712322318.jpeg?s=efbb6b27fbeb61a48327f504b40db76bf3f8b19f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4798604879,
-    "title": "Polo stone island washed gray swag",
-    "url": "https://www.vinted.pl/items/4798604879-polo-stone-island-washed-gray-swag",
-    "image": "https://images1.vinted.net/tc/01_01267_gnV2U9bAnfMQwdTrN18wWxaz/1721729408.jpeg?s=1836dac4ad134274e9bf08aa831f47f0b564138c",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 216423998,
-      "username": "swagg_shop",
-      "profile": "https://www.vinted.pl/member/216423998-swaggshop",
-      "profilePicture": "https://images1.vinted.net/t/03_0143b_VpAJApBnk9CtHmW9gVTL3CLe/f800/1720951697.jpeg?s=13b3ec870cee3a04f16fcca89573e73b4c293caf"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4798242402,
-    "title": "Stone Island majica",
-    "url": "https://www.vinted.pl/items/4798242402-stone-island-majica",
-    "image": "https://images1.vinted.net/tc/03_01d76_8Hq3JEnL4bHQiwzyJNyptSQR/1721724674.jpeg?s=a8e0d8d96b867f0f09f6be2b23c82caf3e5f21df",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "173.45",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.37",
-      "totalAmount": "182.82"
-    },
-    "seller": {
-      "userId": 194541115,
-      "username": "jggggg18",
-      "profile": "https://www.vinted.pl/member/194541115-jggggg18",
-      "profilePicture": "https://images1.vinted.net/t/02_01de4_KefVDBGZWHRQeiRdtVFiqrmN/f800/1711105545.jpeg?s=cb07f4702862025937649e4658feecf6b695d170"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4798074296,
-    "title": "Stone Island vyriški šortai",
-    "url": "https://www.vinted.pl/items/4798074296-stone-island-vyriski-sortai",
-    "image": "https://images1.vinted.net/tc/02_00cc5_6H1GU8YEAgcMykC9UTidZ4Nk/1721721789.jpeg?s=0fcfe73d5bfa2e7d43f7d9d52e02657d8cf7b284",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stone Island",
-    "size": "52 | W36",
-    "price": {
-      "amount": "212.47",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.32",
-      "totalAmount": "223.79"
-    },
-    "seller": {
-      "userId": 42920203,
-      "username": "rmlj261",
-      "profile": "https://www.vinted.pl/member/42920203-rmlj261",
-      "profilePicture": "https://images1.vinted.net/t/03_01260_GFALCyGkostvvvMwtPbwEvMS/f800/1663852150.jpeg?s=96e435410bd026724d96c308c0ee9f8c06bc3306"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4798068014,
-    "title": "Stone island šortai",
-    "url": "https://www.vinted.pl/items/4798068014-stone-island-sortai",
-    "image": "https://images1.vinted.net/tc/01_00bd0_6Zuj1dWMqSTAJvfSHVE5LJBB/1721721660.jpeg?s=8ffae8cbc9cdf935e26e605bfe41fa8d1f61e23e",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stone Island",
-    "size": "50 | W34",
-    "price": {
-      "amount": "173.45",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.37",
-      "totalAmount": "182.82"
-    },
-    "seller": {
-      "userId": 47422948,
-      "username": "rokask1",
-      "profile": "https://www.vinted.pl/member/47422948-rokask1",
-      "profilePicture": "https://images1.vinted.net/t/02_023c2_HQZHd8pKsquwsAW142jJoHAJ/f800/1607621127.jpeg?s=28c16ed49f1284d101d1634ea04338e68ffa4cc1"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4797968211,
-    "title": "Bluza stone island",
-    "url": "https://www.vinted.pl/items/4797968211-bluza-stone-island",
-    "image": "https://images1.vinted.net/tc/01_0138f_yPCEVHhZZbSXTn7XmtsQzF48/1721719334.jpeg?s=dc7319112d8940347fa1c7db8faaf2630044f3ee",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "XXL",
-    "price": {
-      "amount": "150.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.2",
-      "totalAmount": "158.2"
-    },
-    "seller": {
-      "userId": 155883871,
-      "username": "cusualstore.88",
-      "profile": "https://www.vinted.pl/member/155883871-cusualstore88",
-      "profilePicture": "https://images1.vinted.net/t/01_003a1_EqvZQsPirvN9Pgn9X6C8Qv5R/f800/1696514066.jpeg?s=e395a01e81e3aa9b2ab1a8ed300ebc82bf9642c9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4797931785,
-    "title": "Tshirt stone island",
-    "url": "https://www.vinted.pl/items/4797931785-tshirt-stone-island",
-    "image": "https://images1.vinted.net/tc/03_000f9_WJqPEYuBpA8zEVP84F3hPFZN/1721718291.jpeg?s=c1047232f22e76ab878b479503cd2d4f06539854",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "150.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.2",
-      "totalAmount": "158.2"
-    },
-    "seller": {
-      "userId": 155883871,
-      "username": "cusualstore.88",
-      "profile": "https://www.vinted.pl/member/155883871-cusualstore88",
-      "profilePicture": "https://images1.vinted.net/t/01_003a1_EqvZQsPirvN9Pgn9X6C8Qv5R/f800/1696514066.jpeg?s=e395a01e81e3aa9b2ab1a8ed300ebc82bf9642c9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4797767381,
-    "title": "Tees Stone Island Center Logo Massimo Osti",
-    "url": "https://www.vinted.pl/items/4797767381-tees-stone-island-center-logo-massimo-osti",
-    "image": "https://images1.vinted.net/tc/01_0022c_Lcx2h7rZ22xaSoJ7rdjewjah/1721702774.jpeg?s=f9c18f9fcb8e59a5f86e3fb8920ff082dcaef8b7",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "149.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.2",
-      "totalAmount": "158.19"
-    },
-    "seller": {
-      "userId": 90781743,
-      "username": "hype_bridge",
-      "profile": "https://www.vinted.pl/member/90781743-hypebridge",
-      "profilePicture": "https://images1.vinted.net/t/03_01e34_6bYoiGynbM69bmJsUs4isvFc/f800/1679777706.jpeg?s=d2896ef17f51160299f8eeb2a934997519bd38fc"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4797456009,
-    "title": "Koszulka Stone Island M",
-    "url": "https://www.vinted.pl/items/4797456009-koszulka-stone-island-m",
-    "image": "https://images1.vinted.net/tc/03_00a6c_CDHbY2ZWYXG2L8T33Cyp6BNU/1721680575.jpeg?s=65247b7f5842ae4abae6265affeacc3bc22738d2",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 218277062,
-      "username": "zajcu777",
-      "profile": "https://www.vinted.pl/member/218277062-zajcu777",
-      "profilePicture": "https://images1.vinted.net/t/03_01f33_hhx86A5PZUJqL93EnE7eG9MZ/f800/1721647286.jpeg?s=eb77e6a2bf2ea7223a8ba07c7dcebe3d8d4adc9d"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4797219401,
-    "title": "tricou baieti",
-    "url": "https://www.vinted.pl/items/4797219401-tricou-baieti",
-    "image": "https://images1.vinted.net/tc/03_013da_iTq5n3rW9rkJ8tuXhHrccxQj/1721676866.jpeg?s=b88bb8851c45a96d4973b4d7d7ac5bd1149f0ad0",
-    "promoted": false,
-    "favourites": 11,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "87.28",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.06",
-      "totalAmount": "92.34"
-    },
-    "seller": {
-      "userId": 167540522,
-      "username": "denisa.0914",
-      "profile": "https://www.vinted.pl/member/167540522-denisa0914",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4796977753,
-    "title": "Stone Island férfi pulóver xxl",
-    "url": "https://www.vinted.pl/items/4796977753-stone-island-ferfi-pulover-xxl",
-    "image": "https://images1.vinted.net/tc/01_00750_g6eFZ5uMt41WvungHiAKBxZn/1721673730.jpeg?s=d5e72515d25c94226feb8224c5c288555994b2e3",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "XXL",
-    "price": {
-      "amount": "219.9",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.7",
-      "totalAmount": "231.6"
-    },
-    "seller": {
-      "userId": 188151918,
-      "username": "bauera0820",
-      "profile": "https://www.vinted.pl/member/188151918-bauera0820",
-      "profilePicture": "https://images1.vinted.net/t/01_024e7_bHEEwYL4dhG6v3zc39m9pNmg/f800/1708452907.jpeg?s=ff1e1dbfbb164eb421f63b24993c9f840f717cbb"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4796521701,
-    "title": "Koszulka Stone Island central Logo oryginał streetwear casual item",
-    "url": "https://www.vinted.pl/items/4796521701-koszulka-stone-island-central-logo-oryginal-streetwear-casual-item",
-    "image": "https://images1.vinted.net/tc/01_0220d_UwnZY6Cmxa6xeDp5cAURuNaP/1721668158.jpeg?s=eefc8df16336b45a178ab386fd698675e9dc8ac3",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "240.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.7",
-      "totalAmount": "252.7"
-    },
-    "seller": {
-      "userId": 218179805,
-      "username": "vintage_rod",
-      "profile": "https://www.vinted.pl/member/218179805-vintagerod",
-      "profilePicture": "https://images1.vinted.net/t/02_02148_L4xoEACLRqYaZCKQf66JEskY/f800/1721509680.jpeg?s=287b1431cc86169aadfe993151104230075dea79"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4779219600,
-    "title": "Stone island tshirt",
-    "url": "https://www.vinted.pl/items/4779219600-stone-island-tshirt",
-    "image": "https://images1.vinted.net/tc/01_01581_JnXTh3nBM4FanDHAc13g3YRc/1721294304.jpeg?s=211f20a5101230d99c5481b7231e23862cf0c0a1",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "239.86",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.69",
-      "totalAmount": "252.55"
-    },
-    "seller": {
-      "userId": 199631276,
-      "username": "josefinekrugerrr",
-      "profile": "https://www.vinted.pl/member/199631276-josefinekrugerrr",
-      "profilePicture": "https://images1.vinted.net/t/02_01766_KgW17VGfoWyqZHHYBuYYeaTV/f800/1713374675.jpeg?s=f536370a2008d3d7de509125611226629f3da0d6"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4811875679,
-    "title": "Kurtka Stone Island /Jesień/ Zima",
-    "url": "https://www.vinted.pl/items/4811875679-kurtka-stone-island-jesien-zima",
-    "image": "https://images1.vinted.net/tc/01_022e2_XpsM1x6vLnD2HDGbVHydjK4e/1722004087.jpeg?s=439de96007c4aa910778c8225e0cbe6aead86e9b",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "250.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.2",
-      "totalAmount": "263.2"
-    },
-    "seller": {
-      "userId": 112547805,
-      "username": "jasiektoziomal",
-      "profile": "https://www.vinted.pl/member/112547805-jasiektoziomal",
-      "profilePicture": "https://images1.vinted.net/t/01_01301_pam7M6ZtQ5WB1yvsHdvQJj2E/f800/1722004987.jpeg?s=2bdcddf4e27b6996ed260e67587832c89311beb6"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4793930040,
-    "title": "Granatowe Polo Stone Island",
-    "url": "https://www.vinted.pl/items/4793930040-granatowe-polo-stone-island",
-    "image": "https://images1.vinted.net/tc/01_0025e_7CcSMX1Fp9p5yjkXzvj6TvHd/1721655509.jpeg?s=a614cb2da11edb8f3bc8c4ad3393dd3d5fd5db85",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "160.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.7",
-      "totalAmount": "168.7"
-    },
-    "seller": {
-      "userId": 91188469,
-      "username": "wbm2137",
-      "profile": "https://www.vinted.pl/member/91188469-wbm2137",
-      "profilePicture": "https://images1.vinted.net/t/02_01e82_B5GY9RS2U8kUH72i2k32mjHv/f800/1701892786.jpeg?s=c17ecfd650d4e70aa2cf87891d253d54ac3dace9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4795224354,
-    "title": "Stone Island T-Shirt",
-    "url": "https://www.vinted.pl/items/4795224354-stone-island-t-shirt",
-    "image": "https://images1.vinted.net/tc/02_00fde_jVtU17f5XmKFMrKN1MzTgJPs/1721654236.jpeg?s=69bdc3d09ebd38eaf8814189c4e2f9779b6bb77a",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "174.55",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.43",
-      "totalAmount": "183.98"
-    },
-    "seller": {
-      "userId": 171955762,
-      "username": "rob1al",
-      "profile": "https://www.vinted.pl/member/171955762-rob1al",
-      "profilePicture": "https://images1.vinted.net/t/02_0200e_nXh3XHLCaYz57KWx5F6kf2nL/f800/1701642671.jpeg?s=282bd4ab4765cd5e22a4a038c0a8fdf69bc65095"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4795223989,
-    "title": "Stone island",
-    "url": "https://www.vinted.pl/items/4795223989-stone-island",
-    "image": "https://images1.vinted.net/tc/03_00a22_DMtQpPE9DskR9aiof2nRKjMJ/1721654232.jpeg?s=a9ec8fb5d59a2e7a0e171fb6717b25df3f908b46",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stone Island",
-    "size": "S",
-    "price": {
-      "amount": "161.46",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.77",
-      "totalAmount": "170.23"
-    },
-    "seller": {
-      "userId": 171341216,
-      "username": "jaccint",
-      "profile": "https://www.vinted.pl/member/171341216-jaccint",
-      "profilePicture": "https://images1.vinted.net/t/03_024bc_F1fwTwmpoFD1nZDrHN452Lbd/f800/1702848957.jpeg?s=901c90c489520f338a5ea737d4da1b858a06fc54"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4794588449,
-    "title": "Stone Island tee",
-    "url": "https://www.vinted.pl/items/4794588449-stone-island-tee",
-    "image": "https://images1.vinted.net/tc/01_00eaf_aKDYh2Z3yqzwZqAb2C4GRR2m/1721647053.jpeg?s=aff5c1e9281a9d2abbcde1fdb1459dd16cc75b63",
-    "promoted": false,
-    "favourites": 21,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "68.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.12",
-      "totalAmount": "72.52"
-    },
-    "seller": {
-      "userId": 78210919,
-      "username": "adam125gg1",
-      "profile": "https://www.vinted.pl/member/78210919-adam125gg1",
-      "profilePicture": "https://images1.vinted.net/t/03_01961_cb8sXJv7nP3zitxdEFYCYYKM/f800/1714403782.jpeg?s=4c8aba93549692c3d21480ec5b59a3ff2eb08d4a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4794212166,
-    "title": "Kapelusz Stone Island vintage opium old money",
-    "url": "https://www.vinted.pl/items/4794212166-kapelusz-stone-island-vintage-opium-old-money",
-    "image": "https://images1.vinted.net/tc/02_014a5_U2LEfLRUnzeGYLXy3CpVZaoM/1721642440.jpeg?s=544be855670f1185538328714c75a879c71837b0",
-    "promoted": false,
-    "favourites": 17,
-    "brand": "Stone Island",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "235.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.45",
-      "totalAmount": "247.45"
-    },
-    "seller": {
-      "userId": 137768353,
-      "username": "tanzyyy",
-      "profile": "https://www.vinted.pl/member/137768353-tanzyyy",
-      "profilePicture": "https://images1.vinted.net/t/02_0265e_NC7gYKm8JvF4JQ42BXZpjJhb/f800/1679781048.jpeg?s=04218ada148095bf48696594aee3c28e28ef54cd"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4794084503,
-    "title": "Originalus stone island marskineliai",
-    "url": "https://www.vinted.pl/items/4794084503-originalus-stone-island-marskineliai",
-    "image": "https://images1.vinted.net/tc/02_01b71_5swS5feJxRPR8sSLVmqVjWSD/1721640866.jpeg?s=73e357287356cf299d6fa26f42fe461d77fd77cb",
-    "promoted": false,
-    "favourites": 6,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "212.47",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.32",
-      "totalAmount": "223.79"
-    },
-    "seller": {
-      "userId": 137689345,
-      "username": "d.lunex",
-      "profile": "https://www.vinted.pl/member/137689345-dlunex",
-      "profilePicture": "https://images1.vinted.net/t/02_02230_p7544Ys6Xiqc8AENzS5ffDL1/f800/1679746291.jpeg?s=5263714a7122e8c5c292497ffef0acc5356c8179"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4793722770,
-    "title": "Spodnie stone island jeans drip y2k drill loose fit baggy streetwear",
-    "url": "https://www.vinted.pl/items/4793722770-spodnie-stone-island-jeans-drip-y2k-drill-loose-fit-baggy-streetwear",
-    "image": "https://images1.vinted.net/tc/02_016a1_aNiJG1NpoZMFG18q7yv5GzAy/1721635240.jpeg?s=be7b96fed443cecf1938e3e97147bfa9d02176bd",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.7",
-      "totalAmount": "210.7"
-    },
-    "seller": {
-      "userId": 94175294,
-      "username": "tlusta_ryba",
-      "profile": "https://www.vinted.pl/member/94175294-tlustaryba",
-      "profilePicture": "https://images1.vinted.net/t/03_00221_AafLnwtX2PbZUVA7HYMc6syA/f800/1703889869.jpeg?s=79a235070a47befc80b9717f615bf4b8f4becd94"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4792683118,
-    "title": "Nauji Stone Island šortai",
-    "url": "https://www.vinted.pl/items/4792683118-nauji-stone-island-sortai",
-    "image": "https://images1.vinted.net/tc/03_00089_onCynL4ZxUgoe8c3iEyMS8Pt/1721587571.jpeg?s=fc2064bc3d64ecdd6885e9c49b4f84895d698658",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "216.81",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.54",
-      "totalAmount": "228.35"
-    },
-    "seller": {
-      "userId": 186790630,
-      "username": "egle0906",
-      "profile": "https://www.vinted.pl/member/186790630-egle0906",
-      "profilePicture": "https://images1.vinted.net/t/01_009eb_d8QKhzvk6X97EeEETbBEhx8m/f800/1707214851.jpeg?s=d2a4aacfddf6193d67992a03164295272f3c3dfc"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4792140270,
-    "title": "Stone Island spodnie chino męskie beżowe S 170 jak nowe oryginał",
-    "url": "https://www.vinted.pl/items/4792140270-stone-island-spodnie-chino-meskie-bezowe-s-170-jak-nowe-oryginal",
-    "image": "https://images1.vinted.net/tc/01_00ce0_RkjGjKuqEtxNnncjVQiRDQbN/1721581584.jpeg?s=2dca4dd20aa666329ed7e50fa8bd1eab9946692e",
-    "promoted": false,
-    "favourites": 9,
-    "brand": "Stone Island",
-    "size": "S",
-    "price": {
-      "amount": "159.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.65",
-      "totalAmount": "167.65"
-    },
-    "seller": {
-      "userId": 172569158,
-      "username": "afrusia23",
-      "profile": "https://www.vinted.pl/member/172569158-afrusia23",
-      "profilePicture": "https://images1.vinted.net/t/03_011f5_C4o9h6C7i382aXW4FyH29T6o/f800/1700223268.jpeg?s=1bac4c0256155633ba044c1ebd31fea42f634d58"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4791156543,
-    "title": "Koszulka Stone Island y2k oryginał streetwear casual skate item",
-    "url": "https://www.vinted.pl/items/4791156543-koszulka-stone-island-y2k-oryginal-streetwear-casual-skate-item",
-    "image": "https://images1.vinted.net/tc/03_0065a_ZEi8tVEUh1Bj1SwLNBaUSKua/1721572692.jpeg?s=553b918cca045f2017e77c07f2c73e799bb17015",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stone Island",
-    "size": "S",
-    "price": {
-      "amount": "240.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.7",
-      "totalAmount": "252.7"
-    },
-    "seller": {
-      "userId": 218179805,
-      "username": "vintage_rod",
-      "profile": "https://www.vinted.pl/member/218179805-vintagerod",
-      "profilePicture": "https://images1.vinted.net/t/02_02148_L4xoEACLRqYaZCKQf66JEskY/f800/1721509680.jpeg?s=287b1431cc86169aadfe993151104230075dea79"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4790397521,
-    "title": "Stone Island polo",
-    "url": "https://www.vinted.pl/items/4790397521-stone-island-polo",
-    "image": "https://images1.vinted.net/tc/02_023d5_JrHiLtXY62puMzsDxQnY8arU/1721565651.jpeg?s=84957cd8643cd8388da2e08add83162b3013c259",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "238.49",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.62",
-      "totalAmount": "251.11"
-    },
-    "seller": {
-      "userId": 206564245,
-      "username": "kleimolaossi",
-      "profile": "https://www.vinted.pl/member/206564245-kleimolaossi",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4788653162,
-    "title": "Stone island cargo shorts",
-    "url": "https://www.vinted.pl/items/4788653162-stone-island-cargo-shorts",
-    "image": "https://images1.vinted.net/tc/01_020a7_xHKiASncNRp2QufErD3Qvb4L/1721517214.jpeg?s=111f692d9a22f6e22b1abb7eade040414f4cacb6",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "XS",
-    "price": {
-      "amount": "221.41",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.77",
-      "totalAmount": "233.18"
-    },
-    "seller": {
-      "userId": 197442295,
-      "username": "phille_05",
-      "profile": "https://www.vinted.pl/member/197442295-phille05",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4788612657,
-    "title": "Tricou polo Stone Island",
-    "url": "https://www.vinted.pl/items/4788612657-tricou-polo-stone-island",
-    "image": "https://images1.vinted.net/tc/02_00d90_irzhUmKoDCoEYh3ihmJrH9Cr/1721513981.jpeg?s=042259b2bddc58a4b4521da5dc0c92bd8c88b209",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "XL",
-    "price": {
-      "amount": "69.82",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.19",
-      "totalAmount": "74.01"
-    },
-    "seller": {
-      "userId": 218176383,
-      "username": "retrorevive64",
-      "profile": "https://www.vinted.pl/member/218176383-retrorevive64",
-      "profilePicture": "https://images1.vinted.net/t/03_013d5_UahvetjrE5i6nTUBErZQyKGw/f800/1721509908.jpeg?s=dfd8dba3d277bb87108308da968d7593ad712b54"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4787627808,
-    "title": "Koszulka Stone Island",
-    "url": "https://www.vinted.pl/items/4787627808-koszulka-stone-island",
-    "image": "https://images1.vinted.net/tc/03_00afb_dvf6q8HXuNv5sRBzujYvPmsD/1721492146.jpeg?s=5618a20952f85550eb8a6408227c08585d82f0ea",
-    "promoted": false,
-    "favourites": 26,
-    "brand": "Stone Island",
-    "size": "S",
-    "price": {
-      "amount": "60.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.7",
-      "totalAmount": "63.7"
-    },
-    "seller": {
-      "userId": 217152293,
-      "username": "ilyk",
-      "profile": "https://www.vinted.pl/member/217152293-ilyk",
-      "profilePicture": "https://images1.vinted.net/t/03_01afd_TcuSiCnxQTC9sT9wuC4v77Uk/f800/1721496688.jpeg?s=dea65d3cddfdf848b87e86865b5c27c475b13193"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4787535801,
-    "title": "czarne dresy z kieszonką",
-    "url": "https://www.vinted.pl/items/4787535801-czarne-dresy-z-kieszonka",
-    "image": "https://images1.vinted.net/tc/02_02042_H8mF64EtfU3uguGN6hfB57VZ/1721490868.jpeg?s=fe86e1ff6557fb1293c5c6b6932be1a7e427bfdb",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stone Island",
-    "size": "42 | W26",
-    "price": {
-      "amount": "130.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.2",
-      "totalAmount": "137.2"
-    },
-    "seller": {
-      "userId": 100919782,
-      "username": "mania.o",
-      "profile": "https://www.vinted.pl/member/100919782-maniao",
-      "profilePicture": "https://images1.vinted.net/t/01_01a59_pC5qPFBQG4VUFTAUrN14DFpV/f800/1717923758.jpeg?s=64d4893c085143cc57bf7dd0d598991ffa2ae39a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4787462271,
-    "title": "Spodnie męskie roz.M (32) Stone Island,  letnie, prosta nogawka",
-    "url": "https://www.vinted.pl/items/4787462271-spodnie-meskie-rozm-32-stone-island-letnie-prosta-nogawka",
-    "image": "https://images1.vinted.net/tc/01_009b1_ZtqdUnn3vGbZSSanfobz7gDh/1721489863.jpeg?s=8d5648a8f7107d9f95bf4e46987c6a69fe835034",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "52 | W36",
-    "price": {
-      "amount": "120.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.7",
-      "totalAmount": "126.7"
-    },
-    "seller": {
-      "userId": 90371677,
-      "username": "nela22101971",
-      "profile": "https://www.vinted.pl/member/90371677-nela22101971",
-      "profilePicture": "https://images1.vinted.net/t/01_01a7a_7A91MsktGcuTzK8uChY9XPEk/f800/1652677570.jpeg?s=e1ed869244a64bbd894d7da8e64958197431c483"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4787197569,
-    "title": "Koszulka polo Stone Island Xl",
-    "url": "https://www.vinted.pl/items/4787197569-koszulka-polo-stone-island-xl",
-    "image": "https://images1.vinted.net/tc/01_01ba8_hky8Kxygn2zmPd8Rhuv5r1ua/1721486336.jpeg?s=9f8ef756c01f64da4591d1debe1b6b152a5ae508",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stone Island",
-    "size": "XL",
-    "price": {
-      "amount": "70.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.2",
-      "totalAmount": "74.2"
-    },
-    "seller": {
-      "userId": 153127955,
-      "username": "maciusss011",
-      "profile": "https://www.vinted.pl/member/153127955-maciusss011",
-      "profilePicture": "https://images1.vinted.net/t/02_0125d_rRdAKyCDjgsN1ajaWFeg2ERD/f800/1705185052.jpeg?s=0db0877f4871a2dd249038922930928d4593e228"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4787136251,
-    "title": "Pantaloni Stone Island",
-    "url": "https://www.vinted.pl/items/4787136251-pantaloni-stone-island",
-    "image": "https://images1.vinted.net/tc/01_012be_bG279bQAoSVKM2FK12RYjVSQ/1721485525.jpeg?s=805194bc76feada06cb8f702d32fb76c385af2ea",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "46 | W30",
-    "price": {
-      "amount": "122.19",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.81",
-      "totalAmount": "129.0"
-    },
-    "seller": {
-      "userId": 204282759,
-      "username": "stylerebirth",
-      "profile": "https://www.vinted.pl/member/204282759-stylerebirth",
-      "profilePicture": "https://images1.vinted.net/t/03_0048e_pG8RE98rdUEiFwTQU6bsHAG9/f800/1715364652.jpeg?s=5bd49b47330a21f23afb91eea5f56c6f30536f3d"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4788033058,
-    "title": "Stone island",
-    "url": "https://www.vinted.pl/items/4788033058-stone-island",
-    "image": "https://images1.vinted.net/tc/02_0031b_oWt1R1bBw8VYFq2K17HjGo35/1721498513.jpeg?s=3db74c11601342cdeb38624216bad5b5860b706d",
-    "promoted": false,
-    "favourites": 22,
-    "brand": "Stone Island",
-    "size": "XL",
-    "price": {
-      "amount": "232.23",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.31",
-      "totalAmount": "244.54"
-    },
-    "seller": {
-      "userId": 216908198,
-      "username": "rokichka",
-      "profile": "https://www.vinted.pl/member/216908198-rokichka",
-      "profilePicture": "https://images1.vinted.net/t/03_026d4_S955Lo5D77YgYVwYxENTCoSM/f800/1721485371.jpeg?s=54307bd8ce2ee8f79de5a31426a5d2fa59e833ab"
     },
     "category": 5
   }
