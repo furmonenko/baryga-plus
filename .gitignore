@@ -27,7 +27,6 @@ coverage/
 bower_components/
 
 # dotenv environment variables file
-.env
 
 # dotenv environment variables file for local development
 .env.local
@@ -81,7 +80,6 @@ build/
 
 # Ignore logs, env, and coverage directory
 *.log
-.env
 coverage/
 
 # Miscellaneous
