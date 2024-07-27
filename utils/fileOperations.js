@@ -1,6 +1,39 @@
 const fs = require('fs');
 const path = require('path');
 
+const messageLogPath = path.join(__dirname, 'messageLog.json');
+
+// Зберегти message_id
+function logMessage(chatId, messageId) {
+    let messageLog = [];
+    if (fs.existsSync(messageLogPath)) {
+        messageLog = JSON.parse(fs.readFileSync(messageLogPath, 'utf8'));
+    }
+
+    messageLog.push({ chat_id: chatId, message_id: messageId, timestamp: new Date().toISOString() });
+
+    fs.writeFileSync(messageLogPath, JSON.stringify(messageLog, null, 2));
+}
+
+// Отримати збережені message_id
+function getLoggedMessages(chatId) {
+    if (fs.existsSync(messageLogPath)) {
+        const messageLog = JSON.parse(fs.readFileSync(messageLogPath, 'utf8'));
+        return messageLog.filter(log => log.chat_id === chatId);
+    }
+    return [];
+}
+
+// Очистити повідомлення з логів
+function clearLoggedMessages(chatId) {
+    if (fs.existsSync(messageLogPath)) {
+        let messageLog = JSON.parse(fs.readFileSync(messageLogPath, 'utf8'));
+        messageLog = messageLog.filter(log => log.chat_id !== chatId);
+        fs.writeFileSync(messageLogPath, JSON.stringify(messageLog, null, 2));
+    }
+}
+
+
 function saveBrand(brandName, brandId) {
     const brandsPath = path.join(__dirname, '../data/brands.json');
     const brands = getBrands();
@@ -98,5 +131,8 @@ module.exports = {
     loadHistory,
     saveHistory,
     clearHistory,
-    saveBrand
+    saveBrand,
+    logMessage,
+    getLoggedMessages,
+    clearLoggedMessages
 };

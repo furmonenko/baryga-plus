@@ -40,7 +40,7 @@ app.use((req, res, next) => {
 
 console.log("Starting cron job setup...");
 
-cron.schedule('* * * * *', () => {
+cron.schedule('* * * * *', () => { // Запуск задачі кожні 10 хвилин
     console.log('Cron job triggered...');
     updateCache().catch(error => {
         console.error('Error during updateCache:', error);

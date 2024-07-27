@@ -1,5 +1,5 @@
 const { getUserFilters } = require('../userFilters');
-const { sendTelegramMessage, sendTelegramPhoto } = require('../utils/telegram');
+const { sendTelegramMessage, sendLoggedPhoto, clearChat } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
 
 async function updateCacheForUser(chatId) {
@@ -85,7 +85,7 @@ async function updateCacheForUser(chatId) {
             console.log(`Sending new item to user: ${item.title} - ${item.url}`);
 
             // Відправка фотографії з інформацією про товар
-            await sendTelegramPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
+            await sendLoggedPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
         }
     } else {
         console.log(`No new items found for user ${chatId}.`);

@@ -1,25 +1,24 @@
 const express = require('express');
 const router = express.Router();
-const { sendTelegramMessage } = require('../utils/telegram');
+const { sendLoggedMessage, clearChat } = require('../utils/telegram');
 const {
     processFiltersCommand,
-    applyPresetFilters,
+    processClearHistoryCommand,
+    processStartCommand,
     showCategories,
     processIntervalCommand,
     processHistoryCommand,
     processGoCommand,
     processStopCommand,
     processResetCommand,
-    processClearHistoryCommand,
     processPresetCommand,
-    processStartCommand,
+    handleCallbackQuery,
     processCategorySelection,
     showBrands,
     showSizes,
-    showPrices,
-    showIntervals,
-    handleCallbackQuery
+    showPrices
 } = require('../handlers/messageHandlers');
+const { logMessage } = require("../utils/fileOperations");
 
 const users = {};
 
@@ -36,6 +35,9 @@ router.post('/webhook', async (req, res) => {
         await handleCallbackQuery(chatId, callback_query.data, users);
     } else if (message) {
         const command = text.split(' ')[0];
+
+        // Логування повідомлення з командою
+        logMessage(chatId, message.message_id); // Зберігає message_id команди
 
         switch (command) {
             case '/start':
@@ -69,11 +71,11 @@ router.post('/webhook', async (req, res) => {
                 await showCategories(chatId);
                 break;
             default:
-                await sendTelegramMessage(chatId, 'Unknown command. Use /filters to set your search filters.');
+                await sendLoggedMessage(chatId, 'Unknown command. Use /filters to set your search filters.');
         }
     }
 
     res.sendStatus(200);
 });
 
-module.exports = router;
+module.exports = router; // Переконайтесь, що експортуєте саме роутер
