@@ -1,5 +1,5 @@
 const { getUserFilters } = require('../userFilters');
-const { sendTelegramMessage } = require('../utils/telegram');
+const { sendTelegramMessage, sendTelegramPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
 
 async function updateCacheForUser(chatId) {
@@ -75,8 +75,17 @@ async function updateCacheForUser(chatId) {
         console.log(`User history updated with ${newItems.length} new items.`);
 
         for (const item of newItems) {
+            const message = `✨ *New Item Found!* ✨\n\n` +
+                `📌 *Title:* ${item.title}\n\n` +
+                `🏷️ *Brand:* ${item.brand}\n\n` +
+                `📏 *Size:* ${item.size}\n\n` +
+                `💰 *Price:* ${item.price.amount} ${item.price.currency}\n\n` +
+                `🔗 [👉 BUY THE ITEM NOW 👈](${item.url})`;
+
             console.log(`Sending new item to user: ${item.title} - ${item.url}`);
-            await sendTelegramMessage(chatId, `New item found: ${item.title} - ${item.url}`);
+
+            // Відправка фотографії з інформацією про товар
+            await sendTelegramPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
         }
     } else {
         console.log(`No new items found for user ${chatId}.`);

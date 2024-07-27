@@ -35,6 +35,21 @@ async function sendTelegramMessage(chatId, text, options = {}) {
     }
 }
 
+async function sendTelegramPhoto(chatId, photoUrl, caption, options = {}) {
+    const payload = {
+        chat_id: chatId,
+        photo: photoUrl,
+        caption: caption,
+        ...options
+    };
+
+    try {
+        await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendPhoto`, payload);
+    } catch (error) {
+        console.error('Error sending photo:', error.response ? error.response.data : error.message);
+    }
+}
+
 async function answerCallbackQuery(callbackQueryId, text) {
     const payload = {
         callback_query_id: callbackQueryId,
@@ -42,14 +57,15 @@ async function answerCallbackQuery(callbackQueryId, text) {
     };
 
     try {
-        await post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/answerCallbackQuery`, payload);
+        await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/answerCallbackQuery`, payload);
     } catch (error) {
         console.error('Error answering callback query:', error.response ? error.response.data : error.message);
     }
 }
 
-
 module.exports = {
     setBotCommands,
-    sendTelegramMessage
+    sendTelegramMessage,
+    sendTelegramPhoto,
+    answerCallbackQuery
 };

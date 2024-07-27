@@ -40,7 +40,7 @@ app.use((req, res, next) => {
 
 console.log("Starting cron job setup...");
 
-cron.schedule('*/10 * * * *', () => {
+cron.schedule('* * * * *', () => {
     console.log('Cron job triggered...');
     updateCache().catch(error => {
         console.error('Error during updateCache:', error);

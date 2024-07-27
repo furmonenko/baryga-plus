@@ -188,7 +188,7 @@ async function showBrands(chatId) {
 
 
 async function showSizes(chatId, selectedSizes = []) {
-    const allSizes = ['S', 'M', 'L', 'XL', 'XXL', 'XXXL'];
+    const allSizes = ['M', 'L', 'XL', 'XXL', 'XXXL'];
     const availableSizes = allSizes.filter(size => !selectedSizes.includes(size));
 
     const sizeButtons = availableSizes.map(size => {
@@ -209,7 +209,7 @@ async function showSizes(chatId, selectedSizes = []) {
 }
 
 async function showPrices(chatId) {
-    const prices = [50, 200, 250, 300, 400, 500, 800, 1000, 5000];
+    const prices = [50, 100, 150, 200, 250, 300, 400, 500, 600];
     const priceButtons = prices.map(price => {
         return [{ text: `${price}`, callback_data: `/price ${price}` }];
     });
@@ -291,7 +291,7 @@ async function handleCallbackQuery(chatId, data, users, callbackQuery) {
                         await showSizes(chatId, users[chatId].selectedSizes);
                     } else {
                         if (users[chatId].selectedSizes.length === 0) {
-                            users[chatId].filters.size = ['S', 'M', 'L', 'XL', 'XXL', 'XXXL']; // Додаємо всі розміри, якщо жоден не вибрано
+                            users[chatId].filters.size = ['M', 'L', 'XL', 'XXL', 'XXXL']; // Додаємо всі розміри, якщо жоден не вибрано
                         } else {
                             users[chatId].filters.size = users[chatId].selectedSizes;
                         }
