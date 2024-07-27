@@ -454,53 +454,5 @@
       "profilePicture": "https://images1.vinted.net/t/01_02406_fXB5j176ysqPtXf5wj1NEiG6/f800/1706376649.jpeg?s=dce131c95abcc95333561e1b6d5ca9603b843a56"
     },
     "category": 5
-  },
-  {
-    "productId": 4816770294,
-    "title": "Czarna czapka Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4816770294-czarna-czapka-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_01393_gHDaGeSs2PDXR5NxfdTiBr22/1722110850.jpeg?s=d131709eb135d2e245bba1febcdeccc1d22391ee",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 92721005,
-      "username": "pablout1987",
-      "profile": "https://www.vinted.pl/member/92721005-pablout1987",
-      "profilePicture": "https://images1.vinted.net/t/01_00a84_udZkYUwgoorsRvT1RELFf3k5/f800/1653129627.jpeg?s=4392225469b06910279768506644887c161d5285"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4816707716,
-    "title": "Shirt Ralph Lauren (M)",
-    "url": "https://www.vinted.pl/items/4816707716-shirt-ralph-lauren-m",
-    "image": "https://images1.vinted.net/tc/01_02024_8mi36jCdUYfWXDVirDyuMixg/1722109560.jpeg?s=302ca6d6910d3e35972539f7e32515e115ddb075",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "55.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.45",
-      "totalAmount": "58.45"
-    },
-    "seller": {
-      "userId": 151903145,
-      "username": "irenapeda",
-      "profile": "https://www.vinted.pl/member/151903145-irenapeda",
-      "profilePicture": "https://images1.vinted.net/t/02_01171_kADvysbGHJTJUwwzj87KXKrS/f800/1688827690.jpeg?s=23d898fc1c88863693d56815ed4b4e1f02ac0547"
-    },
-    "category": 5
   }
 ]
