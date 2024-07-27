@@ -7,7 +7,7 @@ const { setBotCommands } = require('./utils/telegram');
 const { updateCache } = require("./services/fetchData.js");
 
 const app = express();
-const port = 3000;
+const port = 3001;
 
 const sessionStore = new session.MemoryStore();
 
