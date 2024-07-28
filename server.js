@@ -25,8 +25,8 @@ app.get('/health', (req, res) => {
 });
 
 // Очищення всіх сесій при запуску сервера
-sessionStore.clear();
-console.log('Session store cleared.');
+// sessionStore.clear();
+// console.log('Session store cleared.');
 
 // Middleware для очищення історії для кожної сесії
 app.use((req, res, next) => {
