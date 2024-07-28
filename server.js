@@ -52,6 +52,10 @@ cron.schedule('* * * * *', () => { // Запуск задачі кожні 10 х
 
 console.log("Cron job setup completed.");
 
+app.get('/health', (req, res) => {
+    res.status(200).send('OK');
+});
+
 // Маршрути
 app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
 console.log('Telegram route initialized.');
