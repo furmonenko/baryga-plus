@@ -1,49 +1,25 @@
 [
   {
-    "productId": 4816981933,
-    "title": "Bluza Stone&Island",
-    "url": "https://www.vinted.pl/items/4816981933-bluza-stoneisland",
-    "image": "https://images1.vinted.net/tc/03_01f0f_qpTY1epuKZ7wAgf4aVnmFbAc/1722117602.jpeg?s=2dee3f635e78f666e3cbc1e5df6e22920204a812",
+    "productId": 4819121734,
+    "title": "Szorty Stone Island",
+    "url": "https://www.vinted.pl/items/4819121734-szorty-stone-island",
+    "image": "https://images1.vinted.net/tc/03_0218f_TX3gdME8qKXZwfEvk1L6Vobq/1722174946.jpeg?s=3e5e97eda0cbc2a01974713102d0f65e05905e5e",
     "promoted": false,
-    "favourites": 0,
+    "favourites": 1,
     "brand": "Stone Island",
-    "size": "XL",
+    "size": "M",
     "price": {
-      "amount": "230.0",
+      "amount": "200.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.2",
-      "totalAmount": "242.2"
+      "fees": "10.7",
+      "totalAmount": "210.7"
     },
     "seller": {
-      "userId": 219304358,
-      "username": "m4ti320",
-      "profile": "https://www.vinted.pl/member/219304358-m4ti320",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4816684801,
-    "title": "Stone Island Polo casual basic certilogo",
-    "url": "https://www.vinted.pl/items/4816684801-stone-island-polo-casual-basic-certilogo",
-    "image": "https://images1.vinted.net/tc/03_023e2_MDNDemjoGKGTLPgjNEpYufGd/1722108970.jpeg?s=d79d313316962ee14dc6e1fd65916b10a3a37543",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "XXL",
-    "price": {
-      "amount": "150.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.2",
-      "totalAmount": "158.2"
-    },
-    "seller": {
-      "userId": 218826329,
-      "username": "zofijka00",
-      "profile": "https://www.vinted.pl/member/218826329-zofijka00",
-      "profilePicture": "https://images1.vinted.net/t/02_011fe_yLu2mrzTGPK15irTvgkPiVNX/f800/1721834999.jpeg?s=7982aaa27c9abba253a563d34ce79ce0bc11057f"
+      "userId": 213779038,
+      "username": "potosovka",
+      "profile": "https://www.vinted.pl/member/213779038-potosovka",
+      "profilePicture": "https://images1.vinted.net/t/03_02538_X55YH48cZKNfXJ9qf3uSa3WM/f800/1719861329.jpeg?s=c7bbf6fc588a2133a4d1633bfcea32e3aec86664"
     },
     "category": 5
   }
