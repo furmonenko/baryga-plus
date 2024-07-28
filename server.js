@@ -20,10 +20,6 @@ app.use(session({
     cookie: { secure: false }
 }));
 
-app.get('/health', (req, res) => {
-    res.status(200).send('OK');
-});
-
 // Очищення всіх сесій при запуску сервера
 // sessionStore.clear();
 // console.log('Session store cleared.');
@@ -55,6 +51,10 @@ cron.schedule('* * * * *', () => { // Запуск задачі кожні 10 х
 });
 
 console.log("Cron job setup completed.");
+
+app.get('/health', (req, res) => {
+    res.status(200).send('OK');
+});
 
 // Маршрути
 app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
