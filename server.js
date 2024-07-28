@@ -22,10 +22,12 @@ app.use(session({
 
 // Очищення всіх сесій при запуску сервера
 sessionStore.clear();
+console.log('Session store cleared.');
 
 // Middleware для очищення історії для кожної сесії
 app.use((req, res, next) => {
     if (!req.session.historyCleared) {
+        console.log(`Clearing session history for session ID: ${req.sessionID}`);
         req.session.history = [];
         req.session.historyCleared = true;
     }
@@ -34,14 +36,15 @@ app.use((req, res, next) => {
 
 // Middleware для логування запитів
 app.use((req, res, next) => {
-    console.log(`Received request: ${req.method} ${req.url}`);
+    console.log(`Received request: ${req.method} ${req.url} at ${new Date().toISOString()}`);
+    console.log(`Request body: ${JSON.stringify(req.body)}`);
     next();
 });
 
 console.log("Starting cron job setup...");
 
 cron.schedule('* * * * *', () => { // Запуск задачі кожні 10 хвилин
-    console.log('Cron job triggered...');
+    console.log(`Cron job triggered at ${new Date().toISOString()}`);
     updateCache().catch(error => {
         console.error('Error during updateCache:', error);
     });
@@ -51,16 +54,19 @@ console.log("Cron job setup completed.");
 
 // Маршрути
 app.use('/telegram', require('./routes/telegram')); // Додаємо новий маршрут для Telegram
+console.log('Telegram route initialized.');
 
 // Обробка помилок
 app.use((err, req, res, next) => {
-    console.error('Error:', err);
+    console.error('Error occurred:', err);
     res.status(500).send('Something went wrong.');
 });
 
 app.listen(port, async () => {
     try {
+        console.log('Setting bot commands...');
         await setBotCommands(); // Встановлення команд бота при запуску сервера
+        console.log(`Bot commands set successfully.`);
         console.log(`Server is running on http://0.0.0.0:${port}`);
     } catch (err) {
         console.error('Error setting bot commands:', err);
