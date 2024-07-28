@@ -53,6 +53,7 @@ cron.schedule('* * * * *', () => { // Запуск задачі кожні 10 х
 console.log("Cron job setup completed.");
 
 app.get('/health', (req, res) => {
+    console.log(`Health check received at ${new Date().toISOString()} from ${req.ip}`);
     res.status(200).send('OK');
 });
 
