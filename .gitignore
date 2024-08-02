@@ -89,3 +89,4 @@ coverage/
 # Secrets
 authKey.p8
 utils/secretKeyGenerator.js
+.env

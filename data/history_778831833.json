@@ -1,5 +1,29 @@
 [
   {
+    "productId": 4820817482,
+    "title": "Koszula z krótkim rękawem Ralph Lauren",
+    "url": "https://www.vinted.pl/items/4820817482-koszula-z-krotkim-rekawem-ralph-lauren",
+    "image": "https://images1.vinted.net/tc/02_0244c_nozkNKnjR3LDsZxdzYbPJHR8/1722194032.jpeg?s=503f12bbad463848eb0dadabb449503e38df564c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Ralph Lauren",
+    "size": "L",
+    "price": {
+      "amount": "39.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.65",
+      "totalAmount": "41.65"
+    },
+    "seller": {
+      "userId": 91034627,
+      "username": "vinted7634895010",
+      "profile": "https://www.vinted.pl/member/91034627-vinted7634895010",
+      "profilePicture": "https://images1.vinted.net/t/02_013b1_Jj9QeVUynisheeAPKByjjtJ4/f800/1652787960.jpeg?s=c58da56b47875b67cbf5c0c22949b8bf04dd76d2"
+    },
+    "category": 5
+  },
+  {
     "productId": 4820788684,
     "title": "Polo by Ralph Lauren M",
     "url": "https://www.vinted.pl/items/4820788684-polo-by-ralph-lauren-m",
