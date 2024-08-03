@@ -43,17 +43,8 @@ router.post('/webhook', async (req, res) => {
             case '/start':
                 await processStartCommand(chatId);
                 break;
-            case '/filters':
-                await showBrands(chatId);
-                break;
-            case '/interval':
-                await processIntervalCommand(chatId, text);
-                break;
             case '/history':
                 await processHistoryCommand(chatId);
-                break;
-            case '/go':
-                await processGoCommand(chatId);
                 break;
             case '/stop':
                 await processStopCommand(chatId);
@@ -63,12 +54,6 @@ router.post('/webhook', async (req, res) => {
                 break;
             case '/clearhistory':
                 await processClearHistoryCommand(chatId);
-                break;
-            case '/presets':
-                await processPresetCommand(chatId);
-                break;
-            case '/categories':
-                await showCategories(chatId);
                 break;
             default:
                 await sendLoggedMessage(chatId, 'Unknown command. Use /filters to set your search filters.');

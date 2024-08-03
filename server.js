@@ -45,7 +45,7 @@ app.use((req, res, next) => {
     next();
 });
 
-console.log("Starting cron job setup...");
+console.log("Starting managers job setup...");
 
 // Використання setInterval для запуску завдання кожні 30 секунд
 setInterval(() => {

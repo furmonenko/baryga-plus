@@ -1,4 +1,4 @@
-const { updateCacheForUser } = require('./cron/updateCache'); // Переконайтеся, що шлях правильний
+const { updateHistoryForUser } = require('./managers/userItemManager'); // Переконайтеся, що шлях правильний
 
 const timers = {};
 
@@ -7,7 +7,7 @@ function setTimer(id, interval) {
         clearInterval(timers[id]);
     }
     timers[id] = setInterval(() => {
-        updateCacheForUser(id);
+        updateHistoryForUser(id);
     }, interval * 1000);
 }
 

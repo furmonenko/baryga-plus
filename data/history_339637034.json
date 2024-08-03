@@ -1,50 +1,26 @@
 [
   {
-    "productId": 4839483782,
-    "title": "Koszula męska Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4839483782-koszula-meska-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_005f6_3M3wjtSJGwwd9MKardeJBnD9/1722625229.jpeg?s=57425a181c27d30067e23606f706a2327ae5ee71",
+    "productId": 4843011168,
+    "title": "lekka kurtka wiatrowka carhartt baggy hip hop skate emo drip opium jnco y2k swag rap",
+    "url": "https://www.vinted.pl/items/4843011168-lekka-kurtka-wiatrowka-carhartt-baggy-hip-hop-skate-emo-drip-opium-jnco-y2k-swag-rap",
+    "image": "https://images1.vinted.net/tc/02_00dc6_wJsR2FB1eiUpSEHuWww3y7cw/1722707642.jpeg?s=b43bc606a368daf6ae24c41979927b177d44262f",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
+    "brand": "Carhartt",
+    "size": "L",
     "price": {
-      "amount": "18.0",
+      "amount": "110.99",
       "currency": "PLN",
       "discount": null,
-      "fees": "1.6",
-      "totalAmount": "19.6"
+      "fees": "6.25",
+      "totalAmount": "117.24"
     },
     "seller": {
-      "userId": 139029206,
-      "username": "przyjazny",
-      "profile": "https://www.vinted.pl/member/139029206-przyjazny",
-      "profilePicture": null
+      "userId": 129502245,
+      "username": "swerxs",
+      "profile": "https://www.vinted.pl/member/129502245-swerxs",
+      "profilePicture": "https://images1.vinted.net/t/03_00d69_h15ifqfuSW9vaDeC2nAowaqS/f800/1713712893.jpeg?s=006792b0a3aa30e6d594a3f654d4e46d87892273"
     },
-    "category": 5
-  },
-  {
-    "productId": 4839456094,
-    "title": "ralph lauren big pony tee polo",
-    "url": "https://www.vinted.pl/items/4839456094-ralph-lauren-big-pony-tee-polo",
-    "image": "https://images1.vinted.net/tc/01_01abb_MboWhhNWmDfYMvhGW3EVvmYj/1722624700.jpeg?s=597291c97ed0c7e7b3ac57911a52403d0c74fd31",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "XXXL",
-    "price": {
-      "amount": "50.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.2",
-      "totalAmount": "53.2"
-    },
-    "seller": {
-      "userId": 93523998,
-      "username": "dre4amer",
-      "profile": "https://www.vinted.pl/member/93523998-dre4amer",
-      "profilePicture": "https://images1.vinted.net/t/02_0060b_L199AhBgCxRfAbm942hFkytr/f800/1653421656.jpeg?s=a93e284821191ba2b1034de313136aff37c25d5f"
-    },
-    "category": 5
+    "category": 1206
   }
 ]

@@ -3,7 +3,7 @@ const { getCategoryIdByName } = require('../services/categories');
 const { clearTimer, setTimer } = require('../timerManager');
 const { loadHistory, clearHistory, getCategories, getBrands } = require('../utils/fileOperations');
 const { setUserInterval, isUserReady, resetUserFilters, setUserReady, setUserFilters, getUserInterval } = require("../userFilters");
-const { updateCacheForUser } = require("../cron/updateCache");
+const { updateHistoryForUser } = require("../managers/userItemManager");
 
 const users = {};
 
@@ -49,7 +49,7 @@ async function processFiltersCommand(chatId, users) {
 
     setUserReady(chatId, true);
     if (isUserReady(chatId)) {
-        setTimer(chatId, getUserInterval(chatId), updateCacheForUser);
+        setTimer(chatId, getUserInterval(chatId), updateHistoryForUser);
     }
 }
 
@@ -100,7 +100,7 @@ async function processIntervalCommand(chatId, interval) {
 
         if (isUserReady(chatId)) {
             clearTimer(chatId);
-            setTimer(chatId, interval, updateCacheForUser);
+            setTimer(chatId, interval, updateHistoryForUser);
         }
     }
 }
@@ -121,7 +121,7 @@ async function processGoCommand(chatId) {
     if (!isUserReady(chatId)) {
         await sendLoggedMessage(chatId, 'Please set your filters and interval before starting the search.');
     } else {
-        setTimer(chatId, getUserInterval(chatId), updateCacheForUser);
+        setTimer(chatId, getUserInterval(chatId), updateHistoryForUser);
         await sendLoggedMessage(chatId, 'Search started.');
     }
 }
@@ -246,9 +246,6 @@ async function handleCallbackQuery(chatId, data, users, callbackQuery) {
     try {
         await clearChat(chatId);
         switch (command) {
-            case 'command_/presets':
-                await processPresetCommand(chatId);
-                break;
             case 'command_/clearhistory':
                 await processClearHistoryCommand(chatId);
                 break;
@@ -257,9 +254,6 @@ async function handleCallbackQuery(chatId, data, users, callbackQuery) {
                 break;
             case 'command_/stop':
                 await processStopCommand(chatId);
-                break;
-            case 'command_/go':
-                await processGoCommand(chatId);
                 break;
             case 'command_/history':
                 await processHistoryCommand(chatId);
