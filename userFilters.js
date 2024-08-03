@@ -1,6 +1,6 @@
 const users = {};
 const filters = {};
-const DEFAULT_INTERVAL = 30;
+const DEFAULT_INTERVAL = 15;
 
 function setUserFilters(chatId, userFilters) {
     console.log(`Setting filters for chatId ${chatId}:`, userFilters);
