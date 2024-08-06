@@ -1,6 +1,6 @@
 const axios = require('axios');
 const { saveHistory } = require('../utils/fileOperations');
-const { getAllUserFilters } = require('../userFilters');
+const UserManager = require('../managers/userManager');
 const brandsData = require('../data/brands.json'); // Завантаження брендових даних
 
 // Функція затримки
@@ -76,7 +76,8 @@ async function fetchDataFromVinted(combinedFilters) {
 
 // Функція оновлення кешу
 async function updateCache() {
-    const allUserFilters = getAllUserFilters();
+    const allUsers = UserManager.getAllUsers();
+    const allUserFilters = allUsers.map(user => user.getFilters());
 
     const combinedFilters = mergeUserFilters(allUserFilters);
 

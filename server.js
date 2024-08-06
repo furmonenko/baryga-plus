@@ -7,8 +7,8 @@ const { setBotCommands } = require('./utils/telegram');
 const { updateCache } = require("./services/fetchData.js");
 const { clearHistory, loadChatIds, getUserChatIds } = require('./utils/fileOperations');
 const { sendLoggedMessage } = require('./utils/telegram');
-const { clearTimer } = require('./timerManager');
-const { setUserReady } = require('./userFilters');
+const { clearTimer } = require('./managers/timerManager');
+const { setUserReady } = require('./user');
 
 const app = express();
 const port = process.env.PORT || 3000;

@@ -1,26 +1,50 @@
 [
   {
-    "productId": 4843011168,
-    "title": "lekka kurtka wiatrowka carhartt baggy hip hop skate emo drip opium jnco y2k swag rap",
-    "url": "https://www.vinted.pl/items/4843011168-lekka-kurtka-wiatrowka-carhartt-baggy-hip-hop-skate-emo-drip-opium-jnco-y2k-swag-rap",
-    "image": "https://images1.vinted.net/tc/02_00dc6_wJsR2FB1eiUpSEHuWww3y7cw/1722707642.jpeg?s=b43bc606a368daf6ae24c41979927b177d44262f",
+    "productId": 4853801684,
+    "title": "Koszulka Stone Island L",
+    "url": "https://www.vinted.pl/items/4853801684-koszulka-stone-island-l",
+    "image": "https://images1.vinted.net/tc/02_00b42_sbdUhtn1ZKJ4Q7pSSCPKxrS7/1722940183.jpeg?s=ae9cd1291dc9af696272180d3a495c30bcb1840c",
     "promoted": false,
     "favourites": 0,
-    "brand": "Carhartt",
+    "brand": "Stone Island",
     "size": "L",
     "price": {
-      "amount": "110.99",
+      "amount": "140.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.25",
-      "totalAmount": "117.24"
+      "fees": "7.7",
+      "totalAmount": "147.7"
     },
     "seller": {
-      "userId": 129502245,
-      "username": "swerxs",
-      "profile": "https://www.vinted.pl/member/129502245-swerxs",
-      "profilePicture": "https://images1.vinted.net/t/03_00d69_h15ifqfuSW9vaDeC2nAowaqS/f800/1713712893.jpeg?s=006792b0a3aa30e6d594a3f654d4e46d87892273"
+      "userId": 201670439,
+      "username": "garettt54",
+      "profile": "https://www.vinted.pl/member/201670439-garettt54",
+      "profilePicture": "https://images1.vinted.net/t/02_009af_sD56HWH3Rn14TdyT5jT4m9FT/f800/1714636778.jpeg?s=ac88f043fb4143df495a107cf3f6be389e41304d"
     },
-    "category": 1206
+    "category": 2050
+  },
+  {
+    "productId": 4853650203,
+    "title": "Czarna koszulka Stone Island",
+    "url": "https://www.vinted.pl/items/4853650203-czarna-koszulka-stone-island",
+    "image": "https://images1.vinted.net/tc/01_01f91_gF13Ssb5f6cWEvmebigXjVj8/1722938240.jpeg?s=1745a22c54d6043695b3373b17369e0320a3cd5f",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stone Island",
+    "size": "L",
+    "price": {
+      "amount": "70.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "4.2",
+      "totalAmount": "74.2"
+    },
+    "seller": {
+      "userId": 116522784,
+      "username": "miodoz",
+      "profile": "https://www.vinted.pl/member/116522784-miodoz",
+      "profilePicture": "https://images1.vinted.net/t/02_00aac_VrGGHPuPoPLNjZ1Qyp8goGcB/f800/1666780921.jpeg?s=9e6bc835cb6a2375ae276e880658fdebb5190012"
+    },
+    "category": 2050
   }
 ]

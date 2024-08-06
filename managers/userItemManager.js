@@ -1,4 +1,4 @@
-const { getUserFilters } = require('../userFilters');
+const UserManager = require('../managers/userManager');
 const { sendLoggedPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
 
@@ -9,7 +9,8 @@ const { loadHistory, saveHistory } = require('../utils/fileOperations');
  * @returns {Array} - The filtered items.
  */
 function filterItems(serverHistory, filters) {
-    return serverHistory.filter(item => {
+    console.log(`Filtering items with filters: ${JSON.stringify(filters)}`);
+    const filtered = serverHistory.filter(item => {
         if (filters.brand && item.brand !== filters.brand) {
             return false;
         }
@@ -31,18 +32,22 @@ function filterItems(serverHistory, filters) {
 
         return !(filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice));
     }).sort((a, b) => b.productId - a.productId);
+
+    console.log(`Filtered ${filtered.length} items`);
+    return filtered;
 }
 
 /**
  * Updates the user history with new items and returns the new items.
- * @param {number} chatId - The chat ID of the user.
+ * @param {User} user - The user object.
  * @param {Array} filteredItems - The filtered items.
  * @returns {Array} - The new items.
  */
-function updateUserHistory(chatId, filteredItems) {
-    let userHistory = loadHistory(chatId) || [];
+function updateUserHistory(user, filteredItems) {
+    let userHistory = user.getHistory() || [];
     let newItems = [];
 
+    console.log(`User history length before update: ${userHistory.length}`);
     if (userHistory.length === 0) {
         const latestItem = filteredItems[0];
         if (latestItem) newItems.push(latestItem);
@@ -53,8 +58,10 @@ function updateUserHistory(chatId, filteredItems) {
 
     if (newItems.length > 0) {
         userHistory = newItems.concat(userHistory);
-        saveHistory(chatId, userHistory);
+        user.setHistory(userHistory);
         console.log(`User history updated with ${newItems.length} new items.`);
+    } else {
+        console.log('No new items to update in user history.');
     }
 
     return newItems;
@@ -87,27 +94,42 @@ async function sendNewItemsToUser(chatId, newItems) {
  */
 async function updateHistoryForUser(chatId) {
     if (!chatId) {
+        console.log('No chatId provided.');
+        return;
+    }
+
+    console.log("All users: " + JSON.stringify(UserManager.getAllUsers()));
+
+    const user = UserManager.getUser(chatId);
+    if (!user) {
+        console.log(`No user found for chatId: ${chatId}`);
         return;
     }
 
     // Get user filters
-    const filters = getUserFilters(chatId);
+    const filters = user.getFilters();
     if (!filters) {
+        console.log(`No filters found for user with chatId: ${chatId}`);
         return;
     }
 
+    console.log(`Updating history for user with chatId: ${chatId} using filters: ${JSON.stringify(filters)}`);
+
     // Load server cache history
     let serverHistory = loadHistory('server_cache') || [];
+    console.log(`Loaded ${serverHistory.length} items from server cache.`);
 
     // Filter items from server cache based on user filters
     let filteredItems = filterItems(serverHistory, filters);
 
     // Update user history and get new items
-    let newItems = updateUserHistory(chatId, filteredItems);
+    let newItems = updateUserHistory(user, filteredItems);
 
     // Send new items to user
     if (newItems.length > 0) {
         await sendNewItemsToUser(chatId, newItems);
+    } else {
+        console.log(`No new items to send for chatId: ${chatId}`);
     }
 }
 

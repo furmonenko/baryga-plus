@@ -1,59 +1,51 @@
 const express = require('express');
 const router = express.Router();
-const { sendLoggedMessage, clearChat } = require('../utils/telegram');
+const UserManager = require('../managers/userManager');
+const { sendLoggedMessage } = require('../utils/telegram');
 const {
-    processFiltersCommand,
     processClearHistoryCommand,
     processStartCommand,
-    showCategories,
-    processIntervalCommand,
     processHistoryCommand,
-    processGoCommand,
     processStopCommand,
     processResetCommand,
-    processPresetCommand,
-    handleCallbackQuery,
-    processCategorySelection,
-    showBrands,
-    showSizes,
-    showPrices
+    handleCallbackQuery
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
-
-const users = {};
 
 router.post('/webhook', async (req, res) => {
     const { message, callback_query } = req.body;
     const chatId = message ? message.chat.id : callback_query.from.id;
-    const text = message ? message.text.trim() : callback_query.data;
+    let user = UserManager.getUser(chatId);
 
-    if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men', selectedSizes: [] };
+    if (!user) {
+        user = UserManager.createUser(chatId);
     }
+    console.log("All users: " + UserManager.getAllUsers())
+
 
     if (callback_query) {
-        await handleCallbackQuery(chatId, callback_query.data, users);
+        await handleCallbackQuery(user, callback_query.data);
     } else if (message) {
-        const command = text.split(' ')[0];
+        const command = message.text.trim().split(' ')[0];
 
         // Логування повідомлення з командою
         logMessage(chatId, message.message_id); // Зберігає message_id команди
 
         switch (command) {
             case '/start':
-                await processStartCommand(chatId);
+                await processStartCommand(user);
                 break;
             case '/history':
-                await processHistoryCommand(chatId);
+                await processHistoryCommand(user);
                 break;
             case '/stop':
-                await processStopCommand(chatId);
+                await processStopCommand(user);
                 break;
             case '/reset':
-                await processResetCommand(chatId);
+                await processResetCommand(user);
                 break;
             case '/clearhistory':
-                await processClearHistoryCommand(chatId);
+                await processClearHistoryCommand(user);
                 break;
             default:
                 await sendLoggedMessage(chatId, 'Unknown command. Use /filters to set your search filters.');
