@@ -26,8 +26,8 @@ function mergeUserFilters(userFilters) {
         if (filters.category) combinedFilters.categories.add(filters.category);
     }
 
-    console.log(combinedFilters.brands);
-    console.log(combinedFilters.categories);
+    console.log("Max Price: " + combinedFilters.maxPrice);
+    // console.log(combinedFilters.categories);
 
     return combinedFilters;
 }
@@ -49,7 +49,7 @@ async function fetchDataFromVinted(combinedFilters) {
                     page: '1',
                     brands: brands,
                     minPrice: 0,
-                    maxPrice: combinedFilters.maxPrice,
+                    maxPrice: 300, // combinedFilters.maxPrice,
                     category: category,
                     order: 'newest_first'
                 }
@@ -66,7 +66,7 @@ async function fetchDataFromVinted(combinedFilters) {
 
             allData = allData.concat(categorizedData);
 
-            await delay(3000); // Затримка між запитами
+            await delay(2000); // Затримка між запитами
         } catch (error) {
             console.error(`Error fetching data for category ${category}:`, error);
         }
@@ -84,6 +84,8 @@ async function updateCache() {
         console.log('No filters found to fetch data.');
         return;
     }
+
+    console.log("Filters lenght - " + allUserFilters.length);
 
     const combinedFilters = mergeUserFilters(allUserFilters);
 
