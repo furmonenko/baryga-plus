@@ -1,7 +1,7 @@
 const UserManager = require('../managers/userManager');
 const { sendLoggedPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
-const categories = require('../data/categories.json'); // Завантаження даних категорій
+const categories = require('../data/categories.json'); // Load category data
 
 /**
  * Gets all subcategories for a given category.
@@ -49,7 +49,7 @@ function filterItems(serverHistory, filters) {
         }
 
         return !(filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice));
-    }).sort((a, b) => b.productId - a.productId); // Сортуємо за productId в зворотньому порядку
+    }).sort((a, b) => b.productId - a.productId); // Sort by productId in descending order
 
     console.log(`Filtered ${filtered.length} items`);
     return filtered;
@@ -59,15 +59,19 @@ function filterItems(serverHistory, filters) {
  * Updates the user history with new items and returns the new items.
  * @param {User} user - The user object.
  * @param {Array} filteredItems - The filtered items.
+ * @param {number} filterIndex - The index of the filter.
  * @returns {Array} - The new items.
  */
-function updateUserHistory(user, filteredItems) {
+function updateUserHistory(user, filteredItems, filterIndex) {
     let userHistory = user.getHistory() || [];
     let newItems = [];
 
-    console.log(`User history length before update: ${userHistory.length}`);
+    console.log(`User history length before update for filter ${filterIndex}: ${userHistory.length}`);
     if (userHistory.length === 0) {
-        newItems = filteredItems.slice(0, 1); // Беремо лише найновіший елемент
+        // If user history is empty, add the newest item from each filter
+        if (filteredItems.length > 0) {
+            newItems = filteredItems.slice(0, 1); // Take only the newest item
+        }
     } else {
         const lastItemId = userHistory[0].productId;
         newItems = filteredItems.filter(item => item.productId > lastItemId);
@@ -75,10 +79,11 @@ function updateUserHistory(user, filteredItems) {
 
     if (newItems.length > 0) {
         userHistory = newItems.concat(userHistory);
+        userHistory.sort((a, b) => b.productId - a.productId); // Ensure newest item is at the top
         user.setHistory(userHistory);
-        console.log(`User history updated with ${newItems.length} new items.`);
+        console.log(`User history updated with ${newItems.length} new items for filter ${filterIndex}.`);
     } else {
-        console.log('No new items to update in user history.');
+        console.log(`No new items to update in user history for filter ${filterIndex}.`);
     }
 
     return newItems;
@@ -136,23 +141,20 @@ async function updateHistoryForUser(chatId) {
     let serverHistory = loadHistory('server_cache') || [];
     console.log(`Loaded ${serverHistory.length} items from server cache.`);
 
-    // Filter items from server cache based on user filters
-    let filteredItems = [];
-    filters.forEach(filter => {
-        const filtered = filterItems(serverHistory, filter);
-        filteredItems = filteredItems.concat(filtered);
-    });
+    let newItems = [];
+    for (let i = 0; i < filters.length; i++) {
+        const filter = filters[i];
+        console.log(`Filtering items with filter ${i + 1}: ${JSON.stringify(filter)}`);
 
-    // Ensure unique items and sort by productId in descending order
-    filteredItems = [...new Map(filteredItems.map(item => [item.productId, item])).values()];
-    filteredItems.sort((a, b) => b.productId - a.productId);
+        // Filter items from server cache based on current filter
+        const filteredItems = filterItems(serverHistory, filter);
 
-    console.log(`Total filtered items: ${filteredItems.length}`);
+        // Update user history and get new items for the current filter
+        const filterNewItems = updateUserHistory(user, filteredItems, i);
+        newItems = newItems.concat(filterNewItems);
+    }
 
-    // Update user history and get new items
-    let newItems = updateUserHistory(user, filteredItems);
-
-    // Send new items to user
+    // Send new items to user for all filters
     if (newItems.length > 0) {
         await sendNewItemsToUser(chatId, newItems);
     } else {

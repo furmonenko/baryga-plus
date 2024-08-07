@@ -66,7 +66,7 @@ async function fetchDataFromVinted(combinedFilters) {
 
             allData = allData.concat(categorizedData);
 
-            await delay(1000); // Затримка між запитами
+            await delay(3000); // Затримка між запитами
         } catch (error) {
             console.error(`Error fetching data for category ${category}:`, error);
         }
