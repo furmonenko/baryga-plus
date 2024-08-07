@@ -1,6 +1,6 @@
 const axios = require('axios');
-const { saveHistory } = require('../utils/fileOperations');
 const UserManager = require('../managers/userManager');
+const { saveHistory } = require('../utils/fileOperations');
 const brandsData = require('../data/brands.json'); // Завантаження брендових даних
 
 // Функція затримки
@@ -26,13 +26,15 @@ function mergeUserFilters(userFilters) {
         if (filters.category) combinedFilters.categories.add(filters.category);
     }
 
+    console.log(combinedFilters.brands);
+    console.log(combinedFilters.categories);
+
     return combinedFilters;
 }
 
 // Функція отримання даних з API
 async function fetchDataFromVinted(combinedFilters) {
     const brands = Array.from(combinedFilters.brands).join(',');
-    const sizes = Array.from(combinedFilters.sizes).join(',');
     let allData = [];
 
     for (const category of combinedFilters.categories) {
@@ -46,7 +48,6 @@ async function fetchDataFromVinted(combinedFilters) {
                     country: 'pl',
                     page: '1',
                     brands: brands,
-                    sizes: sizes,
                     minPrice: 0,
                     maxPrice: combinedFilters.maxPrice,
                     category: category,
@@ -77,7 +78,12 @@ async function fetchDataFromVinted(combinedFilters) {
 // Функція оновлення кешу
 async function updateCache() {
     const allUsers = UserManager.getAllUsers();
-    const allUserFilters = allUsers.map(user => user.getFilters());
+    const allUserFilters = allUsers.flatMap(user => user.getFilters());
+
+    if (allUserFilters.length === 0) {
+        console.log('No filters found to fetch data.');
+        return;
+    }
 
     const combinedFilters = mergeUserFilters(allUserFilters);
 

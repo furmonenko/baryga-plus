@@ -1,6 +1,23 @@
 const UserManager = require('../managers/userManager');
 const { sendLoggedPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
+const categories = require('../data/categories.json'); // Завантаження даних категорій
+
+/**
+ * Gets all subcategories for a given category.
+ * @param {number} categoryId - The ID of the category.
+ * @returns {Array} - An array of subcategory IDs.
+ */
+function getAllSubcategories(categoryId) {
+    let subcategories = [];
+    for (const [id, category] of Object.entries(categories)) {
+        if (category.parent_id === categoryId) {
+            subcategories.push(parseInt(id));
+            subcategories = subcategories.concat(getAllSubcategories(parseInt(id)));
+        }
+    }
+    return subcategories;
+}
 
 /**
  * Filters items from the server cache based on user filters.
@@ -10,12 +27,13 @@ const { loadHistory, saveHistory } = require('../utils/fileOperations');
  */
 function filterItems(serverHistory, filters) {
     console.log(`Filtering items with filters: ${JSON.stringify(filters)}`);
+    const categoryIds = [filters.category].concat(getAllSubcategories(filters.category));
     const filtered = serverHistory.filter(item => {
         if (filters.brand && item.brand !== filters.brand) {
             return false;
         }
 
-        if (filters.category && item.category !== filters.category) {
+        if (filters.category && !categoryIds.includes(item.category)) {
             return false;
         }
 
@@ -24,14 +42,14 @@ function filterItems(serverHistory, filters) {
                 return false;
             }
             const itemSize = item.size.toUpperCase();
-            const sizeMatch = filters.size.some(size => itemSize.includes(size));
+            const sizeMatch = filters.size.some(size => itemSize.includes(size.toUpperCase()));
             if (!sizeMatch) {
                 return false;
             }
         }
 
         return !(filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice));
-    }).sort((a, b) => b.productId - a.productId);
+    }).sort((a, b) => b.productId - a.productId); // Сортуємо за productId в зворотньому порядку
 
     console.log(`Filtered ${filtered.length} items`);
     return filtered;
@@ -49,8 +67,7 @@ function updateUserHistory(user, filteredItems) {
 
     console.log(`User history length before update: ${userHistory.length}`);
     if (userHistory.length === 0) {
-        const latestItem = filteredItems[0];
-        if (latestItem) newItems.push(latestItem);
+        newItems = filteredItems.slice(0, 1); // Беремо лише найновіший елемент
     } else {
         const lastItemId = userHistory[0].productId;
         newItems = filteredItems.filter(item => item.productId > lastItemId);
@@ -108,7 +125,7 @@ async function updateHistoryForUser(chatId) {
 
     // Get user filters
     const filters = user.getFilters();
-    if (!filters) {
+    if (!filters || filters.length === 0) {
         console.log(`No filters found for user with chatId: ${chatId}`);
         return;
     }
@@ -120,7 +137,17 @@ async function updateHistoryForUser(chatId) {
     console.log(`Loaded ${serverHistory.length} items from server cache.`);
 
     // Filter items from server cache based on user filters
-    let filteredItems = filterItems(serverHistory, filters);
+    let filteredItems = [];
+    filters.forEach(filter => {
+        const filtered = filterItems(serverHistory, filter);
+        filteredItems = filteredItems.concat(filtered);
+    });
+
+    // Ensure unique items and sort by productId in descending order
+    filteredItems = [...new Map(filteredItems.map(item => [item.productId, item])).values()];
+    filteredItems.sort((a, b) => b.productId - a.productId);
+
+    console.log(`Total filtered items: ${filteredItems.length}`);
 
     // Update user history and get new items
     let newItems = updateUserHistory(user, filteredItems);

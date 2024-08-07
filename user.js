@@ -1,17 +1,13 @@
-const {loadHistory, saveHistory} = require("./utils/fileOperations");
+const { loadHistory, saveHistory } = require('./utils/fileOperations');
 
 class User {
     constructor(chatId) {
         this.chatId = chatId;
-        this.filters = {
-            brand: null,
-            size: [],
-            minPrice: 0,
-            maxPrice: null,
-            category: 'Men'
-        };
+        this.filters = [];
         this.interval = 10;
         this.ready = false;
+        this.maxFilters = 4;
+        this.currentFilterIndex = 0;
     }
 
     setFilters(filters) {
@@ -22,8 +18,8 @@ class User {
         return this.filters;
     }
 
-    setInterval(interval) {
-        this.interval = interval;
+    updateFilter(filter, index) {
+        this.filters[index] = filter;
     }
 
     getInterval() {
@@ -34,6 +30,10 @@ class User {
         this.ready = isReady;
     }
 
+    isReady() {
+        return this.ready;
+    }
+
     getHistory() {
         return loadHistory(this.chatId);
     }
@@ -42,18 +42,25 @@ class User {
         saveHistory(this.chatId, history);
     }
 
-    isReady() {
-        return this.ready;
+    resetFilters() {
+        this.filters = [];
+        this.currentFilterIndex = 0;
     }
 
-    resetFilters() {
-        this.filters = {
-            brand: null,
-            size: [],
-            minPrice: 0,
-            maxPrice: null,
-            category: 'Men'
-        };
+    getCurrentFilterIndex() {
+        return this.currentFilterIndex;
+    }
+
+    setCurrentFilterIndex(index) {
+        this.currentFilterIndex = index;
+    }
+
+    setFilterCount(count) {
+        this.maxFilters = count;
+    }
+
+    getFilterCount() {
+        return this.maxFilters;
     }
 }
 
