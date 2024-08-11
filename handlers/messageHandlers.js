@@ -4,10 +4,21 @@ const { clearTimer, setTimer } = require('../managers/timerManager');
 const { loadHistory, clearHistory, getCategories, getBrands } = require('../utils/fileOperations');
 const { updateHistoryForUser } = require("../managers/userItemManager");
 const Filters = require("../models/filters");
+const UserManager = require('../managers/userManager'); // Впевніться, що шлях правильний
 
 async function processStartCommand(user) {
     const chatId = user.chatId;
     console.log(`Processing chatId: ${chatId}`);
+
+    if (!user) {
+        const newUser = UserManager.createUser(chatId, user.firstName, user.lastName, user.username);
+
+        if (UserManager.isAdmin(chatId)) {
+            await sendLoggedMessage(chatId, 'You have been automatically set as the admin.');
+        }
+
+        user = newUser; // Оновлюємо користувача з інформацією про план
+    }
 
     clearHistory(chatId);
     await clearChat(chatId);
@@ -27,6 +38,7 @@ async function processStartCommand(user) {
     await sendLoggedMessage(chatId, 'Welcome to the bot! Use the buttons below to set your filters and start searching.', options);
 }
 
+
 async function processClearHistoryCommand(user) {
     const chatId = user.chatId;
     clearHistory(chatId);
@@ -34,11 +46,12 @@ async function processClearHistoryCommand(user) {
     await sendLoggedMessage(chatId, 'History and chat have been cleared.');
 }
 
+
 async function processFiltersCommand(user) {
     const chatId = user.chatId;
     console.log(`Starting processFiltersCommand for chatId: ${chatId}`);
 
-    await clearChat(chatId); // Clear previous messages
+    await clearChat(chatId);
 
     let allFiltersUpdated = true;
     const filters = user.getFilters().map((filter, index) => {
@@ -74,16 +87,9 @@ async function processFiltersCommand(user) {
             { parse_mode: 'Markdown' }
         );
 
-        user.setReady(true);
-        console.log(`User is set to ready for chatId: ${chatId}`);
-
-        if (user.isReady()) {
-            setTimer(chatId, user.getInterval(), updateHistoryForUser);
-            console.log(`Timer set for chatId: ${chatId} with interval: ${user.getInterval()}`);
-        }
+        // Не встановлюємо isReady тут
     }
 }
-
 
 async function processCategorySelection(user, categoryTitle) {
     const chatId = user.chatId;
@@ -307,12 +313,17 @@ async function handlePriceSelection(user, price) {
     filters[user.getCurrentFilterIndex()].maxPrice = price;
     user.updateFilter(filters[user.getCurrentFilterIndex()], user.getCurrentFilterIndex());
     await sendLoggedMessage(chatId, `Max price selected: ${price}`);
+
     if (user.getCurrentFilterIndex() < user.getFilterCount() - 1) {
+        // Переходимо до наступного фільтру
         user.setCurrentFilterIndex(user.getCurrentFilterIndex() + 1);
         await sendLoggedMessage(chatId, `Let's set filter ${user.getCurrentFilterIndex() + 1}.`);
         await showBrands(user);
     } else {
-        await processFiltersCommand(user);
+        // Усі фільтри налаштовані, тепер встановлюємо `isReady` на true
+        await processFiltersCommand(user);  // Зберігаємо фільтри і надсилаємо підтвердження
+        user.setReady(true);  // Встановлюємо користувача як готового до отримання сповіщень
+        await sendLoggedMessage(chatId, 'All filters have been set, and you are ready to start searching.');
     }
 }
 

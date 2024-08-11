@@ -18,19 +18,23 @@ router.post('/webhook', async (req, res) => {
     let user = UserManager.getUser(chatId);
 
     if (!user) {
-        user = UserManager.createUser(chatId);
+        const { first_name: firstName, last_name: lastName, username } = message ? message.from : callback_query.from;
+        user = UserManager.createUser(chatId, firstName, lastName, username);
     }
-    console.log("All users: " + UserManager.getAllUsers())
 
+    if (UserManager.isUserBanned(chatId)) {
+        console.log(`User with chatId ${chatId} is banned.`);
+        return res.sendStatus(403); // Забороняємо доступ
+    }
+
+    const isAdmin = user.plan === 'admin';
 
     if (callback_query) {
         await handleCallbackQuery(user, callback_query.data);
     } else if (message) {
-        const command = message.text.trim().split(' ')[0];
+        const [command, arg1, arg2] = message.text.trim().split(' ');
 
-        // Логування повідомлення з командою
-        logMessage(chatId, message.message_id); // Зберігає message_id команди
-
+        // Загальні команди для всіх користувачів
         switch (command) {
             case '/start':
                 await processStartCommand(user);
@@ -48,7 +52,27 @@ router.post('/webhook', async (req, res) => {
                 await processClearHistoryCommand(user);
                 break;
             default:
-                await sendLoggedMessage(chatId, 'Unknown command. Use /filters to set your search filters.');
+                if (isAdmin) {
+                    // Додаткові команди для адміністратора
+                    switch (command) {
+                        case '/changeplan':
+                            UserManager.changeUserPlan(arg1, arg2);
+                            await sendLoggedMessage(chatId, `Plan changed for ${arg1} to ${arg2}`);
+                            break;
+                        case '/ban':
+                            UserManager.banUser(parseInt(arg1));
+                            await sendLoggedMessage(chatId, `User with chatId ${arg1} has been banned`);
+                            break;
+                        case '/unban':
+                            UserManager.unbanUser(parseInt(arg1));
+                            await sendLoggedMessage(chatId, `User with chatId ${arg1} has been unbanned`);
+                            break;
+                        default:
+                            await sendLoggedMessage(chatId, 'Unknown command.');
+                    }
+                } else {
+                    await sendLoggedMessage(chatId, 'Unknown command.');
+                }
         }
     }
 

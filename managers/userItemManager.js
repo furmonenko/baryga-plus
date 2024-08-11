@@ -38,8 +38,8 @@ function filterItems(serverHistory, filters) {
         }
 
         if (filters.size && filters.size.length > 0) {
-            if (!item.size) {
-                return false;
+            if (!item.size || item.size.toUpperCase() === 'UNIWERSALNY') {
+                return true;
             }
             const itemSize = item.size.toUpperCase();
             const sizeMatch = filters.size.some(size => itemSize.includes(size.toUpperCase()));
@@ -54,6 +54,7 @@ function filterItems(serverHistory, filters) {
     console.log(`Filtered ${filtered.length} items`);
     return filtered;
 }
+
 
 /**
  * Updates the user history with new items and returns the new items.
@@ -122,8 +123,8 @@ async function updateHistoryForUser(chatId) {
     console.log("All users: " + JSON.stringify(UserManager.getAllUsers()));
 
     const user = UserManager.getUser(chatId);
-    if (!user) {
-        console.log(`No user found for chatId: ${chatId}`);
+    if (!user || !user.isReady()) {
+        console.log(`User with chatId ${chatId} is not ready or not found.`);
         return;
     }
 
@@ -140,6 +141,12 @@ async function updateHistoryForUser(chatId) {
     let serverHistory = loadHistory('server_cache') || [];
     console.log(`Loaded ${serverHistory.length} items from server cache.`);
 
+    // Save the newest item in the user history before processing filters
+    let lastItemId = 0;
+    if (user.getHistory().length > 0) {
+        lastItemId = user.getHistory()[0].productId;
+    }
+
     let allFilteredItems = [];
     for (let i = 0; i < filters.length; i++) {
         const filter = filters[i];
@@ -147,25 +154,31 @@ async function updateHistoryForUser(chatId) {
 
         // Filter items from server cache based on current filter
         const filteredItems = filterItems(serverHistory, filter);
-        if (filteredItems.length > 0) {
-            allFilteredItems.push(filteredItems[0]); // Collect the newest item from each filter
-        }
+        allFilteredItems = allFilteredItems.concat(filteredItems);
     }
 
-    // Find the newest item among all filtered items
-    if (allFilteredItems.length > 0) {
-        allFilteredItems.sort((a, b) => b.productId - a.productId); // Sort by productId to get the newest item
-        const newestItem = allFilteredItems[0];
+    // Sort all filtered items to get the newest items first
+    allFilteredItems.sort((a, b) => b.productId - a.productId);
 
-        // Update user history with the newest item
-        const newItems = updateUserHistory(user, [newestItem]);
-
-        // Send the newest item to user
-        if (newItems.length > 0) {
-            await sendNewItemsToUser(chatId, newItems);
-        } else {
-            console.log(`No new items to send for chatId: ${chatId}`);
+    // Determine which items are new based on the last item in user history
+    let newItems = [];
+    if (user.getHistory().length === 0) {
+        // If user history is empty, take only the newest item
+        if (allFilteredItems.length > 0) {
+            newItems = [allFilteredItems[0]];
         }
+    } else {
+        // If user history is not empty, take all items newer than the last item
+        newItems = allFilteredItems.filter(item => item.productId > lastItemId);
+    }
+
+    // Update user history and send new items
+    if (newItems.length > 0) {
+        const updatedHistory = newItems.concat(user.getHistory());
+        user.setHistory(updatedHistory.sort((a, b) => b.productId - a.productId));
+        await sendNewItemsToUser(chatId, newItems);
+    } else {
+        console.log(`No new items to send for chatId: ${chatId}`);
     }
 }
 
