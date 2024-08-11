@@ -1,20 +1,15 @@
 {
-  "users": {
-    "339637034": {
-      "chatId": 339637034,
-      "firstName": "愛",
-      "lastName": "",
-      "username": "furmo",
-      "plan": "admin",
-      "banned": false,
-      "filters": [],
-      "interval": 0,
-      "ready": false,
-      "maxFilters": 4,
-      "currentFilterIndex": 0
-    }
-  },
-  "admins": [
-    339637034
-  ]
+  "339637034": {
+    "chatId": 339637034,
+    "firstName": "愛",
+    "lastName": "",
+    "username": "furmo",
+    "plan": "admin",
+    "banned": false,
+    "filters": [],
+    "interval": 0,
+    "ready": false,
+    "maxFilters": 4,
+    "currentFilterIndex": 0
+  }
 }

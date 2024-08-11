@@ -55,40 +55,6 @@ function filterItems(serverHistory, filters) {
     return filtered;
 }
 
-
-/**
- * Updates the user history with new items and returns the new items.
- * @param {User} user - The user object.
- * @param {Array} filteredItems - The filtered items.
- * @returns {Array} - The new items.
- */
-function updateUserHistory(user, filteredItems) {
-    let userHistory = user.getHistory() || [];
-    let newItems = [];
-
-    console.log(`User history length before update: ${userHistory.length}`);
-    if (userHistory.length === 0) {
-        // If user history is empty, find the newest item from all filters
-        if (filteredItems.length > 0) {
-            newItems = [filteredItems[0]]; // Take only the newest item from all filters
-        }
-    } else {
-        const lastItemId = userHistory[0].productId;
-        newItems = filteredItems.filter(item => item.productId > lastItemId);
-    }
-
-    if (newItems.length > 0) {
-        userHistory = newItems.concat(userHistory);
-        userHistory.sort((a, b) => b.productId - a.productId); // Ensure newest item is at the top
-        user.setHistory(userHistory);
-        console.log(`User history updated with ${newItems.length} new items.`);
-    } else {
-        console.log(`No new items to update in user history.`);
-    }
-
-    return newItems;
-}
-
 /**
  * Sends new items found to the user.
  * @param {number} chatId - The chat ID of the user.

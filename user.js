@@ -1,4 +1,4 @@
-const { loadHistory, saveHistory } = require('./utils/fileOperations');
+const { loadHistory, saveHistory } = require('./utils/fileOperations'); // Впевніться, що шлях правильний
 
 class User {
     constructor(chatId, firstName = '', lastName = '', username = '', plan = 'casual', banned = false) {
@@ -32,14 +32,14 @@ class User {
     getPlanInterval(plan) {
         switch (plan) {
             case 'admin':
-                return 0; // Instant update for admin
+                return 0; // Миттєве оновлення для admin
             case 'baron':
-                return 5;
+                return 5; // 5 секунд
             case 'dealer':
-                return 10;
+                return 10; // 10 секунд
             case 'casual':
             default:
-                return 15;
+                return 15; // 15 секунд
         }
     }
 
@@ -47,14 +47,6 @@ class User {
         this.plan = newPlan;
         this.interval = this.getPlanInterval(newPlan);
         this.maxFilters = this.getPlanFilters(newPlan);
-    }
-
-    ban() {
-        this.banned = true;
-    }
-
-    unban() {
-        this.banned = false;
     }
 
     isBanned() {

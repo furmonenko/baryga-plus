@@ -27,7 +27,17 @@ router.post('/webhook', async (req, res) => {
         return res.sendStatus(403); // Забороняємо доступ
     }
 
-    const isAdmin = user.plan === 'admin';
+    // Перевіряємо, чи збігається план користувача з тим, що вказаний у userPlans
+    const currentPlan = user.plan;
+    const planFromFile = UserManager.getPlanFromFile(chatId);
+
+    if (planFromFile && planFromFile !== currentPlan) {
+        console.log(`Updating plan for user ${chatId} from ${currentPlan} to ${planFromFile}`);
+        UserManager.setPlan(chatId, planFromFile);
+        user.setPlan(planFromFile); // Оновлюємо план користувача в пам'яті
+    }
+
+    const isAdmin = UserManager.isAdmin(chatId);
 
     if (callback_query) {
         await handleCallbackQuery(user, callback_query.data);
@@ -56,7 +66,7 @@ router.post('/webhook', async (req, res) => {
                     // Додаткові команди для адміністратора
                     switch (command) {
                         case '/changeplan':
-                            UserManager.changeUserPlan(arg1, arg2);
+                            UserManager.setPlan(arg1, arg2);
                             await sendLoggedMessage(chatId, `Plan changed for ${arg1} to ${arg2}`);
                             break;
                         case '/ban':
@@ -78,5 +88,6 @@ router.post('/webhook', async (req, res) => {
 
     res.sendStatus(200);
 });
+
 
 module.exports = router; // Переконайтесь, що експортуєте саме роутер

@@ -2,7 +2,6 @@ const { sendLoggedMessage, clearChat } = require('../utils/telegram');
 const { getCategoryIdByName } = require('../services/categories');
 const { clearTimer, setTimer } = require('../managers/timerManager');
 const { loadHistory, clearHistory, getCategories, getBrands } = require('../utils/fileOperations');
-const { updateHistoryForUser } = require("../managers/userItemManager");
 const Filters = require("../models/filters");
 const UserManager = require('../managers/userManager'); // Впевніться, що шлях правильний
 
@@ -10,20 +9,9 @@ async function processStartCommand(user) {
     const chatId = user.chatId;
     console.log(`Processing chatId: ${chatId}`);
 
-    if (!user) {
-        const newUser = UserManager.createUser(chatId, user.firstName, user.lastName, user.username);
-
-        if (UserManager.isAdmin(chatId)) {
-            await sendLoggedMessage(chatId, 'You have been automatically set as the admin.');
-        }
-
-        user = newUser; // Оновлюємо користувача з інформацією про план
-    }
-
     clearHistory(chatId);
     await clearChat(chatId);
     clearTimer(chatId);
-    user.resetFilters();
     user.setReady(false);
 
     const options = {
@@ -37,6 +25,8 @@ async function processStartCommand(user) {
     };
     await sendLoggedMessage(chatId, 'Welcome to the bot! Use the buttons below to set your filters and start searching.', options);
 }
+
+
 
 
 async function processClearHistoryCommand(user) {
