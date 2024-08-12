@@ -18,12 +18,32 @@ function mergeUserFilters(userFilters) {
     };
 
     for (const filters of userFilters) {
-        if (filters.brand && brandsData[filters.brand]) {
-            combinedFilters.brands.add(brandsData[filters.brand]); // Заміна назви бренду на ID
+        // Об'єднання брендів
+        if (filters.brand) {
+            const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
+            brandsArray.forEach(brand => {
+                if (brandsData[brand]) {
+                    combinedFilters.brands.add(brandsData[brand]); // Заміна назви бренду на ID
+                } else {
+                    console.warn(`Brand '${brand}' not found in brandsData.`);
+                }
+            });
         }
-        if (filters.size) filters.size.forEach(size => combinedFilters.sizes.add(size));
-        if (filters.maxPrice > combinedFilters.maxPrice) combinedFilters.maxPrice = filters.maxPrice;
-        if (filters.category) combinedFilters.categories.add(filters.category);
+
+        // Об'єднання розмірів
+        if (filters.size) {
+            filters.size.forEach(size => combinedFilters.sizes.add(size));
+        }
+
+        // Вибір максимальної ціни
+        if (filters.maxPrice && filters.maxPrice > combinedFilters.maxPrice) {
+            combinedFilters.maxPrice = filters.maxPrice;
+        }
+
+        // Об'єднання категорій
+        if (filters.category) {
+            combinedFilters.categories.add(filters.category);
+        }
     }
 
     console.log("Max Price: " + combinedFilters.maxPrice);
@@ -31,6 +51,7 @@ function mergeUserFilters(userFilters) {
 
     return combinedFilters;
 }
+
 
 // Функція отримання даних з API
 async function fetchDataFromVinted(combinedFilters) {

@@ -8,7 +8,8 @@ const {
     processHistoryCommand,
     processStopCommand,
     processResetCommand,
-    handleCallbackQuery
+    handleCallbackQuery,
+    handlePresetFiltersCommand
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
 
@@ -27,7 +28,6 @@ router.post('/webhook', async (req, res) => {
         return res.sendStatus(403); // Забороняємо доступ
     }
 
-    // Перевіряємо, чи збігається план користувача з тим, що вказаний у userPlans
     const currentPlan = user.plan;
     const planFromFile = UserManager.getPlanFromFile(chatId);
 
@@ -44,7 +44,6 @@ router.post('/webhook', async (req, res) => {
     } else if (message) {
         const [command, arg1, arg2] = message.text.trim().split(' ');
 
-        // Загальні команди для всіх користувачів
         switch (command) {
             case '/start':
                 await processStartCommand(user);
@@ -61,9 +60,11 @@ router.post('/webhook', async (req, res) => {
             case '/clearhistory':
                 await processClearHistoryCommand(user);
                 break;
+            case '/presetfilters':
+                await handlePresetFiltersCommand(user);
+                break;
             default:
                 if (isAdmin) {
-                    // Додаткові команди для адміністратора
                     switch (command) {
                         case '/changeplan':
                             UserManager.setPlan(arg1, arg2);
@@ -89,5 +90,4 @@ router.post('/webhook', async (req, res) => {
     res.sendStatus(200);
 });
 
-
-module.exports = router; // Переконайтесь, що експортуєте саме роутер
+module.exports = router;

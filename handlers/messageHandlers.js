@@ -3,7 +3,7 @@ const { getCategoryIdByName } = require('../services/categories');
 const { clearTimer, setTimer } = require('../managers/timerManager');
 const { loadHistory, clearHistory, getCategories, getBrands } = require('../utils/fileOperations');
 const Filters = require("../models/filters");
-const UserManager = require('../managers/userManager'); // Впевніться, що шлях правильний
+const UserManager = require('../managers/userManager');
 
 async function processStartCommand(user) {
     const chatId = user.chatId;
@@ -18,6 +18,7 @@ async function processStartCommand(user) {
         reply_markup: {
             inline_keyboard: [
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
+                [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Stop Search', callback_data: 'command_/stop' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
@@ -26,16 +27,12 @@ async function processStartCommand(user) {
     await sendLoggedMessage(chatId, 'Welcome to the bot! Use the buttons below to set your filters and start searching.', options);
 }
 
-
-
-
 async function processClearHistoryCommand(user) {
     const chatId = user.chatId;
     clearHistory(chatId);
     await clearChat(chatId);
     await sendLoggedMessage(chatId, 'History and chat have been cleared.');
 }
-
 
 async function processFiltersCommand(user) {
     const chatId = user.chatId;
@@ -76,25 +73,6 @@ async function processFiltersCommand(user) {
             'Please wait while we find the best items for you! 🔄',
             { parse_mode: 'Markdown' }
         );
-
-        // Не встановлюємо isReady тут
-    }
-}
-
-async function processCategorySelection(user, categoryTitle) {
-    const chatId = user.chatId;
-    const categories = getCategories();
-    const selectedCategory = Object.values(categories).find(cat => cat.title === categoryTitle);
-
-    await clearChat(chatId);
-
-    if (selectedCategory) {
-        const filters = user.getFilters();
-        filters[user.getCurrentFilterIndex()].category = selectedCategory.title;
-        user.updateFilter(filters[user.getCurrentFilterIndex()], user.getCurrentFilterIndex());
-        await sendLoggedMessage(chatId, `Category selected: ${selectedCategory.title}`);
-    } else {
-        await sendLoggedMessage(chatId, 'Invalid category selection.');
     }
 }
 
@@ -127,23 +105,21 @@ async function processResetCommand(user) {
     await sendLoggedMessage(chatId, 'Filters have been reset.');
 }
 
-async function processPresetCommand(user) {
+async function handlePresetFiltersCommand(user) {
     const chatId = user.chatId;
     await clearChat(chatId);
-    const presetButtons = [
-        [{ text: '/preset Stone Island, XXL, 0, 200, Men' }],
-        [{ text: '/preset Stone Island, L, 0, 300, Men' }],
-        [{ text: '/preset Stone Island, M, 0, 400, Men' }],
-        [{ text: '/preset Stone Island, S, 0, 500, Men' }]
-    ];
+
     const options = {
         reply_markup: {
-            keyboard: presetButtons,
-            one_time_keyboard: true,
-            resize_keyboard: true
+            inline_keyboard: [
+                [{ text: 'Baryga+ Filters', callback_data: 'preset_baryga' }],
+                [{ text: 'Custom Filters', callback_data: 'preset_custom' }],
+                [{ text: 'Back', callback_data: 'command_/start' }]
+            ]
         }
     };
-    await sendLoggedMessage(chatId, 'Please select a preset filter.', options);
+
+    await sendLoggedMessage(chatId, 'Please choose a preset filter type:', options);
 }
 
 async function showBrands(user) {
@@ -242,6 +218,18 @@ async function handleCallbackQuery(user, data) {
                 await showBrands(user);
                 break;
 
+            case 'preset_baryga':
+                await showBarygaFilters(user);
+                break; // Додано правильний виклик функції
+
+            case 'preset_custom':
+                await showCustomFilters(user);
+                break; // Додано правильний виклик функції
+
+            case 'preset':
+                await applyPresetFilter(user, value);
+                break;
+
             case 'command_/clearhistory':
                 await processClearHistoryCommand(user);
                 break;
@@ -260,6 +248,19 @@ async function handleCallbackQuery(user, data) {
 
             case 'command_/filters':
                 await showBrands(user);
+                break;
+
+            // Нові кейси для обробки вибору пресетів
+            case 'command_/baryga_filters':
+                await showBarygaFilters(user);
+                break;
+
+            case 'command_/custom_filters':
+                await showCustomFilters(user);
+                break;
+
+            case 'command_/presetfilters':
+                await handlePresetFiltersCommand(user);
                 break;
 
             case '/brand':
@@ -288,6 +289,92 @@ async function handleCallbackQuery(user, data) {
     }
 }
 
+async function applyPresetFilter(user, presetName) {
+    const chatId = user.chatId;
+    const barygaFilters = require('../data/baryga_filters.json');
+    const customFilters = user.getCustomFilters();
+
+    let selectedFilter = null;
+
+    // Перевіряємо, чи є такий фільтр у Baryga+ Filters
+    if (barygaFilters[presetName]) {
+        selectedFilter = barygaFilters[presetName];
+    }
+    // Якщо ні, то шукаємо серед кастомних фільтрів користувача
+    else if (customFilters[presetName]) {
+        selectedFilter = customFilters[presetName];
+    }
+
+    if (selectedFilter) {
+        // Застосовуємо вибраний фільтр до користувача
+        const filters = user.getFilters();
+        const currentFilterIndex = user.getCurrentFilterIndex();
+
+        if (!filters[currentFilterIndex]) {
+            filters[currentFilterIndex] = new Filters();
+        }
+
+        filters[currentFilterIndex].brand = selectedFilter.brand;
+        filters[currentFilterIndex].size = selectedFilter.size;
+        filters[currentFilterIndex].minPrice = selectedFilter.minPrice;
+        filters[currentFilterIndex].maxPrice = selectedFilter.maxPrice;
+        filters[currentFilterIndex].category = selectedFilter.category;
+        filters[currentFilterIndex].keywords = selectedFilter.keywords;
+
+        user.setFilters(filters);
+        user.setReady(true);
+
+        await sendLoggedMessage(chatId, `Preset "${presetName}" has been applied.`);
+        await processFiltersCommand(user);  // Запускаємо пошук за новими фільтрами
+    } else {
+        await sendLoggedMessage(chatId, `Preset "${presetName}" not found.`);
+    }
+}
+
+async function showBarygaFilters(user) {
+    const chatId = user.chatId;
+    const barygaFilters = require('../data/baryga_filters.json');
+    const filterButtons = Object.keys(barygaFilters).map(filterName => {
+        return [{ text: filterName, callback_data: `preset ${filterName}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: filterButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendLoggedMessage(chatId, 'Select a Baryga+ Filter:', options);
+}
+
+
+async function showCustomFilters(user) {
+    const chatId = user.chatId;
+    const customFilters = user.getCustomFilters();
+
+    if (Object.keys(customFilters).length === 0) {
+        await sendLoggedMessage(chatId, 'You have no custom filters. Please create one first.');
+        return;
+    }
+
+    const filterButtons = Object.keys(customFilters).map(filterName => {
+        return [{ text: filterName, callback_data: `preset ${filterName}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: filterButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendLoggedMessage(chatId, 'Select a Custom Filter:', options);
+}
+
+
 async function handleCategorySelection(user, category) {
     const chatId = user.chatId;
     const filters = user.getFilters();
@@ -305,14 +392,12 @@ async function handlePriceSelection(user, price) {
     await sendLoggedMessage(chatId, `Max price selected: ${price}`);
 
     if (user.getCurrentFilterIndex() < user.getFilterCount() - 1) {
-        // Переходимо до наступного фільтру
         user.setCurrentFilterIndex(user.getCurrentFilterIndex() + 1);
         await sendLoggedMessage(chatId, `Let's set filter ${user.getCurrentFilterIndex() + 1}.`);
         await showBrands(user);
     } else {
-        // Усі фільтри налаштовані, тепер встановлюємо `isReady` на true
-        await processFiltersCommand(user);  // Зберігаємо фільтри і надсилаємо підтвердження
-        user.setReady(true);  // Встановлюємо користувача як готового до отримання сповіщень
+        await processFiltersCommand(user);
+        user.setReady(true);
         await sendLoggedMessage(chatId, 'All filters have been set, and you are ready to start searching.');
     }
 }
@@ -355,5 +440,6 @@ module.exports = {
     processHistoryCommand,
     processStopCommand,
     processResetCommand,
-    handleCallbackQuery
+    handleCallbackQuery,
+    handlePresetFiltersCommand
 };

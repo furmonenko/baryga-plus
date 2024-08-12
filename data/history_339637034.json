@@ -1,50 +1,26 @@
 [
   {
-    "productId": 4878182570,
-    "title": "Ralph Lauren póló",
-    "url": "https://www.vinted.pl/items/4878182570-ralph-lauren-polo",
-    "image": "https://images1.vinted.net/tc/01_00d66_LJBMhBbgPw3GCq7ZyWEj8RCi/1723465944.jpeg?s=8fd4c11a56ba64d98c7760ebc368fa5b9521dfe4",
+    "productId": 4880173475,
+    "title": "Koszulka Juventus domowa 20/21",
+    "url": "https://www.vinted.pl/items/4880173475-koszulka-juventus-domowa-2021",
+    "image": "https://images1.vinted.net/tc/02_01fc9_3RMfaHpMjq8hKKSLHknhDcqW/1723491120.jpeg?s=0e34b3f292270773485c8c56012da2db94b9c75b",
     "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "39.96",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.66"
-    },
-    "seller": {
-      "userId": 188019027,
-      "username": "angi7708",
-      "profile": "https://www.vinted.pl/member/188019027-angi7708",
-      "profilePicture": "https://images1.vinted.net/t/01_00f2f_16bquqoW6qpZyANbjBT4t6oY/f800/1707986820.jpeg?s=87ec7952b654eb38e6f8e6bb0606262ac719eba9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4878149872,
-    "title": "Koszulka Stone Island",
-    "url": "https://www.vinted.pl/items/4878149872-koszulka-stone-island",
-    "image": "https://images1.vinted.net/tc/02_0122e_Frf8M337dQ1jVR5YeUK6RhE5/1723465545.jpeg?s=415b1e03922656d5b700b1991cb678a4eedbeb89",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
+    "favourites": 3,
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "120.0",
+      "amount": "99.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.7",
-      "totalAmount": "126.7"
+      "fees": "5.65",
+      "totalAmount": "104.65"
     },
     "seller": {
-      "userId": 187276908,
-      "username": "bamm89",
-      "profile": "https://www.vinted.pl/member/187276908-bamm89",
+      "userId": 222142970,
+      "username": "dawidkdkd",
+      "profile": "https://www.vinted.pl/member/222142970-dawidkdkd",
       "profilePicture": null
     },
-    "category": 5
+    "category": 76
   }
 ]

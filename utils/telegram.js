@@ -1,5 +1,4 @@
 const { clearLoggedMessages, getLoggedMessages, logMessage } = require('./fileOperations');
-
 const axios = require('axios');
 
 const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fetch(...args));
@@ -11,6 +10,7 @@ async function setBotCommands() {
         { command: 'stop', description: 'Stop search' },
         { command: 'reset', description: 'Reset all commands' },
         { command: 'clearhistory', description: 'Clear search history' },
+        { command: 'presetfilters', description: 'Choose preset filters' }
     ];
 
     const response = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/setMyCommands`, {
@@ -39,10 +39,10 @@ async function sendTelegramMessage(chatId, text, options = {}) {
 
     try {
         const response = await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendMessage`, payload);
-        return response.data; // Повертайте дані з API Telegram
+        return response.data;
     } catch (error) {
         console.error('Error sending message:', error.response ? error.response.data : error.message);
-        return { ok: false, result: null }; // Поверніть помилковий об'єкт, щоб обробити його пізніше
+        return { ok: false, result: null };
     }
 }
 
@@ -64,20 +64,6 @@ async function sendLoggedPhoto(chatId, photoUrl, caption, options = {}) {
     }
 }
 
-async function answerCallbackQuery(callbackQueryId, text) {
-    const payload = {
-        callback_query_id: callbackQueryId,
-        text: text
-    };
-
-    try {
-        await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/answerCallbackQuery`, payload);
-    } catch (error) {
-        console.error('Error answering callback query:', error.response ? error.response.data : error.message);
-    }
-}
-
-// Очищення повідомлень чату
 async function clearChat(chatId) {
     try {
         const messages = getLoggedMessages(chatId);
@@ -91,7 +77,7 @@ async function clearChat(chatId) {
 }
 
 async function deleteMessage(chatId, messageId) {
-    const token = process.env.TELEGRAM_BOT_TOKEN; // Використайте свій токен бота
+    const token = process.env.TELEGRAM_BOT_TOKEN;
     const url = `https://api.telegram.org/bot${token}/deleteMessage`;
 
     const fetch = (await import('node-fetch')).default;
@@ -119,10 +105,7 @@ async function deleteMessage(chatId, messageId) {
 
 module.exports = {
     setBotCommands,
-    sendTelegramMessage,
     sendLoggedPhoto,
-    deleteMessage,
     clearChat,
-    answerCallbackQuery,
     sendLoggedMessage
 };

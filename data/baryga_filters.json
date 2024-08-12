@@ -1,0 +1,37 @@
+{
+  "Stone Island": {
+    "brand": "Stone Island",
+    "maxPrice": 300,
+    "category": "Men",
+    "size": ["M", "L", "XL", "XXL", "XXXL"],
+    "keywords": []
+  },
+  "Football": {
+    "brand": ["Nike", "Adidas", "New Balance"],
+    "maxPrice": 100,
+    "category": "Tops & T-shirts",
+    "size": ["M", "L", "XL", "XXL", "XXXL"],
+    "keywords": [
+      "jersey", "football", "piłkarska", "manchester united", "barcelona", "brazil", "ronaldo", "manchester city", "milan",
+      "shevchenko", "real madrid", "argentina", "messi", "liverpool", "inter", "juventus", "chelsea",
+      "bayern munich", "paris saint-germain", "psg", "borussia dortmund", "arsenal", "manchester united", "manchester city",
+      "chelsea", "liverpool", "real madrid", "barcelona", "juventus", "ac milan", "inter milan", "as roma", "napoli",
+      "atlético madrid", "tottenham hotspur", "ajax", "benfica", "porto", "sporting cp", "celtic", "rangers",
+      "lionel messi", "cristiano ronaldo", "neymar", "kylian mbappé", "robert lewandowski", "kevin de bruyne",
+      "mohamed salah", "virgil van dijk", "sadio mané", "erling haaland", "karim benzema", "luka modric",
+      "zlatan ibrahimović", "paulo dybala", "sergio ramos", "andrés iniesta", "xavi", "ronaldinho",
+      "thierry henry", "wayne rooney", "david beckham",
+      "england", "brazil", "germany", "france", "argentina", "spain", "italy", "netherlands", "portugal",
+      "belgium", "uruguay", "croatia", "colombia", "chile", "mexico", "usa", "japan", "south korea",
+      "world cup", "champions league", "uefa", "premier league", "la liga", "serie a", "bundesliga",
+      "ligue 1"
+    ]
+  },
+  "Chief Keef": {
+    "brand": ["Ralph Lauren", "Polo Ralph Lauren"],
+    "maxPrice": 60,
+    "category": "Men",
+    "size": ["M", "L", "XL", "XXL", "XXXL"],
+    "keywords": ["Chief Keef"]
+  }
+}

@@ -26,17 +26,44 @@ function getAllSubcategories(categoryId) {
  * @returns {Array} - The filtered items.
  */
 function filterItems(serverHistory, filters) {
-    console.log(`Filtering items with filters: ${JSON.stringify(filters)}`);
     const categoryIds = [filters.category].concat(getAllSubcategories(filters.category));
+    const keywords = filters.keywords || [];
+    const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
+
     const filtered = serverHistory.filter(item => {
-        if (filters.brand && item.brand !== filters.brand) {
-            return false;
+        // Перевірка бренду
+        if (brandsArray.length > 0) {
+            const itemBrand = item.brand.toLowerCase();
+            const matchesBrand = brandsArray.some(brand => itemBrand === brand.toLowerCase());
+            if (!matchesBrand) {
+                return false;
+            }
         }
 
+        // Перевірка категорії
         if (filters.category && !categoryIds.includes(item.category)) {
             return false;
         }
 
+        // Перевірка ключових слів (шукає повні фрази)
+        if (keywords.length > 0) {
+            const itemTitle = item.title.toLowerCase();
+            const keywordMatch = keywords.some(keyword => {
+                const keywordLower = keyword.toLowerCase();
+                const regex = new RegExp(`\\b${keywordLower}\\b`, 'i'); // Шукаємо слово як повний збіг
+                return regex.test(itemTitle);
+            });
+            if (!keywordMatch) {
+                return false;
+            }
+        }
+
+        // Перевірка ціни
+        if (filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice)) {
+            return false;
+        }
+
+        // Перевірка розмірів
         if (filters.size && filters.size.length > 0) {
             if (!item.size || item.size.toUpperCase() === 'UNIWERSALNY') {
                 return true;
@@ -48,12 +75,14 @@ function filterItems(serverHistory, filters) {
             }
         }
 
-        return !(filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice));
-    }).sort((a, b) => b.productId - a.productId); // Sort by productId in descending order
+        return true;
+    }).sort((a, b) => b.productId - a.productId);
 
-    console.log(`Filtered ${filtered.length} items`);
     return filtered;
 }
+
+
+
 
 /**
  * Sends new items found to the user.
@@ -71,7 +100,7 @@ async function sendNewItemsToUser(chatId, newItems) {
 
         console.log(`Sending new item to user: ${item.title} - ${item.url}`);
 
-        // Send item photo with information to user
+        // Надсилаємо фотографію з інформацією користувачу
         await sendLoggedPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
     }
 }
@@ -94,7 +123,7 @@ async function updateHistoryForUser(chatId) {
         return;
     }
 
-    // Get user filters
+    // Отримуємо фільтри користувача
     const filters = user.getFilters();
     if (!filters || filters.length === 0) {
         console.log(`No filters found for user with chatId: ${chatId}`);
@@ -103,11 +132,11 @@ async function updateHistoryForUser(chatId) {
 
     console.log(`Updating history for user with chatId: ${chatId} using filters: ${JSON.stringify(filters)}`);
 
-    // Load server cache history
+    // Завантажуємо кеш сервера
     let serverHistory = loadHistory('server_cache') || [];
     console.log(`Loaded ${serverHistory.length} items from server cache.`);
 
-    // Save the newest item in the user history before processing filters
+    // Зберігаємо найновіший елемент у історії користувача перед обробкою фільтрів
     let lastItemId = 0;
     if (user.getHistory().length > 0) {
         lastItemId = user.getHistory()[0].productId;
@@ -118,27 +147,27 @@ async function updateHistoryForUser(chatId) {
         const filter = filters[i];
         console.log(`Filtering items with filter ${i + 1}: ${JSON.stringify(filter)}`);
 
-        // Filter items from server cache based on current filter
+        // Фільтруємо предмети з кешу сервера на основі поточного фільтру
         const filteredItems = filterItems(serverHistory, filter);
         allFilteredItems = allFilteredItems.concat(filteredItems);
     }
 
-    // Sort all filtered items to get the newest items first
+    // Сортуємо всі відфільтровані предмети, щоб отримати найновіші спочатку
     allFilteredItems.sort((a, b) => b.productId - a.productId);
 
-    // Determine which items are new based on the last item in user history
+    // Визначаємо, які предмети нові, на основі останнього предмета в історії користувача
     let newItems = [];
     if (user.getHistory().length === 0) {
-        // If user history is empty, take only the newest item
+        // Якщо історія користувача порожня, беремо тільки найновіший предмет
         if (allFilteredItems.length > 0) {
             newItems = [allFilteredItems[0]];
         }
     } else {
-        // If user history is not empty, take all items newer than the last item
+        // Якщо історія не порожня, беремо всі предмети новіші за останній збережений
         newItems = allFilteredItems.filter(item => item.productId > lastItemId);
     }
 
-    // Update user history and send new items
+    // Оновлюємо історію користувача та надсилаємо нові предмети
     if (newItems.length > 0) {
         const updatedHistory = newItems.concat(user.getHistory());
         user.setHistory(updatedHistory.sort((a, b) => b.productId - a.productId));
