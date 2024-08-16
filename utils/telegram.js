@@ -6,11 +6,11 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 async function setBotCommands() {
     const commands = [
         { command: 'start', description: 'Start the bot' },
-        { command: 'history', description: 'Show search history' },
         { command: 'stop', description: 'Stop search' },
-        { command: 'reset', description: 'Reset all commands' },
-        { command: 'clearhistory', description: 'Clear search history' },
-        { command: 'presetfilters', description: 'Choose preset filters' }
+        // { command: 'reset', description: 'Reset all commands' },
+        // { command: 'clearhistory', description: 'Clear search history' },
+        { command: 'presetfilters', description: 'Choose preset filters' },
+        { command: 'delete_preset', description: 'Delete custom filter' }
     ];
 
     const response = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/setMyCommands`, {

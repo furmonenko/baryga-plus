@@ -220,6 +220,43 @@ async function proceedToNextFilterOrSearch(user, chatId) {
     }
 }
 
+async function showDeleteCustomFilters(user) {
+    const chatId = user.chatId;
+    const customFilters = user.getCustomFilters();
+
+    if (Object.keys(customFilters).length === 0) {
+        await sendLoggedMessage(chatId, 'You have no custom filters to delete.');
+        return;
+    }
+
+    const filterButtons = Object.keys(customFilters).map(filterName => {
+        return [{ text: filterName, callback_data: `delete_preset ${filterName}` }];
+    });
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: filterButtons,
+            one_time_keyboard: true,
+            resize_keyboard: true
+        }
+    };
+
+    await sendLoggedMessage(chatId, 'Select a custom filter to delete:', options);
+}
+
+async function deleteCustomFilter(user, filterName) {
+    const chatId = user.chatId;
+
+    const customFilters = user.getCustomFilters();
+    if (customFilters[filterName]) {
+        delete customFilters[filterName];
+        UserManager.saveUsers(); // Зберігаємо зміни після видалення фільтру
+        await sendLoggedMessage(chatId, `Filter "${filterName}" has been deleted.`);
+    } else {
+        await sendLoggedMessage(chatId, `Filter "${filterName}" not found.`);
+    }
+}
+
 async function handleCallbackQuery(user, data) {
     const chatId = user.chatId;
     const [command, ...args] = data.split(' ');
@@ -230,6 +267,10 @@ async function handleCallbackQuery(user, data) {
         await clearChat(chatId);
 
         switch (command) {
+            case 'delete_preset':
+                await deleteCustomFilter(user, value);
+                break;
+
             case 'save_filter_yes':
                 // Отримуємо поточний фільтр
                 const filters = user.getFilters();
@@ -515,5 +556,6 @@ module.exports = {
     processStopCommand,
     processResetCommand,
     handleCallbackQuery,
-    handlePresetFiltersCommand
+    handlePresetFiltersCommand,
+    showDeleteCustomFilters
 };

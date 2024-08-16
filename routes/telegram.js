@@ -9,7 +9,7 @@ const {
     processStopCommand,
     processResetCommand,
     handleCallbackQuery,
-    handlePresetFiltersCommand
+    handlePresetFiltersCommand, showDeleteCustomFilters
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
 
@@ -48,20 +48,14 @@ router.post('/webhook', async (req, res) => {
             case '/start':
                 await processStartCommand(user);
                 break;
-            case '/history':
-                await processHistoryCommand(user);
-                break;
             case '/stop':
                 await processStopCommand(user);
                 break;
             case '/reset':
                 await processResetCommand(user);
                 break;
-            case '/clearhistory':
-                await processClearHistoryCommand(user);
-                break;
-            case '/presetfilters':
-                await handlePresetFiltersCommand(user);
+            case '/delete_preset':
+                await showDeleteCustomFilters(user)
                 break;
             default:
                 if (isAdmin) {

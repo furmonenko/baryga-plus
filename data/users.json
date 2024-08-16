@@ -7,20 +7,6 @@
     "plan": "admin",
     "banned": false,
     "customFilters": {
-      "Stussy + 5 + 100": {
-        "brand": "Stussy",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "100",
-        "category": "Men",
-        "keywords": []
-      },
       "Stone Island + 5 + 250": {
         "brand": "Stone Island",
         "size": [
