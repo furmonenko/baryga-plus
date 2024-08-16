@@ -15,6 +15,17 @@ class UserManager {
         this.loadUsers();
     }
 
+    addCustomFilter(chatId, name, filter) {
+        const user = this.getUser(chatId);
+
+        if (Object.keys(user.customFilters).length < user.maxCustomFilters) {
+            user.customFilters[name] = filter;
+            this.saveUsers(); // Зберігаємо кастомні фільтри разом з користувачами
+            return true;
+        }
+        return false; // Кількість кастомних фільтрів перевищує ліміт
+    }
+
     // Отримання плану користувача з файлу userPlans.json
     getPlanFromFile(chatId) {
         if (this.plans.admins.has(chatId)) {
@@ -196,6 +207,8 @@ class UserManager {
         this.saveUsers(); // Використовуємо загальну функцію збереження користувачів
     }
 }
+
+
 
 const userManagerInstance = new UserManager();
 Object.freeze(userManagerInstance);

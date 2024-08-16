@@ -41,8 +41,12 @@ async function processFiltersCommand(user) {
     await clearChat(chatId);
 
     let allFiltersUpdated = true;
+    let categoryName = "";
+
     const filters = user.getFilters().map((filter, index) => {
         let selectedCategory = filter.category ?? 'Men';
+        categoryName = selectedCategory;
+
         const categoryId = getCategoryIdByName(selectedCategory);
         if (!categoryId) {
             allFiltersUpdated = false;
@@ -64,7 +68,7 @@ async function processFiltersCommand(user) {
                 `🏷️ *Brand:* ${filter.brand}\n` +
                 `📏 *Sizes:* ${filter.size.join(', ')}\n` +
                 `💰 *Max Price:* ${filter.maxPrice}\n` +
-                `📂 *Category:* ${filter.category}\n\n`;
+                `📂 *Category:* ${categoryName}\n\n`;
         }).join('');
 
         await sendLoggedMessage(chatId,
@@ -73,6 +77,8 @@ async function processFiltersCommand(user) {
             'Please wait while we find the best items for you! 🔄',
             { parse_mode: 'Markdown' }
         );
+
+        user.setReady(true);
     }
 }
 
@@ -202,6 +208,18 @@ async function showCategories(user) {
     await sendLoggedMessage(chatId, 'Please select a category:', options);
 }
 
+async function proceedToNextFilterOrSearch(user, chatId) {
+    if (user.getCurrentFilterIndex() < user.getFilterCount() - 1) {
+        user.setCurrentFilterIndex(user.getCurrentFilterIndex() + 1);
+        await sendLoggedMessage(chatId, `Let's set filter ${user.getCurrentFilterIndex() + 1}.`);
+        await showNextFilterMenu(chatId);
+    } else {
+        // Якщо всі фільтри налаштовані, починаємо пошук
+        await processFiltersCommand(user);
+        await sendLoggedMessage(chatId, 'All filters have been set, and you are ready to start searching.');
+    }
+}
+
 async function handleCallbackQuery(user, data) {
     const chatId = user.chatId;
     const [command, ...args] = data.split(' ');
@@ -212,6 +230,35 @@ async function handleCallbackQuery(user, data) {
         await clearChat(chatId);
 
         switch (command) {
+            case 'save_filter_yes':
+                // Отримуємо поточний фільтр
+                const filters = user.getFilters();
+                const currentFilter = filters[user.getCurrentFilterIndex()];
+
+                // Переконаємося, що currentFilter.brand є масивом
+                const brandArray = Array.isArray(currentFilter.brand) ? currentFilter.brand : [currentFilter.brand];
+
+                // Формуємо назву фільтра: "назва бренду + назва категорії + максимальна ціна"
+                const categoryName = getCategoryIdByName(currentFilter.category); // Отримуємо назву категорії за ID
+                const filterName = `${brandArray.join(', ')} + ${categoryName} + ${currentFilter.maxPrice}`;
+
+                // Зберігаємо фільтр у кастомні фільтри
+                if (UserManager.addCustomFilter(chatId, filterName, currentFilter)) {
+                    await sendLoggedMessage(chatId, `Filter "${filterName}" has been saved.`);
+                } else {
+                    await sendLoggedMessage(chatId, `Failed to save the filter. You have reached your custom filter limit.`);
+                    await new Promise(resolve => setTimeout(resolve, 2000)); // Затримка на 2 секунди
+                }
+
+                await proceedToNextFilterOrSearch(user, chatId);
+                break;
+
+
+            case 'save_filter_no':
+                await proceedToNextFilterOrSearch(user, chatId);
+                break;
+
+
             case 'set_filter_count':
                 user.setFilterCount(parseInt(value));
                 await sendLoggedMessage(chatId, `You have chosen to set ${value} filters. Let's start with filter 1.`);
@@ -289,6 +336,20 @@ async function handleCallbackQuery(user, data) {
     }
 }
 
+async function showNextFilterMenu(chatId) {
+    const options = {
+        reply_markup: {
+            inline_keyboard: [
+                [{ text: 'Set Filters', callback_data: 'command_/filters' }],
+                [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
+                [{ text: 'Stop Search', callback_data: 'command_/stop' }],
+                [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
+            ]
+        }
+    };
+    await sendLoggedMessage(chatId, 'Please set the next filter or start searching.', options);
+}
+
 async function applyPresetFilter(user, presetName) {
     const chatId = user.chatId;
     const barygaFilters = require('../data/baryga_filters.json');
@@ -322,10 +383,17 @@ async function applyPresetFilter(user, presetName) {
         filters[currentFilterIndex].keywords = selectedFilter.keywords;
 
         user.setFilters(filters);
-        user.setReady(true);
+        user.setCurrentFilterIndex(currentFilterIndex + 1);
 
-        await sendLoggedMessage(chatId, `Preset "${presetName}" has been applied.`);
-        await processFiltersCommand(user);  // Запускаємо пошук за новими фільтрами
+        // Перевіряємо, чи є ще вільні фільтри
+        if (user.getCurrentFilterIndex() < user.getFilterCount()) {
+            // Якщо є, показуємо меню для вибору наступного фільтра
+            await showNextFilterMenu(chatId);
+        } else {
+            // Якщо це останній фільтр, запускаємо пошук
+            await sendLoggedMessage(chatId, `Preset "${presetName}" has been applied. Starting search with the selected filters.`);
+            await processFiltersCommand(user);  // Запускаємо пошук за новими фільтрами
+        }
     } else {
         await sendLoggedMessage(chatId, `Preset "${presetName}" not found.`);
     }
@@ -348,7 +416,6 @@ async function showBarygaFilters(user) {
 
     await sendLoggedMessage(chatId, 'Select a Baryga+ Filter:', options);
 }
-
 
 async function showCustomFilters(user) {
     const chatId = user.chatId;
@@ -374,7 +441,6 @@ async function showCustomFilters(user) {
     await sendLoggedMessage(chatId, 'Select a Custom Filter:', options);
 }
 
-
 async function handleCategorySelection(user, category) {
     const chatId = user.chatId;
     const filters = user.getFilters();
@@ -391,15 +457,23 @@ async function handlePriceSelection(user, price) {
     user.updateFilter(filters[user.getCurrentFilterIndex()], user.getCurrentFilterIndex());
     await sendLoggedMessage(chatId, `Max price selected: ${price}`);
 
-    if (user.getCurrentFilterIndex() < user.getFilterCount() - 1) {
-        user.setCurrentFilterIndex(user.getCurrentFilterIndex() + 1);
-        await sendLoggedMessage(chatId, `Let's set filter ${user.getCurrentFilterIndex() + 1}.`);
-        await showBrands(user);
-    } else {
-        await processFiltersCommand(user);
-        user.setReady(true);
-        await sendLoggedMessage(chatId, 'All filters have been set, and you are ready to start searching.');
-    }
+    // Запитуємо користувача, чи хоче він зберегти фільтр після кожного налаштованого фільтру
+    await askToSaveFilter(user);
+}
+
+async function askToSaveFilter(user) {
+    const chatId = user.chatId;
+
+    const options = {
+        reply_markup: {
+            inline_keyboard: [
+                [{ text: 'Yes', callback_data: 'save_filter_yes' }],
+                [{ text: 'No', callback_data: 'save_filter_no' }]
+            ]
+        }
+    };
+
+    await sendLoggedMessage(chatId, 'Do you want to save this filter to your custom filters?', options);
 }
 
 async function handleBrandSelection(user, brand) {

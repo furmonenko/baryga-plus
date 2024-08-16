@@ -48,16 +48,6 @@ class User {
         }
     }
 
-    // Додавання кастомного фільтру
-    addCustomFilter(name, filter) {
-        if (Object.keys(this.customFilters).length < this.maxCustomFilters) {
-            this.customFilters[name] = filter;
-            UserManager.saveCustomFilters(this.chatId); // Зберігаємо кастомні фільтри на диск через UserManager
-            return true;
-        }
-        return false; // Кількість кастомних фільтрів перевищує ліміт
-    }
-
     // Отримання кастомних фільтрів
     getCustomFilters() {
         return this.customFilters;

@@ -6,6 +6,49 @@
     "username": "furmo",
     "plan": "admin",
     "banned": false,
-    "customFilters": {}
+    "customFilters": {
+      "Stussy + 5 + 100": {
+        "brand": "Stussy",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Stone Island + 5 + 250": {
+        "brand": "Stone Island",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "250",
+        "category": "Men",
+        "keywords": []
+      },
+      "Carhartt + 1206 + 100": {
+        "brand": "Carhartt",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Outerwear",
+        "keywords": []
+      }
+    }
   }
 }
