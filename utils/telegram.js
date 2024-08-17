@@ -5,11 +5,11 @@ const fetch = (...args) => import('node-fetch').then(({ default: fetch }) => fet
 
 async function setBotCommands() {
     const commands = [
-        { command: 'start', description: 'Start the bot' },
+        { command: 'menu', description: 'Open main menu' },
+        { command: 'active_filters', description: 'Show active filters' },
         { command: 'stop', description: 'Stop search' },
-        // { command: 'reset', description: 'Reset all commands' },
-        // { command: 'clearhistory', description: 'Clear search history' },
-        { command: 'presetfilters', description: 'Choose preset filters' },
+        { command: 'reset', description: 'Reset all commands' },
+        { command: 'custom_presets_settings', description: 'Manage custom presets' },
         { command: 'delete_preset', description: 'Delete custom filter' }
     ];
 

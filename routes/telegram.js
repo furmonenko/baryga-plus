@@ -9,7 +9,9 @@ const {
     processStopCommand,
     processResetCommand,
     handleCallbackQuery,
-    handlePresetFiltersCommand, showDeleteCustomFilters
+    handlePresetFiltersCommand,
+    showDeleteCustomFilters,
+    showMainMenu, showCustomPresetsSettings, showActiveFiltersCommand
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
 
@@ -48,11 +50,20 @@ router.post('/webhook', async (req, res) => {
             case '/start':
                 await processStartCommand(user);
                 break;
+            case '/menu':
+                await showMainMenu(user);
+                break;
             case '/stop':
                 await processStopCommand(user);
                 break;
             case '/reset':
                 await processResetCommand(user);
+                break;
+            case '/active_filters':
+                await showActiveFiltersCommand(user);
+                break;
+            case '/custom_presets_settings':
+                await showCustomPresetsSettings(user);
                 break;
             case '/delete_preset':
                 await showDeleteCustomFilters(user)

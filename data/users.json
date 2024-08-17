@@ -7,8 +7,8 @@
     "plan": "admin",
     "banned": false,
     "customFilters": {
-      "Stone Island + 5 + 250": {
-        "brand": "Stone Island",
+      "Fear Of God + Men + 150": {
+        "brand": "Fear Of God",
         "size": [
           "M",
           "L",
@@ -17,11 +17,11 @@
           "XXXL"
         ],
         "minPrice": 0,
-        "maxPrice": "250",
+        "maxPrice": "150",
         "category": "Men",
         "keywords": []
       },
-      "Carhartt + 1206 + 100": {
+      "Carhartt + Outerwear + 100": {
         "brand": "Carhartt",
         "size": [
           "M",
@@ -33,6 +33,20 @@
         "minPrice": 0,
         "maxPrice": "100",
         "category": "Outerwear",
+        "keywords": []
+      },
+      "Supreme + Men + 100": {
+        "brand": "Supreme",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
         "keywords": []
       }
     }

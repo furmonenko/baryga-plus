@@ -8,7 +8,7 @@
   },
   "Football": {
     "brand": ["Nike", "Adidas", "New Balance"],
-    "maxPrice": 100,
+    "maxPrice": 60,
     "category": "Tops & T-shirts",
     "size": ["M", "L", "XL", "XXL", "XXXL"],
     "keywords": [
@@ -16,9 +16,9 @@
       "shevchenko", "real madrid", "argentina", "messi", "liverpool", "inter", "juventus", "chelsea",
       "bayern munich", "paris saint-germain", "psg", "borussia dortmund", "arsenal", "manchester united", "manchester city",
       "chelsea", "liverpool", "real madrid", "barcelona", "juventus", "ac milan", "inter milan", "as roma", "napoli",
-      "atlético madrid", "tottenham hotspur", "ajax", "benfica", "porto", "sporting cp", "celtic", "rangers",
-      "lionel messi", "cristiano ronaldo", "neymar", "kylian mbappé", "robert lewandowski", "kevin de bruyne",
-      "mohamed salah", "virgil van dijk", "sadio mané", "erling haaland", "karim benzema", "luka modric",
+      "atlético madrid", "tottenham", "ajax", "benfica", "porto", "sporting", "celtic", "rangers",
+      "lionel messi", "cronaldo", "neymar", "kylian mbappé", "robert lewandowski", "de bruyne",
+      "mohamed salah", "van dijk", "mané", "ehaaland", "benzema", "modric",
       "zlatan ibrahimović", "paulo dybala", "sergio ramos", "andrés iniesta", "xavi", "ronaldinho",
       "thierry henry", "wayne rooney", "david beckham",
       "england", "brazil", "germany", "france", "argentina", "spain", "italy", "netherlands", "portugal",

@@ -15,6 +15,7 @@ class User {
         this.maxFilters = this.getPlanFilters(plan);
         this.maxCustomFilters = this.getPlanCustomFiltersNumber(plan);
         this.currentFilterIndex = 0;
+        this.isSettingCustomPreset = false;
         this.customFilters = {}; // Для зберігання кастомних фільтрів
     }
 
