@@ -23,7 +23,7 @@ class User {
     getPlanFilters(plan) {
         switch (plan) {
             case 'admin':
-                return 4;
+                return Infinity;
             case 'baron':
                 return 3;
             case 'dealer':
@@ -60,9 +60,9 @@ class User {
             case 'admin':
                 return 0; // Миттєве оновлення для admin
             case 'baron':
-                return 5; // 5 секунд
+                return 3; // 5 секунд
             case 'dealer':
-                return 10; // 10 секунд
+                return 7; // 10 секунд
             case 'casual':
             default:
                 return 15; // 15 секунд

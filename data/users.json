@@ -48,6 +48,103 @@
         "maxPrice": "100",
         "category": "Men",
         "keywords": []
+      },
+      "Stüssy + Men + 100": {
+        "brand": "Stüssy",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "A Bathing Ape + Men + 100": {
+        "brand": "A Bathing Ape",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Ralph Lauren + Men + 50": {
+        "brand": "Ralph Lauren",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "50",
+        "category": "Men",
+        "keywords": []
+      }
+    }
+  },
+  "778831833": {
+    "chatId": 778831833,
+    "firstName": "Ваня и ваня",
+    "lastName": "",
+    "username": "borovoyis",
+    "plan": "baron",
+    "banned": false,
+    "customFilters": {
+      "Nike + Tops & T-shirts + 100": {
+        "brand": "Stone Island",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "200",
+        "category": "Outerwear",
+        "keywords": []
+      },
+      "Stone Island + Men + 150": {
+        "brand": "Stone Island",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "200",
+        "category": "Outerwear",
+        "keywords": []
+      },
+      "Stone Island + Outerwear + 200": {
+        "brand": "Stone Island",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "200",
+        "category": "Outerwear",
+        "keywords": []
       }
     }
   }

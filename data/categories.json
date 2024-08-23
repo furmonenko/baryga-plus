@@ -5,12 +5,6 @@
         "parent_id": 0,
         "parent": "No Parent"
     },
-    "2050": {
-        "id": 2050,
-        "title": "Clothes",
-        "parent_id": 5,
-        "parent": "Men"
-    },
     "79": {
         "id": 79,
         "title": "Jumpers & sweaters",
@@ -22,18 +16,6 @@
         "title": "Tops & T-shirts",
         "parent_id": 2050,
         "parent": "Clothes"
-    },
-    "80": {
-        "id": 80,
-        "title": "Shorts",
-        "parent_id": 2050,
-        "parent": "Clothes"
-    },
-    "86": {
-        "id": 86,
-        "title": "Hats & caps",
-        "parent_id": 82,
-        "parent": "Accessories"
     },
     "1206": {
         "id": 1206,

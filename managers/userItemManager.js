@@ -1,23 +1,6 @@
 const UserManager = require('../managers/userManager');
 const { sendLoggedPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
-const categories = require('../data/categories.json'); // Load category data
-
-/**
- * Gets all subcategories for a given category.
- * @param {number} categoryId - The ID of the category.
- * @returns {Array} - An array of subcategory IDs.
- */
-function getAllSubcategories(categoryId) {
-    let subcategories = [];
-    for (const [id, category] of Object.entries(categories)) {
-        if (category.parent_id === categoryId) {
-            subcategories.push(parseInt(id));
-            subcategories = subcategories.concat(getAllSubcategories(parseInt(id)));
-        }
-    }
-    return subcategories;
-}
 
 /**
  * Filters items from the server cache based on user filters.
@@ -26,7 +9,6 @@ function getAllSubcategories(categoryId) {
  * @returns {Array} - The filtered items.
  */
 function filterItems(serverHistory, filters) {
-    const categoryIds = [filters.category].concat(getAllSubcategories(filters.category));
     const keywords = filters.keywords || [];
     const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
 
@@ -41,7 +23,7 @@ function filterItems(serverHistory, filters) {
         }
 
         // Перевірка категорії
-        if (filters.category && !categoryIds.includes(item.category)) {
+        if (filters.category && item.category !== filters.category) {
             return false;
         }
 
@@ -81,9 +63,6 @@ function filterItems(serverHistory, filters) {
     return filtered;
 }
 
-
-
-
 /**
  * Sends new items found to the user.
  * @param {number} chatId - The chat ID of the user.
@@ -115,7 +94,7 @@ async function updateHistoryForUser(chatId) {
         return;
     }
 
-    console.log("All users: " + JSON.stringify(UserManager.getAllUsers()));
+    // console.log("All users: " + JSON.stringify(UserManager.getAllUsers()));
 
     const user = UserManager.getUser(chatId);
     if (!user || !user.isReady()) {
@@ -130,8 +109,6 @@ async function updateHistoryForUser(chatId) {
         return;
     }
 
-    console.log(`Updating history for user with chatId: ${chatId} using filters: ${JSON.stringify(filters)}`);
-
     // Завантажуємо кеш сервера
     let serverHistory = loadHistory('server_cache') || [];
     console.log(`Loaded ${serverHistory.length} items from server cache.`);
@@ -145,7 +122,7 @@ async function updateHistoryForUser(chatId) {
     let allFilteredItems = [];
     for (let i = 0; i < filters.length; i++) {
         const filter = filters[i];
-        console.log(`Filtering items with filter ${i + 1}: ${JSON.stringify(filter)}`);
+        // console.log(`Filtering items with filter ${i + 1}: ${JSON.stringify(filter)}`);
 
         // Фільтруємо предмети з кешу сервера на основі поточного фільтру
         const filteredItems = filterItems(serverHistory, filter);

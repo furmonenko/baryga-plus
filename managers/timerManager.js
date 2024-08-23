@@ -4,6 +4,12 @@ const { updateHistoryForUser } = require('../managers/userItemManager');
 const timers = {};
 
 function setTimer(chatId, interval) {
+    let user = UserManager.getUser(chatId);
+    if (user == null || !user.isReady())
+    {
+        return;
+    }
+
     if (timers[chatId]) {
         clearInterval(timers[chatId]);
     }
@@ -13,6 +19,7 @@ function setTimer(chatId, interval) {
         if (user && user.isReady() && !user.isBanned()) {
             console.log(`Updating history for chatId: ${chatId}`);
             await updateHistoryForUser(chatId);
+            clearInterval(timers[chatId]);
         } else if (user && user.isBanned()) {
             console.log(`User with chatId ${chatId} is banned, skipping update.`);
         } else {

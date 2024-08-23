@@ -1,64 +1,69 @@
 const axios = require('axios');
 const UserManager = require('../managers/userManager');
 const { saveHistory } = require('../utils/fileOperations');
-const brandsData = require('../data/brands.json'); // Завантаження брендових даних
+const brandsData = require('../data/brands.json');
+const {getCategoryIdByName} = require("./categories"); // Завантаження брендових даних
 
 // Функція затримки
 function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// Функція об'єднання фільтрів користувачів
+// Функція об'єднання фільтрів користувачів за категоріями та брендами
 function mergeUserFilters(userFilters) {
     let combinedFilters = {
-        brands: new Set(),
-        sizes: new Set(),
-        maxPrice: 0,
-        categories: new Set()
+        categories: {}, // Ключ: категорія, Значення: множина брендів
+        maxPrice: 0
     };
 
+    console.log(`Merging ${userFilters.length} user filters.`);
+
     for (const filters of userFilters) {
-        // Об'єднання брендів
-        if (filters.brand) {
+        console.log(`Processing filters: ${JSON.stringify(filters)}`);
+
+        // Об'єднання брендів для кожної категорії
+        if (filters.brand && filters.category) {
             const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
+            if (!combinedFilters.categories[filters.category]) {
+                combinedFilters.categories[filters.category] = new Set();
+            }
             brandsArray.forEach(brand => {
                 if (brandsData[brand]) {
-                    combinedFilters.brands.add(brandsData[brand]); // Заміна назви бренду на ID
+                    combinedFilters.categories[filters.category].add(brandsData[brand]); // Заміна назви бренду на ID
+                    console.log(`Added brand: ${brand} (ID: ${brandsData[brand]}) to category: ${filters.category}`);
                 } else {
                     console.warn(`Brand '${brand}' not found in brandsData.`);
                 }
             });
         }
 
-        // Об'єднання розмірів
-        if (filters.size) {
-            filters.size.forEach(size => combinedFilters.sizes.add(size));
-        }
-
         // Вибір максимальної ціни
         if (filters.maxPrice && filters.maxPrice > combinedFilters.maxPrice) {
             combinedFilters.maxPrice = filters.maxPrice;
-        }
-
-        // Об'єднання категорій
-        if (filters.category) {
-            combinedFilters.categories.add(filters.category);
+            console.log(`Updated max price to: ${combinedFilters.maxPrice}`);
         }
     }
 
-    console.log("Max Price: " + combinedFilters.maxPrice);
-    // console.log(combinedFilters.categories);
+    // Форматування брендів для кожної категорії
+    for (const category in combinedFilters.categories) {
+        combinedFilters.categories[category] = Array.from(combinedFilters.categories[category]).join(',');
+    }
+
+    console.log("Combined filters result:", combinedFilters);
 
     return combinedFilters;
 }
 
-
 // Функція отримання даних з API
 async function fetchDataFromVinted(combinedFilters) {
-    const brands = Array.from(combinedFilters.brands).join(',');
     let allData = [];
+    let uniqueProductIds = new Set(); // Множина для збереження унікальних productId
 
-    for (const category of combinedFilters.categories) {
+    console.log(`Fetching data with max price: ${combinedFilters.maxPrice}, categories: ${Object.keys(combinedFilters.categories).join(', ')}`);
+
+    for (const category in combinedFilters.categories) {
+        const brands = combinedFilters.categories[category];
+        console.log(`Fetching data for category: ${category} with brands: ${brands}`);
         try {
             const response = await axios.get('https://vinted3.p.rapidapi.com/getSearch', {
                 headers: {
@@ -70,13 +75,14 @@ async function fetchDataFromVinted(combinedFilters) {
                     page: '1',
                     brands: brands,
                     minPrice: 0,
-                    maxPrice: 300, // combinedFilters.maxPrice,
-                    category: category,
+                    maxPrice: combinedFilters.maxPrice,
+                    category: getCategoryIdByName(category),
                     order: 'newest_first'
                 }
             });
 
             const data = response.data || [];
+            console.log(`Received ${data.length} items for category: ${category}`);
 
             // Збереження назви категорії для кожного товару
             const categorizedData = data.map(item => ({
@@ -87,11 +93,19 @@ async function fetchDataFromVinted(combinedFilters) {
 
             allData = allData.concat(categorizedData);
 
-            await delay(2000); // Затримка між запитами
+            // Додавання productId до множини для підрахунку унікальних товарів
+            categorizedData.forEach(item => {
+                uniqueProductIds.add(item.productId);
+            });
+
+            await delay(3000); // Затримка між запитами
         } catch (error) {
-            console.error(`Error fetching data for category ${category}:`, error);
+            console.error(`Error fetching data for category ${category}:`, error.message);
         }
     }
+
+    // Лог кількості унікальних товарів після фетчу
+    console.log(`Fetched ${uniqueProductIds.size} unique items from Vinted.`);
 
     return allData;
 }
@@ -99,24 +113,29 @@ async function fetchDataFromVinted(combinedFilters) {
 // Функція оновлення кешу
 async function updateCache() {
     const allUsers = UserManager.getAllUsers();
+    console.log(`Loaded ${allUsers.length} users from UserManager.`);
+
     const allUserFilters = allUsers.flatMap(user => user.getFilters());
+    console.log(`Extracted ${allUserFilters.length} filters from all users.`);
 
     if (allUserFilters.length === 0) {
         console.log('No filters found to fetch data.');
         return;
     }
 
-    console.log("Filters lenght - " + allUserFilters.length);
-
     const combinedFilters = mergeUserFilters(allUserFilters);
 
     if (combinedFilters.maxPrice === 0) {
+        console.log('Max price is 0, skipping fetch.');
         return;
     }
 
     const data = await fetchDataFromVinted(combinedFilters);
-    if (data) {
+    if (data && data.length > 0) {
+        console.log(`Saving ${data.length} items to server cache.`);
         saveHistory('server_cache', data);
+    } else {
+        console.log('No data to save to server cache.');
     }
 }
 

@@ -631,97 +631,12 @@
   },
   {
     "chat_id": 778831833,
-    "message_id": 2128,
-    "timestamp": "2024-08-08T15:57:59.026Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2129,
-    "timestamp": "2024-08-08T15:58:09.291Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2131,
-    "timestamp": "2024-08-08T16:15:00.110Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2135,
-    "timestamp": "2024-08-08T16:35:30.579Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2140,
-    "timestamp": "2024-08-08T16:47:30.404Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2152,
-    "timestamp": "2024-08-08T17:24:30.823Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2154,
-    "timestamp": "2024-08-08T17:34:01.290Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2156,
-    "timestamp": "2024-08-08T17:44:00.905Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2163,
-    "timestamp": "2024-08-08T18:04:31.039Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2164,
-    "timestamp": "2024-08-08T18:05:31.045Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2165,
-    "timestamp": "2024-08-08T18:12:01.713Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2167,
-    "timestamp": "2024-08-08T18:17:31.173Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2173,
-    "timestamp": "2024-08-08T18:42:01.435Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2184,
-    "timestamp": "2024-08-08T20:00:32.159Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2186,
-    "timestamp": "2024-08-08T20:05:33.000Z"
-  },
-  {
-    "chat_id": 778831833,
-    "message_id": 2192,
-    "timestamp": "2024-08-08T20:36:32.571Z"
+    "message_id": 6443,
+    "timestamp": "2024-08-23T20:51:14.032Z"
   },
   {
     "chat_id": 339637034,
-    "message_id": 3957,
-    "timestamp": "2024-08-17T21:59:04.240Z"
-  },
-  {
-    "chat_id": 339637034,
-    "message_id": 3959,
-    "timestamp": "2024-08-17T21:59:07.267Z"
-  },
-  {
-    "chat_id": 339637034,
-    "message_id": 3960,
-    "timestamp": "2024-08-17T21:59:10.874Z"
+    "message_id": 6481,
+    "timestamp": "2024-08-23T21:18:28.709Z"
   }
 ]
