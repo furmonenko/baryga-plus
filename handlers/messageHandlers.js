@@ -43,7 +43,6 @@ async function showMainMenu(user) {
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
                 [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
-                [{ text: 'Stop Search', callback_data: 'command_/stop' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
         }
@@ -52,7 +51,7 @@ async function showMainMenu(user) {
     // Check if the user has set more than 0 filters
     const filters = user.getFilters();
     if (filters.length > 0) {
-        options.reply_markup.inline_keyboard.unshift([{ text: 'Continue Searching', callback_data: 'continue_search' }]);
+        options.reply_markup.inline_keyboard.unshift([{ text: 'Start Searching', callback_data: 'continue_search' }]);
     }
 
     await sendLoggedMessage(chatId, 'Main Menu:', options);
@@ -60,6 +59,8 @@ async function showMainMenu(user) {
 
 async function continueSearching(user) {
     const chatId = user.chatId;
+
+    await clearChat(chatId);
 
     // Отримуємо активні фільтри
     const filters = user.getFilters();
@@ -79,8 +80,6 @@ async function continueSearching(user) {
 
     // Якщо фільтри є, відновлюємо пошук
     user.setReady(true);
-
-    await clearChat(chatId);
 
     // Форматування повідомлення з актуальними фільтрами
     let message = '🔍 *Search has resumed with the following filters:* 🔍\n\n';
@@ -396,10 +395,10 @@ async function showNextFilterMenu(user) {
     const options = {
         reply_markup: {
             inline_keyboard: [
-                [{ text: 'Set Filters', callback_data: 'command_/filters' }],
-                [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Start Searching', callback_data: 'continue_search' }], // Додано кнопку для старту пошуку
-                [{ text: 'Stop Search', callback_data: 'command_/stop' }],
+                [{ text: 'Set Filters', callback_data: 'command_/filters' }],
+                [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
+                [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
         }

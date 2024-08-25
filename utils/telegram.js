@@ -8,8 +8,6 @@ async function setBotCommands() {
         { command: 'menu', description: 'Open main menu' },
         { command: 'active_filters', description: 'Show active filters' },
         { command: 'custom_presets_settings', description: 'Manage custom presets' },
-        // { command: 'start_search', description: 'Start search' },
-        // { command: 'stop_search', description: 'Stop search' },
         { command: 'reset', description: 'Reset all filters and clear chat' }
     ];
 

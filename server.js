@@ -24,35 +24,53 @@ app.use(session({
 sessionStore.clear();
 console.log('Session store cleared.');
 
-// Middleware для очищення історії для кожної сесії
-app.use((req, res, next) => {
-    if (!req.session.historyCleared) {
-        console.log(`Clearing session history for session ID: ${req.sessionID}`);
-        req.session.history = [];
-        req.session.historyCleared = true;
+let currentInterval = 30000; // Початковий інтервал 30 секунд
+
+function getFetchIntervalBasedOnTime() {
+    const now = new Date();
+    const hours = now.getHours();
+
+    if (hours >= 16 && hours < 20) {
+        return 10000; // З 16:00 до 20:00 - інтервал 10 секунд
+    } else if (hours >= 20 && hours < 24) {
+        return 30000; // З 20:00 до 00:00 - інтервал 30 секунд
+    } else if (hours >= 0 && hours < 8) {
+        return 0; // З 00:00 до 08:00 - не виконуємо фетчів
+    } else {
+        return 30000; // З 08:00 до 16:00 - інтервал 30 секунд
     }
-    next();
-});
+}
 
-// Middleware для логування запитів
-app.use((req, res, next) => {
-    console.log(`Received request: ${req.method} ${req.url} at ${new Date().toISOString()}`);
-    console.log(`Request body: ${JSON.stringify(req.body)}`);
-    next();
-});
+function startFetchCycle() {
+    clearInterval(fetchInterval); // Зупиняємо попередній інтервал
 
-console.log("Starting managers job setup...");
+    currentInterval = getFetchIntervalBasedOnTime(); // Оновлюємо інтервал на основі поточного часу
+    console.log(`Fetch interval set to ${currentInterval} ms based on current time.`);
 
-// Використання setInterval для запуску завдання кожні 30 секунд
-setInterval(async () => {
-    console.log(`Cron job triggered at ${new Date().toISOString()}`);
-    try {
-        await updateCache();
-        setTimersForAllUsers(); // Запуск таймерів для користувачів після оновлення кешу
-    } catch (error) {
-        console.error('Error during updateCache:', error);
+    if (currentInterval > 0) {
+        fetchInterval = setInterval(async () => {
+            console.log(`Cron job triggered at ${new Date().toISOString()}`);
+            try {
+                await updateCache();
+                setTimersForAllUsers(); // Запуск таймерів для користувачів після оновлення кешу
+            } catch (error) {
+                console.error('Error during updateCache:', error);
+            }
+        }, currentInterval);
+    } else {
+        console.log('Fetch cycle is paused (00:00 - 08:00).');
     }
-}, 30000); // 30000 мілісекунд = 30 секунд
+}
+
+let fetchInterval = setInterval(startFetchCycle, currentInterval); // Запускаємо цикл фетчів
+
+// Додатковий інтервал для перевірки зміни часу
+setInterval(() => {
+    const newInterval = getFetchIntervalBasedOnTime();
+    if (newInterval !== currentInterval) {
+        startFetchCycle(); // Якщо інтервал змінився, перезапускаємо цикл
+    }
+}, 60000); // Перевірка кожну хвилину
 
 console.log("Cron job setup completed.");
 

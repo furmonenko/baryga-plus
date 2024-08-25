@@ -1,37 +1,13 @@
 [
   {
-    "productId": 4935625989,
-    "title": "Supreme 5panel",
-    "url": "https://www.vinted.pl/items/4935625989-supreme-5panel",
-    "image": "https://images1.vinted.net/tc/03_0237c_qBhWuXEpAjfXqRL3pxJHj5NB/1724585563.jpeg?s=7c430376f688f9b851e4029b9a3320e83178514b",
+    "productId": 4936262187,
+    "title": "Mega fajna męska czapka",
+    "url": "https://www.vinted.pl/items/4936262187-mega-fajna-meska-czapka",
+    "image": "https://images1.vinted.net/tc/01_00032_EWTPSMthomihA2hDfuE6u737/1724590646.jpeg?s=260a8201440f93549e825aa75079066fcea545a6",
     "promoted": false,
-    "favourites": 0,
-    "brand": "Supreme",
+    "favourites": 10,
+    "brand": "Stüssy",
     "size": "Uniwersalny",
-    "price": {
-      "amount": "21.59",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.78",
-      "totalAmount": "23.37"
-    },
-    "seller": {
-      "userId": 203632201,
-      "username": "orava123",
-      "profile": "https://www.vinted.pl/member/203632201-orava123",
-      "profilePicture": "https://images1.vinted.net/t/03_02382_Vt8TNweG6wQHELCY2m2Esqif/f800/1723813621.jpeg?s=89a2b6e11489065098da5b080f3fd0ea7c990883"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4935623135,
-    "title": "Polówka Granatowa Polo Ralph Lauren męska",
-    "url": "https://www.vinted.pl/items/4935623135-polowka-granatowa-polo-ralph-lauren-meska",
-    "image": "https://images1.vinted.net/tc/01_01034_dqcm9mpJLTGZ8GobF8KBpnLP/1724585539.jpeg?s=b6f089d67301cecf843465398ced4aecd5e18c35",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
     "price": {
       "amount": "40.0",
       "currency": "PLN",
@@ -40,10 +16,10 @@
       "totalAmount": "42.7"
     },
     "seller": {
-      "userId": 152176385,
-      "username": "triamcynolon",
-      "profile": "https://www.vinted.pl/member/152176385-triamcynolon",
-      "profilePicture": "https://images1.vinted.net/t/03_0047b_kmfhjaDkR6wgCciPou9QETHr/f800/1699882700.jpeg?s=11577681fed6085f51a6d88d835e0de2cc503ea6"
+      "userId": 187733672,
+      "username": "romario335566",
+      "profile": "https://www.vinted.pl/member/187733672-romario335566",
+      "profilePicture": "https://images1.vinted.net/t/03_00789_AtEfuzTyTPEkFaSpW4um6SNH/f800/1721925337.jpeg?s=9df85bb0e49b28151570f6ed10ff82a0557b500e"
     },
     "category": "Men"
   }
