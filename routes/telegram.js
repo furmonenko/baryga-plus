@@ -1,81 +1,106 @@
 const express = require('express');
 const router = express.Router();
-const { sendLoggedMessage, clearChat } = require('../utils/telegram');
+const UserManager = require('../managers/userManager');
+const { sendLoggedMessage } = require('../utils/telegram');
 const {
-    processFiltersCommand,
     processClearHistoryCommand,
     processStartCommand,
-    showCategories,
-    processIntervalCommand,
     processHistoryCommand,
-    processGoCommand,
     processStopCommand,
     processResetCommand,
-    processPresetCommand,
     handleCallbackQuery,
-    processCategorySelection,
-    showBrands,
-    showSizes,
-    showPrices
+    handlePresetFiltersCommand,
+    showDeleteCustomFilters,
+    showMainMenu, showCustomPresetsSettings, showActiveFiltersCommand, showActiveFiltersMenu, continueSearching,
+    showFiltersInfo
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
-
-const users = {};
+const {handleRestartServerCommand} = require("../utils/adminCommands");
 
 router.post('/webhook', async (req, res) => {
     const { message, callback_query } = req.body;
     const chatId = message ? message.chat.id : callback_query.from.id;
-    const text = message ? message.text.trim() : callback_query.data;
+    let user = UserManager.getUser(chatId);
 
-    if (!users[chatId]) {
-        users[chatId] = { filters: {}, interval: 60, ready: false, selectedCategory: 'Men', selectedSizes: [] };
+    if (!user) {
+        const { first_name: firstName, last_name: lastName, username } = message ? message.from : callback_query.from;
+        user = UserManager.createUser(chatId, firstName, lastName, username);
     }
 
-    if (callback_query) {
-        await handleCallbackQuery(chatId, callback_query.data, users);
-    } else if (message) {
-        const command = text.split(' ')[0];
+    if (UserManager.isUserBanned(chatId)) {
+        console.log(`User with chatId ${chatId} is banned.`);
+        return res.sendStatus(403); // Забороняємо доступ
+    }
 
-        // Логування повідомлення з командою
-        logMessage(chatId, message.message_id); // Зберігає message_id команди
+    const currentPlan = user.plan;
+    const planFromFile = UserManager.getPlanFromFile(chatId);
+
+    if (planFromFile && planFromFile !== currentPlan) {
+        console.log(`Updating plan for user ${chatId} from ${currentPlan} to ${planFromFile}`);
+        await UserManager.setPlan(chatId, planFromFile);
+        user.setPlan(planFromFile); // Оновлюємо план користувача в пам'яті
+    }
+
+    const isAdmin = UserManager.isAdmin(chatId);
+
+    if (callback_query) {
+        await handleCallbackQuery(user, callback_query.data);
+    } else if (message) {
+        const [command, arg1, arg2] = message.text.trim().split(' ');
 
         switch (command) {
             case '/start':
-                await processStartCommand(chatId);
+                await processStartCommand(user);
                 break;
-            case '/filters':
-                await showBrands(chatId);
+            case '/menu':
+                await showMainMenu(user);
                 break;
-            case '/interval':
-                await processIntervalCommand(chatId, text);
+            case '/start_search':
+                await continueSearching(user);
                 break;
-            case '/history':
-                await processHistoryCommand(chatId);
-                break;
-            case '/go':
-                await processGoCommand(chatId);
-                break;
-            case '/stop':
-                await processStopCommand(chatId);
+            case '/stop_search':
+                await processStopCommand(user);
                 break;
             case '/reset':
-                await processResetCommand(chatId);
+                await processResetCommand(user);
                 break;
-            case '/clearhistory':
-                await processClearHistoryCommand(chatId);
+            case '/active_filters':
+                await showActiveFiltersMenu(user);
                 break;
-            case '/presets':
-                await processPresetCommand(chatId);
+            case '/custom_presets_settings':
+                await showCustomPresetsSettings(user);
                 break;
-            case '/categories':
-                await showCategories(chatId);
+            case '/delete_preset':
+                await showDeleteCustomFilters(user)
                 break;
             default:
-                await sendLoggedMessage(chatId, 'Unknown command. Use /filters to set your search filters.');
+                if (isAdmin) {
+                    switch (command) {
+                        case '/changeplan':
+                            await UserManager.setPlan(arg1, arg2);
+                            await sendLoggedMessage(chatId, `Plan changed for ${arg1} to ${arg2}`);
+                            break;
+                        case '/ban':
+                            UserManager.banUser(parseInt(arg1));
+                            await sendLoggedMessage(chatId, `User with chatId ${arg1} has been banned`);
+                            break;
+                        case '/unban':
+                            UserManager.unbanUser(parseInt(arg1));
+                            await sendLoggedMessage(chatId, `User with chatId ${arg1} has been unbanned`);
+                            break;
+                        case '/restart_server':
+                            await handleRestartServerCommand(user);
+                            break;
+                        default:
+                            await sendLoggedMessage(chatId, 'Unknown command.');
+                    }
+                } else {
+                    await sendLoggedMessage(chatId, 'Unknown command.');
+                }
         }
     }
 
     res.sendStatus(200);
 });
 
-module.exports = router; // Переконайтесь, що експортуєте саме роутер
+module.exports = router;

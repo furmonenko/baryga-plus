@@ -1,98 +1,50 @@
 [
   {
-    "productId": 4820312291,
-    "title": "Stone island",
-    "url": "https://www.vinted.pl/items/4820312291-stone-island",
-    "image": "https://images1.vinted.net/tc/03_00c7b_mnt71DUtSGBm9LXQkEys4Ypd/1722187578.jpeg?s=7d926a69dc2e7f1d2f0551e15d88c48441c2af20",
+    "productId": 4938151794,
+    "title": "Koszulka piłkarska Bayern Monachium",
+    "url": "https://www.vinted.pl/items/4938151794-koszulka-pilkarska-bayern-monachium",
+    "image": "https://images1.vinted.net/tc/02_013bf_nGgQuLdyhwA5x9rmCztNT96k/1724604324.jpeg?s=89129dab79c1964fbff4162396787ecbb0367c54",
     "promoted": false,
     "favourites": 0,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.7",
-      "totalAmount": "210.7"
-    },
-    "seller": {
-      "userId": 107979120,
-      "username": "anton16258",
-      "profile": "https://www.vinted.pl/member/107979120-anton16258",
-      "profilePicture": "https://images1.vinted.net/t/02_01f79_sJKQNGgT1qeU6YrzfA5eiMpt/f800/1687027537.jpeg?s=dc9ee51f7a83e0a27e20077123687953810e515f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820169489,
-    "title": "Stone island",
-    "url": "https://www.vinted.pl/items/4820169489-stone-island",
-    "image": "https://images1.vinted.net/tc/01_0267a_VeZHnvsPEsgfqsW2g2EbcttE/1722185953.jpeg?s=48caab24943d5d263f6c4f62023081f17707333c",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "XL",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.7",
-      "totalAmount": "210.7"
-    },
-    "seller": {
-      "userId": 107979120,
-      "username": "anton16258",
-      "profile": "https://www.vinted.pl/member/107979120-anton16258",
-      "profilePicture": "https://images1.vinted.net/t/02_01f79_sJKQNGgT1qeU6YrzfA5eiMpt/f800/1687027537.jpeg?s=dc9ee51f7a83e0a27e20077123687953810e515f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820156257,
-    "title": "Stone island jumper",
-    "url": "https://www.vinted.pl/items/4820156257-stone-island-jumper",
-    "image": "https://images1.vinted.net/tc/03_02062_euMusS5kxoTEodk2BjwiPdbE/1722185809.jpeg?s=1f2ef7d699e84b12dd3dc60daa48090e95772cd9",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
-    "size": "L",
-    "price": {
-      "amount": "280.9",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.75",
-      "totalAmount": "295.65"
-    },
-    "seller": {
-      "userId": 207420836,
-      "username": "moulaga45",
-      "profile": "https://www.vinted.pl/member/207420836-moulaga45",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820077973,
-    "title": "Stone island piké storlek M",
-    "url": "https://www.vinted.pl/items/4820077973-stone-island-pike-storlek-m",
-    "image": "https://images1.vinted.net/tc/01_00e9b_AYJqJfSRdi2vyhm1qL62mENH/1722184960.jpeg?s=a9bca5400b31154e59b8e1b1668bb77be3954bd0",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stone Island",
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "51.56",
+      "amount": "30.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.28",
-      "totalAmount": "54.84"
+      "fees": "2.2",
+      "totalAmount": "32.2"
     },
     "seller": {
-      "userId": 219459201,
-      "username": "kevin220202020",
-      "profile": "https://www.vinted.pl/member/219459201-kevin220202020",
-      "profilePicture": null
+      "userId": 190609059,
+      "username": "maldini3231",
+      "profile": "https://www.vinted.pl/member/190609059-maldini3231",
+      "profilePicture": "https://images1.vinted.net/t/01_01c69_WubGhRdbpruyeK9QFmp3tP1P/f800/1717144452.jpeg?s=e701c83050a10c0e038482e70d81657faacc9415"
     },
-    "category": 5
+    "category": "Men"
+  },
+  {
+    "productId": 4938099372,
+    "title": "Jersey adidas koszulka tshirt",
+    "url": "https://www.vinted.pl/items/4938099372-jersey-adidas-koszulka-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01d8e_VKQVakvNqcActhRvXHxhQmUa/1724603925.jpeg?s=e8aa12cf125e5e4bed191140a5c562fa1268a023",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
   }
 ]

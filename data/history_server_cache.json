@@ -1,205 +1,13 @@
 [
   {
-    "productId": 4820685137,
-    "title": "Kratasy zlte Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820685137-kratasy-zlte-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_012bb_AJTzPDZwRnsH6NZMroPkwY6P/1722192202.jpeg?s=c849bbd5fde244599999db1e7f9d8482206730fa",
+    "productId": 4938157091,
+    "title": "Bluza adidas",
+    "url": "https://www.vinted.pl/items/4938157091-bluza-adidas",
+    "image": "https://images1.vinted.net/tc/02_00f47_Zhzfx9gTo9zjP71J2V8s9tH7/1724604366.jpeg?s=497698efce39ffff62f32398d64506e07335c215",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
+    "brand": "adidas",
     "size": "M",
-    "price": {
-      "amount": "108.04",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.1",
-      "totalAmount": "114.14"
-    },
-    "seller": {
-      "userId": 110955472,
-      "username": "daniela_jencova1037",
-      "profile": "https://www.vinted.pl/member/110955472-danielajencova1037",
-      "profilePicture": "https://images1.vinted.net/t/01_0257e_RMheqAK3pSc3AvDmjMtnKovk/f800/1682840443.jpeg?s=2b793b84dc07c314d1834d15cddcb4b238f25377"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820681891,
-    "title": "T-shirt polo / Ralph Lauren / L /premium tanio okazja",
-    "url": "https://www.vinted.pl/items/4820681891-t-shirt-polo-ralph-lauren-l-premium-tanio-okazja",
-    "image": "https://images1.vinted.net/tc/03_00c00_aeUhbyK69ghopUyn6qvRnuPa/1722192158.jpeg?s=9fa984169020195b92d82675683d2dc0b2b767cd",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "49.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.15",
-      "totalAmount": "52.15"
-    },
-    "seller": {
-      "userId": 173024082,
-      "username": "by_angeel0007",
-      "profile": "https://www.vinted.pl/member/173024082-byangeel0007",
-      "profilePicture": "https://images1.vinted.net/t/01_017cf_zFBPm5kbSDGWonLrNigVJDed/f800/1700413759.jpeg?s=de83d5d1461854b29f206212d54c1480ad5d2fec"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820677413,
-    "title": "Ralph Lauren M bluza oversize melanż super stan",
-    "url": "https://www.vinted.pl/items/4820677413-ralph-lauren-m-bluza-oversize-melanz-super-stan",
-    "image": "https://images1.vinted.net/tc/02_023e5_sUQcVCp7jY4Nu5ce2dkU4QpF/1722192099.jpeg?s=acdb7fa8bbcccb05ee6f55959776ed8947a60e73",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 91246796,
-      "username": "mibnk",
-      "profile": "https://www.vinted.pl/member/91246796-mibnk",
-      "profilePicture": "https://images1.vinted.net/t/03_022fe_PCYifY4fw4QGasnrdwmQTmdT/f800/1652802582.jpeg?s=99dc243073a597ee4c98841913470f81b4563537"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820676590,
-    "title": "Koszula Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820676590-koszula-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_01ae0_KMeVgvhDi89EqEjCFJ2JgCjB/1722192088.jpeg?s=801930640dc80f308283c69300874b84e2a52e64",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "51.87",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.29",
-      "totalAmount": "55.16"
-    },
-    "seller": {
-      "userId": 158658804,
-      "username": "yano10c41",
-      "profile": "https://www.vinted.pl/member/158658804-yano10c41",
-      "profilePicture": "https://images1.vinted.net/t/01_01e48_ju5QM2qf1HD2eCPRWTE6d4ta/f800/1722105967.jpeg?s=30edc21488ff084c6a647a4f8b37414efe9f6b9a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4803355117,
-    "title": "Koszulka Polo Ralph Lauren czerwona",
-    "url": "https://www.vinted.pl/items/4803355117-koszulka-polo-ralph-lauren-czerwona",
-    "image": "https://images1.vinted.net/tc/01_00b4a_G3B7Be1HVMYQqZff9SVqxtUo/1721822985.jpeg?s=57f83cfaa1eff6b07e957f0f2d71183b6aee99ff",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "40.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
-    },
-    "seller": {
-      "userId": 217301845,
-      "username": "nexombeedol",
-      "profile": "https://www.vinted.pl/member/217301845-nexombeedol",
-      "profilePicture": "https://images1.vinted.net/t/03_01bd2_mak9sahb3EZWuU7gDG2zRypB/f800/1721033077.jpeg?s=0abcf71ba4d68a8c982b84df30d2f2e423e621f7"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820663536,
-    "title": "T-shirt Polo Longsleeve Ralph Lauren M",
-    "url": "https://www.vinted.pl/items/4820663536-t-shirt-polo-longsleeve-ralph-lauren-m",
-    "image": "https://images1.vinted.net/tc/03_0187d_aqvxierj2R7r5DVDfh6HHM5M/1722191914.jpeg?s=2d7968098236eff43dfaa671e9e168f66f14f236",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.7",
-      "totalAmount": "210.7"
-    },
-    "seller": {
-      "userId": 180430739,
-      "username": "leonroxi29",
-      "profile": "https://www.vinted.pl/member/180430739-leonroxi29",
-      "profilePicture": "https://images1.vinted.net/t/01_013d8_rqWeCUraJNHh9ZxsenW3QufJ/f800/1709675863.jpeg?s=0789bd1694cf305b3348c5ad18d86bde7d4c3c1e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820661932,
-    "title": "Koszula granatowa Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820661932-koszula-granatowa-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_0012d_hgbsbr1a1TTmuMzUMqmNeqDP/1722191892.jpeg?s=b394b4bda25e87cdec9d8b4266f35b98d787f967",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "170.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.2",
-      "totalAmount": "179.2"
-    },
-    "seller": {
-      "userId": 205795955,
-      "username": "bratew",
-      "profile": "https://www.vinted.pl/member/205795955-bratew",
-      "profilePicture": "https://images1.vinted.net/t/02_0178d_gfS33arbnzopFm82JbSm8syN/f800/1715980379.jpeg?s=0a1e0df2eb3d779715dd351491c8eb41d842bab2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820660484,
-    "title": "Koszulka Polo",
-    "url": "https://www.vinted.pl/items/4820660484-koszulka-polo",
-    "image": "https://images1.vinted.net/tc/02_002ad_G2Mro8wFkHNkDLsWBkWzGAru/1722191873.jpeg?s=f79fad6890fe748040718907fa036b8db9654f9c",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "18.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.6",
-      "totalAmount": "19.6"
-    },
-    "seller": {
-      "userId": 132829605,
-      "username": "ptyv",
-      "profile": "https://www.vinted.pl/member/132829605-ptyv",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820654275,
-    "title": "Polówka Ralph Lauren czarna longsleeve",
-    "url": "https://www.vinted.pl/items/4820654275-polowka-ralph-lauren-czarna-longsleeve",
-    "image": "https://images1.vinted.net/tc/03_0147d_WdPyKjmnuaChoVqSTNYYWpra/1722191790.jpeg?s=2176e9a4579266ba2e2777d82a8888e7381f8ab8",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
     "price": {
       "amount": "50.0",
       "currency": "PLN",
@@ -208,526 +16,142 @@
       "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 138236274,
-      "username": "michjag",
-      "profile": "https://www.vinted.pl/member/138236274-michjag",
-      "profilePicture": "https://images1.vinted.net/t/03_0148a_9bUxoKmbLyq7428akPr5TT5T/f800/1680036761.jpeg?s=734f4a0833a5404b115ff806ae5f8357c406b72c"
+      "userId": 93236483,
+      "username": "natka280795",
+      "profile": "https://www.vinted.pl/member/93236483-natka280795",
+      "profilePicture": "https://images1.vinted.net/t/03_01622_Rp8Jsdj2h5tts2yUmJ9YvLD6/f800/1653319481.jpeg?s=17bacccd2b2bdeb1c23f6c5aed6ed82596c6d9b2"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820653367,
-    "title": "Ralph Lauren póló",
-    "url": "https://www.vinted.pl/items/4820653367-ralph-lauren-polo",
-    "image": "https://images1.vinted.net/tc/01_005ff_zHGtJnB8HJ4Ab2Qakh2LsX9T/1722191778.jpeg?s=47df42c62d5ae76d72f964721ea761a345168776",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "14.38",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.42",
-      "totalAmount": "15.8"
-    },
-    "seller": {
-      "userId": 145520876,
-      "username": "ruha_lakberendezes",
-      "profile": "https://www.vinted.pl/member/145520876-ruhalakberendezes",
-      "profilePicture": "https://images1.vinted.net/t/02_00899_5kJa9kDqftVHNipTZLL7FNMx/f800/1684391183.jpeg?s=8aaa674068777d64ceaa5fa4e58fa70c7dd120f2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820645509,
-    "title": "Koszula z krótkim rękawem firmy Ralph Lauren z USA mały czerwony koń  granatowa",
-    "url": "https://www.vinted.pl/items/4820645509-koszula-z-krotkim-rekawem-firmy-ralph-lauren-z-usa-maly-czerwony-kon-granatowa",
-    "image": "https://images1.vinted.net/tc/01_00d8e_rGjFsYD2D4kjN5ib2usD2KjK/1722191674.jpeg?s=64ab4a3b083915f2e3a9688c9f790a433e2b9b10",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "40.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
-    },
-    "seller": {
-      "userId": 183975775,
-      "username": "trzecipalec",
-      "profile": "https://www.vinted.pl/member/183975775-trzecipalec",
-      "profilePicture": "https://images1.vinted.net/t/01_003e2_SJMirXz53WUbq7ooczjCfw3m/f800/1705873076.jpeg?s=3493c46020eef821c7689cbbd81f79aa6ca169ed"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820619141,
-    "title": "Ralph Lauren estate rib quarter zip",
-    "url": "https://www.vinted.pl/items/4820619141-ralph-lauren-estate-rib-quarter-zip",
-    "image": "https://images1.vinted.net/tc/01_00aa6_QYYMrqn9cYECrZoQ4Cz8wSGz/1722191335.jpeg?s=ecfe9956fab84db2fa7baf11e422a8664f1ff5e1",
+    "productId": 4938155604,
+    "title": "adidas baby tee",
+    "url": "https://www.vinted.pl/items/4938155604-adidas-baby-tee",
+    "image": "https://images1.vinted.net/tc/01_013e7_A4CudDSeGAGBpeHhDrXwzgnD/1724604354.jpeg?s=55d66f24f34de2812d61fd751427ed627da3fcc1",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "289.54",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "15.18",
-      "totalAmount": "304.72"
-    },
-    "seller": {
-      "userId": 219478050,
-      "username": "oliverpdk",
-      "profile": "https://www.vinted.pl/member/219478050-oliverpdk",
-      "profilePicture": "https://images1.vinted.net/t/03_02413_fmLV1dh13LHtj2Q6cbK2Afxq/f800/1722190977.jpeg?s=d2c8b9b9f0c905ae879f453e2c1ab2a944a36c6c"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820642318,
-    "title": "Ralph Lauren rovidgatya",
-    "url": "https://www.vinted.pl/items/4820642318-ralph-lauren-rovidgatya",
-    "image": "https://images1.vinted.net/tc/03_0129c_PGYd6abMsntotxe9RTeoaFEv/1722191633.jpeg?s=a9981224c92c39dd0a9229084b3f5df2e2837e3f",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "77.45",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.57",
-      "totalAmount": "82.02"
-    },
-    "seller": {
-      "userId": 143285348,
-      "username": "oliver_garamvolgyi",
-      "profile": "https://www.vinted.pl/member/143285348-olivergaramvolgyi",
-      "profilePicture": "https://images1.vinted.net/t/02_00dd3_fPkG2iKDf9KFp2nEUP8TVVsC/f800/1704653200.jpeg?s=cae6b1c8dd4c5c4ca33fcc7124f1f68978a6c261"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820359576,
-    "title": "Spodnie jeansowe Ralp Lauren",
-    "url": "https://www.vinted.pl/items/4820359576-spodnie-jeansowe-ralp-lauren",
-    "image": "https://images1.vinted.net/tc/01_0130c_Rn2mxnkxksoPwSqBfsANognh/1722188131.jpeg?s=6cd7728266ae20ae65ce93b7939813dd98fcca6a",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "38 | W23",
-    "price": {
-      "amount": "44.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.9",
-      "totalAmount": "46.9"
-    },
-    "seller": {
-      "userId": 138795988,
-      "username": "szymonk06",
-      "profile": "https://www.vinted.pl/member/138795988-szymonk06",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820619579,
-    "title": "Polo Ralph lauren t shirt",
-    "url": "https://www.vinted.pl/items/4820619579-polo-ralph-lauren-t-shirt",
-    "image": "https://images1.vinted.net/tc/01_00bb8_UqWTqKNr4rNHdV71XyCRt1nV/1722191341.jpeg?s=14cc3983d51b4545acdb439a6c0385f7b61df7fa",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "23.16",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.86",
-      "totalAmount": "25.02"
-    },
-    "seller": {
-      "userId": 212235841,
-      "username": "1982hlp",
-      "profile": "https://www.vinted.pl/member/212235841-1982hlp",
-      "profilePicture": "https://images1.vinted.net/t/01_0233b_qn5aBZEazF9DJamQDsUVRp8k/f800/1718626019.jpeg?s=4c47b0d03536235df0dc17754829c0e3d7f0495a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820617434,
-    "title": "Koszulka polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820617434-koszulka-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_00a19_kfNY5ZXQxziU7vvEs6SsrMkY/1722191314.jpeg?s=bcb86f93eee9fe44bd13cdef3d059f2198dd6db4",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "39.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.69"
-    },
-    "seller": {
-      "userId": 124826005,
-      "username": "blanketkox",
-      "profile": "https://www.vinted.pl/member/124826005-blanketkox",
-      "profilePicture": "https://images1.vinted.net/t/02_01580_8vEXy1wVuLUR7UeB5VhvE2ru/f800/1675916159.jpeg?s=cc6ede6c5d342c111265798a4bcf5283a51bec2c"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820612427,
-    "title": "Koszulka polo Ralph Lauren L/XL",
-    "url": "https://www.vinted.pl/items/4820612427-koszulka-polo-ralph-lauren-lxl",
-    "image": "https://images1.vinted.net/tc/03_00d67_MkALKJgLWNZ4VAsyiLKB7A2y/1722191252.jpeg?s=a445eb6b084d0130e7c922c826fa7f11719b4e9d",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "25.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.95",
-      "totalAmount": "26.95"
-    },
-    "seller": {
-      "userId": 148197137,
-      "username": "aaddaass",
-      "profile": "https://www.vinted.pl/member/148197137-aaddaass",
-      "profilePicture": "https://images1.vinted.net/t/01_02423_KMr34WGaSQceAT6TwbVtn7rK/f800/1708266083.jpeg?s=d18947e05d70d2595dcdd71936440b2269658c26"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820610208,
-    "title": "Koszulka Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820610208-koszulka-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_00934_QVJBvtE5UdVtvv5JiBk1m3wU/1722191223.jpeg?s=c89cd29f60f2ebcd0be89cc4f0eb6a6f8046c7ed",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "199.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.65",
-      "totalAmount": "209.65"
-    },
-    "seller": {
-      "userId": 206293550,
-      "username": "topfashion_en",
-      "profile": "https://www.vinted.pl/member/206293550-topfashionen",
-      "profilePicture": "https://images1.vinted.net/t/01_00436_wM4cnUHmuByJu27CY16Hf1BP/f800/1716280985.jpeg?s=e0da50fc0d9090cbed1feebb8f75488540811530"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820606605,
-    "title": "Polo Ralph lauren r.Xl",
-    "url": "https://www.vinted.pl/items/4820606605-polo-ralph-lauren-rxl",
-    "image": "https://images1.vinted.net/tc/01_01be8_3h5BD6t5b8iXfZ2TfWs4iGPu/1722191177.jpeg?s=59f827802ff822ec976d53b850d25498e696d8ae",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "35.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.45",
-      "totalAmount": "37.45"
-    },
-    "seller": {
-      "userId": 152262415,
-      "username": "tomspe8",
-      "profile": "https://www.vinted.pl/member/152262415-tomspe8",
-      "profilePicture": "https://images1.vinted.net/t/03_00952_coa4MbiY7kL4keMjDTnaBkfh/f800/1689077302.jpeg?s=8c0fbc271c77fe98f345c4845b93cb4f841c2f20"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820595759,
-    "title": "Koszulka polo w paski",
-    "url": "https://www.vinted.pl/items/4820595759-koszulka-polo-w-paski",
-    "image": "https://images1.vinted.net/tc/03_0255d_N7sfpYcFhjhD2QfbQ1hnSHxE/1722191040.jpeg?s=05870af06e666c70c7729785514cc322a395c631",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "30.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.2",
-      "totalAmount": "32.2"
-    },
-    "seller": {
-      "userId": 91259563,
-      "username": "klaudia_ok1",
-      "profile": "https://www.vinted.pl/member/91259563-klaudiaok1",
-      "profilePicture": "https://images1.vinted.net/t/02_01709_wtj21gBgBCd86iXmC1bxecV9/f800/1652803456.jpeg?s=35b63aa8309cc82a132e79afeff50b5c92d61614"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820594016,
-    "title": "Tricou Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820594016-tricou-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_023a8_1HTjwiwL2rJdBKhA8QAZk1zN/1722191018.jpeg?s=13c4c31ab3bfe347f7390dd0eca870b0bafa0561",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "39.12",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.66",
-      "totalAmount": "41.78"
-    },
-    "seller": {
-      "userId": 215432585,
-      "username": "andr2003",
-      "profile": "https://www.vinted.pl/member/215432585-andr2003",
-      "profilePicture": "https://images1.vinted.net/t/03_00c88_FyvDBJY286NjpxupYbBGZyNP/f800/1720478131.jpeg?s=bd6d125834ca47a25fc9384ff4ca0a9514a6935a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820579190,
-    "title": "Ralph Lauren polo sport bluza",
-    "url": "https://www.vinted.pl/items/4820579190-ralph-lauren-polo-sport-bluza",
-    "image": "https://images1.vinted.net/tc/03_0227d_ExXwYHpk7HGhbjkjHpZdtzkx/1722190827.jpeg?s=07f39c64a3050d56fba555ec0543a42f7a7f6150",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 184651949,
-      "username": "bulkazmaslem23",
-      "profile": "https://www.vinted.pl/member/184651949-bulkazmaslem23",
-      "profilePicture": "https://images1.vinted.net/t/03_005dc_DbBKDDo5DM6GnjRmrCecnDCR/f800/1706189409.jpeg?s=1f1501cb3d609ac674820f689a08590f3bd804e7"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820574893,
-    "title": "Koszula paski prążki Ralph Lauren męska jak nowa XXL",
-    "url": "https://www.vinted.pl/items/4820574893-koszula-paski-prazki-ralph-lauren-meska-jak-nowa-xxl",
-    "image": "https://images1.vinted.net/tc/01_01212_EhRp29xJF8mYWMevkAjGpJhY/1722190772.jpeg?s=eb4e2604990c80d7af565f5b584dccaf85720852",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "175.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.45",
-      "totalAmount": "184.45"
-    },
-    "seller": {
-      "userId": 208505117,
-      "username": "fparis234",
-      "profile": "https://www.vinted.pl/member/208505117-fparis234",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820569249,
-    "title": "Ralph Lauren mikina pánská",
-    "url": "https://www.vinted.pl/items/4820569249-ralph-lauren-mikina-panska",
-    "image": "https://images1.vinted.net/tc/03_00fea_5uhj3mEwXBTPs1LhwXw3HXdA/1722190699.jpeg?s=a71e7a7339e6f36f92c79b90c8f6f75c3fda6c06",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "168.67",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.13",
-      "totalAmount": "177.8"
-    },
-    "seller": {
-      "userId": 75087878,
-      "username": "m.schier",
-      "profile": "https://www.vinted.pl/member/75087878-mschier",
-      "profilePicture": "https://images1.vinted.net/t/03_011bc_G2M2MwPqearxRFk6pWGmxAkM/f800/1638173176.jpeg?s=1370528dbe171fd67848da7b0ec86f5c983feb1c"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820564970,
-    "title": "Jasnoniebieska boxy bluza Ralph Lauren oversize",
-    "url": "https://www.vinted.pl/items/4820564970-jasnoniebieska-boxy-bluza-ralph-lauren-oversize",
-    "image": "https://images1.vinted.net/tc/03_00d4a_p2WiK91raWNZjqLeYbuf6Eu6/1722190643.jpeg?s=a4c98bbc83d7c4002043366fd8679f4b1b7cc45b",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "99.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.69"
-    },
-    "seller": {
-      "userId": 92060690,
-      "username": "mmmmm333",
-      "profile": "https://www.vinted.pl/member/92060690-mmmmm333",
-      "profilePicture": "https://images1.vinted.net/t/02_012d0_xrWJgUQBPsLG7qErFGWRh7a5/f800/1660339989.jpeg?s=6b53020c0ccec0890bfaa4f8f3157e250dc6753f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820558993,
-    "title": "Férfi cipő",
-    "url": "https://www.vinted.pl/items/4820558993-ferfi-cipo",
-    "image": "https://images1.vinted.net/tc/02_01677_7sfoLLJya3FoWjC54QLeEWBU/1722190567.jpeg?s=73bd543f07089ff24108156490821bad5caabf8f",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "46",
-    "price": {
-      "amount": "221.27",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.76",
-      "totalAmount": "233.03"
-    },
-    "seller": {
-      "userId": 118499378,
-      "username": "galicz",
-      "profile": "https://www.vinted.pl/member/118499378-galicz",
-      "profilePicture": "https://images1.vinted.net/t/03_01c25_yxFPa13x8jPvXwf2AwnqcLSh/f800/1705561669.jpeg?s=45cbcce5989d838e29f4ec84d5f0faf9bf652ca2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820556787,
-    "title": "Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820556787-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_01986_17mw4eMFFS9V8M5knR2StbJg/1722190539.jpeg?s=1adb8945ac87d86c2cfc857338ba766b3837428e",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "30.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.2",
-      "totalAmount": "32.2"
-    },
-    "seller": {
-      "userId": 102685513,
-      "username": "patkoo435",
-      "profile": "https://www.vinted.pl/member/102685513-patkoo435",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820533018,
-    "title": "Koszulka Ralph Lauren - S",
-    "url": "https://www.vinted.pl/items/4820533018-koszulka-ralph-lauren-s",
-    "image": "https://images1.vinted.net/tc/03_002dd_fJyZ7p3yuub6rQ3b8GxmDNrM/1722190237.jpeg?s=7b83faa9b29d5d8e441dd4a143a180d0ea6f362d",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "30.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.2",
-      "totalAmount": "32.2"
-    },
-    "seller": {
-      "userId": 91231403,
-      "username": "szafa_store",
-      "profile": "https://www.vinted.pl/member/91231403-szafastore",
-      "profilePicture": "https://images1.vinted.net/t/02_00a9f_eTmagin5vsFMGt5sP8wryiaP/f800/1667470848.jpeg?s=964ff90cce3922f8eaeb8ae0c37e6fc58f73b819"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820543364,
-    "title": "Ralph Lauren pólóing",
-    "url": "https://www.vinted.pl/items/4820543364-ralph-lauren-poloing",
-    "image": "https://images1.vinted.net/tc/01_008bb_YVWoBm6gFV1BLPHaA3sewuZi/1722190367.jpeg?s=460ee9cf9098e9b4827b28ff813d0a89de6f3135",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "49.79",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.19",
-      "totalAmount": "52.98"
-    },
-    "seller": {
-      "userId": 133385512,
-      "username": "lmarci030",
-      "profile": "https://www.vinted.pl/member/133385512-lmarci030",
-      "profilePicture": "https://images1.vinted.net/t/03_00503_6HxNQ1zcHDxqDm6S2kaku86G/f800/1721402988.jpeg?s=660b230f35c54cc2fda1e2e40504631934dd9551"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820084477,
-    "title": "Fehér Ralph Lauren ing",
-    "url": "https://www.vinted.pl/items/4820084477-feher-ralph-lauren-ing",
-    "image": "https://images1.vinted.net/tc/02_002f3_cDyg7N8zvB6PP2uooiipbnjo/1722185029.jpeg?s=6e46216bb85298c44d79935738dfb16ab62d0730",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
+    "brand": "adidas",
     "size": "XS",
     "price": {
-      "amount": "121.7",
+      "amount": "10.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "6.79",
-      "totalAmount": "128.49"
+      "fees": "1.2",
+      "totalAmount": "11.2"
     },
     "seller": {
-      "userId": 141869866,
-      "username": "kimate05",
-      "profile": "https://www.vinted.pl/member/141869866-kimate05",
-      "profilePicture": "https://images1.vinted.net/t/01_01344_1HocqeFz2fSBHu2K837B1pis/f800/1705042366.jpeg?s=34e8f9daab647daf09ac6469febc2a31760a90c5"
+      "userId": 99361000,
+      "username": "wiochadocha",
+      "profile": "https://www.vinted.pl/member/99361000-wiochadocha",
+      "profilePicture": "https://images1.vinted.net/t/03_00cb5_gavzwNA2RN1A2ggA9JdN1RiP/f800/1713898772.jpeg?s=3e5b0073cd7229e2902e32c75c0934450bc62f60"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820532809,
-    "title": "Ralph lauren błękitna polówka męska,rozm.xs",
-    "url": "https://www.vinted.pl/items/4820532809-ralph-lauren-blekitna-polowka-meskarozmxs",
-    "image": "https://images1.vinted.net/tc/01_00d7e_QrJX68Koep4WpqY4K2SUSVpb/1722190234.jpeg?s=d6a5f5a64faab03edc4ba265b4b01a0f34fe98b0",
+    "productId": 4938155427,
+    "title": "Nike mellény",
+    "url": "https://www.vinted.pl/items/4938155427-nike-melleny",
+    "image": "https://images1.vinted.net/tc/02_01f06_MAXTWa6TExype4JMZuYkE5p3/1724604352.jpeg?s=1d8416a807455f91780dfc61b3f58b9e16fffe97",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XS",
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "49.44",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.17",
+      "totalAmount": "52.61"
+    },
+    "seller": {
+      "userId": 223668772,
+      "username": "polzt2024",
+      "profile": "https://www.vinted.pl/member/223668772-polzt2024",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938155218,
+    "title": "Spodnie dresowe Nike",
+    "url": "https://www.vinted.pl/items/4938155218-spodnie-dresowe-nike",
+    "image": "https://images1.vinted.net/tc/01_008c6_NKuP9nfLeX1rfpVZMh6AySXE/1724604351.jpeg?s=898cc64edeea9bf9657766e910e03639564afaee",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 223170714,
+      "username": "damiann_11",
+      "profile": "https://www.vinted.pl/member/223170714-damiann11",
+      "profilePicture": "https://images1.vinted.net/t/01_004b4_C6m6sgQeqYwJ4ovEbH6hnTJr/f800/1723987071.jpeg?s=38b5c630a007d37009faeb233bc5063a24ce559b"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938154334,
+    "title": "Koszula adidas",
+    "url": "https://www.vinted.pl/items/4938154334-koszula-adidas",
+    "image": "https://images1.vinted.net/tc/03_0113b_gjb5tDpYUx4UZoKe7x8iTHFY/1724604344.jpeg?s=1491262cc042fd91d022259eef76a01cf2e767db",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 134291114,
+      "username": "bradek_777",
+      "profile": "https://www.vinted.pl/member/134291114-bradek777",
+      "profilePicture": "https://images1.vinted.net/t/03_00533_KjtYwpDBgeQfNBH5v7deU1kg/f800/1698348947.jpeg?s=89861b19441a2d58e05e6d1c07c527491133a63a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938152789,
+    "title": "Nike tee",
+    "url": "https://www.vinted.pl/items/4938152789-nike-tee",
+    "image": "https://images1.vinted.net/tc/01_0042f_VM8wYaX95Z1cazMiD9uS9SSs/1724604332.jpeg?s=d4154bc87c386120cecc26a48b48201a4c67a649",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "34.55",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.43",
+      "totalAmount": "36.98"
+    },
+    "seller": {
+      "userId": 177999655,
+      "username": "egleli1",
+      "profile": "https://www.vinted.pl/member/177999655-egleli1",
+      "profilePicture": "https://images1.vinted.net/t/01_00f2f_5QqBiXmimV2ncXA5rcw6oyNZ/f800/1702838339.jpeg?s=90690ac1c217fd6f9d5b1d9714c9730a0a3b8c49"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938152559,
+    "title": "Buty nike flex experience rn 10",
+    "url": "https://www.vinted.pl/items/4938152559-buty-nike-flex-experience-rn-10",
+    "image": "https://images1.vinted.net/tc/02_00d45_QzG3khTqP8fa6PAkJmat2QYb/1724604330.jpeg?s=3be7eeda3cc8cf80b02d0b36c166aba42b6cac61",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
     "price": {
       "amount": "60.0",
       "currency": "PLN",
@@ -736,46 +160,1078 @@
       "totalAmount": "63.7"
     },
     "seller": {
-      "userId": 94942738,
-      "username": "anina77",
-      "profile": "https://www.vinted.pl/member/94942738-anina77",
-      "profilePicture": "https://images1.vinted.net/t/02_0084c_bdYeorMRF99BcQxB7t6gsK3w/f800/1654089046.jpeg?s=74a2e466593b8dd0235dfabab16c486669520d86"
+      "userId": 90572167,
+      "username": "mrut97",
+      "profile": "https://www.vinted.pl/member/90572167-mrut97",
+      "profilePicture": null
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820530456,
-    "title": "Sweterek polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820530456-sweterek-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_01fa6_WPquTcLHANZz1xGCRYoYnoXF/1722190206.jpeg?s=e5dcf3984db08c8b88e1bb13aebe5c23d9ba54bf",
+    "productId": 4938152095,
+    "title": "hjk hjk",
+    "url": "https://www.vinted.pl/items/4938152095-hjk-hjk",
+    "image": "https://images1.vinted.net/tc/03_01784_67vEzQVQdv9gboXogKraBkki/1724604326.jpeg?s=3e6a5c9476cc347fc436e14429e89d77970b77e3",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
+    "brand": "Nike",
+    "size": "41",
     "price": {
-      "amount": "250.0",
+      "amount": "1.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "13.2",
-      "totalAmount": "263.2"
+      "fees": "0.75",
+      "totalAmount": "1.75"
     },
     "seller": {
-      "userId": 92308028,
-      "username": "sprzdawca1",
-      "profile": "https://www.vinted.pl/member/92308028-sprzdawca1",
-      "profilePicture": "https://images1.vinted.net/t/03_00978_NT5HAWg9SFVc3vEerxuuUrqy/f800/1652974800.jpeg?s=9cda340fa3b06b04f6076f07abd8a78a7dad67b2"
+      "userId": 224027369,
+      "username": "wwxqdrlsxm",
+      "profile": "https://www.vinted.pl/member/224027369-wwxqdrlsxm",
+      "profilePicture": null
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820517611,
-    "title": "Ralph Lauren Polo męskie M",
-    "url": "https://www.vinted.pl/items/4820517611-ralph-lauren-polo-meskie-m",
-    "image": "https://images1.vinted.net/tc/01_011db_qLn7f6gGof6mS24aQbWvSLqH/1722190045.jpeg?s=638bfb9d2b6c759194492b3d0461ae7309bc345f",
+    "productId": 4938151794,
+    "title": "Koszulka piłkarska Bayern Monachium",
+    "url": "https://www.vinted.pl/items/4938151794-koszulka-pilkarska-bayern-monachium",
+    "image": "https://images1.vinted.net/tc/02_013bf_nGgQuLdyhwA5x9rmCztNT96k/1724604324.jpeg?s=89129dab79c1964fbff4162396787ecbb0367c54",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
+    "brand": "adidas",
     "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 190609059,
+      "username": "maldini3231",
+      "profile": "https://www.vinted.pl/member/190609059-maldini3231",
+      "profilePicture": "https://images1.vinted.net/t/01_01c69_WubGhRdbpruyeK9QFmp3tP1P/f800/1717144452.jpeg?s=e701c83050a10c0e038482e70d81657faacc9415"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938148472,
+    "title": "Adidas retro med lynlås",
+    "url": "https://www.vinted.pl/items/4938148472-adidas-retro-med-lynlas",
+    "image": "https://images1.vinted.net/tc/03_00131_XPDA6nSnp8niQNzitDB8nLdQ/1724604298.jpeg?s=c37cddf5ba59ebf13122d48b3f28c45ff07e09a1",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "57.88",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.59",
+      "totalAmount": "61.47"
+    },
+    "seller": {
+      "userId": 198248307,
+      "username": "berner78",
+      "profile": "https://www.vinted.pl/member/198248307-berner78",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938145641,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938145641-dresy-nike",
+    "image": null,
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "34.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.35"
+    },
+    "seller": {
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938144585,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938144585-dresy-nike",
+    "image": null,
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "34.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.35"
+    },
+    "seller": {
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938144301,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938144301-dresy-nike",
+    "image": "https://images1.vinted.net/tc/01_01e7f_495oAcv5ZksJkuj8UMWbSnc5/1724604266.jpeg?s=523c44b8ba79b2d1b8dc9176fac49f0686d7f087",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "34.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.35"
+    },
+    "seller": {
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938140412,
+    "title": "Dresy sportowe Adidas M",
+    "url": "https://www.vinted.pl/items/4938140412-dresy-sportowe-adidas-m",
+    "image": "https://images1.vinted.net/tc/02_009f0_VGYayvD96K5pEPDh4csyEvzs/1724604237.jpeg?s=6150e2f573be02fda29d763c1fcf57ecf47162ae",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 91351123,
+      "username": "kacper1250",
+      "profile": "https://www.vinted.pl/member/91351123-kacper1250",
+      "profilePicture": "https://images1.vinted.net/t/01_0020e_u6PVGhY1woNQdFDsZmt61hWt/f800/1652810040.jpeg?s=5f516d13b86d5656dd85cb569557101d489296a6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938139835,
+    "title": "Adidas férfi póló",
+    "url": "https://www.vinted.pl/items/4938139835-adidas-ferfi-polo",
+    "image": "https://images1.vinted.net/tc/03_02214_7U6uX39KgSWFGTe15f8BwSLm/1724604232.jpeg?s=8b7acc136e09b7d43b7db4f47d89819da8feb511",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "7.58",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.08",
+      "totalAmount": "8.66"
+    },
+    "seller": {
+      "userId": 142375007,
+      "username": "csicsi1967",
+      "profile": "https://www.vinted.pl/member/142375007-csicsi1967",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938139043,
+    "title": "Adidas nadrág",
+    "url": "https://www.vinted.pl/items/4938139043-adidas-nadrag",
+    "image": "https://images1.vinted.net/tc/02_01a8c_sX1wFLUxNbzNSvTmfzSCoWVM/1724604227.jpeg?s=1b95edc77347c4a50b742b786a0de23913f88d18",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "10.99",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.25",
+      "totalAmount": "12.24"
+    },
+    "seller": {
+      "userId": 116190608,
+      "username": "mesi90",
+      "profile": "https://www.vinted.pl/member/116190608-mesi90",
+      "profilePicture": "https://images1.vinted.net/t/03_007d0_r7TQrKeXdHdMNb1J9MwFUgWU/f800/1666612912.jpeg?s=48070acd561c1641a9002a0b85b0ab0732f82684"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938138021,
+    "title": "Adidas",
+    "url": "https://www.vinted.pl/items/4938138021-adidas",
+    "image": "https://images1.vinted.net/tc/01_00066_e3ey1Y2MGy7utY7pnmf9XYhM/1724604219.jpeg?s=46f39f661bcaedb1f49133182806d67c49fbf181",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "40,5",
+    "price": {
+      "amount": "59.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.65",
+      "totalAmount": "62.65"
+    },
+    "seller": {
+      "userId": 143644320,
+      "username": "voyagerv6",
+      "profile": "https://www.vinted.pl/member/143644320-voyagerv6",
+      "profilePicture": "https://images1.vinted.net/t/03_00cd8_8kaKAHUgv1oHRGU3pxUC2rJN/f800/1720970358.jpeg?s=51755382e3eb37499a213cbbcf5611f11c521bf5"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938138505,
+    "title": "Sweatshirt",
+    "url": "https://www.vinted.pl/items/4938138505-sweatshirt",
+    "image": "https://images1.vinted.net/tc/01_012ce_ZvrcnySZfgDdU7nFK6TerEQi/1724604223.jpeg?s=a5fa40aabebb692dcbf43473415f26b540ea963c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "56.85",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.54",
+      "totalAmount": "60.39"
+    },
+    "seller": {
+      "userId": 224784482,
+      "username": "hayatabbasjr",
+      "profile": "https://www.vinted.pl/member/224784482-hayatabbasjr",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4933098541,
+    "title": "Buty nike",
+    "url": "https://www.vinted.pl/items/4933098541-buty-nike",
+    "image": "https://images1.vinted.net/tc/02_014de_JPAWf7KaZq7v9G82hUTCtqM1/1724521915.jpeg?s=fc05ed17aecfbf1344f6d24e836c4baf0ad1362b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 218523390,
+      "username": "suzy1311",
+      "profile": "https://www.vinted.pl/member/218523390-suzy1311",
+      "profilePicture": "https://images1.vinted.net/t/01_00294_r4DJsSH9eT61TJEVX1xJ3ybw/f800/1721684264.jpeg?s=6524e701d8ba266bb8534f070608e06b4a6f058c"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938130025,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938130025-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/01_02676_F4pspnKP1F3CzG81PUzNAzQg/1724604158.jpeg?s=7ccb39879a649858db850cf7a607df751689ed30",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "18.95",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.65",
+      "totalAmount": "20.6"
+    },
+    "seller": {
+      "userId": 223117948,
+      "username": "philipv2006",
+      "profile": "https://www.vinted.pl/member/223117948-philipv2006",
+      "profilePicture": "https://images1.vinted.net/t/02_00288_zTKMjMC2v2hxnPQcVZEAbHtt/f800/1723933649.jpeg?s=35b43b35edbc1da14d7506256b8b330de1fef025"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938129475,
+    "title": "Adidas tank top",
+    "url": "https://www.vinted.pl/items/4938129475-adidas-tank-top",
+    "image": "https://images1.vinted.net/tc/02_019a9_2Kace1CYdpUKMgdHfg6kJDQa/1724604154.jpeg?s=73503bb728d06c08a856177de482629fed2a7aab",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "28.94",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.15",
+      "totalAmount": "31.09"
+    },
+    "seller": {
+      "userId": 198248307,
+      "username": "berner78",
+      "profile": "https://www.vinted.pl/member/198248307-berner78",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938126189,
+    "title": "Vita adidas",
+    "url": "https://www.vinted.pl/items/4938126189-vita-adidas",
+    "image": "https://images1.vinted.net/tc/01_0033d_N3Efg9Gd5AordpRDgDk5uZ27/1724604129.jpeg?s=a8ead93c6e236fab0538eb02b731efad33d216e4",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "40",
+    "price": {
+      "amount": "37.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.6",
+      "totalAmount": "40.5"
+    },
+    "seller": {
+      "userId": 224698177,
+      "username": "trillingmorsan",
+      "profile": "https://www.vinted.pl/member/224698177-trillingmorsan",
+      "profilePicture": "https://images1.vinted.net/t/02_001a8_xqe4KxGCXGmY2oUhXUVy4ufY/f800/1724570235.jpeg?s=7b6ed39bf72e65bb726a00ecda0951380dc57d87"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938126030,
+    "title": "Nadrág",
+    "url": "https://www.vinted.pl/items/4938126030-nadrag",
+    "image": "https://images1.vinted.net/tc/02_01a4a_baGveTDHFMdj7qRYMebQpKnB/1724604127.jpeg?s=c63b36211c17a4499d6c316190bbee00d31a44d8",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "49.44",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.17",
+      "totalAmount": "52.61"
+    },
+    "seller": {
+      "userId": 131534737,
+      "username": "h.martina66",
+      "profile": "https://www.vinted.pl/member/131534737-hmartina66",
+      "profilePicture": "https://images1.vinted.net/t/01_01a5a_G4egtws6wyT4Ay4fJUhDAeDD/f800/1681748446.jpeg?s=225029c6e7a99a479965438647bb8136b142f398"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938124242,
+    "title": "Bluza Nike S",
+    "url": "https://www.vinted.pl/items/4938124242-bluza-nike-s",
+    "image": "https://images1.vinted.net/tc/01_00ccd_x6ruhiPoNJXj6bp1hHyeyv58/1724604114.jpeg?s=4d3764ac3e6c70485dfe652ba2c7f9c593b98a15",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 91482196,
+      "username": "roxy2727",
+      "profile": "https://www.vinted.pl/member/91482196-roxy2727",
+      "profilePicture": "https://images1.vinted.net/t/02_01b86_hdjiKBuu6PazFNKyZ656jswY/f800/1695581153.jpeg?s=931c662110864c01e7d29949ad010d545bbae4fe"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938123428,
+    "title": "Alb simplu",
+    "url": "https://www.vinted.pl/items/4938123428-alb-simplu",
+    "image": "https://images1.vinted.net/tc/02_0051b_pysArfLMZX5yEbFEPsQqmiPN/1724604108.jpeg?s=6a72f04b7e5b9708409904a8800874e33de3a7ff",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 224703656,
+      "username": "andrasorea24",
+      "profile": "https://www.vinted.pl/member/224703656-andrasorea24",
+      "profilePicture": "https://images1.vinted.net/t/02_01ec5_fcpdeaRAk7vGuZW8FNeGonAM/f800/1724572620.jpeg?s=656915c9cf262bbe0dda112fe28b9e9cf30e84c6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938120787,
+    "title": "Adidas tjocktröja",
+    "url": "https://www.vinted.pl/items/4938120787-adidas-tjocktroja",
+    "image": "https://images1.vinted.net/tc/01_00691_dgSwD1mLhoB3P24WLjW3jziz/1724604088.jpeg?s=f9df4d50fd7ec7466f4b9283a273d6b3404b7e40",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "37.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.6",
+      "totalAmount": "40.5"
+    },
+    "seller": {
+      "userId": 120623649,
+      "username": "amandak94",
+      "profile": "https://www.vinted.pl/member/120623649-amandak94",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938118409,
+    "title": "Snygg Nikekeps",
+    "url": "https://www.vinted.pl/items/4938118409-snygg-nikekeps",
+    "image": "https://images1.vinted.net/tc/01_00001_wzD9QaB2tgiWrRPYeqo5m1uL/1724604069.jpeg?s=9ddb37697455b404dc766715b47dfd5f74148919",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": "22.74",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.84",
+      "totalAmount": "24.58"
+    },
+    "seller": {
+      "userId": 118956433,
+      "username": "pillasshopping",
+      "profile": "https://www.vinted.pl/member/118956433-pillasshopping",
+      "profilePicture": "https://images1.vinted.net/t/02_01e35_W4Wdfp3ZAERypWmMMotcPLvc/f800/1668122142.jpeg?s=0a8dfb4f951b8ea87d3af27fdb0d82933f1efd53"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938118030,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938118030-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/01_017f7_TwTM1cgrFU1jY3ojcck1forv/1724604066.jpeg?s=aaca955102430c2bdcf4a2b3feef1c914cb2b313",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "30.32",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.22",
+      "totalAmount": "32.54"
+    },
+    "seller": {
+      "userId": 198896074,
+      "username": "nhamc",
+      "profile": "https://www.vinted.pl/member/198896074-nhamc",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938117426,
+    "title": "Koszulka męska Adidas L",
+    "url": "https://www.vinted.pl/items/4938117426-koszulka-meska-adidas-l",
+    "image": "https://images1.vinted.net/tc/02_003b6_fuWHi6VkTMrxbhV9Pz5gxGRi/1724604062.jpeg?s=1e50f590ab9fe88f16eb98330a680c849c5d3a61",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 91422045,
+      "username": "jagienka1916",
+      "profile": "https://www.vinted.pl/member/91422045-jagienka1916",
+      "profilePicture": "https://images1.vinted.net/t/01_00b51_Ajcv2N2C6rbW1jZA44eD5UNb/f800/1652815113.jpeg?s=dcba2e4c854ef2bea9802fcd1353120180e86114"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938114112,
+    "title": "Bluza Nike trening siłownia",
+    "url": "https://www.vinted.pl/items/4938114112-bluza-nike-trening-silownia",
+    "image": "https://images1.vinted.net/tc/01_00ced_X2akUVEZ2ZLDuKa5R8L32oFC/1724604037.jpeg?s=7bf47e9f326ce3c4b55b2fc1d3861cc01766f2b4",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 91085654,
+      "username": "maksymilian8",
+      "profile": "https://www.vinted.pl/member/91085654-maksymilian8",
+      "profilePicture": "https://images1.vinted.net/t/03_00451_x1PjPRZBmdfeAog1LvzPetE5/f800/1724453359.jpeg?s=5cbde0450fc0f439f2f5b4ab90314d12de03bd39"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938113577,
+    "title": "Adidas férfi melegítő",
+    "url": "https://www.vinted.pl/items/4938113577-adidas-ferfi-melegito",
+    "image": "https://images1.vinted.net/tc/02_0073a_ACx8TzsWuFHXTR3Tu6Xb1XSZ/1724604033.jpeg?s=30cbdc95cd355085d9bd7e0b01056865f58266e3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "27.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.54"
+    },
+    "seller": {
+      "userId": 167112732,
+      "username": "renatoakaroly",
+      "profile": "https://www.vinted.pl/member/167112732-renatoakaroly",
+      "profilePicture": "https://images1.vinted.net/t/01_007f0_vbGsSxHmF7XBex185wzNjn4r/f800/1715099119.jpeg?s=c66f846e704e2ce615b286ca23d8fcf63b509ce3"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938113135,
+    "title": "kurtka granatowa / czarna vintage baggy nike",
+    "url": "https://www.vinted.pl/items/4938113135-kurtka-granatowa-czarna-vintage-baggy-nike",
+    "image": "https://images1.vinted.net/tc/02_00713_BovwhyHzN3tnJgfoXe3TmoFg/1724604029.jpeg?s=9c5f19bc710737029096678cddd65debbd42c43f",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "15.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.45",
+      "totalAmount": "16.45"
+    },
+    "seller": {
+      "userId": 216825510,
+      "username": "revversee",
+      "profile": "https://www.vinted.pl/member/216825510-revversee",
+      "profilePicture": "https://images1.vinted.net/t/02_00143_8Di8DpgcU3gL9UFvdDgQYXPf/f800/1722153966.jpeg?s=cfba10e041fbf32f06f9e368555b60c22e443b82"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938112757,
+    "title": "Halówki adidas",
+    "url": "https://www.vinted.pl/items/4938112757-halowki-adidas",
+    "image": "https://images1.vinted.net/tc/03_0234e_yndtngMbtqofzkHYsnSFpz22/1724604026.jpeg?s=30c783ccf8edc3aa5a9075ec4fb8250a2efea1aa",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "40",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 91268997,
+      "username": "patrycja15051505",
+      "profile": "https://www.vinted.pl/member/91268997-patrycja15051505",
+      "profilePicture": "https://images1.vinted.net/t/01_01ba7_XwTNKz8t6nb6fV1gLkzenDNx/f800/1652970875.jpeg?s=a90edcb8afd1c9056e4ec71f4b03f937fbee8348"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938111707,
+    "title": "Nike Shirt",
+    "url": "https://www.vinted.pl/items/4938111707-nike-shirt",
+    "image": "https://images1.vinted.net/tc/03_007f1_8pYrBHBHFruo6jmVPsR12Vbh/1724604018.jpeg?s=ef216a45fed5671c1dd4e9625abc7d67658d3f49",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": "53.8",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.39",
+      "totalAmount": "57.19"
+    },
+    "seller": {
+      "userId": 176338466,
+      "username": "beatricee207",
+      "profile": "https://www.vinted.pl/member/176338466-beatricee207",
+      "profilePicture": "https://images1.vinted.net/t/03_01e0a_wnEpMR2kyKEXo2KNSuF2YQn1/f800/1724496860.jpeg?s=c04a24c13eeb38a0d764f9108f881b85a3c597c4"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938108975,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938108975-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/03_01862_vQzjDFhucvXYPq9vSYyK2PS5/1724603998.jpeg?s=d8e1106cdf60a130bd95fb9e4d435f0c49065174",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "38.87",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.64",
+      "totalAmount": "41.51"
+    },
+    "seller": {
+      "userId": 213548861,
+      "username": "mademoiselle_tj",
+      "profile": "https://www.vinted.pl/member/213548861-mademoiselletj",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938108342,
+    "title": "Spodnie dresowe Nike S",
+    "url": "https://www.vinted.pl/items/4938108342-spodnie-dresowe-nike-s",
+    "image": "https://images1.vinted.net/tc/02_019ea_3qQW4dYoYmBWtva8GQ5fjKy6/1724603993.jpeg?s=3a14f594466598f41ef08f18ebe7d19c653ddaff",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 215860062,
+      "username": "dorotaddw",
+      "profile": "https://www.vinted.pl/member/215860062-dorotaddw",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938103408,
+    "title": "Spodenki Nike",
+    "url": "https://www.vinted.pl/items/4938103408-spodenki-nike",
+    "image": "https://images1.vinted.net/tc/03_01b19_r7Nnifx8tAzurYRYiL85rCwz/1724603955.jpeg?s=79bcf378846102e34f5f8edfdaefcae7fb360802",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 134291114,
+      "username": "bradek_777",
+      "profile": "https://www.vinted.pl/member/134291114-bradek777",
+      "profilePicture": "https://images1.vinted.net/t/03_00533_KjtYwpDBgeQfNBH5v7deU1kg/f800/1698348947.jpeg?s=89861b19441a2d58e05e6d1c07c527491133a63a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938101537,
+    "title": "Mikyna, zn. Adidas",
+    "url": "https://www.vinted.pl/items/4938101537-mikyna-zn-adidas",
+    "image": "https://images1.vinted.net/tc/01_00d67_sAJ8WEP1FqBvfXF9PiiHdVfb/1724603941.jpeg?s=0a6bdeeebcc364f5f94dcfe13abd1f38b121763e",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "XXL",
+    "price": {
+      "amount": "22.41",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.82",
+      "totalAmount": "24.23"
+    },
+    "seller": {
+      "userId": 83662788,
+      "username": "ls21971",
+      "profile": "https://www.vinted.pl/member/83662788-ls21971",
+      "profilePicture": "https://images1.vinted.net/t/03_001f7_ZNdx52ZDa8Fg6JyBqg74xCJ4/f800/1705913936.jpeg?s=2205bb5e7279baa1415ec6d220da83f47f313b07"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938066956,
+    "title": "bluza adidas",
+    "url": "https://www.vinted.pl/items/4938066956-bluza-adidas",
+    "image": "https://images1.vinted.net/tc/03_01023_heagdsDQV15VNriSAPdEaSTv/1724603681.jpeg?s=e1c7e88157a0a03137cbaddc3473c14e75cf582e",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "15.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.45",
+      "totalAmount": "16.45"
+    },
+    "seller": {
+      "userId": 92172775,
+      "username": "cheetosss",
+      "profile": "https://www.vinted.pl/member/92172775-cheetosss",
+      "profilePicture": "https://images1.vinted.net/t/03_0056a_J3c5T1dfEjd3pgErCkrTBLzy/f800/1652953950.jpeg?s=389c81060cea3f348b1043a816c8907a5cf94df1"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938100778,
+    "title": "Męska bluza z kapturem",
+    "url": "https://www.vinted.pl/items/4938100778-meska-bluza-z-kapturem",
+    "image": "https://images1.vinted.net/tc/02_00373_q7rVW91zJethAcJWA3kMV629/1724603935.jpeg?s=2c506d1e0c051f232d5e88c1d8e187d2e8160dc7",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 131429226,
+      "username": "szymon2738",
+      "profile": "https://www.vinted.pl/member/131429226-szymon2738",
+      "profilePicture": "https://images1.vinted.net/t/01_00375_rFBtdd49AydcyifjXzvkjT2H/f800/1716982197.jpeg?s=0843f94dcf95dfca322c3f00aabc88ce8deccdbf"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938099372,
+    "title": "Jersey adidas koszulka tshirt",
+    "url": "https://www.vinted.pl/items/4938099372-jersey-adidas-koszulka-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01d8e_VKQVakvNqcActhRvXHxhQmUa/1724603925.jpeg?s=e8aa12cf125e5e4bed191140a5c562fa1268a023",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938099860,
+    "title": "Tricou bărbați",
+    "url": "https://www.vinted.pl/items/4938099860-tricou-barbati",
+    "image": "https://images1.vinted.net/tc/02_01d43_KZ8HCdkeBiqz12sjPLSUS7t9/1724603929.jpeg?s=841bceb748b42fa2b56833b23c5a51938132c0fa",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 224703656,
+      "username": "andrasorea24",
+      "profile": "https://www.vinted.pl/member/224703656-andrasorea24",
+      "profilePicture": "https://images1.vinted.net/t/02_01ec5_fcpdeaRAk7vGuZW8FNeGonAM/f800/1724572620.jpeg?s=656915c9cf262bbe0dda112fe28b9e9cf30e84c6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938098339,
+    "title": "Nike Dri-Fit Shorts",
+    "url": "https://www.vinted.pl/items/4938098339-nike-dri-fit-shorts",
+    "image": "https://images1.vinted.net/tc/02_000a6_buLg29WUsvgUKcMoQt7dFu5H/1724603918.jpeg?s=2c6eb9351d1a91ece5557cf2ae9dacd54bccf345",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "11.37",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.27",
+      "totalAmount": "12.64"
+    },
+    "seller": {
+      "userId": 222733541,
+      "username": "lastbuy",
+      "profile": "https://www.vinted.pl/member/222733541-lastbuy",
+      "profilePicture": "https://images1.vinted.net/t/03_0048d_7Nzr96gZ6dXWr5Ph3vcA48gS/f800/1724587972.jpeg?s=484ef5916801c6c853ffab3cba3ec5883111d001"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938098074,
+    "title": "Bluzka damska",
+    "url": "https://www.vinted.pl/items/4938098074-bluzka-damska",
+    "image": "https://images1.vinted.net/tc/01_01a58_1nXKMfHuBFPScjvm4MWMagVA/1724603915.jpeg?s=29541ba027055f351d0b50ead81848f94c0e2c7c",
+    "promoted": true,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "20.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.7",
+      "totalAmount": "21.7"
+    },
+    "seller": {
+      "userId": 107340411,
+      "username": "kasia9824",
+      "profile": "https://www.vinted.pl/member/107340411-kasia9824",
+      "profilePicture": "https://images1.vinted.net/t/03_00ff2_TvKptyNerGup3vKKagkEKCTP/f800/1662732830.jpeg?s=053636ba64780c65f0c3e5ed7624f01d09c9f5f6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938096628,
+    "title": "Tricou sintetic nike",
+    "url": "https://www.vinted.pl/items/4938096628-tricou-sintetic-nike",
+    "image": "https://images1.vinted.net/tc/03_00f90_FSFRQLZzmiPq6L6k2jEssEtH/1724603904.jpeg?s=adcad57636b92cc5020036ffed8cafbd5648d5f0",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "39.05",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.65",
+      "totalAmount": "41.7"
+    },
+    "seller": {
+      "userId": 222483523,
+      "username": "mihnea2512",
+      "profile": "https://www.vinted.pl/member/222483523-mihnea2512",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938093184,
+    "title": "Adidas férfi pulóver",
+    "url": "https://www.vinted.pl/items/4938093184-adidas-ferfi-pulover",
+    "image": "https://images1.vinted.net/tc/03_00f2e_GB9cXXUoxQnVpQGXpuk4Mk9g/1724603878.jpeg?s=2830f114c299a679a940d8d1b3018b5339a28e96",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "27.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.54"
+    },
+    "seller": {
+      "userId": 167112732,
+      "username": "renatoakaroly",
+      "profile": "https://www.vinted.pl/member/167112732-renatoakaroly",
+      "profilePicture": "https://images1.vinted.net/t/01_007f0_vbGsSxHmF7XBex185wzNjn4r/f800/1715099119.jpeg?s=c66f846e704e2ce615b286ca23d8fcf63b509ce3"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938090899,
+    "title": "Hanorac Nike",
+    "url": "https://www.vinted.pl/items/4938090899-hanorac-nike",
+    "image": "https://images1.vinted.net/tc/01_0134f_GRsBLdN4qFvWrT7QeKWTcjPb/1724603860.jpeg?s=3f403b31250228d22b6d6cd272929b2469636f4a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 191843909,
+      "username": "vik754677",
+      "profile": "https://www.vinted.pl/member/191843909-vik754677",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938091017,
+    "title": "Korki do piłki nożnej",
+    "url": "https://www.vinted.pl/items/4938091017-korki-do-pilki-noznej",
+    "image": "https://images1.vinted.net/tc/01_00bf0_b9cisg6VSKbdjo8D8vsLGR8Y/1724603861.jpeg?s=ca84a5edffbfe36d429fe43a69f2639cdd058d34",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38",
+    "price": {
+      "amount": "40.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.7",
+      "totalAmount": "42.7"
+    },
+    "seller": {
+      "userId": 219573279,
+      "username": "jvlkaaa55",
+      "profile": "https://www.vinted.pl/member/219573279-jvlkaaa55",
+      "profilePicture": "https://images1.vinted.net/t/02_02024_jc79aFdCvTxhkQ8X3Egvb4yY/f800/1722246983.jpeg?s=b7ca055bb94bc63e049fb7d77612bd650fae0b35"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938088860,
+    "title": "adidas kraťase",
+    "url": "https://www.vinted.pl/items/4938088860-adidas-kratase",
+    "image": "https://images1.vinted.net/tc/03_00653_6pNaRinwELQkDj8ZJTpJWsvi/1724603845.jpeg?s=c95b7d15dbd1748c2121bd2a8947cff696cb0113",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "13.62",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.38",
+      "totalAmount": "15.0"
+    },
+    "seller": {
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938084666,
+    "title": "Spodenki krotkie męskie Adidas rozmiar 3XL stan idealny",
+    "url": "https://www.vinted.pl/items/4938084666-spodenki-krotkie-meskie-adidas-rozmiar-3xl-stan-idealny",
+    "image": "https://images1.vinted.net/tc/03_008d2_xtBgziAukzw6JrxDKoNMe6pB/1724604276.jpeg?s=a89a1ec33b2a9b9f88aa070eab8f3221935026ea",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XXXL",
+    "price": {
+      "amount": "48.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.1",
+      "totalAmount": "51.1"
+    },
+    "seller": {
+      "userId": 117506953,
+      "username": "reniusia1975",
+      "profile": "https://www.vinted.pl/member/117506953-reniusia1975",
+      "profilePicture": "https://images1.vinted.net/t/01_006bd_YMD5VpGr8e4LokHJKgYq7pWQ/f800/1682979696.jpeg?s=480988382da91ed8c1d5370a96bc49e153e9ad8a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938083735,
+    "title": "Koszulka Adidas Juventus",
+    "url": "https://www.vinted.pl/items/4938083735-koszulka-adidas-juventus",
+    "image": "https://images1.vinted.net/tc/01_021ee_nP5vBQGNV4C6dKRXJgGqY2ai/1724603807.jpeg?s=c4bba7d3e555c50a19ea357e7fce8885924a7bfe",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "15.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.45",
+      "totalAmount": "16.45"
+    },
+    "seller": {
+      "userId": 171286296,
+      "username": "tomek001023",
+      "profile": "https://www.vinted.pl/member/171286296-tomek001023",
+      "profilePicture": "https://images1.vinted.net/t/03_00fb9_NyDQqCN3P4QQWERfVN8TaqGt/f800/1707677054.jpeg?s=f5d94b89e45bb68f691d02f8c8bbbc8757c4c02d"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938082505,
+    "title": "Koszulka vixapol nike trening siłownia Nike",
+    "url": "https://www.vinted.pl/items/4938082505-koszulka-vixapol-nike-trening-silownia-nike",
+    "image": "https://images1.vinted.net/tc/03_00052_tmTw7k8nBKg29bXtfdG35mB8/1724603798.jpeg?s=cae2cdf3c2cb5a53f6b3cd3f3fc559111a477246",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
     "price": {
       "amount": "35.0",
       "currency": "PLN",
@@ -784,142 +1240,22 @@
       "totalAmount": "37.45"
     },
     "seller": {
-      "userId": 188503959,
-      "username": "lunalaluna123",
-      "profile": "https://www.vinted.pl/member/188503959-lunalaluna123",
-      "profilePicture": "https://images1.vinted.net/t/01_00fc1_JM36goqhybfGDGPaTDLXcU54/f800/1708275720.jpeg?s=1f5ac8399bef905c5a8c73479809bb102f790421"
+      "userId": 91085654,
+      "username": "maksymilian8",
+      "profile": "https://www.vinted.pl/member/91085654-maksymilian8",
+      "profilePicture": "https://images1.vinted.net/t/03_00451_x1PjPRZBmdfeAog1LvzPetE5/f800/1724453359.jpeg?s=5cbde0450fc0f439f2f5b4ab90314d12de03bd39"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820514567,
-    "title": "Ralph Lauren Checkered Polo Jeans Red Blue Medium Shirt Cotton",
-    "url": "https://www.vinted.pl/items/4820514567-ralph-lauren-checkered-polo-jeans-red-blue-medium-shirt-cotton",
-    "image": "https://images1.vinted.net/tc/01_00319_UecRfgnU6riSFGJDXJnAmDp7/1722190008.jpeg?s=6d8eb688966c36fecd9a6903c329f8450b1c0c3a",
+    "productId": 4938082025,
+    "title": "Buty adidas",
+    "url": "https://www.vinted.pl/items/4938082025-buty-adidas",
+    "image": "https://images1.vinted.net/tc/01_01d51_KJzMtJLWYR2J91c9kxr78Nfm/1724603794.jpeg?s=82dc3b7dc2692878bc8fff1e773ff783826d1664",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "149.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.15",
-      "totalAmount": "157.15"
-    },
-    "seller": {
-      "userId": 211124475,
-      "username": "cheapstuffstore",
-      "profile": "https://www.vinted.pl/member/211124475-cheapstuffstore",
-      "profilePicture": "https://images1.vinted.net/t/01_02008_oiXCdgDRrxzJ45UTpj2wkiGY/f800/1721929990.jpeg?s=b11fae28db8a31f27ca537bc07396e32cfb71fe5"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820504411,
-    "title": "polo ralph lauren 1/4 half zip sweater sweter",
-    "url": "https://www.vinted.pl/items/4820504411-polo-ralph-lauren-14-half-zip-sweater-sweter",
-    "image": "https://images1.vinted.net/tc/02_02069_d1eBLAtjTXbGrvSqiRbtoabV/1722189880.jpeg?s=2d8f73f65b741b2ae150b46f77f33da75a30ca12",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "140.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.7",
-      "totalAmount": "147.7"
-    },
-    "seller": {
-      "userId": 129266372,
-      "username": "cunadexe",
-      "profile": "https://www.vinted.pl/member/129266372-cunadexe",
-      "profilePicture": "https://images1.vinted.net/t/01_00ece_ggJL9ixpgiBueHLnaKozoB3A/f800/1674289857.jpeg?s=2c896ece502c18939b58af94c9fb893d31090f17"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820499842,
-    "title": "Sweter Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820499842-sweter-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_01abc_22FdsABKRd59KerGUuB2paVv/1722189824.jpeg?s=964e66f232577e7183db54fd9995dade9e167ac6",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "30.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.2",
-      "totalAmount": "32.2"
-    },
-    "seller": {
-      "userId": 181867163,
-      "username": "yez32",
-      "profile": "https://www.vinted.pl/member/181867163-yez32",
-      "profilePicture": "https://images1.vinted.net/t/01_00370_u9H2tt8pGsN3tr78CbeqJpCv/f800/1720475034.jpeg?s=9acb9e7cc52f8c05e549223fc01935bd22557c38"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820495985,
-    "title": "Ralph Lauren, Blazer",
-    "url": "https://www.vinted.pl/items/4820495985-ralph-lauren-blazer",
-    "image": "https://images1.vinted.net/tc/02_011fe_FwVxv4S3dBB5gnC2mMT5x9vH/1722189776.jpeg?s=c3c6b9ce762b96440ad31874162d004c069fb362",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "260.59",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.73",
-      "totalAmount": "274.32"
-    },
-    "seller": {
-      "userId": 217781063,
-      "username": "oscariversen",
-      "profile": "https://www.vinted.pl/member/217781063-oscariversen",
-      "profilePicture": "https://images1.vinted.net/t/01_01c9c_1gNMpNSSdd2EPh9SzkUqsRLg/f800/1721994896.jpeg?s=11b5e343bb59097a23052d898cff402e1f49ccdd"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820029387,
-    "title": "Piękny błękitny longsleve Polo Ralph Lauren z haftowanym konikiem rozmiar L oldmoney",
-    "url": "https://www.vinted.pl/items/4820029387-piekny-blekitny-longsleve-polo-ralph-lauren-z-haftowanym-konikiem-rozmiar-l-oldmoney",
-    "image": "https://images1.vinted.net/tc/02_02175_xUQ11cp4b5yv9cNg2RmXU3JX/1722184443.jpeg?s=7e53803c7faba99cab1972f6cac3d8f1b11c6fec",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "119.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.7",
-      "totalAmount": "126.69"
-    },
-    "seller": {
-      "userId": 178527692,
-      "username": "kolorowa_szafa1",
-      "profile": "https://www.vinted.pl/member/178527692-kolorowaszafa1",
-      "profilePicture": "https://images1.vinted.net/t/03_00dc1_PdUYSYY4Y7kcXC7Zvq2kTbuh/f800/1703165522.jpeg?s=fbd0e0237833312801921d04ace70534245678c6"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820480997,
-    "title": "Koszula Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820480997-koszula-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_00a44_JMPEmi3RA2vvMySsfuc7qzCr/1722189594.jpeg?s=2ec6ea022d273d50556476cbfdca1c16789847e2",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
+    "brand": "adidas",
+    "size": "38",
     "price": {
       "amount": "50.0",
       "currency": "PLN",
@@ -928,405 +1264,69 @@
       "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 205795955,
-      "username": "bratew",
-      "profile": "https://www.vinted.pl/member/205795955-bratew",
-      "profilePicture": "https://images1.vinted.net/t/02_0178d_gfS33arbnzopFm82JbSm8syN/f800/1715980379.jpeg?s=0a1e0df2eb3d779715dd351491c8eb41d842bab2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820479954,
-    "title": "Koszulka polo Ralph Lauren L",
-    "url": "https://www.vinted.pl/items/4820479954-koszulka-polo-ralph-lauren-l",
-    "image": "https://images1.vinted.net/tc/02_01f16_BEkHLGw2HKLVeehtjVqchHzB/1722189582.jpeg?s=0c7ed37c1ce3d65939115fa80f83f578cb711df4",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "45.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.95",
-      "totalAmount": "47.95"
-    },
-    "seller": {
-      "userId": 180430739,
-      "username": "leonroxi29",
-      "profile": "https://www.vinted.pl/member/180430739-leonroxi29",
-      "profilePicture": "https://images1.vinted.net/t/01_013d8_rqWeCUraJNHh9ZxsenW3QufJ/f800/1709675863.jpeg?s=0789bd1694cf305b3348c5ad18d86bde7d4c3c1e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820469231,
-    "title": "Koszulka z długim rękawem Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820469231-koszulka-z-dlugim-rekawem-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_00ac1_Sq7AftbvXjPNMEaveGA2pUC4/1722189452.jpeg?s=428b34c77a6a751e208da89e6b6477be19a2cb3a",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "20.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.7",
-      "totalAmount": "21.7"
-    },
-    "seller": {
-      "userId": 92006370,
-      "username": "dariaprzygodzka",
-      "profile": "https://www.vinted.pl/member/92006370-dariaprzygodzka",
-      "profilePicture": "https://images1.vinted.net/t/02_01a2f_MEVYnxictnjomr8h7e2Mtsqs/f800/1652903899.jpeg?s=13188d281d7f68eba2d05e6c0a0cec170ce9dd28"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820020364,
-    "title": "Koszula Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820020364-koszula-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_01010_YHjddyiyNj6ygNx6z53cFy8Z/1722184349.jpeg?s=4734b0775e074d976d43d7f9adc02b5476e73743",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "69.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.15",
-      "totalAmount": "73.15"
-    },
-    "seller": {
-      "userId": 97015022,
-      "username": "paulista93",
-      "profile": "https://www.vinted.pl/member/97015022-paulista93",
-      "profilePicture": "https://images1.vinted.net/t/02_01757_x835cCHvkNv176WdVn2MSJjy/f800/1655270484.jpeg?s=87d22059550e4c84034cf35a39d6738912900c39"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820460935,
-    "title": "Garniturowe eleganckie spodnie Polo Ralph Lauren r. 44 slim fit 100% wełna wool",
-    "url": "https://www.vinted.pl/items/4820460935-garniturowe-eleganckie-spodnie-polo-ralph-lauren-r-44-slim-fit-100-welna-wool",
-    "image": "https://images1.vinted.net/tc/01_0236a_EJD4eadLzPqbpibA79twd3qg/1722189352.jpeg?s=d2e8bcf152f5c593fff3e0c86eadbd659e193d8c",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "60 | W44",
-    "price": {
-      "amount": "95.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.45",
-      "totalAmount": "100.45"
-    },
-    "seller": {
-      "userId": 113742694,
-      "username": "robercikkk",
-      "profile": "https://www.vinted.pl/member/113742694-robercikkk",
-      "profilePicture": "https://images1.vinted.net/t/01_0175d_mXsFyTFKd12XyFFzwbjTh8m5/f800/1665558494.jpeg?s=900bcea8b881249f74ae41bcccfc9477ee316216"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820459410,
-    "title": "Portfel skórzany Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820459410-portfel-skorzany-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_024c0_9xKR8YunGdvHtLXg8QaGWQ2D/1722189420.jpeg?s=3fee511b172208d6d0a50e5c12725582f9ee03e0",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Ralph Lauren",
-    "size": null,
-    "price": {
-      "amount": "280.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.7",
-      "totalAmount": "294.7"
-    },
-    "seller": {
-      "userId": 93161846,
-      "username": "jkowalski99",
-      "profile": "https://www.vinted.pl/member/93161846-jkowalski99",
-      "profilePicture": "https://images1.vinted.net/t/02_012e5_SVEerNxhUembj9kBWUHLpYdV/f800/1653296788.jpeg?s=adb7eb573da3fa6a27c89896ea73b9f4373b899e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820459357,
-    "title": "Sweter Ralph Laurent",
-    "url": "https://www.vinted.pl/items/4820459357-sweter-ralph-laurent",
-    "image": "https://images1.vinted.net/tc/01_005e6_jmhaGytwpMEWa4XVh4Kk63bN/1722189333.jpeg?s=86987b27bcdb5d7701278bce4b258d2db1870d88",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "68.8",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.14",
-      "totalAmount": "72.94"
-    },
-    "seller": {
-      "userId": 158658804,
-      "username": "yano10c41",
-      "profile": "https://www.vinted.pl/member/158658804-yano10c41",
-      "profilePicture": "https://images1.vinted.net/t/01_01e48_ju5QM2qf1HD2eCPRWTE6d4ta/f800/1722105967.jpeg?s=30edc21488ff084c6a647a4f8b37414efe9f6b9a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820010620,
-    "title": "Nowa z metką bluza Ralph Lauren L",
-    "url": "https://www.vinted.pl/items/4820010620-nowa-z-metka-bluza-ralph-lauren-l",
-    "image": "https://images1.vinted.net/tc/01_00226_2fy79eRqxQKGyRBkBPns5uwx/1722184244.jpeg?s=a5151ecad648f64f50a83cda88f028f0a5f24fa5",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "230.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.2",
-      "totalAmount": "242.2"
-    },
-    "seller": {
-      "userId": 163659074,
-      "username": "kamil_olechowski",
-      "profile": "https://www.vinted.pl/member/163659074-kamilolechowski",
+      "userId": 216766789,
+      "username": "1111beti",
+      "profile": "https://www.vinted.pl/member/216766789-1111beti",
       "profilePicture": null
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820456424,
-    "title": "Polo Ralph Lauren fekete férfi, bőr cipő 43",
-    "url": "https://www.vinted.pl/items/4820456424-polo-ralph-lauren-fekete-ferfi-bor-cipo-43",
-    "image": "https://images1.vinted.net/tc/03_00d34_TELLWBPKHFdN1E8SUjZmwjf4/1722189299.jpeg?s=853b164704732a1173ac0b22b69cd56b5fddc3ca",
+    "productId": 4938081123,
+    "title": "Koszulka adidas Vintage liverpool polo tshirt",
+    "url": "https://www.vinted.pl/items/4938081123-koszulka-adidas-vintage-liverpool-polo-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01876_fVzKRxfkiRjziiL7MkjG6Nww/1724603788.jpeg?s=4f772fbca61716045dae5f68be385ab093d905e2",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938080655,
+    "title": "Bluza Nike z kapturem",
+    "url": "https://www.vinted.pl/items/4938080655-bluza-nike-z-kapturem",
+    "image": "https://images1.vinted.net/tc/03_0063e_YmQS5Ncn9ugGDHDjZ1xexmLQ/1724603784.jpeg?s=5a1e099a0847b6cbda5ff5abe6fa4cf03b2be84c",
     "promoted": false,
     "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "43",
-    "price": {
-      "amount": "94.04",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.4",
-      "totalAmount": "99.44"
-    },
-    "seller": {
-      "userId": 147979778,
-      "username": "moti70",
-      "profile": "https://www.vinted.pl/member/147979778-moti70",
-      "profilePicture": "https://images1.vinted.net/t/03_00838_M3R4xNz79xyVMYLhTJrADgks/f800/1685986524.jpeg?s=d932794503fb7243e079314c49fee33316b52eb8"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820456509,
-    "title": "Spodenki",
-    "url": "https://www.vinted.pl/items/4820456509-spodenki",
-    "image": "https://images1.vinted.net/tc/01_00c41_jVXCCEkxYTbjYGycvJQ7XxAD/1722189300.jpeg?s=aac696e049c44712bd33f393fe244a70080b3ff5",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "25.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.95",
-      "totalAmount": "26.95"
-    },
-    "seller": {
-      "userId": 218866095,
-      "username": "agnieszka0525",
-      "profile": "https://www.vinted.pl/member/218866095-agnieszka0525",
-      "profilePicture": "https://images1.vinted.net/t/03_01902_iSeia7Sp41RNvAr5vMg3XsEY/f800/1721848503.jpeg?s=ce66df0d0b17ef52413b179af7a16666c9570603"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820449877,
-    "title": "Czapka z daszkiem Polo Golf Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820449877-czapka-z-daszkiem-polo-golf-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_00588_wZMsamr6r6Zh4kuuVdfuoSSN/1722189218.jpeg?s=894f4e9f17d389c97dc0232112a9a0bfb3ebd7a7",
-    "promoted": false,
-    "favourites": 6,
-    "brand": "Ralph Lauren",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "34.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.45",
-      "totalAmount": "37.44"
-    },
-    "seller": {
-      "userId": 120935441,
-      "username": "loocaboy",
-      "profile": "https://www.vinted.pl/member/120935441-loocaboy",
-      "profilePicture": "https://images1.vinted.net/t/03_00516_7wZZZoRtTmd5LpZpE5mqywXq/f800/1698419467.jpeg?s=2749e8d402da47066ea6a00d84d9be9fc739ea91"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820439951,
-    "title": "Slipy Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820439951-slipy-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_01e53_PbsEjn2dUf9yjkBQDowxused/1722189097.jpeg?s=f49127b2bb610b7ac048db8e86f3bf743c32a473",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "102.23",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.81",
-      "totalAmount": "108.04"
-    },
-    "seller": {
-      "userId": 179416062,
-      "username": "chrismanio",
-      "profile": "https://www.vinted.pl/member/179416062-chrismanio",
-      "profilePicture": "https://images1.vinted.net/t/01_0032e_ocB99GngmZEs1ibdQxcWnHgG/f800/1703762135.jpeg?s=4805628b656b8233d8d6c82b929b7871182d445a"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820435813,
-    "title": "Czerwona bluza z kołnierzem polo ralph lauren rozmiar M",
-    "url": "https://www.vinted.pl/items/4820435813-czerwona-bluza-z-kolnierzem-polo-ralph-lauren-rozmiar-m",
-    "image": "https://images1.vinted.net/tc/02_019db_c3ABXWuEYGdf2BhX92Yfa3MD/1722189047.jpeg?s=911dd29cbd1ff8d81478c155c13e712e685c4fc7",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
+    "brand": "Nike",
     "size": "M",
     "price": {
-      "amount": "49.0",
+      "amount": "55.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.15",
-      "totalAmount": "52.15"
+      "fees": "3.45",
+      "totalAmount": "58.45"
     },
     "seller": {
-      "userId": 130968211,
-      "username": "krzysztof76027",
-      "profile": "https://www.vinted.pl/member/130968211-krzysztof76027",
-      "profilePicture": "https://images1.vinted.net/t/03_02419_PzHa1cnDVmJqtjq6t33V67KD/f800/1717861494.jpeg?s=6cdcdf3f99e9b8734b35646c306828c21d7f71bb"
+      "userId": 223170714,
+      "username": "damiann_11",
+      "profile": "https://www.vinted.pl/member/223170714-damiann11",
+      "profilePicture": "https://images1.vinted.net/t/01_004b4_C6m6sgQeqYwJ4ovEbH6hnTJr/f800/1723987071.jpeg?s=38b5c630a007d37009faeb233bc5063a24ce559b"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820432715,
-    "title": "Tricou Ralph Lauren M",
-    "url": "https://www.vinted.pl/items/4820432715-tricou-ralph-lauren-m",
-    "image": "https://images1.vinted.net/tc/02_0012f_G92f5aAK4RrZn9GZAr5EjVp8/1722189010.jpeg?s=281ffe529c0884ffeb67c6d9010da0bbb3c56e9b",
+    "productId": 4938080194,
+    "title": "Kurtka Nike softshell vintage",
+    "url": "https://www.vinted.pl/items/4938080194-kurtka-nike-softshell-vintage",
+    "image": "https://images1.vinted.net/tc/01_018b1_mg47yD3BWankiB7RuoFMZLQn/1724603781.jpeg?s=aeb88c3716f0d8826ab95a7cc99282648fe3839b",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "43.47",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.87",
-      "totalAmount": "46.34"
-    },
-    "seller": {
-      "userId": 197314334,
-      "username": "faby226",
-      "profile": "https://www.vinted.pl/member/197314334-faby226",
-      "profilePicture": "https://images1.vinted.net/t/02_01756_kbjW4VSPJnUdNECgjL8PCsRN/f800/1712399960.jpeg?s=f36097548ce090374d23f32d12bc3483446e01d4"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820428972,
-    "title": "Czarna bluza Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820428972-czarna-bluza-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_010fe_B4Dy5Nf8mKy9uuFCUfSd25jM/1722188964.jpeg?s=d0173edb5e4297665ed222eff67903690c8a43e5",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "120.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.7",
-      "totalAmount": "126.7"
-    },
-    "seller": {
-      "userId": 98986590,
-      "username": "wodaniegazowana2933",
-      "profile": "https://www.vinted.pl/member/98986590-wodaniegazowana2933",
-      "profilePicture": "https://images1.vinted.net/t/03_01ca8_ueSmtatuPJNTjDrZmky7FGhX/f800/1682157412.jpeg?s=d627b962f7a4e234d385552832655e1007878151"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4814569656,
-    "title": "Kurtka Stone Island🧊",
-    "url": "https://www.vinted.pl/items/4814569656-kurtka-stone-island",
-    "image": "https://images1.vinted.net/tc/03_01f38_fUVrRTZJdG1NjKpt12Xd4xYr/1722080069.jpeg?s=8e7481854b97640dd8c1fb8dad177a2d9e18c1cb",
-    "promoted": true,
-    "favourites": 7,
-    "brand": "Stone Island",
-    "size": "M",
-    "price": {
-      "amount": "239.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.65",
-      "totalAmount": "251.65"
-    },
-    "seller": {
-      "userId": 187996938,
-      "username": "rostiknicr",
-      "profile": "https://www.vinted.pl/member/187996938-rostiknicr",
-      "profilePicture": "https://images1.vinted.net/t/02_00899_rmSoU8QzeEmMvbY2qr2Dqufo/f800/1707954498.jpeg?s=2380625aa8ffb6edc598c69aa68268543b31ea3e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4819808045,
-    "title": "Sweter Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4819808045-sweter-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_00b2f_Nt6gwRG6WhMFQvx6b8RpHN7w/1722182110.jpeg?s=55d287eb3be779717ecf977d8d9aadf9943cecf9",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "25.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.95",
-      "totalAmount": "26.95"
-    },
-    "seller": {
-      "userId": 205795955,
-      "username": "bratew",
-      "profile": "https://www.vinted.pl/member/205795955-bratew",
-      "profilePicture": "https://images1.vinted.net/t/02_0178d_gfS33arbnzopFm82JbSm8syN/f800/1715980379.jpeg?s=0a1e0df2eb3d779715dd351491c8eb41d842bab2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820416637,
-    "title": "Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820416637-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_01e07_T9f2np8RhfFPBJrZ6CTvpoNp/1722188816.jpeg?s=71abcebd76a3264b6bd0f47834183956c5a55031",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
+    "brand": "Nike",
     "size": "M",
     "price": {
       "amount": "40.0",
@@ -1336,766 +1336,622 @@
       "totalAmount": "42.7"
     },
     "seller": {
-      "userId": 218274916,
-      "username": "1przyjdziesz23",
-      "profile": "https://www.vinted.pl/member/218274916-1przyjdziesz23",
-      "profilePicture": "https://images1.vinted.net/t/03_025e8_ACdQMAeVg5nE5Q1PzZiYx375/f800/1721570087.jpeg?s=7cbe44f3dff77dda37dc5a2939b4546c79419f31"
+      "userId": 97287582,
+      "username": "mikolajboks123",
+      "profile": "https://www.vinted.pl/member/97287582-mikolajboks123",
+      "profilePicture": "https://images1.vinted.net/t/02_00b7b_kp97nXGTr5gQS1ptHKBwXkNR/f800/1655454372.jpeg?s=6badb7544a6b779fbc4923cdd181cccbc8287754"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820415207,
-    "title": "Koszula męska  w kratkę Polo by Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820415207-koszula-meska-w-kratke-polo-by-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_01366_YrksUqQuYfZT3TLnEzx66S14/1722188799.jpeg?s=987660d634e54c2bdeb6b7c4b0107b80f1f27340",
+    "productId": 4938078331,
+    "title": "šusťáky",
+    "url": "https://www.vinted.pl/items/4938078331-sustaky",
+    "image": "https://images1.vinted.net/tc/03_01c2b_Si4jsztwUcmXr6Ts8FeTeZzt/1724603767.jpeg?s=3e0a0bce76c23a60ecae49a76746ff2db9464fab",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "13.62",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.38",
+      "totalAmount": "15.0"
+    },
+    "seller": {
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938078110,
+    "title": "Paris Saint Germain fotbollströja 2021",
+    "url": "https://www.vinted.pl/items/4938078110-paris-saint-germain-fotbollstroja-2021",
+    "image": "https://images1.vinted.net/tc/03_00129_Qh68ADBrUtKkahtR4KMaGG9y/1724603766.jpeg?s=1d93d39cc95a9f865db47a2fb6cfcbca8ad142c6",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "40",
+    "brand": "Nike",
+    "size": "XS",
     "price": {
-      "amount": "40.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
-    },
-    "seller": {
-      "userId": 90940259,
-      "username": "davidooo15",
-      "profile": "https://www.vinted.pl/member/90940259-davidooo15",
-      "profilePicture": "https://images1.vinted.net/t/02_02285_VJn3Ug9cbKiT9V9NDnU5a9EA/f800/1722165557.jpeg?s=12ca19e53e4ccaa9e13deebe05596622995f10a5"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820415130,
-    "title": "Granatowe Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820415130-granatowe-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_0063d_Tyuy8CcfL5P6dTB4WjFsDCsi/1722188798.jpeg?s=7eac1eed09f57d187b4fb394376bbac81ac6cda5",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "45.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.95",
-      "totalAmount": "47.95"
-    },
-    "seller": {
-      "userId": 154718165,
-      "username": "michal1x1",
-      "profile": "https://www.vinted.pl/member/154718165-michal1x1",
-      "profilePicture": "https://images1.vinted.net/t/02_00ebc_XWZMxqQ6XChMcax2wZvJqbDq/f800/1690831191.jpeg?s=63a3f66f2279ad92951b7f4b956e43a8837dc931"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820412423,
-    "title": "Ralph Lauren Hoodie",
-    "url": "https://www.vinted.pl/items/4820412423-ralph-lauren-hoodie",
-    "image": "https://images1.vinted.net/tc/03_01835_d6BqShn2ERedhv5dGGTNxsqL/1722188766.jpeg?s=7f80220cbb1af67398a1b0aa7a224d65d2c1cac2",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "165.74",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.99",
-      "totalAmount": "174.73"
-    },
-    "seller": {
-      "userId": 178814413,
-      "username": "adamemmoth",
-      "profile": "https://www.vinted.pl/member/178814413-adamemmoth",
-      "profilePicture": "https://images1.vinted.net/t/01_00996_M5VRfM6LgGn941WptoZT54YV/f800/1703359400.jpeg?s=659911da3d45cdec91ec0d6cb587b820cb1f9a22"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820410370,
-    "title": "Nowa koszula POLO Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820410370-nowa-koszula-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_005d6_Jvk5gZNfd7Ttxm9Y5eqasRs7/1722188741.jpeg?s=bf45279dcac7f49b46c46e2a612ec308df47d021",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.7",
-      "totalAmount": "210.7"
-    },
-    "seller": {
-      "userId": 90931695,
-      "username": "olele1",
-      "profile": "https://www.vinted.pl/member/90931695-olele1",
-      "profilePicture": "https://images1.vinted.net/t/02_010da_zoswnQoFL2eko9b3RosgWZYs/f800/1652778041.jpeg?s=e9f16d1696fd363e97854721c6d4df69eb064a2f"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820406810,
-    "title": "Ralph Lauren Chief Keef style polo, white",
-    "url": "https://www.vinted.pl/items/4820406810-ralph-lauren-chief-keef-style-polo-white",
-    "image": "https://images1.vinted.net/tc/01_01f03_45MGbSYCGmKeRobXyTjZY3Dt/1722188699.jpeg?s=d273a1632c5ff58c69d5351cf6da57748c4eb16f",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "143.83",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.89",
-      "totalAmount": "151.72"
-    },
-    "seller": {
-      "userId": 118082179,
-      "username": "janaviz",
-      "profile": "https://www.vinted.pl/member/118082179-janaviz",
-      "profilePicture": "https://images1.vinted.net/t/01_014e2_JBbuMcSrv1YqgSeDcoMGT9kJ/f800/1677702417.jpeg?s=0968c8379c92a9649e7998478d750d6a6441884e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4819770139,
-    "title": "Kamizelka Polo Golf Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4819770139-kamizelka-polo-golf-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_0111c_dD6qHddYaSsk1Pgf2cf4kpSy/1722181716.jpeg?s=5222526bb77661a7b3075263e537972ceb4d0afc",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "30.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.2",
-      "totalAmount": "32.2"
-    },
-    "seller": {
-      "userId": 205795955,
-      "username": "bratew",
-      "profile": "https://www.vinted.pl/member/205795955-bratew",
-      "profilePicture": "https://images1.vinted.net/t/02_0178d_gfS33arbnzopFm82JbSm8syN/f800/1715980379.jpeg?s=0a1e0df2eb3d779715dd351491c8eb41d842bab2"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820402149,
-    "title": "Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820402149-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_00aba_jxo5aw8R4vBM6qkB6QCGA2Jc/1722188642.jpeg?s=5859117341a10ebcccb4d3c5dcd48b94400954b3",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "45.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.95",
-      "totalAmount": "47.95"
-    },
-    "seller": {
-      "userId": 218274916,
-      "username": "1przyjdziesz23",
-      "profile": "https://www.vinted.pl/member/218274916-1przyjdziesz23",
-      "profilePicture": "https://images1.vinted.net/t/03_025e8_ACdQMAeVg5nE5Q1PzZiYx375/f800/1721570087.jpeg?s=7cbe44f3dff77dda37dc5a2939b4546c79419f31"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820395754,
-    "title": "Ralph Lauren polo",
-    "url": "https://www.vinted.pl/items/4820395754-ralph-lauren-polo",
-    "image": "https://images1.vinted.net/tc/02_00467_QCtSaSX8teMgALKJtNxMHq7V/1722188565.jpeg?s=67fb4881dec29afb45c391705f393812f818de65",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "45.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.95",
-      "totalAmount": "47.95"
-    },
-    "seller": {
-      "userId": 91264950,
-      "username": "tomi23",
-      "profile": "https://www.vinted.pl/member/91264950-tomi23",
-      "profilePicture": "https://images1.vinted.net/t/02_01883_PQ5rocEhzrpJbFqccHgyHcik/f800/1652803841.jpeg?s=6c16e4379e091298777aec9fc1009432cc702b9e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820393662,
-    "title": "Panska kosile RL",
-    "url": "https://www.vinted.pl/items/4820393662-panska-kosile-rl",
-    "image": "https://images1.vinted.net/tc/02_01ea2_VVBeCFmEtAC1ZiysvasUcBDc/1722188540.jpeg?s=ae0a7cbf1f8975bbdb42ccc4a9575e0e3272bb7b",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "34.08",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.4",
-      "totalAmount": "36.48"
-    },
-    "seller": {
-      "userId": 75270773,
-      "username": "corvonco",
-      "profile": "https://www.vinted.pl/member/75270773-corvonco",
-      "profilePicture": "https://images1.vinted.net/t/02_0145e_vf2haeaTcThL6DJy9Pwg2Y8W/f800/1638269402.jpeg?s=612cd38d0cc89c8413b6c250ed274995eabe8854"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820393138,
-    "title": "Koszulka polo Ralph Lauren L",
-    "url": "https://www.vinted.pl/items/4820393138-koszulka-polo-ralph-lauren-l",
-    "image": "https://images1.vinted.net/tc/03_00726_HUJLwsYjGXVBewPBrtwSRRNY/1722188534.jpeg?s=9fbcb81a00664b4169ee6d78101cbf6dae47370c",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "20.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.7",
-      "totalAmount": "21.7"
-    },
-    "seller": {
-      "userId": 87939168,
-      "username": "adek22306",
-      "profile": "https://www.vinted.pl/member/87939168-adek22306",
-      "profilePicture": "https://images1.vinted.net/t/03_010d9_ySNKoFq5zJWtaMVBkmkHxgpa/f800/1650649749.jpeg?s=8e706d3e9fc6449d6301476ab4413e2534a194cd"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820390686,
-    "title": "Polo ralph lauren yacht Chief keef y2k drain",
-    "url": "https://www.vinted.pl/items/4820390686-polo-ralph-lauren-yacht-chief-keef-y2k-drain",
-    "image": "https://images1.vinted.net/tc/02_0160c_rYFrXiZ8BDmzxm37jGPbPSsC/1722188505.jpeg?s=7138a4abfdacb810ea5d17cf7ea6067be7833667",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "45.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.95",
-      "totalAmount": "47.95"
-    },
-    "seller": {
-      "userId": 163310425,
-      "username": "paldosell",
-      "profile": "https://www.vinted.pl/member/163310425-paldosell",
-      "profilePicture": "https://images1.vinted.net/t/01_00477_ypESsbLHk6xnqq7pQTFukGcN/f800/1715416997.jpeg?s=9c4aeca2ccdbebb0d9b1131d0dedbfc82091b655"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820388267,
-    "title": "Ralph Lauren Chief kieef style polo",
-    "url": "https://www.vinted.pl/items/4820388267-ralph-lauren-chief-kieef-style-polo",
-    "image": "https://images1.vinted.net/tc/03_0055f_7oHPJp3Fg6H6QJk24UEqUYzf/1722188475.jpeg?s=e2f3b5f8ef53740a278dad54cdc13318814420e9",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "143.83",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.89",
-      "totalAmount": "151.72"
-    },
-    "seller": {
-      "userId": 118082179,
-      "username": "janaviz",
-      "profile": "https://www.vinted.pl/member/118082179-janaviz",
-      "profilePicture": "https://images1.vinted.net/t/01_014e2_JBbuMcSrv1YqgSeDcoMGT9kJ/f800/1677702417.jpeg?s=0968c8379c92a9649e7998478d750d6a6441884e"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820368400,
-    "title": "3 x Ralph Lauren t-shirt",
-    "url": "https://www.vinted.pl/items/4820368400-3-x-ralph-lauren-t-shirt",
-    "image": "https://images1.vinted.net/tc/02_00a53_USwsRG4Hmzo4d81n35B4DvRE/1722188237.jpeg?s=799460f722adc708220cecdd3ff5672d8f09398e",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "26.06",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.0",
-      "totalAmount": "28.06"
-    },
-    "seller": {
-      "userId": 218640027,
-      "username": "stefanielodal",
-      "profile": "https://www.vinted.pl/member/218640027-stefanielodal",
-      "profilePicture": "https://images1.vinted.net/t/03_00a57_9cQgrAGmckogvi8TJtsha2xE/f800/1721747152.jpeg?s=323e9ca6d63f0b51e5481ad634f3b9c1b0005f60"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820363368,
-    "title": "Ralph Lauren ing",
-    "url": "https://www.vinted.pl/items/4820363368-ralph-lauren-ing",
-    "image": "https://images1.vinted.net/tc/01_0208e_1WXLfegu5cpiBsSDkphuTYcH/1722188177.jpeg?s=f62be2a9dd44c1dcf1ee8f15806cb54c4bb071c3",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "55.32",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.47",
-      "totalAmount": "58.79"
-    },
-    "seller": {
-      "userId": 112274732,
-      "username": "marcsi0101",
-      "profile": "https://www.vinted.pl/member/112274732-marcsi0101",
-      "profilePicture": "https://images1.vinted.net/t/03_006a3_aN8492iUwHJrYR5g7fhqYegT/f800/1674338427.jpeg?s=b272088213f1344e44e3465a869c56418a264baf"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4819953447,
-    "title": "Koszula Ralph Lauren M",
-    "url": "https://www.vinted.pl/items/4819953447-koszula-ralph-lauren-m",
-    "image": "https://images1.vinted.net/tc/03_0194c_Lu9rhW3Po12LGXDkp8dzPeHX/1722183640.jpeg?s=43d7b776f1870502a109d0f8a16fa894cc2abd48",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "89.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.15",
-      "totalAmount": "94.15"
-    },
-    "seller": {
-      "userId": 211111165,
-      "username": "chocolademilk",
-      "profile": "https://www.vinted.pl/member/211111165-chocolademilk",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820352576,
-    "title": "Orange Ralph Lauren-kortärmad skjorta",
-    "url": "https://www.vinted.pl/items/4820352576-orange-ralph-lauren-kortarmad-skjorta",
-    "image": "https://images1.vinted.net/tc/03_00150_tgxYeoww5CYdhH5VPREHXybr/1722188047.jpeg?s=45c54b185bc3b97b882b7a6a135a382890ffaa42",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "36.83",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.54",
-      "totalAmount": "39.37"
-    },
-    "seller": {
-      "userId": 219306030,
-      "username": "alexjohansson15",
-      "profile": "https://www.vinted.pl/member/219306030-alexjohansson15",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820350822,
-    "title": "Koszulka czarna Polo krótki rękaw Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820350822-koszulka-czarna-polo-krotki-rekaw-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_00a36_89jEafCNCEJD1yRmRXatnuYh/1722188027.jpeg?s=758e5358418169667a09e7e7d56db5324de12a86",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "155.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.45",
-      "totalAmount": "163.45"
-    },
-    "seller": {
-      "userId": 93513797,
-      "username": "laurka1206",
-      "profile": "https://www.vinted.pl/member/93513797-laurka1206",
-      "profilePicture": "https://images1.vinted.net/t/01_013ab_4944jx1Crh2V1CHVCrS9kdxv/f800/1653419030.jpeg?s=219262f25df088cf2da2c9cedd9ac63f39d0f61b"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820349625,
-    "title": "Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820349625-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_011c6_fjtPtUH8CA3mxZJVxmkuFfiF/1722188013.jpeg?s=bf1b458c31ffdfb7c4ef101a7b9025d2c95368da",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "40.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
-    },
-    "seller": {
-      "userId": 218274916,
-      "username": "1przyjdziesz23",
-      "profile": "https://www.vinted.pl/member/218274916-1przyjdziesz23",
-      "profilePicture": "https://images1.vinted.net/t/03_025e8_ACdQMAeVg5nE5Q1PzZiYx375/f800/1721570087.jpeg?s=7cbe44f3dff77dda37dc5a2939b4546c79419f31"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4819940682,
-    "title": "Tricou Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4819940682-tricou-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_014f6_LcGmnVGc3CKFkqJGNFeyZLWp/1722183505.jpeg?s=035554a51d9af63a7b0802c2b0fce8200a47cf48",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "XXL",
-    "price": {
-      "amount": "82.59",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.83",
-      "totalAmount": "87.42"
-    },
-    "seller": {
-      "userId": 182110713,
-      "username": "beny1982b",
-      "profile": "https://www.vinted.pl/member/182110713-beny1982b",
-      "profilePicture": "https://images1.vinted.net/t/01_02210_M2QWHSiSHkjDomfLQFK1LKsP/f800/1705057860.jpeg?s=7d2b0b6d2f30a44c15b56c3bc7281c9f0f3e27a5"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820316664,
-    "title": "T-short Polo Ralph Lauren z misiem męski rozmiar M",
-    "url": "https://www.vinted.pl/items/4820316664-t-short-polo-ralph-lauren-z-misiem-meski-rozmiar-m",
-    "image": "https://images1.vinted.net/tc/01_02018_9a9puYH4sSxtEE9J8fE6zbZQ/1722187628.jpeg?s=8f4bfc0d74e0756a584b67bce03e9332333c7b8f",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "99.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
-    },
-    "seller": {
-      "userId": 219069999,
-      "username": "jlnnh",
-      "profile": "https://www.vinted.pl/member/219069999-jlnnh",
-      "profilePicture": "https://images1.vinted.net/t/02_01c3c_kkdrdy8TTMKdWpWyjvBd4PC9/f800/1721969353.jpeg?s=352b81c3656510d8d16069a91b6375be74f85d68"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820333319,
-    "title": "Koszula polówka Ralph Lauren L m",
-    "url": "https://www.vinted.pl/items/4820333319-koszula-polowka-ralph-lauren-l-m",
-    "image": "https://images1.vinted.net/tc/01_01e96_YU5mmbeEgt2sZJUe2QoVfxjy/1722187820.jpeg?s=6b234d653d2df36dcfede6eb3fe868aee8a1cc91",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "19.0",
+      "amount": "18.95",
       "currency": "PLN",
       "discount": null,
       "fees": "1.65",
-      "totalAmount": "20.65"
+      "totalAmount": "20.6"
     },
     "seller": {
-      "userId": 204441099,
-      "username": "zygfryt2121",
-      "profile": "https://www.vinted.pl/member/204441099-zygfryt2121",
-      "profilePicture": "https://images1.vinted.net/t/02_022f9_mqCYBCzFCMkj1UP3LhQikjLb/f800/1715428671.jpeg?s=d7b061199733281c5169ee109d57cd6f484d9355"
+      "userId": 222733541,
+      "username": "lastbuy",
+      "profile": "https://www.vinted.pl/member/222733541-lastbuy",
+      "profilePicture": "https://images1.vinted.net/t/03_0048d_7Nzr96gZ6dXWr5Ph3vcA48gS/f800/1724587972.jpeg?s=484ef5916801c6c853ffab3cba3ec5883111d001"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820327169,
-    "title": "Ralph Lauren megztinis",
-    "url": "https://www.vinted.pl/items/4820327169-ralph-lauren-megztinis",
-    "image": "https://images1.vinted.net/tc/03_00cc4_DsGXAPycL9AQDr9KDR7C8vnP/1722187751.jpeg?s=956d1409cc98228071c1043908afc91315bee7bd",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "194.47",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.42",
-      "totalAmount": "204.89"
-    },
-    "seller": {
-      "userId": 164667448,
-      "username": "mariaugas",
-      "profile": "https://www.vinted.pl/member/164667448-mariaugas",
-      "profilePicture": "https://images1.vinted.net/t/03_00de0_44v9niYxsQbdx5asTA9GKALy/f800/1696445206.jpeg?s=827d22dabf05611a42a68e6f05f19757f8bcb1ba"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820310006,
-    "title": "Polo Ralph Lauren póló",
-    "url": "https://www.vinted.pl/items/4820310006-polo-ralph-lauren-polo",
-    "image": "https://images1.vinted.net/tc/02_023a2_S7CAM57CQCSF8PPmjFrgRL36/1722187551.jpeg?s=60cd5c47922ec1fd98e58652d2067aab654aa7fe",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "53.66",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.38",
-      "totalAmount": "57.04"
-    },
-    "seller": {
-      "userId": 144191844,
-      "username": "matemo2001",
-      "profile": "https://www.vinted.pl/member/144191844-matemo2001",
-      "profilePicture": "https://images1.vinted.net/t/03_00e20_Q8cpn7Hj68nBqnfaA7j3mFKW/f800/1691021522.jpeg?s=963ff8c830b2f512e301f2f39b01adc8bc9c7529"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820307011,
-    "title": "2 stk Ralph Lauren Skjorter",
-    "url": "https://www.vinted.pl/items/4820307011-2-stk-ralph-lauren-skjorter",
-    "image": "https://images1.vinted.net/tc/03_01b76_jporZryNUx7trj5QAr86uZJN/1722187516.jpeg?s=7d8710499d45827e92d794fedea77adb0a66137f",
+    "productId": 4938073953,
+    "title": "Adidas set",
+    "url": "https://www.vinted.pl/items/4938073953-adidas-set",
+    "image": "https://images1.vinted.net/tc/02_005c8_xzMAYuuGbfQfxkSAib8rvsgH/1724603735.jpeg?s=3aaee549bab54ab8d86c0fc1c7e93883ae0a4f02",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "M",
+    "brand": "adidas",
+    "size": "XS",
     "price": {
-      "amount": "144.77",
+      "amount": "30.32",
       "currency": "PLN",
       "discount": null,
-      "fees": "7.94",
-      "totalAmount": "152.71"
+      "fees": "2.22",
+      "totalAmount": "32.54"
     },
     "seller": {
-      "userId": 200002137,
-      "username": "shjortshoej",
-      "profile": "https://www.vinted.pl/member/200002137-shjortshoej",
-      "profilePicture": "https://images1.vinted.net/t/01_0181b_DBeSRsnnw2e6iGcnEXMsMYpL/f800/1713540039.jpeg?s=53e3a7b8a9d575107eb4478d768b82fc8918e1d5"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820306101,
-    "title": "Grå Ralph Lauren-tshirt",
-    "url": "https://www.vinted.pl/items/4820306101-gra-ralph-lauren-tshirt",
-    "image": "https://images1.vinted.net/tc/03_00d4e_PaGbwrTzyuuiZXnEtnTZNhJz/1722187506.jpeg?s=b727bd3c114ca1dccbfefa4b843bf04aa834ba85",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "M",
-    "price": {
-      "amount": "22.1",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.81",
-      "totalAmount": "23.91"
-    },
-    "seller": {
-      "userId": 219306030,
-      "username": "alexjohansson15",
-      "profile": "https://www.vinted.pl/member/219306030-alexjohansson15",
+      "userId": 224533765,
+      "username": "tetris2024",
+      "profile": "https://www.vinted.pl/member/224533765-tetris2024",
       "profilePicture": null
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820301952,
-    "title": "Niebieski sweter Ralph Lauren damski",
-    "url": "https://www.vinted.pl/items/4820301952-niebieski-sweter-ralph-lauren-damski",
-    "image": "https://images1.vinted.net/tc/02_015ff_YkAXHTp5br3GoMkQqJ6kQAeD/1722187458.jpeg?s=26c8dfbf03ad340a765ef080258e9f0e1e1f7cc6",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "90.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.2",
-      "totalAmount": "95.2"
-    },
-    "seller": {
-      "userId": 91502353,
-      "username": "fischermaggie",
-      "profile": "https://www.vinted.pl/member/91502353-fischermaggie",
-      "profilePicture": "https://images1.vinted.net/t/02_00b80_4G4s2DrRBzVSmqL71E3rewfa/f800/1652821584.jpeg?s=e774573f8e5b10a0608f835b786f1778b863cb8d"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4819896943,
-    "title": "T-shirt Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4819896943-t-shirt-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/02_005ad_1YQRr6L6XVuPMD2QHsp3m3NE/1722183044.jpeg?s=e02730d77831b9337828582ca4308005365303c4",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 94341361,
-      "username": "pawel.szymann",
-      "profile": "https://www.vinted.pl/member/94341361-pawelszymann",
-      "profilePicture": "https://images1.vinted.net/t/01_026ad_Qi5TYp83RuTdaSF7hSuEq1MP/f800/1691305424.jpeg?s=517134ba8331db5bb350d807dd9bb8773705c7ea"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4765747323,
-    "title": "Bluzka z długim rękawem Polo Ralph Lauren Premium",
-    "url": "https://www.vinted.pl/items/4765747323-bluzka-z-dlugim-rekawem-polo-ralph-lauren-premium",
-    "image": "https://images1.vinted.net/tc/03_01e3e_bMSckve494xCXiVn6erjd6As/1720984285.jpeg?s=fbdefb31ce0198efb0c141e20119bfbedb149488",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Ralph Lauren",
-    "size": "L",
-    "price": {
-      "amount": "129.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.15",
-      "totalAmount": "136.15"
-    },
-    "seller": {
-      "userId": 91126395,
-      "username": "lukas1080",
-      "profile": "https://www.vinted.pl/member/91126395-lukas1080",
-      "profilePicture": "https://images1.vinted.net/t/03_01623_rPbiToEqWKR9vpiriBP2DjZt/f800/1714660268.jpeg?s=8097aa3f825ca7f936e43ec7af450d638a5d7545"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820277502,
-    "title": "Ralph Laurent",
-    "url": "https://www.vinted.pl/items/4820277502-ralph-laurent",
-    "image": "https://images1.vinted.net/tc/02_0041e_4rUMdZJx59fCEqKKbjCoRAan/1722187175.jpeg?s=171ec377c5e1a900de4066cba371eb86233e2e02",
+    "productId": 4938070948,
+    "title": "New balance hoodie",
+    "url": "https://www.vinted.pl/items/4938070948-new-balance-hoodie",
+    "image": "https://images1.vinted.net/tc/01_0220b_3fJGVCXzmmhtPhXUHMd4eA3f/1724603712.jpeg?s=10f92fa8caa8df461dbc0600c4b4090a4a351cbf",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "L",
+    "brand": "New Balance",
+    "size": "M",
     "price": {
-      "amount": "130.0",
+      "amount": "49.2",
       "currency": "PLN",
       "discount": null,
-      "fees": "7.2",
-      "totalAmount": "137.2"
+      "fees": "3.16",
+      "totalAmount": "52.36"
     },
     "seller": {
-      "userId": 101925926,
-      "username": "prostomartin",
-      "profile": "https://www.vinted.pl/member/101925926-prostomartin",
-      "profilePicture": "https://images1.vinted.net/t/02_0190f_maw8biWM2p6dnzzhSCBqDniv/f800/1660472364.jpeg?s=27fa100fc71535e6355a1e35628603b0158ac4ae"
+      "userId": 197409845,
+      "username": "conradl",
+      "profile": "https://www.vinted.pl/member/197409845-conradl",
+      "profilePicture": "https://images1.vinted.net/t/01_018d6_PYo6uqBBRwe2zsqppZKHARnt/f800/1712428648.jpeg?s=25012acb9e3edc35170814a9edf131c55344a534"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820274461,
-    "title": "Férfi Ralph Lauren XL galléros póló",
-    "url": "https://www.vinted.pl/items/4820274461-ferfi-ralph-lauren-xl-galleros-polo",
-    "image": "https://images1.vinted.net/tc/01_008d4_4VVVxPYC2ETTwzVv1aa9bW1g/1722187141.jpeg?s=8f70a1d0c1c974c1372c6877c2d1da21afe1981d",
+    "productId": 4938067740,
+    "title": "Nike Sapka",
+    "url": "https://www.vinted.pl/items/4938067740-nike-sapka",
+    "image": "https://images1.vinted.net/tc/01_01e39_yKcZZ2axrNm79BJUGmbRqpiP/1724603687.jpeg?s=36c6a3ebe82da32210001a0eaf119889d6e2f7e5",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
+    "brand": "Nike",
+    "size": "Uniwersalny",
     "price": {
-      "amount": "243.4",
+      "amount": "54.93",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.87",
-      "totalAmount": "256.27"
+      "fees": "3.45",
+      "totalAmount": "58.38"
     },
     "seller": {
-      "userId": 206705617,
-      "username": "revric",
-      "profile": "https://www.vinted.pl/member/206705617-revric",
-      "profilePicture": "https://images1.vinted.net/t/02_01251_4r6pKHSNr81ihKdzeovrFAZD/f800/1716367534.jpeg?s=59a2e24ea1b01bb6c4acb46546ec32af1846f8e9"
+      "userId": 200825425,
+      "username": "tenderadam",
+      "profile": "https://www.vinted.pl/member/200825425-tenderadam",
+      "profilePicture": "https://images1.vinted.net/t/03_01a2b_65sZQenXKz9EHtUSykMUTYTS/f800/1713885470.jpeg?s=fb68c6c6abe6e3f93f9357df236f69a6d738dd87"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820264062,
-    "title": "Férfi Ralph Lauren XL póló",
-    "url": "https://www.vinted.pl/items/4820264062-ferfi-ralph-lauren-xl-polo",
-    "image": "https://images1.vinted.net/tc/01_00525_sL9TG2fzMFhBdECLB1H5aePz/1722187020.jpeg?s=9ace295da3ce7e089e0f48ed69d01eb5a987a5f9",
+    "productId": 4938066575,
+    "title": "Adidas póló",
+    "url": "https://www.vinted.pl/items/4938066575-adidas-polo",
+    "image": "https://images1.vinted.net/tc/03_011b0_dEbtBCcuJPqzMqec7bQihxud/1724603678.jpeg?s=167bcbb0501bfcfd2cd140125a7df8e80afe788a",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
+    "brand": "adidas",
+    "size": "M",
     "price": {
-      "amount": "243.4",
+      "amount": "21.97",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.87",
-      "totalAmount": "256.27"
+      "fees": "1.8",
+      "totalAmount": "23.77"
     },
     "seller": {
-      "userId": 206705617,
-      "username": "revric",
-      "profile": "https://www.vinted.pl/member/206705617-revric",
-      "profilePicture": "https://images1.vinted.net/t/02_01251_4r6pKHSNr81ihKdzeovrFAZD/f800/1716367534.jpeg?s=59a2e24ea1b01bb6c4acb46546ec32af1846f8e9"
+      "userId": 216101068,
+      "username": "papainori",
+      "profile": "https://www.vinted.pl/member/216101068-papainori",
+      "profilePicture": "https://images1.vinted.net/t/01_01173_uJsEJRJt9W9SsEHZUk1Aq8yi/f800/1720453923.jpeg?s=6a1ae0f7facadaf4b6b738bd23b00367a0baf587"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820260222,
-    "title": "Bluza Ralph Lauren S",
-    "url": "https://www.vinted.pl/items/4820260222-bluza-ralph-lauren-s",
-    "image": "https://images1.vinted.net/tc/01_021e5_cEEJi5seBmEbn9hHbR1nGs6c/1722186976.jpeg?s=77d619546453f4a57c8cf2a8455b41f1dbdccd61",
+    "productId": 4938065334,
+    "title": "Koszulka new balance",
+    "url": "https://www.vinted.pl/items/4938065334-koszulka-new-balance",
+    "image": "https://images1.vinted.net/tc/03_022a5_8xAsxoCYqdTzodwbyWPUPCa4/1724603669.jpeg?s=21d344f5273dc250571daa11c4960e66a77150d2",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 91069801,
+      "username": "kkkwidz",
+      "profile": "https://www.vinted.pl/member/91069801-kkkwidz",
+      "profilePicture": "https://images1.vinted.net/t/02_01688_nuQV1gfwPCTHf2u96rjY9GsP/f800/1652790229.jpeg?s=553a30402b00bc41b13d9430b08e8ca0a13f7943"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938064400,
+    "title": "Track top Adidas M",
+    "url": "https://www.vinted.pl/items/4938064400-track-top-adidas-m",
+    "image": "https://images1.vinted.net/tc/02_011b8_FL84FnN8aGmz6MApUyPTZPpq/1724603661.jpeg?s=c58aaa82d682aac8eac270dbc94d70dcd2602b58",
     "promoted": false,
     "favourites": 1,
-    "brand": "Ralph Lauren",
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "56.4",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.52",
+      "totalAmount": "59.92"
+    },
+    "seller": {
+      "userId": 147701766,
+      "username": "mirciulica",
+      "profile": "https://www.vinted.pl/member/147701766-mirciulica",
+      "profilePicture": "https://images1.vinted.net/t/01_00dfb_tohNq8YTXZM7HvpmASdHYQSM/f800/1709494319.jpeg?s=9d3f0f7ed61de81b8e34fd011a259b2dc3ac9533"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938062448,
+    "title": "Tricou Nike stretchy XXS/XSbej",
+    "url": "https://www.vinted.pl/items/4938062448-tricou-nike-stretchy-xxsxsbej",
+    "image": "https://images1.vinted.net/tc/03_021c3_pb91xhVXNQXWqfvp51ssGxYF/1724603647.jpeg?s=d50a9e27dcb59fdd8ade67fcc9662c69bdd4a88b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "17.35",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.57",
+      "totalAmount": "18.92"
+    },
+    "seller": {
+      "userId": 175149346,
+      "username": "teutza9",
+      "profile": "https://www.vinted.pl/member/175149346-teutza9",
+      "profilePicture": "https://images1.vinted.net/t/02_019aa_a2mBNZEMbgUBYc5HTad3ZZu5/f800/1701285713.jpeg?s=8a0f0a8e4dbe2aee608a3391fc45e595c3b43764"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938061624,
+    "title": "Mikina čierna Adidas L",
+    "url": "https://www.vinted.pl/items/4938061624-mikina-cierna-adidas-l",
+    "image": "https://images1.vinted.net/tc/03_0105c_gz6cvP9AfksbW3ypsYe8hUfz/1724603641.jpeg?s=2915f3c1b56b2024f1ee9a54fcf9ae970b0c2154",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "21.59",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.78",
+      "totalAmount": "23.37"
+    },
+    "seller": {
+      "userId": 191015789,
+      "username": "lubik18",
+      "profile": "https://www.vinted.pl/member/191015789-lubik18",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938059649,
+    "title": "Koszulka T-Shirt Nike M",
+    "url": "https://www.vinted.pl/items/4938059649-koszulka-t-shirt-nike-m",
+    "image": "https://images1.vinted.net/tc/01_0234a_tiJg5r56tPbei23ZTzFwyhdr/1724603626.jpeg?s=eecfb3cefa951f7bdbe58a3852fd3876cedfef1b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "22.5",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.83",
+      "totalAmount": "24.33"
+    },
+    "seller": {
+      "userId": 220816893,
+      "username": "piesekscooby",
+      "profile": "https://www.vinted.pl/member/220816893-piesekscooby",
+      "profilePicture": "https://images1.vinted.net/t/02_0150e_N6ibk5ctuCskngG213cAfy6y/f800/1722855264.jpeg?s=a82cdbd7526b3b1256eb8a530f920fbcff060b23"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938059889,
+    "title": "Nike paita",
+    "url": "https://www.vinted.pl/items/4938059889-nike-paita",
+    "image": "https://images1.vinted.net/tc/03_00bdd_9kWEnGgoyRtB9HxaJcGgUmUs/1724603628.jpeg?s=cb952aee239672b5cecfaac9884352151063d088",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "43.19",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.86",
+      "totalAmount": "46.05"
+    },
+    "seller": {
+      "userId": 215955074,
+      "username": "jonmusa08",
+      "profile": "https://www.vinted.pl/member/215955074-jonmusa08",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938057911,
+    "title": "Nike Dri-Fit",
+    "url": "https://www.vinted.pl/items/4938057911-nike-dri-fit",
+    "image": "https://images1.vinted.net/tc/03_01846_BVQKgz3FjC5AhHkxhZ5DrBdq/1724603613.jpeg?s=dcc0a6b7a02fabf45d875b43f73214f0ab50560b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": "43.19",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.86",
+      "totalAmount": "46.05"
+    },
+    "seller": {
+      "userId": 177999655,
+      "username": "egleli1",
+      "profile": "https://www.vinted.pl/member/177999655-egleli1",
+      "profilePicture": "https://images1.vinted.net/t/01_00f2f_5QqBiXmimV2ncXA5rcw6oyNZ/f800/1702838339.jpeg?s=90690ac1c217fd6f9d5b1d9714c9730a0a3b8c49"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938057629,
+    "title": "Adidas fotbollsskor",
+    "url": "https://www.vinted.pl/items/4938057629-adidas-fotbollsskor",
+    "image": "https://images1.vinted.net/tc/03_00b86_ppQn6esYL1tqg59CnRNJPZfi/1724603611.jpeg?s=6201dd6366178123ce956360acbd91b746466c5e",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "43",
+    "price": {
+      "amount": "56.85",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.54",
+      "totalAmount": "60.39"
+    },
+    "seller": {
+      "userId": 142843267,
+      "username": "beckenbauer5",
+      "profile": "https://www.vinted.pl/member/142843267-beckenbauer5",
+      "profilePicture": "https://images1.vinted.net/t/02_01685_EcoXBFXGm4ZeciVutQNMtzCr/f800/1682870117.jpeg?s=289576eb8adc2765b6edf8fb233f57f716851e18"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938056118,
+    "title": "Koszulka nike oryginalna",
+    "url": "https://www.vinted.pl/items/4938056118-koszulka-nike-oryginalna",
+    "image": "https://images1.vinted.net/tc/03_00b1a_KaX7xRSqRTprAPECA5f9aAY8/1724603599.jpeg?s=49d7ab7e94231bce6392285fddf08c8588861d75",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
     "size": "S",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 211429242,
+      "username": "samebzdury",
+      "profile": "https://www.vinted.pl/member/211429242-samebzdury",
+      "profilePicture": "https://images1.vinted.net/t/01_01d79_VVciUt2oF2HBPq1MDchEQ1tK/f800/1724601050.jpeg?s=dc60c1ff211980017e6383757b0449a8fe9c1bfc"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938054826,
+    "title": "vintage spodnie 3/4 nike",
+    "url": "https://www.vinted.pl/items/4938054826-vintage-spodnie-34-nike",
+    "image": "https://images1.vinted.net/tc/01_006c3_t1SmoxRuxSKbnnSFn8fn4fVJ/1724603589.jpeg?s=1397bb8a6b62ed72b85eade8339a80f048f5d107",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": "40.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.7",
+      "totalAmount": "42.7"
+    },
+    "seller": {
+      "userId": 101587358,
+      "username": "basia_xd1",
+      "profile": "https://www.vinted.pl/member/101587358-basiaxd1",
+      "profilePicture": "https://images1.vinted.net/t/03_01389_5zjdENLnHLp5jYgS6NQtcdgr/f800/1705334768.jpeg?s=8c624d359b530df5dd91c9e387cb18433feab4e9"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938054019,
+    "title": "Szorty adidas xs",
+    "url": "https://www.vinted.pl/items/4938054019-szorty-adidas-xs",
+    "image": "https://images1.vinted.net/tc/01_025dc_UfzjThfNTebVJVjKVFvappQj/1724603583.jpeg?s=9fda8e43919bee1042ad8748ae57f717caf338c3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XS",
+    "price": {
+      "amount": "42.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.8",
+      "totalAmount": "44.8"
+    },
+    "seller": {
+      "userId": 90553658,
+      "username": "nesia1012",
+      "profile": "https://www.vinted.pl/member/90553658-nesia1012",
+      "profilePicture": "https://images1.vinted.net/t/01_0137f_pGKzUWNHZKi9kmPNRRtNW8Rg/f800/1718132998.jpeg?s=dc0e51f16800a3bb523f720197dc43f9e744035a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938052892,
+    "title": "Mikina Adias",
+    "url": "https://www.vinted.pl/items/4938052892-mikina-adias",
+    "image": "https://images1.vinted.net/tc/01_01b84_X4Xcno5QVrjv7kTCped1baxy/1724603574.jpeg?s=6621318b84e597b5a36c31c91fe0f28f822a8b3e",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "25.68",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.98",
+      "totalAmount": "27.66"
+    },
+    "seller": {
+      "userId": 78429279,
+      "username": "kalii23",
+      "profile": "https://www.vinted.pl/member/78429279-kalii23",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938049664,
+    "title": "spodnie nike z zamkiem",
+    "url": "https://www.vinted.pl/items/4938049664-spodnie-nike-z-zamkiem",
+    "image": "https://images1.vinted.net/tc/02_00756_KE6wG2PyyCJUMpzP41xEMrhb/1724603550.jpeg?s=0473a7e479756764b55fdd71f8ba69c63734cf9a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 97423739,
+      "username": "pawel44969",
+      "profile": "https://www.vinted.pl/member/97423739-pawel44969",
+      "profilePicture": "https://images1.vinted.net/t/03_01a09_9Ead9MFxBfMrD9WiwvRmhU7k/f800/1655553464.jpeg?s=fcd3f709c371c3560a2b5b19e4e1ae2c1a5d82c8"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938049231,
+    "title": "adidas t-pait",
+    "url": "https://www.vinted.pl/items/4938049231-adidas-t-pait",
+    "image": "https://images1.vinted.net/tc/03_00cec_EdTwUArkVMvv5NFq8ygbqJkj/1724603547.jpeg?s=8e9143e9011c6881ac815e25231a0eab138fb17c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "8.64",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.13",
+      "totalAmount": "9.77"
+    },
+    "seller": {
+      "userId": 223888986,
+      "username": "miiajonna",
+      "profile": "https://www.vinted.pl/member/223888986-miiajonna",
+      "profilePicture": "https://images1.vinted.net/t/01_022b9_p1KXeasT3pLD6KpH29F8dEtb/f800/1724600702.jpeg?s=467e7e7152a1cb60c3e70dc5d90031f14a183d2f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938046620,
+    "title": "Nike kratke hlace",
+    "url": "https://www.vinted.pl/items/4938046620-nike-kratke-hlace",
+    "image": "https://images1.vinted.net/tc/01_01db5_8f3nFyGEwKsCoCqJ2j4HqekR/1724603527.jpeg?s=d567b35487719aff72faedc18ee04484643b33a0",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 213404628,
+      "username": "domac00",
+      "profile": "https://www.vinted.pl/member/213404628-domac00",
+      "profilePicture": "https://images1.vinted.net/t/02_00b50_KpKMGztoi8cwVnjLz8aD4QdM/f800/1719151134.jpeg?s=cbf554843f9ddef8822283dd7717e4afb9d59dda"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938046588,
+    "title": "Szorty Nike m",
+    "url": "https://www.vinted.pl/items/4938046588-szorty-nike-m",
+    "image": "https://images1.vinted.net/tc/01_00aeb_1YA1AK7X9CbBANRRMJ3Z1AxN/1724603527.jpeg?s=30857287c6288311775d56986b81b8ec842312d5",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "42.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.8",
+      "totalAmount": "44.8"
+    },
+    "seller": {
+      "userId": 90553658,
+      "username": "nesia1012",
+      "profile": "https://www.vinted.pl/member/90553658-nesia1012",
+      "profilePicture": "https://images1.vinted.net/t/01_0137f_pGKzUWNHZKi9kmPNRRtNW8Rg/f800/1718132998.jpeg?s=dc0e51f16800a3bb523f720197dc43f9e744035a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938045591,
+    "title": "Niken koriskengät 38",
+    "url": "https://www.vinted.pl/items/4938045591-niken-koriskengat-38",
+    "image": "https://images1.vinted.net/tc/03_020c1_DP2zJ1ihEjjvHriLctRbrc6R/1724603520.jpeg?s=9ba53d0d83d139689cf23dd443800c4ab12bc63b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38",
+    "price": {
+      "amount": "17.27",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.56",
+      "totalAmount": "18.83"
+    },
+    "seller": {
+      "userId": 206023543,
+      "username": "kirppisfi",
+      "profile": "https://www.vinted.pl/member/206023543-kirppisfi",
+      "profilePicture": "https://images1.vinted.net/t/03_01d87_z21sY972qPNfieyCfvBcmbnE/f800/1717340081.jpeg?s=2f8e9ea79da402cf7835f0f09a41983dad44d2f0"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938044065,
+    "title": "Spodenki męskie Adidas 2XL",
+    "url": "https://www.vinted.pl/items/4938044065-spodenki-meskie-adidas-2xl",
+    "image": "https://images1.vinted.net/tc/03_00e54_145NMNbv3wjfPe4FoJZn4zv1/1724603508.jpeg?s=3e548d300ae3f50e0d3aacbd20342f882633bfc1",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "44 | W28",
+    "price": {
+      "amount": "25.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.95",
+      "totalAmount": "26.95"
+    },
+    "seller": {
+      "userId": 91404129,
+      "username": "renia01377w6",
+      "profile": "https://www.vinted.pl/member/91404129-renia01377w6",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938043593,
+    "title": "Plona striuke",
+    "url": "https://www.vinted.pl/items/4938043593-plona-striuke",
+    "image": "https://images1.vinted.net/tc/03_0208f_GYUTZQktRGmrWzsh5QoQS4Ef/1724603504.jpeg?s=26b7e0e4e5f0b01aca448e3620ab0fe0cdada952",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 104309370,
+      "username": "kunsmanaitee",
+      "profile": "https://www.vinted.pl/member/104309370-kunsmanaitee",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938042024,
+    "title": "czapka z daszkiem adidas",
+    "url": "https://www.vinted.pl/items/4938042024-czapka-z-daszkiem-adidas",
+    "image": "https://images1.vinted.net/tc/02_00b43_DdFCnoNjjS7uqGW6dvJS4op9/1724603493.jpeg?s=0b345993edcfb9f14cb9bfdde1ed18c85455ae1b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "Uniwersalny",
     "price": {
       "amount": "50.0",
       "currency": "PLN",
@@ -2104,190 +1960,238 @@
       "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 91032444,
-      "username": "kasia.markiewicz",
-      "profile": "https://www.vinted.pl/member/91032444-kasiamarkiewicz",
-      "profilePicture": "https://images1.vinted.net/t/01_006ee_zXuVvFiWikKVZjSGGQJ7VYj9/f800/1693210250.jpeg?s=bb4251b9ef15fbadbc6f6a46372c85703e4b2f02"
+      "userId": 224804844,
+      "username": "maddie.szafa",
+      "profile": "https://www.vinted.pl/member/224804844-maddieszafa",
+      "profilePicture": "https://images1.vinted.net/t/03_00f6a_PsnXv6XvLsP853Wd1XwtaiQA/f800/1724600507.jpeg?s=bf25b154b3b659ae30b8d374ccaad96573101757"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820250673,
-    "title": "Férfi kék Ralph Lauren XL galléros póló",
-    "url": "https://www.vinted.pl/items/4820250673-ferfi-kek-ralph-lauren-xl-galleros-polo",
-    "image": "https://images1.vinted.net/tc/01_0108d_YMqsnwcMWgfzA8B6tM1twt6K/1722186865.jpeg?s=23f3187aa89b3798713baa83d0ca545f6f40a8fd",
+    "productId": 4938041238,
+    "title": "New balance hoodie",
+    "url": "https://www.vinted.pl/items/4938041238-new-balance-hoodie",
+    "image": "https://images1.vinted.net/tc/03_0211e_PBSC4gJLREJbcdp4YogcpBGL/1724603486.jpeg?s=96ded194f363dd806ffec9e54137aced57356efc",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "243.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.87",
-      "totalAmount": "256.27"
-    },
-    "seller": {
-      "userId": 206705617,
-      "username": "revric",
-      "profile": "https://www.vinted.pl/member/206705617-revric",
-      "profilePicture": "https://images1.vinted.net/t/02_01251_4r6pKHSNr81ihKdzeovrFAZD/f800/1716367534.jpeg?s=59a2e24ea1b01bb6c4acb46546ec32af1846f8e9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820239487,
-    "title": "Férfi Ralph Lauren XL póló",
-    "url": "https://www.vinted.pl/items/4820239487-ferfi-ralph-lauren-xl-polo",
-    "image": "https://images1.vinted.net/tc/03_01df3_cQXLj49maJvSfH2Q57WD29K5/1722186738.jpeg?s=b13a457be3d088c897746e16052f0257baf8f847",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
-    "price": {
-      "amount": "243.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.87",
-      "totalAmount": "256.27"
-    },
-    "seller": {
-      "userId": 206705617,
-      "username": "revric",
-      "profile": "https://www.vinted.pl/member/206705617-revric",
-      "profilePicture": "https://images1.vinted.net/t/02_01251_4r6pKHSNr81ihKdzeovrFAZD/f800/1716367534.jpeg?s=59a2e24ea1b01bb6c4acb46546ec32af1846f8e9"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820234404,
-    "title": "Polo Ralph Lauren Classic Fit męskie krótkie spodenki szorty chinosy Duży rozmiar! 52 BIG Pas 132 cm",
-    "url": "https://www.vinted.pl/items/4820234404-polo-ralph-lauren-classic-fit-meskie-krotkie-spodenki-szorty-chinosy-duzy-rozmiar-52-big-pas-132-cm",
-    "image": "https://images1.vinted.net/tc/01_02268_R1URxC6Ewu7Ad8BfbwZewwbZ/1722186680.jpeg?s=9ca00f56f1ec31b9b6e3bd64530fb1a6ddedd97e",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "XXXL",
-    "price": {
-      "amount": "129.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.15",
-      "totalAmount": "136.15"
-    },
-    "seller": {
-      "userId": 211982525,
-      "username": "mirovinmiro",
-      "profile": "https://www.vinted.pl/member/211982525-mirovinmiro",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820227404,
-    "title": "Białe Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820227404-biale-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/01_01577_UutiFJxEXq4t8TZpCMZzb8yv/1722186600.jpeg?s=254398cad534b0479dc4df5addc095e1bfdb7b43",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Ralph Lauren",
+    "brand": "New Balance",
     "size": "M",
     "price": {
-      "amount": "210.0",
+      "amount": "49.2",
       "currency": "PLN",
       "discount": null,
-      "fees": "11.2",
-      "totalAmount": "221.2"
+      "fees": "3.16",
+      "totalAmount": "52.36"
     },
     "seller": {
-      "userId": 122433995,
-      "username": "michalspumy",
-      "profile": "https://www.vinted.pl/member/122433995-michalspumy",
-      "profilePicture": "https://images1.vinted.net/t/02_00f3d_QQtFBASRW9y8r6eNi9Wv2Ln1/f800/1669911259.jpeg?s=1f34bac90693faddb7c3f2faa3d8b7a4014ef2ff"
+      "userId": 197409845,
+      "username": "conradl",
+      "profile": "https://www.vinted.pl/member/197409845-conradl",
+      "profilePicture": "https://images1.vinted.net/t/01_018d6_PYo6uqBBRwe2zsqppZKHARnt/f800/1712428648.jpeg?s=25012acb9e3edc35170814a9edf131c55344a534"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820220462,
-    "title": "Férfi fekete Ralph Lauren galléros póló XL",
-    "url": "https://www.vinted.pl/items/4820220462-ferfi-fekete-ralph-lauren-galleros-polo-xl",
-    "image": "https://images1.vinted.net/tc/03_0173d_pepMc5CfvkrtFByb8UdK82iN/1722186522.jpeg?s=fb6864881459895938f4b7b57a912f83d280d559",
+    "productId": 4938039683,
+    "title": "Vintage Nike Y2K shorts",
+    "url": "https://www.vinted.pl/items/4938039683-vintage-nike-y2k-shorts",
+    "image": "https://images1.vinted.net/tc/03_02527_AYc5TsFg4AgafyvfVomfFAsF/1724603475.jpeg?s=43e6360036c70640be015f87eb946b0490615c99",
     "promoted": false,
     "favourites": 0,
-    "brand": "Ralph Lauren",
-    "size": "XL",
+    "brand": "Nike",
+    "size": "M",
     "price": {
-      "amount": "243.4",
+      "amount": "27.86",
       "currency": "PLN",
       "discount": null,
-      "fees": "12.87",
-      "totalAmount": "256.27"
+      "fees": "2.09",
+      "totalAmount": "29.95"
     },
     "seller": {
-      "userId": 206705617,
-      "username": "revric",
-      "profile": "https://www.vinted.pl/member/206705617-revric",
-      "profilePicture": "https://images1.vinted.net/t/02_01251_4r6pKHSNr81ihKdzeovrFAZD/f800/1716367534.jpeg?s=59a2e24ea1b01bb6c4acb46546ec32af1846f8e9"
+      "userId": 201696388,
+      "username": "bratka123.l",
+      "profile": "https://www.vinted.pl/member/201696388-bratka123l",
+      "profilePicture": "https://images1.vinted.net/t/02_010cd_uv3kGzZanRfii2EWDG4EMrzx/f800/1724053039.jpeg?s=aa20b5b4565460b1611cb5a6ff09a4a01e36720f"
     },
-    "category": 5
+    "category": "Men"
   },
   {
-    "productId": 4820212108,
-    "title": "Polo Ralph Lauren Classic Fit męskie krótkie spodenki szorty chinosy Duży rozmiar! 48 BIG Pas 126 cm",
-    "url": "https://www.vinted.pl/items/4820212108-polo-ralph-lauren-classic-fit-meskie-krotkie-spodenki-szorty-chinosy-duzy-rozmiar-48-big-pas-126-cm",
-    "image": "https://images1.vinted.net/tc/02_01a36_jTfrxKV2811hHAPjbHnZNgiJ/1722186426.jpeg?s=32b7c3524ff893c47ffa44e3e0c306b238efe09e",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "XXXL",
-    "price": {
-      "amount": "129.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.15",
-      "totalAmount": "136.15"
-    },
-    "seller": {
-      "userId": 211982525,
-      "username": "mirovinmiro",
-      "profile": "https://www.vinted.pl/member/211982525-mirovinmiro",
-      "profilePicture": null
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820203875,
-    "title": "Košile Ralph Lauren vel. S/M",
-    "url": "https://www.vinted.pl/items/4820203875-kosile-ralph-lauren-vel-sm",
-    "image": "https://images1.vinted.net/tc/02_01986_qyC9oY9rkpNo6K6YZZthcdkM/1722186334.jpeg?s=0bcdfa462810c5695c9e2a09c6a3d0005e12b96b",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Ralph Lauren",
-    "size": "S",
-    "price": {
-      "amount": "59.63",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.68",
-      "totalAmount": "63.31"
-    },
-    "seller": {
-      "userId": 217962286,
-      "username": "lukyn48",
-      "profile": "https://www.vinted.pl/member/217962286-lukyn48",
-      "profilePicture": "https://images1.vinted.net/t/01_00627_jQ383fsJAVExKWKgqWwvRzpq/f800/1721390333.jpeg?s=4caad64b2b5bdf26d3d7972a8eade7dc1aa9dcfc"
-    },
-    "category": 5
-  },
-  {
-    "productId": 4820193551,
-    "title": "Koszulka Polo Ralph Lauren",
-    "url": "https://www.vinted.pl/items/4820193551-koszulka-polo-ralph-lauren",
-    "image": "https://images1.vinted.net/tc/03_001a6_Mgwq4Qov8DrkGkjAh5xjE3qj/1722186219.jpeg?s=8474e78200c1943e864cb2a5ad5545c407747c78",
+    "productId": 4938038710,
+    "title": "Czapka z daszkiem Adidas",
+    "url": "https://www.vinted.pl/items/4938038710-czapka-z-daszkiem-adidas",
+    "image": "https://images1.vinted.net/tc/02_016bc_AaxngmSrb9DYLzLeLXmS8rT1/1724603467.jpeg?s=02fcd64ef6c5e869c3a1072530c236eafe9b3945",
     "promoted": false,
     "favourites": 1,
-    "brand": "Ralph Lauren",
+    "brand": "adidas",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 159223229,
+      "username": "wojtasdw",
+      "profile": "https://www.vinted.pl/member/159223229-wojtasdw",
+      "profilePicture": "https://images1.vinted.net/t/02_01899_BpYBfEKtotTWdx6heVyiHBsH/f800/1700580661.jpeg?s=19126c8abd84c51947685463462f54986eee4164"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938037992,
+    "title": "Bluza Nike Air",
+    "url": "https://www.vinted.pl/items/4938037992-bluza-nike-air",
+    "image": "https://images1.vinted.net/tc/02_022c7_jrMDQvUFSW9HrmChRPTWAHc2/1724603462.jpeg?s=1b59fcf7b193a1e8fa33c981dd7169e38a066cb6",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 190958966,
+      "username": "kamil.1011",
+      "profile": "https://www.vinted.pl/member/190958966-kamil1011",
+      "profilePicture": "https://images1.vinted.net/t/03_00eb5_AgLt72q8Uy6abo3NCtJZkGon/f800/1720813486.jpeg?s=b75da8666865a12ca11af7f7e73bd4ec4affe0e1"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938037616,
+    "title": "adidas mikina",
+    "url": "https://www.vinted.pl/items/4938037616-adidas-mikina",
+    "image": "https://images1.vinted.net/tc/01_01135_PeFFrPKZBnd1o5AxyeLVCmGx/1724603459.jpeg?s=a1c4ee191a1727343fb2049f0ee5a8c081640a32",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
     "size": "L",
+    "price": {
+      "amount": "34.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.42",
+      "totalAmount": "36.89"
+    },
+    "seller": {
+      "userId": 78708481,
+      "username": "magdalenamartin",
+      "profile": "https://www.vinted.pl/member/78708481-magdalenamartin",
+      "profilePicture": "https://images1.vinted.net/t/03_003e9_NPRp79pwGTumm5Mc4ZNFw9ic/f800/1689173870.jpeg?s=79ee07731594edb33a7296b0662c5d8100d753eb"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938036026,
+    "title": "Koszulka Adidas",
+    "url": "https://www.vinted.pl/items/4938036026-koszulka-adidas",
+    "image": "https://images1.vinted.net/tc/01_0199d_yiLAH82BKG4XY8sjaiaaBUyy/1724603447.jpeg?s=6870ef84354164118e648ee402bb04f5158421e3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "12.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.3",
+      "totalAmount": "13.3"
+    },
+    "seller": {
+      "userId": 178580780,
+      "username": "buty0040",
+      "profile": "https://www.vinted.pl/member/178580780-buty0040",
+      "profilePicture": "https://images1.vinted.net/t/03_0092d_RpsgidiWn3zMvVgw3pxw6427/f800/1703187608.jpeg?s=0e3a5428eaccad51d23d74bae8e0a919bbdf3a9e"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938033586,
+    "title": "Salovky Nike",
+    "url": "https://www.vinted.pl/items/4938033586-salovky-nike",
+    "image": "https://images1.vinted.net/tc/02_002cb_JBzqupSFLMSqQn9YsAace5Nh/1724603429.jpeg?s=5735a349c51c280c6f6cd33aad37db7b2cbf3336",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Inny",
+    "price": {
+      "amount": "43.09",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.85",
+      "totalAmount": "45.94"
+    },
+    "seller": {
+      "userId": 79928877,
+      "username": "ro201",
+      "profile": "https://www.vinted.pl/member/79928877-ro201",
+      "profilePicture": "https://images1.vinted.net/t/02_00526_BTtnmMLysC5tXgD5oSKE3NfX/f800/1643141366.jpeg?s=f7e35b1f70e29798fb853c0abad07f6c2327ed26"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938033098,
+    "title": "adidas mikina",
+    "url": "https://www.vinted.pl/items/4938033098-adidas-mikina",
+    "image": "https://images1.vinted.net/tc/02_02423_88MTcqY2gGJPXfusT6fvty9P/1724603425.jpeg?s=dcae631f4e41ecf844afbcab02dc65f9eb5f7b1c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "27.41",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.48"
+    },
+    "seller": {
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938030863,
+    "title": "Kedai",
+    "url": "https://www.vinted.pl/items/4938030863-kedai",
+    "image": "https://images1.vinted.net/tc/03_00e43_vNfrVojfPSq7b8yskt9Rpedz/1724603408.jpeg?s=5a589aee05f35affbbb8a27e3b1128d2f2c1edf1",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "41",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 80308534,
+      "username": "ausrastr",
+      "profile": "https://www.vinted.pl/member/80308534-ausrastr",
+      "profilePicture": "https://images1.vinted.net/t/03_00385_MF1yvBWh7PCXQiF1JffSCPc6/f800/1643552919.jpeg?s=63360fd01d64e67ea8a81a0c4e53572babafd9a4"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938011656,
+    "title": "Buty adidas",
+    "url": "https://www.vinted.pl/items/4938011656-buty-adidas",
+    "image": "https://images1.vinted.net/tc/02_0199e_CcqeA1ifSmcfqM1bG6HnuMqF/1724603266.jpeg?s=c154295b03d428335f9b0aca3e580535d7ea6803",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "38",
     "price": {
       "amount": "50.0",
       "currency": "PLN",
@@ -2296,11 +2200,107 @@
       "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 92504917,
-      "username": "akondrackaa",
-      "profile": "https://www.vinted.pl/member/92504917-akondrackaa",
-      "profilePicture": "https://images1.vinted.net/t/03_02524_PJGauJY9JrPYcx57nQaYKRDE/f800/1692362534.jpeg?s=c0cb83c42dbb32f84e6116dcdc3d660ea18b9bca"
+      "userId": 217396069,
+      "username": "malpimarynarz",
+      "profile": "https://www.vinted.pl/member/217396069-malpimarynarz",
+      "profilePicture": null
     },
-    "category": 5
+    "category": "Men"
+  },
+  {
+    "productId": 4938028301,
+    "title": "Adidas alternative",
+    "url": "https://www.vinted.pl/items/4938028301-adidas-alternative",
+    "image": "https://images1.vinted.net/tc/02_01c68_vMueMi1qMdSKSAgxdFGctprr/1724603389.jpeg?s=a2ee439f3ada5f96a465d02ba19bb3b0aa05f2a1",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "39,5",
+    "price": {
+      "amount": "9.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.15",
+      "totalAmount": "10.15"
+    },
+    "seller": {
+      "userId": 90643301,
+      "username": "0jasia0",
+      "profile": "https://www.vinted.pl/member/90643301-0jasia0",
+      "profilePicture": "https://images1.vinted.net/t/02_0108a_2ArS8kcvNPTnMwPFGPgHxYew/f800/1652715271.jpeg?s=482be8c5a355f1e37cb261376a03c8e69319c25e"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938027767,
+    "title": "Buty męskie Nike 44 stan bardzo dobry",
+    "url": "https://www.vinted.pl/items/4938027767-buty-meskie-nike-44-stan-bardzo-dobry",
+    "image": "https://images1.vinted.net/tc/03_0137f_SeEdy5x7cYyWp6C4LUyjRono/1724603385.jpeg?s=6d363eba357247d27e0506f9fe82efdc9053f36d",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "44",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 136829058,
+      "username": "okazje_od_wandy",
+      "profile": "https://www.vinted.pl/member/136829058-okazjeodwandy",
+      "profilePicture": "https://images1.vinted.net/t/02_00b01_ECSCUrekwwPP4PiF1FcB9erF/f800/1679230912.jpeg?s=eb138229515600e239f5d92031297c0d0311ea17"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938027351,
+    "title": "spodnie nike",
+    "url": "https://www.vinted.pl/items/4938027351-spodnie-nike",
+    "image": "https://images1.vinted.net/tc/02_01390_CW1YyPwEJGfcNMkSSVomWyxe/1724603382.jpeg?s=a847513bcb8493bd2715ad7ebf0e37f8a0b07971",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 97423739,
+      "username": "pawel44969",
+      "profile": "https://www.vinted.pl/member/97423739-pawel44969",
+      "profilePicture": "https://images1.vinted.net/t/03_01a09_9Ead9MFxBfMrD9WiwvRmhU7k/f800/1655553464.jpeg?s=fcd3f709c371c3560a2b5b19e4e1ae2c1a5d82c8"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938025532,
+    "title": "Tshirt adidas 90s 00s vintage og rap hip hop retro jersey",
+    "url": "https://www.vinted.pl/items/4938025532-tshirt-adidas-90s-00s-vintage-og-rap-hip-hop-retro-jersey",
+    "image": "https://images1.vinted.net/tc/02_01069_dZ1NY5Yo39m6SexrK27EVfBG/1724603369.jpeg?s=fa043830f493b321c9ef0b79d5999b8226b081ef",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "60.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.7",
+      "totalAmount": "63.7"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
   }
 ]

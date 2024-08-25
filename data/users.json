@@ -1,0 +1,117 @@
+{
+  "339637034": {
+    "chatId": 339637034,
+    "firstName": "愛",
+    "lastName": "",
+    "username": "furmo",
+    "plan": "admin",
+    "banned": false,
+    "isAdmin": true,
+    "customFilters": {
+      "Stüssy + Men + 100": {
+        "brand": "Stüssy",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Supreme + Men + 100": {
+        "brand": "Supreme",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Carhartt + Outerwear + 100": {
+        "brand": "Carhartt",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Outerwear",
+        "keywords": []
+      },
+      "Fear Of God + Men + 100": {
+        "brand": "Fear Of God",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Ralph Lauren + Men + 50": {
+        "brand": "Ralph Lauren",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "50",
+        "category": "Men",
+        "keywords": []
+      },
+      "C.P. Company + Men + 150": {
+        "brand": "C.P. Company",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "150",
+        "category": "Men",
+        "keywords": []
+      }
+    }
+  },
+  "482802934": {
+    "chatId": 482802934,
+    "firstName": "Анна",
+    "lastName": "Дембіцька",
+    "username": "ann_dembitska",
+    "plan": "baron",
+    "banned": false,
+    "isAdmin": false,
+    "customFilters": {}
+  },
+  "778831833": {
+    "chatId": 778831833,
+    "firstName": "Ваня и ваня",
+    "lastName": "",
+    "username": "borovoyis",
+    "plan": "baron",
+    "banned": false,
+    "isAdmin": false,
+    "customFilters": {}
+  }
+}
