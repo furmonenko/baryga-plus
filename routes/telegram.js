@@ -15,6 +15,7 @@ const {
     showFiltersInfo
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
+const {handleRestartServerCommand} = require("../utils/adminCommands");
 
 router.post('/webhook', async (req, res) => {
     const { message, callback_query } = req.body;
@@ -76,7 +77,7 @@ router.post('/webhook', async (req, res) => {
                 if (isAdmin) {
                     switch (command) {
                         case '/changeplan':
-                            UserManager.setPlan(arg1, arg2);
+                            await UserManager.setPlan(arg1, arg2);
                             await sendLoggedMessage(chatId, `Plan changed for ${arg1} to ${arg2}`);
                             break;
                         case '/ban':
@@ -86,6 +87,9 @@ router.post('/webhook', async (req, res) => {
                         case '/unban':
                             UserManager.unbanUser(parseInt(arg1));
                             await sendLoggedMessage(chatId, `User with chatId ${arg1} has been unbanned`);
+                            break;
+                        case '/restart_server':
+                            await handleRestartServerCommand(user);
                             break;
                         default:
                             await sendLoggedMessage(chatId, 'Unknown command.');

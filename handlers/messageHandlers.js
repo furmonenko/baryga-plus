@@ -397,8 +397,8 @@ async function showNextFilterMenu(user) {
             inline_keyboard: [
                 [{ text: 'Start Searching', callback_data: 'continue_search' }], // Додано кнопку для старту пошуку
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
-                [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
                 [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
+                [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
         }

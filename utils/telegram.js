@@ -102,5 +102,6 @@ module.exports = {
     setBotCommands,
     sendLoggedPhoto,
     clearChat,
-    sendLoggedMessage
+    sendLoggedMessage,
+    sendTelegramMessage
 };

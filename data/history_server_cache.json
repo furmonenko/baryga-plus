@@ -1,205 +1,13 @@
 [
   {
-    "productId": 4936262187,
-    "title": "Mega fajna męska czapka",
-    "url": "https://www.vinted.pl/items/4936262187-mega-fajna-meska-czapka",
-    "image": "https://images1.vinted.net/tc/01_00032_EWTPSMthomihA2hDfuE6u737/1724590646.jpeg?s=260a8201440f93549e825aa75079066fcea545a6",
+    "productId": 4938157091,
+    "title": "Bluza adidas",
+    "url": "https://www.vinted.pl/items/4938157091-bluza-adidas",
+    "image": "https://images1.vinted.net/tc/02_00f47_Zhzfx9gTo9zjP71J2V8s9tH7/1724604366.jpeg?s=497698efce39ffff62f32398d64506e07335c215",
     "promoted": false,
-    "favourites": 11,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "40.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
-    },
-    "seller": {
-      "userId": 187733672,
-      "username": "romario335566",
-      "profile": "https://www.vinted.pl/member/187733672-romario335566",
-      "profilePicture": "https://images1.vinted.net/t/03_00789_AtEfuzTyTPEkFaSpW4um6SNH/f800/1721925337.jpeg?s=9df85bb0e49b28151570f6ed10ff82a0557b500e"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4936047635,
-    "title": "Stüssy kapsa čierna",
-    "url": "https://www.vinted.pl/items/4936047635-stussy-kapsa-cierna",
-    "image": "https://images1.vinted.net/tc/01_0242a_WMXiFUsKD8UR3bqzh1qmAdwn/1724589002.jpeg?s=97afe51418371e62561894543cd787dac2bf4ae0",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "60.46",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.72",
-      "totalAmount": "64.18"
-    },
-    "seller": {
-      "userId": 151212778,
-      "username": "enzy8764",
-      "profile": "https://www.vinted.pl/member/151212778-enzy8764",
-      "profilePicture": "https://images1.vinted.net/t/03_00f78_UyfTN1b9bmJj7LMKCCkWchvU/f800/1710788916.jpeg?s=da23ad2e97b2ad025a3092971ea03f6e405bbb3d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4936021187,
-    "title": "Stüssy kapsa",
-    "url": "https://www.vinted.pl/items/4936021187-stussy-kapsa",
-    "image": "https://images1.vinted.net/tc/03_003dd_8FA9kbuRzEBPnJSWeqMARuPh/1724588797.jpeg?s=bbaa3720183abc32226b5847fad0bff17b9efb55",
-    "promoted": true,
-    "favourites": 1,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "60.46",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.72",
-      "totalAmount": "64.18"
-    },
-    "seller": {
-      "userId": 151212778,
-      "username": "enzy8764",
-      "profile": "https://www.vinted.pl/member/151212778-enzy8764",
-      "profilePicture": "https://images1.vinted.net/t/03_00f78_UyfTN1b9bmJj7LMKCCkWchvU/f800/1710788916.jpeg?s=da23ad2e97b2ad025a3092971ea03f6e405bbb3d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4935793561,
-    "title": "balta stussy maikute",
-    "url": "https://www.vinted.pl/items/4935793561-balta-stussy-maikute",
-    "image": "https://images1.vinted.net/tc/02_0194b_CYxysXbNRJ5cdMJYEj67aVqb/1724589608.jpeg?s=15127d05525fe3eed658584529a967ac09c6036f",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "XS",
-    "price": {
-      "amount": "95.01",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.45",
-      "totalAmount": "100.46"
-    },
-    "seller": {
-      "userId": 194284982,
-      "username": "emilis.ba",
-      "profile": "https://www.vinted.pl/member/194284982-emilisba",
-      "profilePicture": "https://images1.vinted.net/t/02_01770_QRbyefVdKLQXRXNzhHoXwq7B/f800/1722768818.jpeg?s=dbc6caefcb317ecc281a1dba77fe6e20d8a57baa"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4935413624,
-    "title": "Stüssy 90s T-shirt",
-    "url": "https://www.vinted.pl/items/4935413624-stussy-90s-t-shirt",
-    "image": "https://images1.vinted.net/tc/03_0057f_YQM9k6FVuqXAhMgGFLHYtauY/1724583740.jpeg?s=b6afecf18ce382a1c68380089f7849771e0376a0",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "M",
-    "price": {
-      "amount": "75.79",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.49",
-      "totalAmount": "80.28"
-    },
-    "seller": {
-      "userId": 224197917,
-      "username": "itsjustchanisara",
-      "profile": "https://www.vinted.pl/member/224197917-itsjustchanisara",
-      "profilePicture": "https://images1.vinted.net/t/01_00444_KnEYcf461kPdsQmhV1sB2WJy/f800/1724361072.jpeg?s=015a40784da5ac41e9348e3b603bd6ada85f1a16"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4935395262,
-    "title": "Čierna stussy kapsa",
-    "url": "https://www.vinted.pl/items/4935395262-cierna-stussy-kapsa",
-    "image": "https://images1.vinted.net/tc/02_007da_3znDvSvRuaG3NKTh8bDwLJCZ/1724583581.jpeg?s=67cf54bf5303c0c600d5d82b39b1490c856291be",
-    "promoted": false,
-    "favourites": 22,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "60.46",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.72",
-      "totalAmount": "64.18"
-    },
-    "seller": {
-      "userId": 151212778,
-      "username": "enzy8764",
-      "profile": "https://www.vinted.pl/member/151212778-enzy8764",
-      "profilePicture": "https://images1.vinted.net/t/03_00f78_UyfTN1b9bmJj7LMKCCkWchvU/f800/1710788916.jpeg?s=da23ad2e97b2ad025a3092971ea03f6e405bbb3d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4935334095,
-    "title": "Stüssy vintage T-shirt 90s",
-    "url": "https://www.vinted.pl/items/4935334095-stussy-vintage-t-shirt-90s",
-    "image": "https://images1.vinted.net/tc/02_0243d_cqEdnWz2RZWCYdz2jfniQAgL/1724583052.jpeg?s=912fcbb4ed8ff125cc13224ab81202df3c40a847",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "94.74",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.44",
-      "totalAmount": "100.18"
-    },
-    "seller": {
-      "userId": 224197917,
-      "username": "itsjustchanisara",
-      "profile": "https://www.vinted.pl/member/224197917-itsjustchanisara",
-      "profilePicture": "https://images1.vinted.net/t/01_00444_KnEYcf461kPdsQmhV1sB2WJy/f800/1724361072.jpeg?s=015a40784da5ac41e9348e3b603bd6ada85f1a16"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4934547853,
-    "title": "stüssy t shirt",
-    "url": "https://www.vinted.pl/items/4934547853-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/01_02630_kM4eU45D2rXtT8oRiKVXdtva/1724575949.jpeg?s=4a30352a745ed84288842ffee6b795c8b8d1e295",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "94.74",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.44",
-      "totalAmount": "100.18"
-    },
-    "seller": {
-      "userId": 182821680,
-      "username": "hedvigggg",
-      "profile": "https://www.vinted.pl/member/182821680-hedvigggg",
-      "profilePicture": "https://images1.vinted.net/t/01_00dd5_oYNTxa6sXymo8X7wg4yA8C2r/f800/1724152652.jpeg?s=5d39c4e8d5308c500803943bd43f1a08256f76af"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4933287626,
-    "title": "Stüssy koszulka T-shirt",
-    "url": "https://www.vinted.pl/items/4933287626-stussy-koszulka-t-shirt",
-    "image": "https://images1.vinted.net/tc/01_0147b_sy8tqfKvQMwxdv6bPLErnyCh/1724524621.jpeg?s=62deb112cfd30133f7ee494fa153b348ad815be9",
-    "promoted": false,
-    "favourites": 19,
-    "brand": "Stüssy",
-    "size": "S",
     "price": {
       "amount": "50.0",
       "currency": "PLN",
@@ -208,190 +16,142 @@
       "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 91076121,
-      "username": "kuukokunokyooon",
-      "profile": "https://www.vinted.pl/member/91076121-kuukokunokyooon",
-      "profilePicture": "https://images1.vinted.net/t/03_010c9_s1wVrFu414JjmNkBmhqGXUQR/f800/1719643150.jpeg?s=b714c10116fc6437de94c6dda0dc8d7073f80d1a"
+      "userId": 93236483,
+      "username": "natka280795",
+      "profile": "https://www.vinted.pl/member/93236483-natka280795",
+      "profilePicture": "https://images1.vinted.net/t/03_01622_Rp8Jsdj2h5tts2yUmJ9YvLD6/f800/1653319481.jpeg?s=17bacccd2b2bdeb1c23f6c5aed6ed82596c6d9b2"
     },
     "category": "Men"
   },
   {
-    "productId": 4933273440,
-    "title": "Koszulka Stussy",
-    "url": "https://www.vinted.pl/items/4933273440-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/03_00b32_gkEaNjRoGwDLPmMRSNaYwXXB/1724524404.jpeg?s=4c80cd0a2843699f3782a628974375da1441761c",
+    "productId": 4938155604,
+    "title": "adidas baby tee",
+    "url": "https://www.vinted.pl/items/4938155604-adidas-baby-tee",
+    "image": "https://images1.vinted.net/tc/01_013e7_A4CudDSeGAGBpeHhDrXwzgnD/1724604354.jpeg?s=55d66f24f34de2812d61fd751427ed627da3fcc1",
     "promoted": false,
-    "favourites": 9,
-    "brand": "Stüssy",
-    "size": "L",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XS",
     "price": {
-      "amount": "90.0",
+      "amount": "10.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.2",
-      "totalAmount": "95.2"
+      "fees": "1.2",
+      "totalAmount": "11.2"
     },
     "seller": {
-      "userId": 208224176,
-      "username": "bunzii",
-      "profile": "https://www.vinted.pl/member/208224176-bunzii",
-      "profilePicture": "https://images1.vinted.net/t/02_006b3_rFvbMXi5HfhNTb4a3LT9v8jc/f800/1716995468.jpeg?s=07a69e7daf4acefba167b55e91a9944a04a4b10a"
+      "userId": 99361000,
+      "username": "wiochadocha",
+      "profile": "https://www.vinted.pl/member/99361000-wiochadocha",
+      "profilePicture": "https://images1.vinted.net/t/03_00cb5_gavzwNA2RN1A2ggA9JdN1RiP/f800/1713898772.jpeg?s=3e5b0073cd7229e2902e32c75c0934450bc62f60"
     },
     "category": "Men"
   },
   {
-    "productId": 4932847434,
-    "title": "Szűkre stüssy póló",
-    "url": "https://www.vinted.pl/items/4932847434-szukre-stussy-polo",
-    "image": "https://images1.vinted.net/tc/03_01b7a_ecXmaj3Mqb5X6kUAe2FhA9kq/1724518880.jpeg?s=989b1000df482c5bdaf1ef50eae363832deeb868",
+    "productId": 4938155427,
+    "title": "Nike mellény",
+    "url": "https://www.vinted.pl/items/4938155427-nike-melleny",
+    "image": "https://images1.vinted.net/tc/02_01f06_MAXTWa6TExype4JMZuYkE5p3/1724604352.jpeg?s=1d8416a807455f91780dfc61b3f58b9e16fffe97",
     "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "49.44",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.17",
+      "totalAmount": "52.61"
+    },
+    "seller": {
+      "userId": 223668772,
+      "username": "polzt2024",
+      "profile": "https://www.vinted.pl/member/223668772-polzt2024",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938155218,
+    "title": "Spodnie dresowe Nike",
+    "url": "https://www.vinted.pl/items/4938155218-spodnie-dresowe-nike",
+    "image": "https://images1.vinted.net/tc/01_008c6_NKuP9nfLeX1rfpVZMh6AySXE/1724604351.jpeg?s=898cc64edeea9bf9657766e910e03639564afaee",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
     "size": "S",
     "price": {
-      "amount": "65.92",
+      "amount": "55.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.0",
-      "totalAmount": "69.92"
+      "fees": "3.45",
+      "totalAmount": "58.45"
     },
     "seller": {
-      "userId": 120254008,
-      "username": "virgonc111",
-      "profile": "https://www.vinted.pl/member/120254008-virgonc111",
-      "profilePicture": "https://images1.vinted.net/t/01_023d1_PmNdidMBEq288ZBqwSJeTVB5/f800/1721040534.jpeg?s=bd099bf466404327dbf98d1c94dbe50f086b5e37"
+      "userId": 223170714,
+      "username": "damiann_11",
+      "profile": "https://www.vinted.pl/member/223170714-damiann11",
+      "profilePicture": "https://images1.vinted.net/t/01_004b4_C6m6sgQeqYwJ4ovEbH6hnTJr/f800/1723987071.jpeg?s=38b5c630a007d37009faeb233bc5063a24ce559b"
     },
     "category": "Men"
   },
   {
-    "productId": 4932433006,
-    "title": "Tshirt stussy wave",
-    "url": "https://www.vinted.pl/items/4932433006-tshirt-stussy-wave",
-    "image": "https://images1.vinted.net/tc/02_004e7_ri9k6FkuRsxeRyJFnUgHr8yS/1724514668.jpeg?s=caaed360e548581cd3f2308c2dcd250ee8fb818a",
+    "productId": 4938154334,
+    "title": "Koszula adidas",
+    "url": "https://www.vinted.pl/items/4938154334-koszula-adidas",
+    "image": "https://images1.vinted.net/tc/03_0113b_gjb5tDpYUx4UZoKe7x8iTHFY/1724604344.jpeg?s=1491262cc042fd91d022259eef76a01cf2e767db",
     "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
-    "size": "M",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
     "price": {
-      "amount": "80.0",
+      "amount": "55.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
+      "fees": "3.45",
+      "totalAmount": "58.45"
     },
     "seller": {
-      "userId": 73586847,
-      "username": "wisnia355",
-      "profile": "https://www.vinted.pl/member/73586847-wisnia355",
-      "profilePicture": "https://images1.vinted.net/t/01_00c46_45ARJRoZ4tF5hKg5odNwVP2r/f800/1714058619.jpeg?s=4bd34508ec145a64533afb4f2caa2eda4a6ae496"
+      "userId": 134291114,
+      "username": "bradek_777",
+      "profile": "https://www.vinted.pl/member/134291114-bradek777",
+      "profilePicture": "https://images1.vinted.net/t/03_00533_KjtYwpDBgeQfNBH5v7deU1kg/f800/1698348947.jpeg?s=89861b19441a2d58e05e6d1c07c527491133a63a"
     },
     "category": "Men"
   },
   {
-    "productId": 4930595144,
-    "title": "Stussy full cap size S-M",
-    "url": "https://www.vinted.pl/items/4930595144-stussy-full-cap-size-s-m",
-    "image": "https://images1.vinted.net/tc/02_0199c_43BF6r8126EaqbTmAPeswSKt/1724497274.jpeg?s=be0183b7bf67926935327864014673b97e9b7160",
+    "productId": 4938152789,
+    "title": "Nike tee",
+    "url": "https://www.vinted.pl/items/4938152789-nike-tee",
+    "image": "https://images1.vinted.net/tc/01_0042f_VM8wYaX95Z1cazMiD9uS9SSs/1724604332.jpeg?s=d4154bc87c386120cecc26a48b48201a4c67a649",
     "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "65.08",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.95",
-      "totalAmount": "69.03"
-    },
-    "seller": {
-      "userId": 184784488,
-      "username": "super_thrifty",
-      "profile": "https://www.vinted.pl/member/184784488-superthrifty",
-      "profilePicture": "https://images1.vinted.net/t/03_0215c_1KiWUwbc6DYhtfyEVoYtjLBy/f800/1723471973.jpeg?s=7c5c98a583b9b5f7588531f40e5bd5b1d2989bdd"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4931191066,
-    "title": "Stüssy T-Shirt 💜🦄",
-    "url": "https://www.vinted.pl/items/4931191066-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/03_00d66_VzSWeSC2bafdnHpiuJPLabFT/1724503183.jpeg?s=bf2890d2340349a3bc38371245f41f3549a3bd7d",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "Nike",
     "size": "L",
     "price": {
-      "amount": "86.37",
+      "amount": "34.55",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
+      "fees": "2.43",
+      "totalAmount": "36.98"
     },
     "seller": {
-      "userId": 185784001,
-      "username": "antan3l",
-      "profile": "https://www.vinted.pl/member/185784001-antan3l",
-      "profilePicture": "https://images1.vinted.net/t/02_00571_wmQsjcnQi5VYMrCppaieUvXn/f800/1716015945.jpeg?s=babc544358ee92b5c8e76ac7de19b539e697015d"
+      "userId": 177999655,
+      "username": "egleli1",
+      "profile": "https://www.vinted.pl/member/177999655-egleli1",
+      "profilePicture": "https://images1.vinted.net/t/01_00f2f_5QqBiXmimV2ncXA5rcw6oyNZ/f800/1702838339.jpeg?s=90690ac1c217fd6f9d5b1d9714c9730a0a3b8c49"
     },
     "category": "Men"
   },
   {
-    "productId": 4926760086,
-    "title": "Stussy Vintage Troops Sling bag",
-    "url": "https://www.vinted.pl/items/4926760086-stussy-vintage-troops-sling-bag",
-    "image": "https://images1.vinted.net/tc/01_00f57_ZK49NAzoS6giktsWB2LcGCgo/1724416865.jpeg?s=be14ded71f7a6dcde402eed88390308e006e1b7a",
+    "productId": 4938152559,
+    "title": "Buty nike flex experience rn 10",
+    "url": "https://www.vinted.pl/items/4938152559-buty-nike-flex-experience-rn-10",
+    "image": "https://images1.vinted.net/tc/02_00d45_QzG3khTqP8fa6PAkJmat2QYb/1724604330.jpeg?s=3be7eeda3cc8cf80b02d0b36c166aba42b6cac61",
     "promoted": false,
-    "favourites": 64,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 213782867,
-      "username": "legendar04ka",
-      "profile": "https://www.vinted.pl/member/213782867-legendar04ka",
-      "profilePicture": "https://images1.vinted.net/t/02_01fcc_aSH6pGi72jrRVp3W94eQG1Th/f800/1719342983.jpeg?s=060e91280e64cf571275f3d11471b99f28085f28"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4930102631,
-    "title": "Beanies",
-    "url": "https://www.vinted.pl/items/4930102631-beanies",
-    "image": "https://images1.vinted.net/tc/03_01827_BYQJuNXk5igvhVnkVvrN6wr6/1724492136.jpeg?s=f3eec72caff0369c28d67ee1da244002b2f4dc63",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "86.82",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.04",
-      "totalAmount": "91.86"
-    },
-    "seller": {
-      "userId": 168579361,
-      "username": "vito0400",
-      "profile": "https://www.vinted.pl/member/168579361-vito0400",
-      "profilePicture": "https://images1.vinted.net/t/01_01259_TPnXs68z2q8AVg64LsK7Cq5U/f800/1699949773.jpeg?s=0884eda4ffe2797d9a43454753b2926a38b3fcf3"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4929688155,
-    "title": "Bluza Stussy",
-    "url": "https://www.vinted.pl/items/4929688155-bluza-stussy",
-    "image": "https://images1.vinted.net/tc/02_00b4d_YGsNSiaQdoXVtd9MzpVBku1j/1724486751.jpeg?s=69a6d1358f24ba8320dec62c40aa398e52e3acf1",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "L",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
     "price": {
       "amount": "60.0",
       "currency": "PLN",
@@ -400,502 +160,70 @@
       "totalAmount": "63.7"
     },
     "seller": {
-      "userId": 92990213,
-      "username": "furmixelo",
-      "profile": "https://www.vinted.pl/member/92990213-furmixelo",
-      "profilePicture": "https://images1.vinted.net/t/03_016c7_iDxeHJREzGi5rqY3M9REhm2Q/f800/1667497461.jpeg?s=b3bdd31e7695b3c2db1c7c03fa18ba73459d7bab"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4920478778,
-    "title": "Bluza Stussy",
-    "url": "https://www.vinted.pl/items/4920478778-bluza-stussy",
-    "image": "https://images1.vinted.net/tc/02_000bf_6aSatsFCpmeMyo7onyFKM6Zj/1724308399.jpeg?s=64830116b952b8df2df392926b8f3d240508fec2",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "99.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
-    },
-    "seller": {
-      "userId": 222432213,
-      "username": "flaming9904",
-      "profile": "https://www.vinted.pl/member/222432213-flaming9904",
-      "profilePicture": "https://images1.vinted.net/t/03_00d91_J9etfmzUKrjtttXe4jgVDXQP/f800/1723628577.jpeg?s=3514d5719b42dea63c2a782204acf623880178be"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4929336012,
-    "title": "zielona czapka z daszkiem kaszkiet kaszkietka stussy oryginalna biały napis",
-    "url": "https://www.vinted.pl/items/4929336012-zielona-czapka-z-daszkiem-kaszkiet-kaszkietka-stussy-oryginalna-bialy-napis",
-    "image": "https://images1.vinted.net/tc/02_00aef_XqKLY8SngDwyG36Nu6fgXb6k/1724460184.jpeg?s=f73e9dffa54c998f7725c6e3cb6d78bdec32f516",
-    "promoted": false,
-    "favourites": 9,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 91567505,
-      "username": "jolusiaczek",
-      "profile": "https://www.vinted.pl/member/91567505-jolusiaczek",
-      "profilePicture": "https://images1.vinted.net/t/03_01e7a_LiQoKyZGvZLxcawhmcnW7Voi/f800/1723137654.jpeg?s=7f6a45daeb3066c63ddbe5a6ec0d7aace75d916b"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4929243119,
-    "title": "Papierowa torebka Stussy",
-    "url": "https://www.vinted.pl/items/4929243119-papierowa-torebka-stussy",
-    "image": "https://images1.vinted.net/tc/02_00640_2ZWcWLveouMhyRCaAboWXU4m/1724451435.jpeg?s=9b7207fa94f6d9f00aabdb73fec83a4cecb5c613",
-    "promoted": false,
-    "favourites": 12,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "20.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.7",
-      "totalAmount": "21.7"
-    },
-    "seller": {
-      "userId": 91471419,
-      "username": "kacperrrr1",
-      "profile": "https://www.vinted.pl/member/91471419-kacperrrr1",
-      "profilePicture": "https://images1.vinted.net/t/02_02546_dCgWPMszKB4QLgfy86g7vXzA/f800/1663017521.jpeg?s=879ae221185c11ec77b0396dfff209e15366c52d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4929150795,
-    "title": "czapka stussy stock logo (onesize)",
-    "url": "https://www.vinted.pl/items/4929150795-czapka-stussy-stock-logo-onesize",
-    "image": "https://images1.vinted.net/tc/03_00280_ZdcwwBxb77cUDwgLYp1cbXg6/1724447895.jpeg?s=94272646c249e3ba4a249753460f737fd8ae1011",
-    "promoted": false,
-    "favourites": 66,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 91740456,
-      "username": "chief4550",
-      "profile": "https://www.vinted.pl/member/91740456-chief4550",
-      "profilePicture": "https://images1.vinted.net/t/01_0132b_GDXQS8XPW7XPDANARW16XsED/f800/1723328269.jpeg?s=e0bd7c8c84946736e3ff351ebcee8f3398efe03d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4928679304,
-    "title": "Stussy 90's Vintage Big Logo T-Shirt Y2K Hype Drill Gorpcore",
-    "url": "https://www.vinted.pl/items/4928679304-stussy-90s-vintage-big-logo-t-shirt-y2k-hype-drill-gorpcore",
-    "image": "https://images1.vinted.net/tc/01_00e3f_hNtbSpqxQg76sAbxiCY1uhU4/1724438396.jpeg?s=29277d769ba0dff04d29db129c39878e99b7a974",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 129496340,
-      "username": "annahrytsai",
-      "profile": "https://www.vinted.pl/member/129496340-annahrytsai",
-      "profilePicture": "https://images1.vinted.net/t/03_0182f_BZnp5dSUDyvm7DycYa5W2jaH/f800/1721950283.jpeg?s=fd9f65df8491df1d2434d1803df7389868f6e70f"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4928082420,
-    "title": "Stüssy tee",
-    "url": "https://www.vinted.pl/items/4928082420-stussy-tee",
-    "image": "https://images1.vinted.net/tc/02_00c64_6qHFyBhFq3yR3KBSdgBercS7/1724430510.jpeg?s=d4c8f3d5e1e0fc0878f9944bcafb0740ad313021",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "87.9",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.1",
-      "totalAmount": "93.0"
-    },
-    "seller": {
-      "userId": 163925026,
-      "username": "schjano",
-      "profile": "https://www.vinted.pl/member/163925026-schjano",
-      "profilePicture": "https://images1.vinted.net/t/01_017c0_GqV3p99C5NX5VJ5UwyXMQgpk/f800/1696067205.jpeg?s=b620d90da5b6a3a1fcefbcf9856b4f3808ee2bf7"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4927877614,
-    "title": "Stüssy bucket hat",
-    "url": "https://www.vinted.pl/items/4927877614-stussy-bucket-hat",
-    "image": "https://images1.vinted.net/tc/01_00378_7tBsj4JD2HhjFDBec6B4rgeS/1724428263.jpeg?s=e25ef33778838ff80a02a0c1f7e868543abe2ece",
-    "promoted": true,
-    "favourites": 17,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "86.37",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
-    },
-    "seller": {
-      "userId": 215811866,
-      "username": "hotgirlslovevintage",
-      "profile": "https://www.vinted.pl/member/215811866-hotgirlslovevintage",
-      "profilePicture": "https://images1.vinted.net/t/01_02189_Py9XfdfgcxZNZ78K6Zb1c8Qm/f800/1724426704.jpeg?s=97241e91167efe2153295d8131e4c95b75917a80"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4927454602,
-    "title": "Koszulka Tee Stussy New York",
-    "url": "https://www.vinted.pl/items/4927454602-koszulka-tee-stussy-new-york",
-    "image": "https://images1.vinted.net/tc/03_01828_fBx85mgkxKZFmM2toY7j8riD/1724423856.jpeg?s=021e1978afeba8bb224abff32eca30d92617dbbe",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 193806069,
-      "username": "vintagestuff777",
-      "profile": "https://www.vinted.pl/member/193806069-vintagestuff777",
+      "userId": 90572167,
+      "username": "mrut97",
+      "profile": "https://www.vinted.pl/member/90572167-mrut97",
       "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4926463155,
-    "title": "stüssy zimní čepice",
-    "url": "https://www.vinted.pl/items/4926463155-stussy-zimni-cepice",
-    "image": "https://images1.vinted.net/tc/02_00dcc_8UaGCrHGrSCrH4r8JDL3CmAH/1724413757.jpeg?s=af6b303d5d3ba0175ca5c4f604f169ee1f702c79",
+    "productId": 4938152095,
+    "title": "hjk hjk",
+    "url": "https://www.vinted.pl/items/4938152095-hjk-hjk",
+    "image": "https://images1.vinted.net/tc/03_01784_67vEzQVQdv9gboXogKraBkki/1724604326.jpeg?s=3e6a5c9476cc347fc436e14429e89d77970b77e3",
     "promoted": false,
-    "favourites": 65,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
     "price": {
-      "amount": "60.33",
+      "amount": "1.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.72",
-      "totalAmount": "64.05"
+      "fees": "0.75",
+      "totalAmount": "1.75"
     },
     "seller": {
-      "userId": 75256715,
-      "username": "aliceleheckova01",
-      "profile": "https://www.vinted.pl/member/75256715-aliceleheckova01",
-      "profilePicture": "https://images1.vinted.net/t/01_013df_aBiviAYTbmQiSAZRJ6mH2UeM/f800/1692703583.jpeg?s=8bd8c290998a06f9d5c2b2101016b3173f29ae77"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4926309706,
-    "title": "Stussy",
-    "url": "https://www.vinted.pl/items/4926309706-stussy",
-    "image": "https://images1.vinted.net/tc/01_003c9_R5AzigjBvLjz49MtiUifRMn9/1724412064.jpeg?s=5227e02d1bb30ef9e2583a5e60a9fd815df10894",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "68.21",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.11",
-      "totalAmount": "72.32"
-    },
-    "seller": {
-      "userId": 180365022,
-      "username": "wiiktor",
-      "profile": "https://www.vinted.pl/member/180365022-wiiktor",
-      "profilePicture": "https://images1.vinted.net/t/03_022ad_SuyCMhMgpExGrQSVqhsR6A9t/f800/1705348609.jpeg?s=3f12a0c7b7f68990128ba6a8b1a820ab64988303"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4925459817,
-    "title": "Bucket hat stussy black",
-    "url": "https://www.vinted.pl/items/4925459817-bucket-hat-stussy-black",
-    "image": "https://images1.vinted.net/tc/02_0072a_uDmzF4NFtNEjCbjnPrj3r4ab/1724402229.jpeg?s=f7dd4d41389ccb8966124b2fc79314972f8a957e",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 142798393,
-      "username": "my.cool_items",
-      "profile": "https://www.vinted.pl/member/142798393-mycoolitems",
+      "userId": 224027369,
+      "username": "wwxqdrlsxm",
+      "profile": "https://www.vinted.pl/member/224027369-wwxqdrlsxm",
       "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4922339963,
-    "title": "Stussy tričko",
-    "url": "https://www.vinted.pl/items/4922339963-stussy-tricko",
-    "image": "https://images1.vinted.net/tc/02_01fc5_uEY6MtbihK69sszsCfgZyEYq/1724332126.jpeg?s=22b6e3ddb4922bd24eae6b605f058eaca79477a8",
+    "productId": 4938151794,
+    "title": "Koszulka piłkarska Bayern Monachium",
+    "url": "https://www.vinted.pl/items/4938151794-koszulka-pilkarska-bayern-monachium",
+    "image": "https://images1.vinted.net/tc/02_013bf_nGgQuLdyhwA5x9rmCztNT96k/1724604324.jpeg?s=89129dab79c1964fbff4162396787ecbb0367c54",
     "promoted": false,
-    "favourites": 28,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "86.19",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.01",
-      "totalAmount": "91.2"
-    },
-    "seller": {
-      "userId": 129639965,
-      "username": "matusmachek",
-      "profile": "https://www.vinted.pl/member/129639965-matusmachek",
-      "profilePicture": "https://images1.vinted.net/t/02_0231a_xfeg9pXbuRfMrXzg1MGRhcbe/f800/1719260058.jpeg?s=7954fd2cfd50f19ac34ba168d824ea6d55cc8a56"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4922128014,
-    "title": "Stussy navy blue t-shirt",
-    "url": "https://www.vinted.pl/items/4922128014-stussy-navy-blue-t-shirt",
-    "image": "https://images1.vinted.net/tc/02_01e3c_voYsfCzwFWaaRmLETAFakfQT/1724430901.jpeg?s=45b9cdf1546cecbaaac55851554210895599d74b",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "90.0",
+      "amount": "30.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.2",
-      "totalAmount": "95.2"
+      "fees": "2.2",
+      "totalAmount": "32.2"
     },
     "seller": {
-      "userId": 175203395,
-      "username": "bogac1",
-      "profile": "https://www.vinted.pl/member/175203395-bogac1",
-      "profilePicture": "https://images1.vinted.net/t/03_016a3_csXXa1ynC1AGhcqW8m4B6qCw/f800/1724236541.jpeg?s=7745022ce694aa8ef43d04c5f7a7e9c97e768a0b"
+      "userId": 190609059,
+      "username": "maldini3231",
+      "profile": "https://www.vinted.pl/member/190609059-maldini3231",
+      "profilePicture": "https://images1.vinted.net/t/01_01c69_WubGhRdbpruyeK9QFmp3tP1P/f800/1717144452.jpeg?s=e701c83050a10c0e038482e70d81657faacc9415"
     },
     "category": "Men"
   },
   {
-    "productId": 4921723030,
-    "title": "Stüssy M",
-    "url": "https://www.vinted.pl/items/4921723030-stussy-m",
-    "image": "https://images1.vinted.net/tc/03_0096e_ug9UD9tbKNh45J16ZHtXv3ns/1724325792.jpeg?s=7cd90654b307c6a93af830554f154547629c0f4c",
+    "productId": 4938148472,
+    "title": "Adidas retro med lynlås",
+    "url": "https://www.vinted.pl/items/4938148472-adidas-retro-med-lynlas",
+    "image": "https://images1.vinted.net/tc/03_00131_XPDA6nSnp8niQNzitDB8nLdQ/1724604298.jpeg?s=c37cddf5ba59ebf13122d48b3f28c45ff07e09a1",
     "promoted": false,
-    "favourites": 10,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "M",
-    "price": {
-      "amount": "87.9",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.1",
-      "totalAmount": "93.0"
-    },
-    "seller": {
-      "userId": 113723924,
-      "username": "krisztinasike",
-      "profile": "https://www.vinted.pl/member/113723924-krisztinasike",
-      "profilePicture": null
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4921675749,
-    "title": "koszulka stussy",
-    "url": "https://www.vinted.pl/items/4921675749-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/03_02232_geSdLhajtvaBBGNpjcsNu4Jb/1724325286.jpeg?s=fd2d14e65a5a25080fd20e25dfcb86cc74ce8aa3",
-    "promoted": false,
-    "favourites": 73,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 198682361,
-      "username": "3vxrchi",
-      "profile": "https://www.vinted.pl/member/198682361-3vxrchi",
-      "profilePicture": "https://images1.vinted.net/t/03_00b2a_HpGvzoQ1ZiWd1r98acdweqk4/f800/1712968805.jpeg?s=4b7c418acde61935f90a706b0f7a565a2431e81b"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4921642949,
-    "title": "Stüssy",
-    "url": "https://www.vinted.pl/items/4921642949-stussy",
-    "image": "https://images1.vinted.net/tc/01_0225f_J8JYFr2zViC2BYFPwsoRmXDZ/1724324930.jpeg?s=0d8d26cd9d3169583509d7a2d9688740a5a9eb73",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "64.78",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.94",
-      "totalAmount": "68.72"
-    },
-    "seller": {
-      "userId": 98028086,
-      "username": "lenayyyyy",
-      "profile": "https://www.vinted.pl/member/98028086-lenayyyyy",
-      "profilePicture": "https://images1.vinted.net/t/01_008d3_1bupEebANStCX88DnWrTqTjs/f800/1681581376.jpeg?s=e2b90ff98f8f3c7d450a6c94238d298724bb8c3b"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4920922219,
-    "title": "Koszulka Stussy",
-    "url": "https://www.vinted.pl/items/4920922219-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/02_00ff3_hkszAnrcxftNwAKak7iT4E99/1724316947.jpeg?s=69164b509ee52551b1f19dfe799ee1b27d13254d",
-    "promoted": false,
-    "favourites": 11,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "99.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.69"
-    },
-    "seller": {
-      "userId": 201236024,
-      "username": "olgazhukov",
-      "profile": "https://www.vinted.pl/member/201236024-olgazhukov",
-      "profilePicture": "https://images1.vinted.net/t/02_0032d_D7CUtPEZ5zbpUQuohm3jjB9n/f800/1714254377.jpeg?s=5b6a6c59a5c6c6c38630f66e6a17ed35fbc4b7dc"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4920675645,
-    "title": "Stussy tshirt",
-    "url": "https://www.vinted.pl/items/4920675645-stussy-tshirt",
-    "image": "https://images1.vinted.net/tc/01_00e20_1GwpZJXsvkXV3vgjJLnMkRjK/1724313291.jpeg?s=cbd5fa3b843f26ce78053e796244d75d40cfd500",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "92.61",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.33",
-      "totalAmount": "97.94"
-    },
-    "seller": {
-      "userId": 166665190,
-      "username": "katj2151",
-      "profile": "https://www.vinted.pl/member/166665190-katj2151",
-      "profilePicture": "https://images1.vinted.net/t/03_02359_rWAL4tBEfjhkupKMTrCiSmAH/f800/1697457896.jpeg?s=1683b9cc6462fbe96b903087d824ede8de8fa2b0"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4920606666,
-    "title": "Stüssy nálepka smajlík emoji",
-    "url": "https://www.vinted.pl/items/4920606666-stussy-nalepka-smajlik-emoji",
-    "image": "https://images1.vinted.net/tc/02_01825_JJwhZXioPcFDYqRVqVFRixtd/1724311927.jpeg?s=dad67b112f958d0245a4fe36d74bf059ab733e68",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "21.55",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.78",
-      "totalAmount": "23.33"
-    },
-    "seller": {
-      "userId": 75799516,
-      "username": "vojtttik7",
-      "profile": "https://www.vinted.pl/member/75799516-vojtttik7",
-      "profilePicture": "https://images1.vinted.net/t/02_00b6a_bXeTUPds3mXKLkDtP1Nosc3b/f800/1638698460.jpeg?s=84da29a401a85fad541187ae9b9929105607ee2d"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4919647829,
-    "title": "Stussy tank top drip t-shirt koszulka y2k swag drip vintage style opium",
-    "url": "https://www.vinted.pl/items/4919647829-stussy-tank-top-drip-t-shirt-koszulka-y2k-swag-drip-vintage-style-opium",
-    "image": "https://images1.vinted.net/tc/03_017d2_CrKzoCw6B1w7dZvx4neXeg6H/1724266647.jpeg?s=67e6dd38270bc105998a08e08b0a4d0d191c1893",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
-    "size": "XXL",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 90675244,
-      "username": "maksch",
-      "profile": "https://www.vinted.pl/member/90675244-maksch",
-      "profilePicture": "https://images1.vinted.net/t/01_01cf9_sBAuYfQUx8tqCHrihHXa47Fx/f800/1710682690.jpeg?s=d8a1a268c1d9683518b18e9b7251ef059ff4a30f"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4919444152,
-    "title": "STUSSY bucket hat",
-    "url": "https://www.vinted.pl/items/4919444152-stussy-bucket-hat",
-    "image": "https://images1.vinted.net/tc/02_02488_QMEJppBeSpArc3LKjS8QptYW/1724264141.jpeg?s=2c7b3ccce14da682a1e0b64dd784f08e35840bc9",
-    "promoted": false,
-    "favourites": 15,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
     "price": {
       "amount": "57.88",
       "currency": "PLN",
@@ -904,813 +232,1077 @@
       "totalAmount": "61.47"
     },
     "seller": {
-      "userId": 166987322,
-      "username": "vitoriaabreuu",
-      "profile": "https://www.vinted.pl/member/166987322-vitoriaabreuu",
-      "profilePicture": "https://images1.vinted.net/t/03_00b2e_aQcqHx2W3Eof5GG53i13EkT1/f800/1697614674.jpeg?s=d654fdca46a7f9a111d1226593f8ace16dd6a96e"
+      "userId": 198248307,
+      "username": "berner78",
+      "profile": "https://www.vinted.pl/member/198248307-berner78",
+      "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4912516461,
-    "title": "Stüssy Logo Tee",
-    "url": "https://www.vinted.pl/items/4912516461-stussy-logo-tee",
-    "image": "https://images1.vinted.net/tc/03_00fb7_ZCyTEqT9eqJwjgQpH6iqxS5G/1724157856.jpeg?s=fe74d6252d5dbfa7386e4dfdf348904f7bef7244",
+    "productId": 4938145641,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938145641-dresy-nike",
+    "image": null,
     "promoted": false,
-    "favourites": 2,
-    "brand": "Stüssy",
-    "size": "L",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
     "price": {
-      "amount": "82.06",
+      "amount": "34.9",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.8",
-      "totalAmount": "86.86"
+      "fees": "2.45",
+      "totalAmount": "37.35"
     },
     "seller": {
-      "userId": 111523588,
-      "username": "teekay1312",
-      "profile": "https://www.vinted.pl/member/111523588-teekay1312",
-      "profilePicture": "https://images1.vinted.net/t/01_01538_etboEZJ8QLW2ubjyq9ABq69L/f800/1664493277.jpeg?s=8b93ffab1746a0cd915e03c3306a367cf38b3d7a"
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
     },
     "category": "Men"
   },
   {
-    "productId": 4918880938,
-    "title": "Rep Stüssy tričko XL",
-    "url": "https://www.vinted.pl/items/4918880938-rep-stussy-tricko-xl",
-    "image": "https://images1.vinted.net/tc/02_016ac_VJWwHs9hp57DWVyTYJQWiTWp/1724258155.jpeg?s=67ba66cce8850a30431e07ee3732e4d5f2972da1",
+    "productId": 4938144585,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938144585-dresy-nike",
+    "image": null,
     "promoted": false,
-    "favourites": 51,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "34.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.35"
+    },
+    "seller": {
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938144301,
+    "title": "Dresy nike",
+    "url": "https://www.vinted.pl/items/4938144301-dresy-nike",
+    "image": "https://images1.vinted.net/tc/01_01e7f_495oAcv5ZksJkuj8UMWbSnc5/1724604266.jpeg?s=523c44b8ba79b2d1b8dc9176fac49f0686d7f087",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "34.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.35"
+    },
+    "seller": {
+      "userId": 92904489,
+      "username": "bamadzia",
+      "profile": "https://www.vinted.pl/member/92904489-bamadzia",
+      "profilePicture": "https://images1.vinted.net/t/01_0236a_S4HwDHMhteSwTS1QLWwNnx5n/f800/1695333486.jpeg?s=9113866679179d43fb5db3e8879e1aca8a0cecd7"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938140412,
+    "title": "Dresy sportowe Adidas M",
+    "url": "https://www.vinted.pl/items/4938140412-dresy-sportowe-adidas-m",
+    "image": "https://images1.vinted.net/tc/02_009f0_VGYayvD96K5pEPDh4csyEvzs/1724604237.jpeg?s=6150e2f573be02fda29d763c1fcf57ecf47162ae",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 91351123,
+      "username": "kacper1250",
+      "profile": "https://www.vinted.pl/member/91351123-kacper1250",
+      "profilePicture": "https://images1.vinted.net/t/01_0020e_u6PVGhY1woNQdFDsZmt61hWt/f800/1652810040.jpeg?s=5f516d13b86d5656dd85cb569557101d489296a6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938139835,
+    "title": "Adidas férfi póló",
+    "url": "https://www.vinted.pl/items/4938139835-adidas-ferfi-polo",
+    "image": "https://images1.vinted.net/tc/03_02214_7U6uX39KgSWFGTe15f8BwSLm/1724604232.jpeg?s=8b7acc136e09b7d43b7db4f47d89819da8feb511",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "7.58",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.08",
+      "totalAmount": "8.66"
+    },
+    "seller": {
+      "userId": 142375007,
+      "username": "csicsi1967",
+      "profile": "https://www.vinted.pl/member/142375007-csicsi1967",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938139043,
+    "title": "Adidas nadrág",
+    "url": "https://www.vinted.pl/items/4938139043-adidas-nadrag",
+    "image": "https://images1.vinted.net/tc/02_01a8c_sX1wFLUxNbzNSvTmfzSCoWVM/1724604227.jpeg?s=1b95edc77347c4a50b742b786a0de23913f88d18",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
     "size": "XL",
     "price": {
-      "amount": "77.57",
+      "amount": "10.99",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.58",
-      "totalAmount": "82.15"
+      "fees": "1.25",
+      "totalAmount": "12.24"
     },
     "seller": {
-      "userId": 202831207,
-      "username": "czech_fousek",
-      "profile": "https://www.vinted.pl/member/202831207-czechfousek",
-      "profilePicture": "https://images1.vinted.net/t/01_02095_8V3R7He5nAXUKZCGxKC2EU1C/f800/1714770282.jpeg?s=ca0794f4edd7edd997b03a757f5b4ab648745a85"
+      "userId": 116190608,
+      "username": "mesi90",
+      "profile": "https://www.vinted.pl/member/116190608-mesi90",
+      "profilePicture": "https://images1.vinted.net/t/03_007d0_r7TQrKeXdHdMNb1J9MwFUgWU/f800/1666612912.jpeg?s=48070acd561c1641a9002a0b85b0ab0732f82684"
     },
     "category": "Men"
   },
   {
-    "productId": 4917270426,
-    "title": "Longsleeve Stussy",
-    "url": "https://www.vinted.pl/items/4917270426-longsleeve-stussy",
-    "image": "https://images1.vinted.net/tc/02_01043_gWdqLWGmKhHRF7ScxZ6xqbcA/1724243228.jpeg?s=c0d42197b8be3c52cafed9aaad66c99f7e8f3d0c",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "90.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.2",
-      "totalAmount": "95.2"
-    },
-    "seller": {
-      "userId": 129539746,
-      "username": "anton0976",
-      "profile": "https://www.vinted.pl/member/129539746-anton0976",
-      "profilePicture": "https://images1.vinted.net/t/01_01df9_1MApE922NDi9Hmu42zPEwWYi/f800/1706701250.jpeg?s=59935b08184ee41c04d3ff7662f26d8e96a5687f"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4917241459,
-    "title": "Stussy t-shirt",
-    "url": "https://www.vinted.pl/items/4917241459-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/02_00f81_KTFQWaoKyi1uexDHGoUxVgKx/1724242952.jpeg?s=8795d613e1f46c86ef8fc87f0c749aa14d66db34",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "75.79",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.49",
-      "totalAmount": "80.28"
-    },
-    "seller": {
-      "userId": 223861708,
-      "username": "lukasskoglund",
-      "profile": "https://www.vinted.pl/member/223861708-lukasskoglund",
-      "profilePicture": "https://images1.vinted.net/t/03_002c1_2nBHn9NoHsK867Ro4cArvnWA/f800/1724245053.jpeg?s=054e922eb04265c10329fe43b246c541a91afa39"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4917144348,
-    "title": "Ponožky Stussy",
-    "url": "https://www.vinted.pl/items/4917144348-ponozky-stussy",
-    "image": "https://images1.vinted.net/tc/01_0072e_wfVcHKRnfHzqpt7SvZe4Ei8P/1724242000.jpeg?s=be3e580ad9291104e855e95534e7fc84cf4e168a",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "M | 43–46",
-    "price": {
-      "amount": "47.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.07",
-      "totalAmount": "50.47"
-    },
-    "seller": {
-      "userId": 223497489,
-      "username": "robertnovakov",
-      "profile": "https://www.vinted.pl/member/223497489-robertnovakov",
-      "profilePicture": "https://images1.vinted.net/t/02_0126d_uuddHLfq5qBepGy2oUGkdRgA/f800/1724324206.jpeg?s=9108af447bfa38c8715d39c1aeeca74bfed40204"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4917101443,
-    "title": "Ponožky Stussy",
-    "url": "https://www.vinted.pl/items/4917101443-ponozky-stussy",
-    "image": "https://images1.vinted.net/tc/03_025e5_UNg5z1yYLCb51i891aGJPb3b/1724241573.jpeg?s=373aff8626e6a7c0b48c1ff1c357bfc2d01805c5",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "M | 43–46",
-    "price": {
-      "amount": "47.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.07",
-      "totalAmount": "50.47"
-    },
-    "seller": {
-      "userId": 223497489,
-      "username": "robertnovakov",
-      "profile": "https://www.vinted.pl/member/223497489-robertnovakov",
-      "profilePicture": "https://images1.vinted.net/t/02_0126d_uuddHLfq5qBepGy2oUGkdRgA/f800/1724324206.jpeg?s=9108af447bfa38c8715d39c1aeeca74bfed40204"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4917071156,
-    "title": "Ponožky Stussy",
-    "url": "https://www.vinted.pl/items/4917071156-ponozky-stussy",
-    "image": "https://images1.vinted.net/tc/02_008af_YwvxdPvKR2kz5HZ92mm5pyhV/1724241271.jpeg?s=976fc484b2977334375a375a6b69ea57fd7802fd",
+    "productId": 4938138021,
+    "title": "Adidas",
+    "url": "https://www.vinted.pl/items/4938138021-adidas",
+    "image": "https://images1.vinted.net/tc/01_00066_e3ey1Y2MGy7utY7pnmf9XYhM/1724604219.jpeg?s=46f39f661bcaedb1f49133182806d67c49fbf181",
     "promoted": false,
     "favourites": 0,
-    "brand": "Stüssy",
-    "size": "M | 43–46",
+    "brand": "adidas",
+    "size": "40,5",
     "price": {
-      "amount": "47.4",
+      "amount": "59.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.07",
-      "totalAmount": "50.47"
+      "fees": "3.65",
+      "totalAmount": "62.65"
     },
     "seller": {
-      "userId": 223497489,
-      "username": "robertnovakov",
-      "profile": "https://www.vinted.pl/member/223497489-robertnovakov",
-      "profilePicture": "https://images1.vinted.net/t/02_0126d_uuddHLfq5qBepGy2oUGkdRgA/f800/1724324206.jpeg?s=9108af447bfa38c8715d39c1aeeca74bfed40204"
+      "userId": 143644320,
+      "username": "voyagerv6",
+      "profile": "https://www.vinted.pl/member/143644320-voyagerv6",
+      "profilePicture": "https://images1.vinted.net/t/03_00cd8_8kaKAHUgv1oHRGU3pxUC2rJN/f800/1720970358.jpeg?s=51755382e3eb37499a213cbbcf5611f11c521bf5"
     },
     "category": "Men"
   },
   {
-    "productId": 4914996176,
-    "title": "Czapka stussy",
-    "url": "https://www.vinted.pl/items/4914996176-czapka-stussy",
-    "image": "https://images1.vinted.net/tc/01_02174_4ex1JDkVuyz9G81D8QsGMH8y/1724183426.jpeg?s=4b93be5d14d17b9a6e02e981eb5770d8e37857aa",
+    "productId": 4938138505,
+    "title": "Sweatshirt",
+    "url": "https://www.vinted.pl/items/4938138505-sweatshirt",
+    "image": "https://images1.vinted.net/tc/01_012ce_ZvrcnySZfgDdU7nFK6TerEQi/1724604223.jpeg?s=a5fa40aabebb692dcbf43473415f26b540ea963c",
     "promoted": false,
-    "favourites": 24,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "50.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.2",
-      "totalAmount": "53.2"
-    },
-    "seller": {
-      "userId": 105739214,
-      "username": "gdy75",
-      "profile": "https://www.vinted.pl/member/105739214-gdy75",
-      "profilePicture": "https://images1.vinted.net/t/02_0131d_XVf3U1F58JgHJsmK11ED4ug6/f800/1723072093.jpeg?s=6daaf83f1614566b793d3ea2853cfc8f78ed5077"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4914528183,
-    "title": "koszulka stussy",
-    "url": "https://www.vinted.pl/items/4914528183-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/02_01609_FrXwTaoj3HsxcdaZvAG3m5qh/1724177340.jpeg?s=cdb5466b311246baafcfc148e3f8dcbe2332b970",
-    "promoted": false,
-    "favourites": 48,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "100.0",
+      "amount": "56.85",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
+      "fees": "3.54",
+      "totalAmount": "60.39"
     },
     "seller": {
-      "userId": 76757767,
-      "username": "sivy098",
-      "profile": "https://www.vinted.pl/member/76757767-sivy098",
-      "profilePicture": "https://images1.vinted.net/t/03_01baa_osuGuYLpmQFQfzVgT27KJWhi/f800/1687877229.jpeg?s=85c23820596b728c6707f1c9ac8d4a84f78d6723"
+      "userId": 224784482,
+      "username": "hayatabbasjr",
+      "profile": "https://www.vinted.pl/member/224784482-hayatabbasjr",
+      "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4913909532,
-    "title": "Czapka stussy.",
-    "url": "https://www.vinted.pl/items/4913909532-czapka-stussy",
-    "image": "https://images1.vinted.net/tc/02_01bd3_6junCKfA6Bf3UwkU3zLo8K4u/1724170822.jpeg?s=4ee2011260b6c5b7a2ecc2659c082ca204dc2edd",
+    "productId": 4933098541,
+    "title": "Buty nike",
+    "url": "https://www.vinted.pl/items/4933098541-buty-nike",
+    "image": "https://images1.vinted.net/tc/02_014de_JPAWf7KaZq7v9G82hUTCtqM1/1724521915.jpeg?s=fc05ed17aecfbf1344f6d24e836c4baf0ad1362b",
     "promoted": false,
-    "favourites": 6,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
     "price": {
-      "amount": "50.0",
+      "amount": "45.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.2",
-      "totalAmount": "53.2"
+      "fees": "2.95",
+      "totalAmount": "47.95"
     },
     "seller": {
-      "userId": 204619324,
-      "username": "igorsxz",
-      "profile": "https://www.vinted.pl/member/204619324-igorsxz",
-      "profilePicture": "https://images1.vinted.net/t/01_009b2_45fhAjdXWzGA2YKoDoh9RWKR/f800/1715510160.jpeg?s=ae3580c671002c8a687cf01ed1efe0af6d32c427"
+      "userId": 218523390,
+      "username": "suzy1311",
+      "profile": "https://www.vinted.pl/member/218523390-suzy1311",
+      "profilePicture": "https://images1.vinted.net/t/01_00294_r4DJsSH9eT61TJEVX1xJ3ybw/f800/1721684264.jpeg?s=6524e701d8ba266bb8534f070608e06b4a6f058c"
     },
     "category": "Men"
   },
   {
-    "productId": 4913261933,
-    "title": "Stüssy T-shirt",
-    "url": "https://www.vinted.pl/items/4913261933-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/03_0201e_6RcjEZz3H5e7ocHXNs5MbNWK/1724164764.jpeg?s=03ef08d0cc3b769ecc5acca25c7636b22459a34a",
+    "productId": 4938130025,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938130025-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/01_02676_F4pspnKP1F3CzG81PUzNAzQg/1724604158.jpeg?s=7ccb39879a649858db850cf7a607df751689ed30",
     "promoted": false,
-    "favourites": 20,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "86.37",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
-    },
-    "seller": {
-      "userId": 91578744,
-      "username": "valentineqt",
-      "profile": "https://www.vinted.pl/member/91578744-valentineqt",
-      "profilePicture": "https://images1.vinted.net/t/02_01412_TnSKqLt315irUGgHWk2gsATc/f800/1659702068.jpeg?s=ccdf5ac9bcd53327d8ca843038147b671470107e"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4912413618,
-    "title": "Naklejki stussy",
-    "url": "https://www.vinted.pl/items/4912413618-naklejki-stussy",
-    "image": "https://images1.vinted.net/tc/02_00f26_yD2iQ5tyxcWa4FAHPokWeTwG/1724156864.jpeg?s=49322be7b0e6da1fa9869aacbf2179b67b4a35c9",
-    "promoted": false,
-    "favourites": 27,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "12.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.3",
-      "totalAmount": "13.3"
-    },
-    "seller": {
-      "userId": 134561195,
-      "username": "kuba_majka",
-      "profile": "https://www.vinted.pl/member/134561195-kubamajka",
-      "profilePicture": "https://images1.vinted.net/t/01_017b0_GoSJX8CjvDuMb4g7GMgY6Lvm/f800/1678107159.jpeg?s=d7d83b791593ae9e5cf28acd07fb9a87312eb334"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4911956946,
-    "title": "stussy beanie",
-    "url": "https://www.vinted.pl/items/4911956946-stussy-beanie",
-    "image": "https://images1.vinted.net/tc/03_02657_ANtie2k52gJzEvCM4ohZAbpp/1724152212.jpeg?s=d3440ef027d424fe43e1922f11e7c311a011cd4b",
-    "promoted": false,
-    "favourites": 11,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "86.37",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
-    },
-    "seller": {
-      "userId": 213766670,
-      "username": "fanniehhh",
-      "profile": "https://www.vinted.pl/member/213766670-fanniehhh",
-      "profilePicture": "https://images1.vinted.net/t/01_0100f_7PcL4XNtpmXGq5ZV8SYeVYsc/f800/1719383381.jpeg?s=c5cb17d84c56cdd59346e8d352bcddf24a2bd010"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4910000777,
-    "title": "Stussy košile",
-    "url": "https://www.vinted.pl/items/4910000777-stussy-kosile",
-    "image": "https://images1.vinted.net/tc/03_00efd_YFRnALAk2rp6aFShtrXoEQyx/1724095115.jpeg?s=95db22f02a03dea7297cbf16cd8295e4c03b1ae7",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "68.78",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.14",
-      "totalAmount": "72.92"
-    },
-    "seller": {
-      "userId": 75186652,
-      "username": "kuba999990",
-      "profile": "https://www.vinted.pl/member/75186652-kuba999990",
-      "profilePicture": "https://images1.vinted.net/t/03_009d7_jkA8x1fWLkUnPysUJzxZx5qd/f800/1638211043.jpeg?s=9eb786fa71a8d2092846696eca16db1ff2b2b060"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4909973771,
-    "title": "stussy beanie",
-    "url": "https://www.vinted.pl/items/4909973771-stussy-beanie",
-    "image": "https://images1.vinted.net/tc/03_01b70_cASen3f9N1YWoeFc8L6BXLaY/1724094765.jpeg?s=ec851801383e12c10169eef35745880301cd3358",
-    "promoted": false,
-    "favourites": 17,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "51.54",
+      "amount": "18.95",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.28",
-      "totalAmount": "54.82"
+      "fees": "1.65",
+      "totalAmount": "20.6"
     },
     "seller": {
-      "userId": 75186652,
-      "username": "kuba999990",
-      "profile": "https://www.vinted.pl/member/75186652-kuba999990",
-      "profilePicture": "https://images1.vinted.net/t/03_009d7_jkA8x1fWLkUnPysUJzxZx5qd/f800/1638211043.jpeg?s=9eb786fa71a8d2092846696eca16db1ff2b2b060"
+      "userId": 223117948,
+      "username": "philipv2006",
+      "profile": "https://www.vinted.pl/member/223117948-philipv2006",
+      "profilePicture": "https://images1.vinted.net/t/02_00288_zTKMjMC2v2hxnPQcVZEAbHtt/f800/1723933649.jpeg?s=35b43b35edbc1da14d7506256b8b330de1fef025"
     },
     "category": "Men"
   },
   {
-    "productId": 4909247807,
-    "title": "Stussy longsleeve t-shirt bluzka Skate Skateboarding",
-    "url": "https://www.vinted.pl/items/4909247807-stussy-longsleeve-t-shirt-bluzka-skate-skateboarding",
-    "image": "https://images1.vinted.net/tc/02_014b1_v5ZGS4Kt2S2zS8WdnWRotBkw/1724512327.jpeg?s=6adac07481f7df6f4cdc14031edc766c717b4b56",
+    "productId": 4938129475,
+    "title": "Adidas tank top",
+    "url": "https://www.vinted.pl/items/4938129475-adidas-tank-top",
+    "image": "https://images1.vinted.net/tc/02_019a9_2Kace1CYdpUKMgdHfg6kJDQa/1724604154.jpeg?s=73503bb728d06c08a856177de482629fed2a7aab",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "28.94",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.15",
+      "totalAmount": "31.09"
+    },
+    "seller": {
+      "userId": 198248307,
+      "username": "berner78",
+      "profile": "https://www.vinted.pl/member/198248307-berner78",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938126189,
+    "title": "Vita adidas",
+    "url": "https://www.vinted.pl/items/4938126189-vita-adidas",
+    "image": "https://images1.vinted.net/tc/01_0033d_N3Efg9Gd5AordpRDgDk5uZ27/1724604129.jpeg?s=a8ead93c6e236fab0538eb02b731efad33d216e4",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "40",
+    "price": {
+      "amount": "37.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.6",
+      "totalAmount": "40.5"
+    },
+    "seller": {
+      "userId": 224698177,
+      "username": "trillingmorsan",
+      "profile": "https://www.vinted.pl/member/224698177-trillingmorsan",
+      "profilePicture": "https://images1.vinted.net/t/02_001a8_xqe4KxGCXGmY2oUhXUVy4ufY/f800/1724570235.jpeg?s=7b6ed39bf72e65bb726a00ecda0951380dc57d87"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938126030,
+    "title": "Nadrág",
+    "url": "https://www.vinted.pl/items/4938126030-nadrag",
+    "image": "https://images1.vinted.net/tc/02_01a4a_baGveTDHFMdj7qRYMebQpKnB/1724604127.jpeg?s=c63b36211c17a4499d6c316190bbee00d31a44d8",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "49.44",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.17",
+      "totalAmount": "52.61"
+    },
+    "seller": {
+      "userId": 131534737,
+      "username": "h.martina66",
+      "profile": "https://www.vinted.pl/member/131534737-hmartina66",
+      "profilePicture": "https://images1.vinted.net/t/01_01a5a_G4egtws6wyT4Ay4fJUhDAeDD/f800/1681748446.jpeg?s=225029c6e7a99a479965438647bb8136b142f398"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938124242,
+    "title": "Bluza Nike S",
+    "url": "https://www.vinted.pl/items/4938124242-bluza-nike-s",
+    "image": "https://images1.vinted.net/tc/01_00ccd_x6ruhiPoNJXj6bp1hHyeyv58/1724604114.jpeg?s=4d3764ac3e6c70485dfe652ba2c7f9c593b98a15",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 91482196,
+      "username": "roxy2727",
+      "profile": "https://www.vinted.pl/member/91482196-roxy2727",
+      "profilePicture": "https://images1.vinted.net/t/02_01b86_hdjiKBuu6PazFNKyZ656jswY/f800/1695581153.jpeg?s=931c662110864c01e7d29949ad010d545bbae4fe"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938123428,
+    "title": "Alb simplu",
+    "url": "https://www.vinted.pl/items/4938123428-alb-simplu",
+    "image": "https://images1.vinted.net/tc/02_0051b_pysArfLMZX5yEbFEPsQqmiPN/1724604108.jpeg?s=6a72f04b7e5b9708409904a8800874e33de3a7ff",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 224703656,
+      "username": "andrasorea24",
+      "profile": "https://www.vinted.pl/member/224703656-andrasorea24",
+      "profilePicture": "https://images1.vinted.net/t/02_01ec5_fcpdeaRAk7vGuZW8FNeGonAM/f800/1724572620.jpeg?s=656915c9cf262bbe0dda112fe28b9e9cf30e84c6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938120787,
+    "title": "Adidas tjocktröja",
+    "url": "https://www.vinted.pl/items/4938120787-adidas-tjocktroja",
+    "image": "https://images1.vinted.net/tc/01_00691_dgSwD1mLhoB3P24WLjW3jziz/1724604088.jpeg?s=f9df4d50fd7ec7466f4b9283a273d6b3404b7e40",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": "37.9",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.6",
+      "totalAmount": "40.5"
+    },
+    "seller": {
+      "userId": 120623649,
+      "username": "amandak94",
+      "profile": "https://www.vinted.pl/member/120623649-amandak94",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938118409,
+    "title": "Snygg Nikekeps",
+    "url": "https://www.vinted.pl/items/4938118409-snygg-nikekeps",
+    "image": "https://images1.vinted.net/tc/01_00001_wzD9QaB2tgiWrRPYeqo5m1uL/1724604069.jpeg?s=9ddb37697455b404dc766715b47dfd5f74148919",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": "22.74",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.84",
+      "totalAmount": "24.58"
+    },
+    "seller": {
+      "userId": 118956433,
+      "username": "pillasshopping",
+      "profile": "https://www.vinted.pl/member/118956433-pillasshopping",
+      "profilePicture": "https://images1.vinted.net/t/02_01e35_W4Wdfp3ZAERypWmMMotcPLvc/f800/1668122142.jpeg?s=0a8dfb4f951b8ea87d3af27fdb0d82933f1efd53"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938118030,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938118030-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/01_017f7_TwTM1cgrFU1jY3ojcck1forv/1724604066.jpeg?s=aaca955102430c2bdcf4a2b3feef1c914cb2b313",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "30.32",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.22",
+      "totalAmount": "32.54"
+    },
+    "seller": {
+      "userId": 198896074,
+      "username": "nhamc",
+      "profile": "https://www.vinted.pl/member/198896074-nhamc",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938117426,
+    "title": "Koszulka męska Adidas L",
+    "url": "https://www.vinted.pl/items/4938117426-koszulka-meska-adidas-l",
+    "image": "https://images1.vinted.net/tc/02_003b6_fuWHi6VkTMrxbhV9Pz5gxGRi/1724604062.jpeg?s=1e50f590ab9fe88f16eb98330a680c849c5d3a61",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 91422045,
+      "username": "jagienka1916",
+      "profile": "https://www.vinted.pl/member/91422045-jagienka1916",
+      "profilePicture": "https://images1.vinted.net/t/01_00b51_Ajcv2N2C6rbW1jZA44eD5UNb/f800/1652815113.jpeg?s=dcba2e4c854ef2bea9802fcd1353120180e86114"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938114112,
+    "title": "Bluza Nike trening siłownia",
+    "url": "https://www.vinted.pl/items/4938114112-bluza-nike-trening-silownia",
+    "image": "https://images1.vinted.net/tc/01_00ced_X2akUVEZ2ZLDuKa5R8L32oFC/1724604037.jpeg?s=7bf47e9f326ce3c4b55b2fc1d3861cc01766f2b4",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 91085654,
+      "username": "maksymilian8",
+      "profile": "https://www.vinted.pl/member/91085654-maksymilian8",
+      "profilePicture": "https://images1.vinted.net/t/03_00451_x1PjPRZBmdfeAog1LvzPetE5/f800/1724453359.jpeg?s=5cbde0450fc0f439f2f5b4ab90314d12de03bd39"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938113577,
+    "title": "Adidas férfi melegítő",
+    "url": "https://www.vinted.pl/items/4938113577-adidas-ferfi-melegito",
+    "image": "https://images1.vinted.net/tc/02_0073a_ACx8TzsWuFHXTR3Tu6Xb1XSZ/1724604033.jpeg?s=30cbdc95cd355085d9bd7e0b01056865f58266e3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "27.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.54"
+    },
+    "seller": {
+      "userId": 167112732,
+      "username": "renatoakaroly",
+      "profile": "https://www.vinted.pl/member/167112732-renatoakaroly",
+      "profilePicture": "https://images1.vinted.net/t/01_007f0_vbGsSxHmF7XBex185wzNjn4r/f800/1715099119.jpeg?s=c66f846e704e2ce615b286ca23d8fcf63b509ce3"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938113135,
+    "title": "kurtka granatowa / czarna vintage baggy nike",
+    "url": "https://www.vinted.pl/items/4938113135-kurtka-granatowa-czarna-vintage-baggy-nike",
+    "image": "https://images1.vinted.net/tc/02_00713_BovwhyHzN3tnJgfoXe3TmoFg/1724604029.jpeg?s=9c5f19bc710737029096678cddd65debbd42c43f",
     "promoted": false,
     "favourites": 1,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "99.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
-    },
-    "seller": {
-      "userId": 119568878,
-      "username": "mrotas",
-      "profile": "https://www.vinted.pl/member/119568878-mrotas",
-      "profilePicture": "https://images1.vinted.net/t/02_02302_4ZKenUnSdZ8hYpsoSRNrkTsk/f800/1698050554.jpeg?s=c7cb79c88f7f77c1119bd805f415dceeee6a8abb"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4909202348,
-    "title": "faded Stussy Tricou",
-    "url": "https://www.vinted.pl/items/4909202348-faded-stussy-tricou",
-    "image": "https://images1.vinted.net/tc/03_00bee_JUAEFdos9rVRZMBegTou6yTk/1724086150.jpeg?s=7c54d35d0faf2cbe68f4340944ee8e715f1a5959",
-    "promoted": false,
-    "favourites": 44,
-    "brand": "Stüssy",
+    "brand": "Nike",
     "size": "S",
     "price": {
-      "amount": "73.76",
-      "currency": "PLN",
-      "discount": "66.38",
-      "fees": "4.02",
-      "totalAmount": "70.4"
-    },
-    "seller": {
-      "userId": 149214246,
-      "username": "serban24",
-      "profile": "https://www.vinted.pl/member/149214246-serban24",
-      "profilePicture": "https://images1.vinted.net/t/03_01a61_DcAYfSz7PHeNWNRxmKpqZxwM/f800/1722448982.jpeg?s=03f01639b31258656a7ff10fb2609fc197f611ac"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4908942829,
-    "title": "Klobúk Stussy",
-    "url": "https://www.vinted.pl/items/4908942829-klobuk-stussy",
-    "image": "https://images1.vinted.net/tc/02_0083c_c87qu3C9btoZY9BbEu4AK4G2/1724083689.jpeg?s=d38cfdc1dbbd5483d2c0c808672af1dbc2a744ff",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "86.37",
+      "amount": "15.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
+      "fees": "1.45",
+      "totalAmount": "16.45"
     },
     "seller": {
-      "userId": 92212351,
-      "username": "bendzi0813",
-      "profile": "https://www.vinted.pl/member/92212351-bendzi0813",
-      "profilePicture": "https://images1.vinted.net/t/02_00066_XRP2VMuuD6ac7NuJusjThS6b/f800/1652959856.jpeg?s=20fbd2f86b69e70e3879d8aa82437bf0d2179f55"
+      "userId": 216825510,
+      "username": "revversee",
+      "profile": "https://www.vinted.pl/member/216825510-revversee",
+      "profilePicture": "https://images1.vinted.net/t/02_00143_8Di8DpgcU3gL9UFvdDgQYXPf/f800/1722153966.jpeg?s=cfba10e041fbf32f06f9e368555b60c22e443b82"
     },
     "category": "Men"
   },
   {
-    "productId": 4908769894,
-    "title": "Stüssy capz",
-    "url": "https://www.vinted.pl/items/4908769894-stussy-capz",
-    "image": "https://images1.vinted.net/tc/01_01935_tCXizXq2qKPhGvYkoa5RtEH6/1724082094.jpeg?s=49735bca8620a080cfc432b85d7412089b8ef6ac",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "77.57",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.58",
-      "totalAmount": "82.15"
-    },
-    "seller": {
-      "userId": 200468907,
-      "username": "3arus",
-      "profile": "https://www.vinted.pl/member/200468907-3arus",
-      "profilePicture": "https://images1.vinted.net/t/01_0242d_hjSFLqU6D6f1NaJ9nyWvvicv/f800/1713736520.jpeg?s=cce48e0043be5088ed9d32d87c21763bd6b38702"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4907020653,
-    "title": "vintage stussy beanie",
-    "url": "https://www.vinted.pl/items/4907020653-vintage-stussy-beanie",
-    "image": "https://images1.vinted.net/tc/03_021a5_qK5y3PNmQFvJh2KNJaay64Ec/1724065567.jpeg?s=f157b1263135ae3418572615b577132b5f5b4d2d",
-    "promoted": false,
-    "favourites": 9,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "99.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
-    },
-    "seller": {
-      "userId": 101441409,
-      "username": "finfarin",
-      "profile": "https://www.vinted.pl/member/101441409-finfarin",
-      "profilePicture": "https://images1.vinted.net/t/02_01a01_9NY8sKVY5hpePQiJtPsHGPGq/f800/1686175897.jpeg?s=f29121265af1a82c3bd5977f7473d311bfcf7682"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4906844228,
-    "title": "Naklejka Sticker Stussy authentic",
-    "url": "https://www.vinted.pl/items/4906844228-naklejka-sticker-stussy-authentic",
-    "image": "https://images1.vinted.net/tc/03_00c3a_L3BCvLEakjZVY9ojSsFMyCGJ/1724063668.jpeg?s=d45ac08efbbbc4e88c2bdeafc92923b5aad00b9f",
-    "promoted": false,
-    "favourites": 18,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "18.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "1.6",
-      "totalAmount": "19.6"
-    },
-    "seller": {
-      "userId": 108398730,
-      "username": "asiawolo",
-      "profile": "https://www.vinted.pl/member/108398730-asiawolo",
-      "profilePicture": "https://images1.vinted.net/t/02_01166_VyFDJwWdvEZv3p6JCnwonmFv/f800/1724064816.jpeg?s=901b22f147a9dcc2bbfcef8217935ec80f2b075a"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4906547481,
-    "title": "Longsleeve Stussy",
-    "url": "https://www.vinted.pl/items/4906547481-longsleeve-stussy",
-    "image": "https://images1.vinted.net/tc/01_003aa_zFWQqnUyR2YsfzYfAkBY6gGj/1724060486.jpeg?s=ba3489cb65bb00dbbcc09d422e5d21047ca0aed7",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "65.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.95",
-      "totalAmount": "68.95"
-    },
-    "seller": {
-      "userId": 100322523,
-      "username": "bach0o",
-      "profile": "https://www.vinted.pl/member/100322523-bach0o",
-      "profilePicture": "https://images1.vinted.net/t/03_00db5_TyBHpd5eXRtFmjHVX4DZA95Z/f800/1705308324.jpeg?s=6d56220f1e6b59f922f68676531bee860e412446"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4766853357,
-    "title": "vintage 00 stussy bezrękawnik koszulka tee big logo tshirt y2k",
-    "url": "https://www.vinted.pl/items/4766853357-vintage-00-stussy-bezrekawnik-koszulka-tee-big-logo-tshirt-y2k",
-    "image": "https://images1.vinted.net/tc/02_007b0_qrQzRqk31LfwWiDjj2oftYk4/1721034211.jpeg?s=524ae7680d9063835ab19aa39b5b4d974c09facb",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "79.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.65",
-      "totalAmount": "83.65"
-    },
-    "seller": {
-      "userId": 90435218,
-      "username": "cheap-store",
-      "profile": "https://www.vinted.pl/member/90435218-cheap-store",
-      "profilePicture": "https://images1.vinted.net/t/02_016e7_rKyqNLwLpDUoBJTtaZixW3cL/f800/1652692556.jpeg?s=75dc407d64c56dbe06deac55ed21b9e6d9bb5f50"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4902750159,
-    "title": "szorty stussy",
-    "url": "https://www.vinted.pl/items/4902750159-szorty-stussy",
-    "image": "https://images1.vinted.net/tc/03_0140a_i46TnPKVVwaHXtJLAvRp1FjJ/1723987723.jpeg?s=8f5c3d7c7e96eb443baf05290cbcb3b3f71c71fd",
-    "promoted": false,
-    "favourites": 37,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 94997358,
-      "username": "kvcper1224",
-      "profile": "https://www.vinted.pl/member/94997358-kvcper1224",
-      "profilePicture": "https://images1.vinted.net/t/02_02395_JFFZopm363uJ6XJDcD3WpfBx/f800/1723989074.jpeg?s=b79fa5083a9d195895d63e7a925a3b7d814fcb8f"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4902122657,
-    "title": "Stussy czapka skate skateboard snapback",
-    "url": "https://www.vinted.pl/items/4902122657-stussy-czapka-skate-skateboard-snapback",
-    "image": "https://images1.vinted.net/tc/02_00002_2nLaDFJMyd6MM8N5vNayUCkC/1723982595.jpeg?s=af727ca38865f0e0072a13d74d791dd5c44e994f",
+    "productId": 4938112757,
+    "title": "Halówki adidas",
+    "url": "https://www.vinted.pl/items/4938112757-halowki-adidas",
+    "image": "https://images1.vinted.net/tc/03_0234e_yndtngMbtqofzkHYsnSFpz22/1724604026.jpeg?s=30c783ccf8edc3aa5a9075ec4fb8250a2efea1aa",
     "promoted": false,
     "favourites": 0,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
+    "brand": "adidas",
+    "size": "40",
     "price": {
-      "amount": "99.0",
+      "amount": "30.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
+      "fees": "2.2",
+      "totalAmount": "32.2"
     },
     "seller": {
-      "userId": 106100992,
-      "username": "ewik24",
-      "profile": "https://www.vinted.pl/member/106100992-ewik24",
-      "profilePicture": "https://images1.vinted.net/t/02_0224b_rkj8W4zPKFtcnJQUr8SEzUcv/f800/1661978044.jpeg?s=d52b9db8eacc5a703156d7846a78140dd57220d9"
+      "userId": 91268997,
+      "username": "patrycja15051505",
+      "profile": "https://www.vinted.pl/member/91268997-patrycja15051505",
+      "profilePicture": "https://images1.vinted.net/t/01_01ba7_XwTNKz8t6nb6fV1gLkzenDNx/f800/1652970875.jpeg?s=a90edcb8afd1c9056e4ec71f4b03f937fbee8348"
     },
     "category": "Men"
   },
   {
-    "productId": 4900384265,
-    "title": "Stussy szorty",
-    "url": "https://www.vinted.pl/items/4900384265-stussy-szorty",
-    "image": "https://images1.vinted.net/tc/03_0053d_XFHorDLpmwTBTNNsn5PSvdqJ/1723938039.jpeg?s=24991b2dc4d986e4823c69db107bd648e441e0b8",
+    "productId": 4938111707,
+    "title": "Nike Shirt",
+    "url": "https://www.vinted.pl/items/4938111707-nike-shirt",
+    "image": "https://images1.vinted.net/tc/03_007f1_8pYrBHBHFruo6jmVPsR12Vbh/1724604018.jpeg?s=ef216a45fed5671c1dd4e9625abc7d67658d3f49",
     "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
-    "size": "52 | W36",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
     "price": {
-      "amount": "99.0",
+      "amount": "53.8",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.65",
-      "totalAmount": "104.65"
+      "fees": "3.39",
+      "totalAmount": "57.19"
     },
     "seller": {
-      "userId": 169380985,
-      "username": "jmikolaj",
-      "profile": "https://www.vinted.pl/member/169380985-jmikolaj",
-      "profilePicture": "https://images1.vinted.net/t/02_01b3c_ZcoHtsMUWVdQ5FxJkTvPNbjh/f800/1723634735.jpeg?s=d1760040bb9c8851b75e973404c7cbb20964dca6"
+      "userId": 176338466,
+      "username": "beatricee207",
+      "profile": "https://www.vinted.pl/member/176338466-beatricee207",
+      "profilePicture": "https://images1.vinted.net/t/03_01e0a_wnEpMR2kyKEXo2KNSuF2YQn1/f800/1724496860.jpeg?s=c04a24c13eeb38a0d764f9108f881b85a3c597c4"
     },
     "category": "Men"
   },
   {
-    "productId": 4900327480,
-    "title": "Stussy Sock",
-    "url": "https://www.vinted.pl/items/4900327480-stussy-sock",
-    "image": "https://images1.vinted.net/tc/03_01276_DF5HMBr7dqXq6h3vwyN8UQ4s/1723933257.jpeg?s=0df4882f54426469be8180d2568c7cbe51b13f4a",
+    "productId": 4938108975,
+    "title": "Adidas hoodie",
+    "url": "https://www.vinted.pl/items/4938108975-adidas-hoodie",
+    "image": "https://images1.vinted.net/tc/03_01862_vQzjDFhucvXYPq9vSYyK2PS5/1724603998.jpeg?s=d8e1106cdf60a130bd95fb9e4d435f0c49065174",
     "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "M | 43–46",
-    "price": {
-      "amount": "78.1",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.61",
-      "totalAmount": "82.71"
-    },
-    "seller": {
-      "userId": 148076175,
-      "username": "bodegasteals",
-      "profile": "https://www.vinted.pl/member/148076175-bodegasteals",
-      "profilePicture": "https://images1.vinted.net/t/01_017ff_n2UiYcMrJjH2tN3HMULAsLxD/f800/1686054940.jpeg?s=87282935071c45fd3355cfee3354055d0a162f87"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4897245990,
-    "title": "Deniz 1418",
-    "url": "https://www.vinted.pl/items/4897245990-deniz-1418",
-    "image": "https://images1.vinted.net/tc/02_006ad_bP2fFr1rHJXXbizLrii75JYf/1723890160.jpeg?s=fae80bc29033b3b4ebfc612ba961a4ee4a41b39f",
-    "promoted": false,
-    "favourites": 17,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "86.82",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.04",
-      "totalAmount": "91.86"
-    },
-    "seller": {
-      "userId": 218813939,
-      "username": "thorlahn",
-      "profile": "https://www.vinted.pl/member/218813939-thorlahn",
-      "profilePicture": null
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4896238213,
-    "title": "Bluza stussy",
-    "url": "https://www.vinted.pl/items/4896238213-bluza-stussy",
-    "image": "https://images1.vinted.net/tc/03_015b0_8qsrUQcnPWqmKkFjhdsj7bTQ/1723845336.jpeg?s=284d5ac305c1824b4f7740f0201d874d01944303",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 124819515,
-      "username": "oleksandrtkachuk",
-      "profile": "https://www.vinted.pl/member/124819515-oleksandrtkachuk",
-      "profilePicture": "https://images1.vinted.net/t/02_007db_oqHYiV2knbYf9d1XiHDgYTD5/f800/1698887104.jpeg?s=1da8f6c679a844b586096d957cea510a782c74ff"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4895605645,
-    "title": "Baggy vintage 2000 drain true religion jnco oversize streetwear fashion affliction type tee stussy",
-    "url": "https://www.vinted.pl/items/4895605645-baggy-vintage-2000-drain-true-religion-jnco-oversize-streetwear-fashion-affliction-type-tee-stussy",
-    "image": "https://images1.vinted.net/tc/02_0018c_mjgPfnPSzD7QQeJ1SmGZYrm1/1723831005.jpeg?s=1d3d0ab74645c94f0e2b2bf60823ca2fb54d29a9",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "66.32",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.02",
-      "totalAmount": "70.34"
-    },
-    "seller": {
-      "userId": 140423278,
-      "username": "ionknowwhattoput",
-      "profile": "https://www.vinted.pl/member/140423278-ionknowwhattoput",
-      "profilePicture": "https://images1.vinted.net/t/01_014c4_XV9Hg2TihymGbjMfnnLFXxnT/f800/1710014659.jpeg?s=f9bfb3fd50fb2615327604f022d49b235befca2a"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4892869624,
-    "title": "Stussy",
-    "url": "https://www.vinted.pl/items/4892869624-stussy",
-    "image": "https://images1.vinted.net/tc/01_0125f_Gsb5BFqF3itQ3mGCVWmMBtEL/1723832148.jpeg?s=f2357e833ae22ae1b85f4bcf40a88f401f3af6b0",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "adidas",
     "size": "L",
     "price": {
-      "amount": "60.0",
+      "amount": "38.87",
       "currency": "PLN",
       "discount": null,
-      "fees": "3.7",
-      "totalAmount": "63.7"
+      "fees": "2.64",
+      "totalAmount": "41.51"
     },
     "seller": {
-      "userId": 179854210,
-      "username": "hejk129",
-      "profile": "https://www.vinted.pl/member/179854210-hejk129",
-      "profilePicture": "https://images1.vinted.net/t/02_0174d_Ucd557bSRMz5DuX3fTHGVySn/f800/1723324424.jpeg?s=5c94bc88e1f79a6e464e87ad26835c3d6b811204"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4891780841,
-    "title": "Koszulka Stussy 8ball",
-    "url": "https://www.vinted.pl/items/4891780841-koszulka-stussy-8ball",
-    "image": "https://images1.vinted.net/tc/01_0115c_xNAtfPcN5UgXzKZSmvHV8Nb1/1723744393.jpeg?s=e4a547192302497e63d7a49fe5ac38746ae2ae02",
-    "promoted": false,
-    "favourites": 96,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 91154892,
-      "username": "27_oyzo_27",
-      "profile": "https://www.vinted.pl/member/91154892-27oyzo27",
-      "profilePicture": "https://images1.vinted.net/t/03_01384_1YF635yNbsdDbJRmJF5x9G36/f800/1652795872.jpeg?s=441d584ac437a4c60ec7c9fbe9c9b02acb3f426f"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4891582841,
-    "title": "Stussy bag",
-    "url": "https://www.vinted.pl/items/4891582841-stussy-bag",
-    "image": "https://images1.vinted.net/tc/03_006c0_5H8XkzkAQcwTNLuKFjvR1eg2/1723741595.jpeg?s=faee518314d665bb1ec9da1f1d185d65ecc62a5d",
-    "promoted": false,
-    "favourites": 126,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "94.63",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.43",
-      "totalAmount": "100.06"
-    },
-    "seller": {
-      "userId": 222704987,
-      "username": "davidkruza",
-      "profile": "https://www.vinted.pl/member/222704987-davidkruza",
+      "userId": 213548861,
+      "username": "mademoiselle_tj",
+      "profile": "https://www.vinted.pl/member/213548861-mademoiselletj",
       "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4890202918,
-    "title": "Koszulka baseball Stussy",
-    "url": "https://www.vinted.pl/items/4890202918-koszulka-baseball-stussy",
-    "image": "https://images1.vinted.net/tc/03_019fe_gsTPa4YqC2EepXaaAiy7m2Yt/1723725635.jpeg?s=4d034924a7f895decf38f706c6aa45948691a85e",
+    "productId": 4938108342,
+    "title": "Spodnie dresowe Nike S",
+    "url": "https://www.vinted.pl/items/4938108342-spodnie-dresowe-nike-s",
+    "image": "https://images1.vinted.net/tc/02_019ea_3qQW4dYoYmBWtva8GQ5fjKy6/1724603993.jpeg?s=3a14f594466598f41ef08f18ebe7d19c653ddaff",
     "promoted": false,
-    "favourites": 34,
-    "brand": "Stüssy",
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "55.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.45",
+      "totalAmount": "58.45"
+    },
+    "seller": {
+      "userId": 215860062,
+      "username": "dorotaddw",
+      "profile": "https://www.vinted.pl/member/215860062-dorotaddw",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938103408,
+    "title": "Spodenki Nike",
+    "url": "https://www.vinted.pl/items/4938103408-spodenki-nike",
+    "image": "https://images1.vinted.net/tc/03_01b19_r7Nnifx8tAzurYRYiL85rCwz/1724603955.jpeg?s=79bcf378846102e34f5f8edfdaefcae7fb360802",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 134291114,
+      "username": "bradek_777",
+      "profile": "https://www.vinted.pl/member/134291114-bradek777",
+      "profilePicture": "https://images1.vinted.net/t/03_00533_KjtYwpDBgeQfNBH5v7deU1kg/f800/1698348947.jpeg?s=89861b19441a2d58e05e6d1c07c527491133a63a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938101537,
+    "title": "Mikyna, zn. Adidas",
+    "url": "https://www.vinted.pl/items/4938101537-mikyna-zn-adidas",
+    "image": "https://images1.vinted.net/tc/01_00d67_sAJ8WEP1FqBvfXF9PiiHdVfb/1724603941.jpeg?s=0a6bdeeebcc364f5f94dcfe13abd1f38b121763e",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "XXL",
+    "price": {
+      "amount": "22.41",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.82",
+      "totalAmount": "24.23"
+    },
+    "seller": {
+      "userId": 83662788,
+      "username": "ls21971",
+      "profile": "https://www.vinted.pl/member/83662788-ls21971",
+      "profilePicture": "https://images1.vinted.net/t/03_001f7_ZNdx52ZDa8Fg6JyBqg74xCJ4/f800/1705913936.jpeg?s=2205bb5e7279baa1415ec6d220da83f47f313b07"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938066956,
+    "title": "bluza adidas",
+    "url": "https://www.vinted.pl/items/4938066956-bluza-adidas",
+    "image": "https://images1.vinted.net/tc/03_01023_heagdsDQV15VNriSAPdEaSTv/1724603681.jpeg?s=e1c7e88157a0a03137cbaddc3473c14e75cf582e",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "15.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.45",
+      "totalAmount": "16.45"
+    },
+    "seller": {
+      "userId": 92172775,
+      "username": "cheetosss",
+      "profile": "https://www.vinted.pl/member/92172775-cheetosss",
+      "profilePicture": "https://images1.vinted.net/t/03_0056a_J3c5T1dfEjd3pgErCkrTBLzy/f800/1652953950.jpeg?s=389c81060cea3f348b1043a816c8907a5cf94df1"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938100778,
+    "title": "Męska bluza z kapturem",
+    "url": "https://www.vinted.pl/items/4938100778-meska-bluza-z-kapturem",
+    "image": "https://images1.vinted.net/tc/02_00373_q7rVW91zJethAcJWA3kMV629/1724603935.jpeg?s=2c506d1e0c051f232d5e88c1d8e187d2e8160dc7",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 131429226,
+      "username": "szymon2738",
+      "profile": "https://www.vinted.pl/member/131429226-szymon2738",
+      "profilePicture": "https://images1.vinted.net/t/01_00375_rFBtdd49AydcyifjXzvkjT2H/f800/1716982197.jpeg?s=0843f94dcf95dfca322c3f00aabc88ce8deccdbf"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938099372,
+    "title": "Jersey adidas koszulka tshirt",
+    "url": "https://www.vinted.pl/items/4938099372-jersey-adidas-koszulka-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01d8e_VKQVakvNqcActhRvXHxhQmUa/1724603925.jpeg?s=e8aa12cf125e5e4bed191140a5c562fa1268a023",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938099860,
+    "title": "Tricou bărbați",
+    "url": "https://www.vinted.pl/items/4938099860-tricou-barbati",
+    "image": "https://images1.vinted.net/tc/02_01d43_KZ8HCdkeBiqz12sjPLSUS7t9/1724603929.jpeg?s=841bceb748b42fa2b56833b23c5a51938132c0fa",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 224703656,
+      "username": "andrasorea24",
+      "profile": "https://www.vinted.pl/member/224703656-andrasorea24",
+      "profilePicture": "https://images1.vinted.net/t/02_01ec5_fcpdeaRAk7vGuZW8FNeGonAM/f800/1724572620.jpeg?s=656915c9cf262bbe0dda112fe28b9e9cf30e84c6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938098339,
+    "title": "Nike Dri-Fit Shorts",
+    "url": "https://www.vinted.pl/items/4938098339-nike-dri-fit-shorts",
+    "image": "https://images1.vinted.net/tc/02_000a6_buLg29WUsvgUKcMoQt7dFu5H/1724603918.jpeg?s=2c6eb9351d1a91ece5557cf2ae9dacd54bccf345",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "11.37",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.27",
+      "totalAmount": "12.64"
+    },
+    "seller": {
+      "userId": 222733541,
+      "username": "lastbuy",
+      "profile": "https://www.vinted.pl/member/222733541-lastbuy",
+      "profilePicture": "https://images1.vinted.net/t/03_0048d_7Nzr96gZ6dXWr5Ph3vcA48gS/f800/1724587972.jpeg?s=484ef5916801c6c853ffab3cba3ec5883111d001"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938098074,
+    "title": "Bluzka damska",
+    "url": "https://www.vinted.pl/items/4938098074-bluzka-damska",
+    "image": "https://images1.vinted.net/tc/01_01a58_1nXKMfHuBFPScjvm4MWMagVA/1724603915.jpeg?s=29541ba027055f351d0b50ead81848f94c0e2c7c",
+    "promoted": true,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "20.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.7",
+      "totalAmount": "21.7"
+    },
+    "seller": {
+      "userId": 107340411,
+      "username": "kasia9824",
+      "profile": "https://www.vinted.pl/member/107340411-kasia9824",
+      "profilePicture": "https://images1.vinted.net/t/03_00ff2_TvKptyNerGup3vKKagkEKCTP/f800/1662732830.jpeg?s=053636ba64780c65f0c3e5ed7624f01d09c9f5f6"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938096628,
+    "title": "Tricou sintetic nike",
+    "url": "https://www.vinted.pl/items/4938096628-tricou-sintetic-nike",
+    "image": "https://images1.vinted.net/tc/03_00f90_FSFRQLZzmiPq6L6k2jEssEtH/1724603904.jpeg?s=adcad57636b92cc5020036ffed8cafbd5648d5f0",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "39.05",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.65",
+      "totalAmount": "41.7"
+    },
+    "seller": {
+      "userId": 222483523,
+      "username": "mihnea2512",
+      "profile": "https://www.vinted.pl/member/222483523-mihnea2512",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938093184,
+    "title": "Adidas férfi pulóver",
+    "url": "https://www.vinted.pl/items/4938093184-adidas-ferfi-pulover",
+    "image": "https://images1.vinted.net/tc/03_00f2e_GB9cXXUoxQnVpQGXpuk4Mk9g/1724603878.jpeg?s=2830f114c299a679a940d8d1b3018b5339a28e96",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "27.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.54"
+    },
+    "seller": {
+      "userId": 167112732,
+      "username": "renatoakaroly",
+      "profile": "https://www.vinted.pl/member/167112732-renatoakaroly",
+      "profilePicture": "https://images1.vinted.net/t/01_007f0_vbGsSxHmF7XBex185wzNjn4r/f800/1715099119.jpeg?s=c66f846e704e2ce615b286ca23d8fcf63b509ce3"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938090899,
+    "title": "Hanorac Nike",
+    "url": "https://www.vinted.pl/items/4938090899-hanorac-nike",
+    "image": "https://images1.vinted.net/tc/01_0134f_GRsBLdN4qFvWrT7QeKWTcjPb/1724603860.jpeg?s=3f403b31250228d22b6d6cd272929b2469636f4a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": "26.03",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "28.03"
+    },
+    "seller": {
+      "userId": 191843909,
+      "username": "vik754677",
+      "profile": "https://www.vinted.pl/member/191843909-vik754677",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938091017,
+    "title": "Korki do piłki nożnej",
+    "url": "https://www.vinted.pl/items/4938091017-korki-do-pilki-noznej",
+    "image": "https://images1.vinted.net/tc/01_00bf0_b9cisg6VSKbdjo8D8vsLGR8Y/1724603861.jpeg?s=ca84a5edffbfe36d429fe43a69f2639cdd058d34",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38",
+    "price": {
+      "amount": "40.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.7",
+      "totalAmount": "42.7"
+    },
+    "seller": {
+      "userId": 219573279,
+      "username": "jvlkaaa55",
+      "profile": "https://www.vinted.pl/member/219573279-jvlkaaa55",
+      "profilePicture": "https://images1.vinted.net/t/02_02024_jc79aFdCvTxhkQ8X3Egvb4yY/f800/1722246983.jpeg?s=b7ca055bb94bc63e049fb7d77612bd650fae0b35"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938088860,
+    "title": "adidas kraťase",
+    "url": "https://www.vinted.pl/items/4938088860-adidas-kratase",
+    "image": "https://images1.vinted.net/tc/03_00653_6pNaRinwELQkDj8ZJTpJWsvi/1724603845.jpeg?s=c95b7d15dbd1748c2121bd2a8947cff696cb0113",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "13.62",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.38",
+      "totalAmount": "15.0"
+    },
+    "seller": {
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938084666,
+    "title": "Spodenki krotkie męskie Adidas rozmiar 3XL stan idealny",
+    "url": "https://www.vinted.pl/items/4938084666-spodenki-krotkie-meskie-adidas-rozmiar-3xl-stan-idealny",
+    "image": "https://images1.vinted.net/tc/03_008d2_xtBgziAukzw6JrxDKoNMe6pB/1724604276.jpeg?s=a89a1ec33b2a9b9f88aa070eab8f3221935026ea",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XXXL",
+    "price": {
+      "amount": "48.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.1",
+      "totalAmount": "51.1"
+    },
+    "seller": {
+      "userId": 117506953,
+      "username": "reniusia1975",
+      "profile": "https://www.vinted.pl/member/117506953-reniusia1975",
+      "profilePicture": "https://images1.vinted.net/t/01_006bd_YMD5VpGr8e4LokHJKgYq7pWQ/f800/1682979696.jpeg?s=480988382da91ed8c1d5370a96bc49e153e9ad8a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938083735,
+    "title": "Koszulka Adidas Juventus",
+    "url": "https://www.vinted.pl/items/4938083735-koszulka-adidas-juventus",
+    "image": "https://images1.vinted.net/tc/01_021ee_nP5vBQGNV4C6dKRXJgGqY2ai/1724603807.jpeg?s=c4bba7d3e555c50a19ea357e7fce8885924a7bfe",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "15.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.45",
+      "totalAmount": "16.45"
+    },
+    "seller": {
+      "userId": 171286296,
+      "username": "tomek001023",
+      "profile": "https://www.vinted.pl/member/171286296-tomek001023",
+      "profilePicture": "https://images1.vinted.net/t/03_00fb9_NyDQqCN3P4QQWERfVN8TaqGt/f800/1707677054.jpeg?s=f5d94b89e45bb68f691d02f8c8bbbc8757c4c02d"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938082505,
+    "title": "Koszulka vixapol nike trening siłownia Nike",
+    "url": "https://www.vinted.pl/items/4938082505-koszulka-vixapol-nike-trening-silownia-nike",
+    "image": "https://images1.vinted.net/tc/03_00052_tmTw7k8nBKg29bXtfdG35mB8/1724603798.jpeg?s=cae2cdf3c2cb5a53f6b3cd3f3fc559111a477246",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 91085654,
+      "username": "maksymilian8",
+      "profile": "https://www.vinted.pl/member/91085654-maksymilian8",
+      "profilePicture": "https://images1.vinted.net/t/03_00451_x1PjPRZBmdfeAog1LvzPetE5/f800/1724453359.jpeg?s=5cbde0450fc0f439f2f5b4ab90314d12de03bd39"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938082025,
+    "title": "Buty adidas",
+    "url": "https://www.vinted.pl/items/4938082025-buty-adidas",
+    "image": "https://images1.vinted.net/tc/01_01d51_KJzMtJLWYR2J91c9kxr78Nfm/1724603794.jpeg?s=82dc3b7dc2692878bc8fff1e773ff783826d1664",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "38",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 216766789,
+      "username": "1111beti",
+      "profile": "https://www.vinted.pl/member/216766789-1111beti",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938081123,
+    "title": "Koszulka adidas Vintage liverpool polo tshirt",
+    "url": "https://www.vinted.pl/items/4938081123-koszulka-adidas-vintage-liverpool-polo-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01876_fVzKRxfkiRjziiL7MkjG6Nww/1724603788.jpeg?s=4f772fbca61716045dae5f68be385ab093d905e2",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938080655,
+    "title": "Bluza Nike z kapturem",
+    "url": "https://www.vinted.pl/items/4938080655-bluza-nike-z-kapturem",
+    "image": "https://images1.vinted.net/tc/03_0063e_YmQS5Ncn9ugGDHDjZ1xexmLQ/1724603784.jpeg?s=5a1e099a0847b6cbda5ff5abe6fa4cf03b2be84c",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
     "size": "M",
     "price": {
       "amount": "55.0",
@@ -1720,334 +1312,982 @@
       "totalAmount": "58.45"
     },
     "seller": {
-      "userId": 110120188,
-      "username": "statek320",
-      "profile": "https://www.vinted.pl/member/110120188-statek320",
-      "profilePicture": "https://images1.vinted.net/t/01_0101c_k1G6Kp1LVnAkeaCYbc8q3AdU/f800/1663938734.jpeg?s=8450cf77d8d1bd069206bd2d6f628dc62ca1c3a5"
+      "userId": 223170714,
+      "username": "damiann_11",
+      "profile": "https://www.vinted.pl/member/223170714-damiann11",
+      "profilePicture": "https://images1.vinted.net/t/01_004b4_C6m6sgQeqYwJ4ovEbH6hnTJr/f800/1723987071.jpeg?s=38b5c630a007d37009faeb233bc5063a24ce559b"
     },
     "category": "Men"
   },
   {
-    "productId": 4889960362,
-    "title": "Czapka stussy streetwear hiphop Rap 90s 80s dripp y2k swag skater",
-    "url": "https://www.vinted.pl/items/4889960362-czapka-stussy-streetwear-hiphop-rap-90s-80s-dripp-y2k-swag-skater",
-    "image": "https://images1.vinted.net/tc/01_0245b_s8LAFL8h4D5DzUmxf5YcdEcs/1723722726.jpeg?s=048b1ece010d37e238396af02e24f9b8fe6efe88",
+    "productId": 4938080194,
+    "title": "Kurtka Nike softshell vintage",
+    "url": "https://www.vinted.pl/items/4938080194-kurtka-nike-softshell-vintage",
+    "image": "https://images1.vinted.net/tc/01_018b1_mg47yD3BWankiB7RuoFMZLQn/1724603781.jpeg?s=aeb88c3716f0d8826ab95a7cc99282648fe3839b",
     "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
-    },
-    "seller": {
-      "userId": 118386026,
-      "username": "lonciponci",
-      "profile": "https://www.vinted.pl/member/118386026-lonciponci",
-      "profilePicture": "https://images1.vinted.net/t/03_01849_E12RH9iJ53m14VqNoPtCWCDK/f800/1720632685.jpeg?s=6035083ac43b992cf01693294198b18a0e7efe17"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4887213201,
-    "title": "Stüssy tee",
-    "url": "https://www.vinted.pl/items/4887213201-stussy-tee",
-    "image": "https://images1.vinted.net/tc/02_02416_nf9Wh7y4NPbFuU2Fbk4oWvWA/1723650631.jpeg?s=883d12471744ff88f0e284c069a8691b7f990aff",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "Nike",
     "size": "M",
     "price": {
-      "amount": "86.82",
+      "amount": "40.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.04",
-      "totalAmount": "91.86"
+      "fees": "2.7",
+      "totalAmount": "42.7"
     },
     "seller": {
-      "userId": 175819706,
-      "username": "emilia_kirk",
-      "profile": "https://www.vinted.pl/member/175819706-emiliakirk",
-      "profilePicture": "https://images1.vinted.net/t/01_00efb_PuB6KfFs7qVQveguNhTY1ide/f800/1701635049.jpeg?s=8222fb9108ca6b9456a44f99cc9d0a94c707a67c"
+      "userId": 97287582,
+      "username": "mikolajboks123",
+      "profile": "https://www.vinted.pl/member/97287582-mikolajboks123",
+      "profilePicture": "https://images1.vinted.net/t/02_00b7b_kp97nXGTr5gQS1ptHKBwXkNR/f800/1655454372.jpeg?s=6badb7544a6b779fbc4923cdd181cccbc8287754"
     },
     "category": "Men"
   },
   {
-    "productId": 4886219790,
-    "title": "Vintage Stussy T-shirt",
-    "url": "https://www.vinted.pl/items/4886219790-vintage-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/03_001aa_nCnKYVLLVcpMRDT4F4rNgpWz/1723639298.jpeg?s=120fcd5af07bc1ca3a8b2a496819a348289bcdaf",
+    "productId": 4938078331,
+    "title": "šusťáky",
+    "url": "https://www.vinted.pl/items/4938078331-sustaky",
+    "image": "https://images1.vinted.net/tc/03_01c2b_Si4jsztwUcmXr6Ts8FeTeZzt/1724603767.jpeg?s=3e0a0bce76c23a60ecae49a76746ff2db9464fab",
     "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "79.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.65",
-      "totalAmount": "83.65"
-    },
-    "seller": {
-      "userId": 90888648,
-      "username": "fifirifi2137",
-      "profile": "https://www.vinted.pl/member/90888648-fifirifi2137",
-      "profilePicture": "https://images1.vinted.net/t/01_020aa_PfNKunWffxgxQZZTrJAQ2sr7/f800/1683360253.jpeg?s=fba909288debe31bd13ea84d36c6d64c38ec6cb9"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4885239755,
-    "title": "Koszula Stussy",
-    "url": "https://www.vinted.pl/items/4885239755-koszula-stussy",
-    "image": "https://images1.vinted.net/tc/02_014c8_hDJjdQiavXJCtKXw83m9VsFu/1723627084.jpeg?s=a6098919d9dbb0ee6d4303a3e141069fca99e8f3",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "75.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.45",
-      "totalAmount": "79.45"
-    },
-    "seller": {
-      "userId": 221059556,
-      "username": "thefashionspot",
-      "profile": "https://www.vinted.pl/member/221059556-thefashionspot",
-      "profilePicture": "https://images1.vinted.net/t/03_01de6_BgNukLzB1rcpBShGPKPZ9M7f/f800/1722954787.jpeg?s=309b881357d2badce353936d156686c8040b8ed3"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4881819759,
-    "title": "koszulka stussy",
-    "url": "https://www.vinted.pl/items/4881819759-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/02_01cf6_sez9V7QqTx6YdSorysgvZEmR/1723548338.jpeg?s=2d4aace46243cb6beea1261d78fa69243d70ffac",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
+    "favourites": 1,
+    "brand": "adidas",
     "size": "M",
     "price": {
-      "amount": "100.0",
+      "amount": "13.62",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
+      "fees": "1.38",
+      "totalAmount": "15.0"
     },
     "seller": {
-      "userId": 90540393,
-      "username": "kamil_kaluznybyq",
-      "profile": "https://www.vinted.pl/member/90540393-kamilkaluznybyq",
-      "profilePicture": "https://images1.vinted.net/t/03_01028_EELkdyJcm8EeZNzQe7NAGA4Y/f800/1661986412.jpeg?s=1545338cd0f05d722a54ee5834640410e7c694cb"
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
     },
     "category": "Men"
   },
   {
-    "productId": 4881115276,
-    "title": "Koszulka stussy",
-    "url": "https://www.vinted.pl/items/4881115276-koszulka-stussy",
-    "image": "https://images1.vinted.net/tc/02_01200_uEfnNhmE1iMVQS4iuY3DKcJv/1723539558.jpeg?s=a6005169623795b6f2de753edfa75cbc68bf616a",
+    "productId": 4938078110,
+    "title": "Paris Saint Germain fotbollströja 2021",
+    "url": "https://www.vinted.pl/items/4938078110-paris-saint-germain-fotbollstroja-2021",
+    "image": "https://images1.vinted.net/tc/03_00129_Qh68ADBrUtKkahtR4KMaGG9y/1724603766.jpeg?s=1d93d39cc95a9f865db47a2fb6cfcbca8ad142c6",
     "promoted": false,
-    "favourites": 48,
-    "brand": "Stüssy",
-    "size": "S",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
     "price": {
-      "amount": "80.0",
+      "amount": "18.95",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
+      "fees": "1.65",
+      "totalAmount": "20.6"
     },
     "seller": {
-      "userId": 92516208,
-      "username": "xxadamsxx",
-      "profile": "https://www.vinted.pl/member/92516208-xxadamsxx",
-      "profilePicture": "https://images1.vinted.net/t/03_02702_R1LLagr7EZWyBiSPzzwQfgx7/f800/1667382984.jpeg?s=2f42fea323de0c6681a0a3f6122195b76a627251"
+      "userId": 222733541,
+      "username": "lastbuy",
+      "profile": "https://www.vinted.pl/member/222733541-lastbuy",
+      "profilePicture": "https://images1.vinted.net/t/03_0048d_7Nzr96gZ6dXWr5Ph3vcA48gS/f800/1724587972.jpeg?s=484ef5916801c6c853ffab3cba3ec5883111d001"
     },
     "category": "Men"
   },
   {
-    "productId": 4880834459,
-    "title": "Stussy Lazy tee",
-    "url": "https://www.vinted.pl/items/4880834459-stussy-lazy-tee",
-    "image": "https://images1.vinted.net/tc/01_01b41_S9RHa7hz4BwtVJof3FsoRfq8/1723632661.jpeg?s=367eaad58f7ce5fe712676969e99cc35f302bb91",
+    "productId": 4938073953,
+    "title": "Adidas set",
+    "url": "https://www.vinted.pl/items/4938073953-adidas-set",
+    "image": "https://images1.vinted.net/tc/02_005c8_xzMAYuuGbfQfxkSAib8rvsgH/1724603735.jpeg?s=3aaee549bab54ab8d86c0fc1c7e93883ae0a4f02",
     "promoted": false,
-    "favourites": 10,
-    "brand": "Stüssy",
-    "size": "L",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XS",
     "price": {
-      "amount": "76.91",
+      "amount": "30.32",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.55",
-      "totalAmount": "81.46"
+      "fees": "2.22",
+      "totalAmount": "32.54"
     },
     "seller": {
-      "userId": 114071761,
-      "username": "kiralybelak",
-      "profile": "https://www.vinted.pl/member/114071761-kiralybelak",
-      "profilePicture": "https://images1.vinted.net/t/02_025d7_94y52dMCJtMTN9GtcKyk6Gk1/f800/1706782051.jpeg?s=8bba9bbce5b04c3757578463943e1c681bf259d6"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4880645673,
-    "title": "T shirt stussy Logo s",
-    "url": "https://www.vinted.pl/items/4880645673-t-shirt-stussy-logo-s",
-    "image": "https://images1.vinted.net/tc/02_01c26_HiQmVnGdqpcBXGEpUUpmJd6i/1723511547.jpeg?s=fc5fcec31ae92e15990672e24a341eca43cd8be8",
-    "promoted": false,
-    "favourites": 6,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "89.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.15",
-      "totalAmount": "94.15"
-    },
-    "seller": {
-      "userId": 178299207,
-      "username": "afshion",
-      "profile": "https://www.vinted.pl/member/178299207-afshion",
-      "profilePicture": "https://images1.vinted.net/t/01_016f3_fRoQVuHoDiLPQFYZTNX2QUMi/f800/1723520796.jpeg?s=132c119d8286376dbb58d71ca2882d6dc4a511f8"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4879029830,
-    "title": "Stüssy hosszú ujjú póló",
-    "url": "https://www.vinted.pl/items/4879029830-stussy-hosszu-ujju-polo",
-    "image": "https://images1.vinted.net/tc/03_021bd_s1LgZend8WtvLfHu5x1KzCpm/r3/1723475836.jpeg?s=391062c12e6e8ea14293b1f8cae1bf6afcf7ee70",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
-    "size": "S",
-    "price": {
-      "amount": "97.78",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.59",
-      "totalAmount": "103.37"
-    },
-    "seller": {
-      "userId": 137920725,
-      "username": "lorant1111",
-      "profile": "https://www.vinted.pl/member/137920725-lorant1111",
+      "userId": 224533765,
+      "username": "tetris2024",
+      "profile": "https://www.vinted.pl/member/224533765-tetris2024",
       "profilePicture": null
     },
     "category": "Men"
   },
   {
-    "productId": 4878944498,
-    "title": "stussy logo cap y2k",
-    "url": "https://www.vinted.pl/items/4878944498-stussy-logo-cap-y2k",
-    "image": "https://images1.vinted.net/tc/01_01772_7q3zChfk2aJ4uiC8yaWjqGLw/1723474848.jpeg?s=c2b79aa31ef809f728a5211e4be37585537ecd22",
+    "productId": 4938070948,
+    "title": "New balance hoodie",
+    "url": "https://www.vinted.pl/items/4938070948-new-balance-hoodie",
+    "image": "https://images1.vinted.net/tc/01_0220b_3fJGVCXzmmhtPhXUHMd4eA3f/1724603712.jpeg?s=10f92fa8caa8df461dbc0600c4b4090a4a351cbf",
     "promoted": false,
-    "favourites": 7,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": "49.2",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.16",
+      "totalAmount": "52.36"
+    },
+    "seller": {
+      "userId": 197409845,
+      "username": "conradl",
+      "profile": "https://www.vinted.pl/member/197409845-conradl",
+      "profilePicture": "https://images1.vinted.net/t/01_018d6_PYo6uqBBRwe2zsqppZKHARnt/f800/1712428648.jpeg?s=25012acb9e3edc35170814a9edf131c55344a534"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938067740,
+    "title": "Nike Sapka",
+    "url": "https://www.vinted.pl/items/4938067740-nike-sapka",
+    "image": "https://images1.vinted.net/tc/01_01e39_yKcZZ2axrNm79BJUGmbRqpiP/1724603687.jpeg?s=36c6a3ebe82da32210001a0eaf119889d6e2f7e5",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
     "size": "Uniwersalny",
     "price": {
-      "amount": "86.77",
+      "amount": "54.93",
       "currency": "PLN",
       "discount": null,
-      "fees": "5.04",
-      "totalAmount": "91.81"
+      "fees": "3.45",
+      "totalAmount": "58.38"
     },
     "seller": {
-      "userId": 166901150,
-      "username": "miki.vtg",
-      "profile": "https://www.vinted.pl/member/166901150-mikivtg",
-      "profilePicture": "https://images1.vinted.net/t/02_00bdd_3RSUPwgQqJC5dtB1nryeZnzD/f800/1703494815.jpeg?s=2c6afededfb94d05e07026eeddb27e9e54652cbe"
+      "userId": 200825425,
+      "username": "tenderadam",
+      "profile": "https://www.vinted.pl/member/200825425-tenderadam",
+      "profilePicture": "https://images1.vinted.net/t/03_01a2b_65sZQenXKz9EHtUSykMUTYTS/f800/1713885470.jpeg?s=fb68c6c6abe6e3f93f9357df236f69a6d738dd87"
     },
     "category": "Men"
   },
   {
-    "productId": 4877851891,
-    "title": "Stussy Koszulka rozmiar XL",
-    "url": "https://www.vinted.pl/items/4877851891-stussy-koszulka-rozmiar-xl",
-    "image": "https://images1.vinted.net/tc/03_003ad_sL1UqgaC37XiTCqGWN7RCDER/1723461778.jpeg?s=ff1aed3e25c3c02dacb1aacd8fd2c8fbb9443720",
+    "productId": 4938066575,
+    "title": "Adidas póló",
+    "url": "https://www.vinted.pl/items/4938066575-adidas-polo",
+    "image": "https://images1.vinted.net/tc/03_011b0_dEbtBCcuJPqzMqec7bQihxud/1724603678.jpeg?s=167bcbb0501bfcfd2cd140125a7df8e80afe788a",
     "promoted": false,
-    "favourites": 23,
-    "brand": "Stüssy",
-    "size": "XL",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
     "price": {
-      "amount": "80.0",
+      "amount": "21.97",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.7",
-      "totalAmount": "84.7"
+      "fees": "1.8",
+      "totalAmount": "23.77"
     },
     "seller": {
-      "userId": 100850103,
-      "username": "tobiaszkeee",
-      "profile": "https://www.vinted.pl/member/100850103-tobiaszkeee",
-      "profilePicture": "https://images1.vinted.net/t/02_013c3_tPtvCkPAHycpk1DpD4BtzKSm/f800/1724181134.jpeg?s=9e9e7892005e3fb12610e30fbcc2b481e2a2952d"
+      "userId": 216101068,
+      "username": "papainori",
+      "profile": "https://www.vinted.pl/member/216101068-papainori",
+      "profilePicture": "https://images1.vinted.net/t/01_01173_uJsEJRJt9W9SsEHZUk1Aq8yi/f800/1720453923.jpeg?s=6a1ae0f7facadaf4b6b738bd23b00367a0baf587"
     },
     "category": "Men"
   },
   {
-    "productId": 4876620891,
-    "title": "Stussy t-shirt",
-    "url": "https://www.vinted.pl/items/4876620891-stussy-t-shirt",
-    "image": "https://images1.vinted.net/tc/02_0182e_bvA5XRPBeBNvEVWoj64ZCmGc/1723412395.jpeg?s=df2f283445c949de15e29dff903edfd638071872",
+    "productId": 4938065334,
+    "title": "Koszulka new balance",
+    "url": "https://www.vinted.pl/items/4938065334-koszulka-new-balance",
+    "image": "https://images1.vinted.net/tc/03_022a5_8xAsxoCYqdTzodwbyWPUPCa4/1724603669.jpeg?s=21d344f5273dc250571daa11c4960e66a77150d2",
     "promoted": false,
-    "favourites": 34,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 91069801,
+      "username": "kkkwidz",
+      "profile": "https://www.vinted.pl/member/91069801-kkkwidz",
+      "profilePicture": "https://images1.vinted.net/t/02_01688_nuQV1gfwPCTHf2u96rjY9GsP/f800/1652790229.jpeg?s=553a30402b00bc41b13d9430b08e8ca0a13f7943"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938064400,
+    "title": "Track top Adidas M",
+    "url": "https://www.vinted.pl/items/4938064400-track-top-adidas-m",
+    "image": "https://images1.vinted.net/tc/02_011b8_FL84FnN8aGmz6MApUyPTZPpq/1724603661.jpeg?s=c58aaa82d682aac8eac270dbc94d70dcd2602b58",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "56.4",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.52",
+      "totalAmount": "59.92"
+    },
+    "seller": {
+      "userId": 147701766,
+      "username": "mirciulica",
+      "profile": "https://www.vinted.pl/member/147701766-mirciulica",
+      "profilePicture": "https://images1.vinted.net/t/01_00dfb_tohNq8YTXZM7HvpmASdHYQSM/f800/1709494319.jpeg?s=9d3f0f7ed61de81b8e34fd011a259b2dc3ac9533"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938062448,
+    "title": "Tricou Nike stretchy XXS/XSbej",
+    "url": "https://www.vinted.pl/items/4938062448-tricou-nike-stretchy-xxsxsbej",
+    "image": "https://images1.vinted.net/tc/03_021c3_pb91xhVXNQXWqfvp51ssGxYF/1724603647.jpeg?s=d50a9e27dcb59fdd8ade67fcc9662c69bdd4a88b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "17.35",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.57",
+      "totalAmount": "18.92"
+    },
+    "seller": {
+      "userId": 175149346,
+      "username": "teutza9",
+      "profile": "https://www.vinted.pl/member/175149346-teutza9",
+      "profilePicture": "https://images1.vinted.net/t/02_019aa_a2mBNZEMbgUBYc5HTad3ZZu5/f800/1701285713.jpeg?s=8a0f0a8e4dbe2aee608a3391fc45e595c3b43764"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938061624,
+    "title": "Mikina čierna Adidas L",
+    "url": "https://www.vinted.pl/items/4938061624-mikina-cierna-adidas-l",
+    "image": "https://images1.vinted.net/tc/03_0105c_gz6cvP9AfksbW3ypsYe8hUfz/1724603641.jpeg?s=2915f3c1b56b2024f1ee9a54fcf9ae970b0c2154",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "21.59",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.78",
+      "totalAmount": "23.37"
+    },
+    "seller": {
+      "userId": 191015789,
+      "username": "lubik18",
+      "profile": "https://www.vinted.pl/member/191015789-lubik18",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938059649,
+    "title": "Koszulka T-Shirt Nike M",
+    "url": "https://www.vinted.pl/items/4938059649-koszulka-t-shirt-nike-m",
+    "image": "https://images1.vinted.net/tc/01_0234a_tiJg5r56tPbei23ZTzFwyhdr/1724603626.jpeg?s=eecfb3cefa951f7bdbe58a3852fd3876cedfef1b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "22.5",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.83",
+      "totalAmount": "24.33"
+    },
+    "seller": {
+      "userId": 220816893,
+      "username": "piesekscooby",
+      "profile": "https://www.vinted.pl/member/220816893-piesekscooby",
+      "profilePicture": "https://images1.vinted.net/t/02_0150e_N6ibk5ctuCskngG213cAfy6y/f800/1722855264.jpeg?s=a82cdbd7526b3b1256eb8a530f920fbcff060b23"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938059889,
+    "title": "Nike paita",
+    "url": "https://www.vinted.pl/items/4938059889-nike-paita",
+    "image": "https://images1.vinted.net/tc/03_00bdd_9kWEnGgoyRtB9HxaJcGgUmUs/1724603628.jpeg?s=cb952aee239672b5cecfaac9884352151063d088",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "43.19",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.86",
+      "totalAmount": "46.05"
+    },
+    "seller": {
+      "userId": 215955074,
+      "username": "jonmusa08",
+      "profile": "https://www.vinted.pl/member/215955074-jonmusa08",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938057911,
+    "title": "Nike Dri-Fit",
+    "url": "https://www.vinted.pl/items/4938057911-nike-dri-fit",
+    "image": "https://images1.vinted.net/tc/03_01846_BVQKgz3FjC5AhHkxhZ5DrBdq/1724603613.jpeg?s=dcc0a6b7a02fabf45d875b43f73214f0ab50560b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": "43.19",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.86",
+      "totalAmount": "46.05"
+    },
+    "seller": {
+      "userId": 177999655,
+      "username": "egleli1",
+      "profile": "https://www.vinted.pl/member/177999655-egleli1",
+      "profilePicture": "https://images1.vinted.net/t/01_00f2f_5QqBiXmimV2ncXA5rcw6oyNZ/f800/1702838339.jpeg?s=90690ac1c217fd6f9d5b1d9714c9730a0a3b8c49"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938057629,
+    "title": "Adidas fotbollsskor",
+    "url": "https://www.vinted.pl/items/4938057629-adidas-fotbollsskor",
+    "image": "https://images1.vinted.net/tc/03_00b86_ppQn6esYL1tqg59CnRNJPZfi/1724603611.jpeg?s=6201dd6366178123ce956360acbd91b746466c5e",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "43",
+    "price": {
+      "amount": "56.85",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.54",
+      "totalAmount": "60.39"
+    },
+    "seller": {
+      "userId": 142843267,
+      "username": "beckenbauer5",
+      "profile": "https://www.vinted.pl/member/142843267-beckenbauer5",
+      "profilePicture": "https://images1.vinted.net/t/02_01685_EcoXBFXGm4ZeciVutQNMtzCr/f800/1682870117.jpeg?s=289576eb8adc2765b6edf8fb233f57f716851e18"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938056118,
+    "title": "Koszulka nike oryginalna",
+    "url": "https://www.vinted.pl/items/4938056118-koszulka-nike-oryginalna",
+    "image": "https://images1.vinted.net/tc/03_00b1a_KaX7xRSqRTprAPECA5f9aAY8/1724603599.jpeg?s=49d7ab7e94231bce6392285fddf08c8588861d75",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
     "size": "S",
     "price": {
-      "amount": "73.42",
+      "amount": "45.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.37",
-      "totalAmount": "77.79"
+      "fees": "2.95",
+      "totalAmount": "47.95"
     },
     "seller": {
-      "userId": 217488704,
-      "username": "soldbyjesse",
-      "profile": "https://www.vinted.pl/member/217488704-soldbyjesse",
-      "profilePicture": "https://images1.vinted.net/t/02_01fd1_rLa4MFctSbmQRYUhZWVD7Jrq/f800/1724174958.jpeg?s=791ea61bd58168c423af250b936e8e2e5183914c"
+      "userId": 211429242,
+      "username": "samebzdury",
+      "profile": "https://www.vinted.pl/member/211429242-samebzdury",
+      "profilePicture": "https://images1.vinted.net/t/01_01d79_VVciUt2oF2HBPq1MDchEQ1tK/f800/1724601050.jpeg?s=dc60c1ff211980017e6383757b0449a8fe9c1bfc"
     },
     "category": "Men"
   },
   {
-    "productId": 4874950929,
-    "title": "Bucket kapelusz washed logo stussy",
-    "url": "https://www.vinted.pl/items/4874950929-bucket-kapelusz-washed-logo-stussy",
-    "image": "https://images1.vinted.net/tc/02_01896_8LuqRnRj8UPu2EKebKH9VHZD/1723388010.jpeg?s=1a50ff570e9436c74039e1ad0b2e06c9d32333ae",
+    "productId": 4938054826,
+    "title": "vintage spodnie 3/4 nike",
+    "url": "https://www.vinted.pl/items/4938054826-vintage-spodnie-34-nike",
+    "image": "https://images1.vinted.net/tc/01_006c3_t1SmoxRuxSKbnnSFn8fn4fVJ/1724603589.jpeg?s=1397bb8a6b62ed72b85eade8339a80f048f5d107",
     "promoted": false,
-    "favourites": 13,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": "40.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.7",
+      "totalAmount": "42.7"
+    },
+    "seller": {
+      "userId": 101587358,
+      "username": "basia_xd1",
+      "profile": "https://www.vinted.pl/member/101587358-basiaxd1",
+      "profilePicture": "https://images1.vinted.net/t/03_01389_5zjdENLnHLp5jYgS6NQtcdgr/f800/1705334768.jpeg?s=8c624d359b530df5dd91c9e387cb18433feab4e9"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938054019,
+    "title": "Szorty adidas xs",
+    "url": "https://www.vinted.pl/items/4938054019-szorty-adidas-xs",
+    "image": "https://images1.vinted.net/tc/01_025dc_UfzjThfNTebVJVjKVFvappQj/1724603583.jpeg?s=9fda8e43919bee1042ad8748ae57f717caf338c3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XS",
+    "price": {
+      "amount": "42.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.8",
+      "totalAmount": "44.8"
+    },
+    "seller": {
+      "userId": 90553658,
+      "username": "nesia1012",
+      "profile": "https://www.vinted.pl/member/90553658-nesia1012",
+      "profilePicture": "https://images1.vinted.net/t/01_0137f_pGKzUWNHZKi9kmPNRRtNW8Rg/f800/1718132998.jpeg?s=dc0e51f16800a3bb523f720197dc43f9e744035a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938052892,
+    "title": "Mikina Adias",
+    "url": "https://www.vinted.pl/items/4938052892-mikina-adias",
+    "image": "https://images1.vinted.net/tc/01_01b84_X4Xcno5QVrjv7kTCped1baxy/1724603574.jpeg?s=6621318b84e597b5a36c31c91fe0f28f822a8b3e",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "25.68",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.98",
+      "totalAmount": "27.66"
+    },
+    "seller": {
+      "userId": 78429279,
+      "username": "kalii23",
+      "profile": "https://www.vinted.pl/member/78429279-kalii23",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938049664,
+    "title": "spodnie nike z zamkiem",
+    "url": "https://www.vinted.pl/items/4938049664-spodnie-nike-z-zamkiem",
+    "image": "https://images1.vinted.net/tc/02_00756_KE6wG2PyyCJUMpzP41xEMrhb/1724603550.jpeg?s=0473a7e479756764b55fdd71f8ba69c63734cf9a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 97423739,
+      "username": "pawel44969",
+      "profile": "https://www.vinted.pl/member/97423739-pawel44969",
+      "profilePicture": "https://images1.vinted.net/t/03_01a09_9Ead9MFxBfMrD9WiwvRmhU7k/f800/1655553464.jpeg?s=fcd3f709c371c3560a2b5b19e4e1ae2c1a5d82c8"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938049231,
+    "title": "adidas t-pait",
+    "url": "https://www.vinted.pl/items/4938049231-adidas-t-pait",
+    "image": "https://images1.vinted.net/tc/03_00cec_EdTwUArkVMvv5NFq8ygbqJkj/1724603547.jpeg?s=8e9143e9011c6881ac815e25231a0eab138fb17c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": "8.64",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.13",
+      "totalAmount": "9.77"
+    },
+    "seller": {
+      "userId": 223888986,
+      "username": "miiajonna",
+      "profile": "https://www.vinted.pl/member/223888986-miiajonna",
+      "profilePicture": "https://images1.vinted.net/t/01_022b9_p1KXeasT3pLD6KpH29F8dEtb/f800/1724600702.jpeg?s=467e7e7152a1cb60c3e70dc5d90031f14a183d2f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938046620,
+    "title": "Nike kratke hlace",
+    "url": "https://www.vinted.pl/items/4938046620-nike-kratke-hlace",
+    "image": "https://images1.vinted.net/tc/01_01db5_8f3nFyGEwKsCoCqJ2j4HqekR/1724603527.jpeg?s=d567b35487719aff72faedc18ee04484643b33a0",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 213404628,
+      "username": "domac00",
+      "profile": "https://www.vinted.pl/member/213404628-domac00",
+      "profilePicture": "https://images1.vinted.net/t/02_00b50_KpKMGztoi8cwVnjLz8aD4QdM/f800/1719151134.jpeg?s=cbf554843f9ddef8822283dd7717e4afb9d59dda"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938046588,
+    "title": "Szorty Nike m",
+    "url": "https://www.vinted.pl/items/4938046588-szorty-nike-m",
+    "image": "https://images1.vinted.net/tc/01_00aeb_1YA1AK7X9CbBANRRMJ3Z1AxN/1724603527.jpeg?s=30857287c6288311775d56986b81b8ec842312d5",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "42.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.8",
+      "totalAmount": "44.8"
+    },
+    "seller": {
+      "userId": 90553658,
+      "username": "nesia1012",
+      "profile": "https://www.vinted.pl/member/90553658-nesia1012",
+      "profilePicture": "https://images1.vinted.net/t/01_0137f_pGKzUWNHZKi9kmPNRRtNW8Rg/f800/1718132998.jpeg?s=dc0e51f16800a3bb523f720197dc43f9e744035a"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938045591,
+    "title": "Niken koriskengät 38",
+    "url": "https://www.vinted.pl/items/4938045591-niken-koriskengat-38",
+    "image": "https://images1.vinted.net/tc/03_020c1_DP2zJ1ihEjjvHriLctRbrc6R/1724603520.jpeg?s=9ba53d0d83d139689cf23dd443800c4ab12bc63b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38",
+    "price": {
+      "amount": "17.27",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.56",
+      "totalAmount": "18.83"
+    },
+    "seller": {
+      "userId": 206023543,
+      "username": "kirppisfi",
+      "profile": "https://www.vinted.pl/member/206023543-kirppisfi",
+      "profilePicture": "https://images1.vinted.net/t/03_01d87_z21sY972qPNfieyCfvBcmbnE/f800/1717340081.jpeg?s=2f8e9ea79da402cf7835f0f09a41983dad44d2f0"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938044065,
+    "title": "Spodenki męskie Adidas 2XL",
+    "url": "https://www.vinted.pl/items/4938044065-spodenki-meskie-adidas-2xl",
+    "image": "https://images1.vinted.net/tc/03_00e54_145NMNbv3wjfPe4FoJZn4zv1/1724603508.jpeg?s=3e548d300ae3f50e0d3aacbd20342f882633bfc1",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "44 | W28",
+    "price": {
+      "amount": "25.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.95",
+      "totalAmount": "26.95"
+    },
+    "seller": {
+      "userId": 91404129,
+      "username": "renia01377w6",
+      "profile": "https://www.vinted.pl/member/91404129-renia01377w6",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938043593,
+    "title": "Plona striuke",
+    "url": "https://www.vinted.pl/items/4938043593-plona-striuke",
+    "image": "https://images1.vinted.net/tc/03_0208f_GYUTZQktRGmrWzsh5QoQS4Ef/1724603504.jpeg?s=26b7e0e4e5f0b01aca448e3620ab0fe0cdada952",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 104309370,
+      "username": "kunsmanaitee",
+      "profile": "https://www.vinted.pl/member/104309370-kunsmanaitee",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938042024,
+    "title": "czapka z daszkiem adidas",
+    "url": "https://www.vinted.pl/items/4938042024-czapka-z-daszkiem-adidas",
+    "image": "https://images1.vinted.net/tc/02_00b43_DdFCnoNjjS7uqGW6dvJS4op9/1724603493.jpeg?s=0b345993edcfb9f14cb9bfdde1ed18c85455ae1b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
     "size": "Uniwersalny",
     "price": {
-      "amount": "79.0",
+      "amount": "50.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "4.65",
-      "totalAmount": "83.65"
+      "fees": "3.2",
+      "totalAmount": "53.2"
     },
     "seller": {
-      "userId": 119064786,
-      "username": "alex2ndfash",
-      "profile": "https://www.vinted.pl/member/119064786-alex2ndfash",
-      "profilePicture": "https://images1.vinted.net/t/03_013b0_64pSnq8yK7YfE6qRnHu7bMak/f800/1668187155.jpeg?s=b5dcb96f30c17dee3225ff2ea0174e19ef400693"
+      "userId": 224804844,
+      "username": "maddie.szafa",
+      "profile": "https://www.vinted.pl/member/224804844-maddieszafa",
+      "profilePicture": "https://images1.vinted.net/t/03_00f6a_PsnXv6XvLsP853Wd1XwtaiQA/f800/1724600507.jpeg?s=bf25b154b3b659ae30b8d374ccaad96573101757"
     },
     "category": "Men"
   },
   {
-    "productId": 4874498122,
-    "title": "Stussy",
-    "url": "https://www.vinted.pl/items/4874498122-stussy",
-    "image": "https://images1.vinted.net/tc/03_00b27_3JkSCYNWWqD4CnepMX4ZfQDi/1723383092.jpeg?s=280061795d91c77e546366db936646e441931d73",
+    "productId": 4938041238,
+    "title": "New balance hoodie",
+    "url": "https://www.vinted.pl/items/4938041238-new-balance-hoodie",
+    "image": "https://images1.vinted.net/tc/03_0211e_PBSC4gJLREJbcdp4YogcpBGL/1724603486.jpeg?s=96ded194f363dd806ffec9e54137aced57356efc",
     "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
+    "favourites": 0,
+    "brand": "New Balance",
     "size": "M",
+    "price": {
+      "amount": "49.2",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.16",
+      "totalAmount": "52.36"
+    },
+    "seller": {
+      "userId": 197409845,
+      "username": "conradl",
+      "profile": "https://www.vinted.pl/member/197409845-conradl",
+      "profilePicture": "https://images1.vinted.net/t/01_018d6_PYo6uqBBRwe2zsqppZKHARnt/f800/1712428648.jpeg?s=25012acb9e3edc35170814a9edf131c55344a534"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938039683,
+    "title": "Vintage Nike Y2K shorts",
+    "url": "https://www.vinted.pl/items/4938039683-vintage-nike-y2k-shorts",
+    "image": "https://images1.vinted.net/tc/03_02527_AYc5TsFg4AgafyvfVomfFAsF/1724603475.jpeg?s=43e6360036c70640be015f87eb946b0490615c99",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "27.86",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.09",
+      "totalAmount": "29.95"
+    },
+    "seller": {
+      "userId": 201696388,
+      "username": "bratka123.l",
+      "profile": "https://www.vinted.pl/member/201696388-bratka123l",
+      "profilePicture": "https://images1.vinted.net/t/02_010cd_uv3kGzZanRfii2EWDG4EMrzx/f800/1724053039.jpeg?s=aa20b5b4565460b1611cb5a6ff09a4a01e36720f"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938038710,
+    "title": "Czapka z daszkiem Adidas",
+    "url": "https://www.vinted.pl/items/4938038710-czapka-z-daszkiem-adidas",
+    "image": "https://images1.vinted.net/tc/02_016bc_AaxngmSrb9DYLzLeLXmS8rT1/1724603467.jpeg?s=02fcd64ef6c5e869c3a1072530c236eafe9b3945",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 159223229,
+      "username": "wojtasdw",
+      "profile": "https://www.vinted.pl/member/159223229-wojtasdw",
+      "profilePicture": "https://images1.vinted.net/t/02_01899_BpYBfEKtotTWdx6heVyiHBsH/f800/1700580661.jpeg?s=19126c8abd84c51947685463462f54986eee4164"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938037992,
+    "title": "Bluza Nike Air",
+    "url": "https://www.vinted.pl/items/4938037992-bluza-nike-air",
+    "image": "https://images1.vinted.net/tc/02_022c7_jrMDQvUFSW9HrmChRPTWAHc2/1724603462.jpeg?s=1b59fcf7b193a1e8fa33c981dd7169e38a066cb6",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XS",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 190958966,
+      "username": "kamil.1011",
+      "profile": "https://www.vinted.pl/member/190958966-kamil1011",
+      "profilePicture": "https://images1.vinted.net/t/03_00eb5_AgLt72q8Uy6abo3NCtJZkGon/f800/1720813486.jpeg?s=b75da8666865a12ca11af7f7e73bd4ec4affe0e1"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938037616,
+    "title": "adidas mikina",
+    "url": "https://www.vinted.pl/items/4938037616-adidas-mikina",
+    "image": "https://images1.vinted.net/tc/01_01135_PeFFrPKZBnd1o5AxyeLVCmGx/1724603459.jpeg?s=a1c4ee191a1727343fb2049f0ee5a8c081640a32",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "34.47",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.42",
+      "totalAmount": "36.89"
+    },
+    "seller": {
+      "userId": 78708481,
+      "username": "magdalenamartin",
+      "profile": "https://www.vinted.pl/member/78708481-magdalenamartin",
+      "profilePicture": "https://images1.vinted.net/t/03_003e9_NPRp79pwGTumm5Mc4ZNFw9ic/f800/1689173870.jpeg?s=79ee07731594edb33a7296b0662c5d8100d753eb"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938036026,
+    "title": "Koszulka Adidas",
+    "url": "https://www.vinted.pl/items/4938036026-koszulka-adidas",
+    "image": "https://images1.vinted.net/tc/01_0199d_yiLAH82BKG4XY8sjaiaaBUyy/1724603447.jpeg?s=6870ef84354164118e648ee402bb04f5158421e3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "12.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.3",
+      "totalAmount": "13.3"
+    },
+    "seller": {
+      "userId": 178580780,
+      "username": "buty0040",
+      "profile": "https://www.vinted.pl/member/178580780-buty0040",
+      "profilePicture": "https://images1.vinted.net/t/03_0092d_RpsgidiWn3zMvVgw3pxw6427/f800/1703187608.jpeg?s=0e3a5428eaccad51d23d74bae8e0a919bbdf3a9e"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938033586,
+    "title": "Salovky Nike",
+    "url": "https://www.vinted.pl/items/4938033586-salovky-nike",
+    "image": "https://images1.vinted.net/tc/02_002cb_JBzqupSFLMSqQn9YsAace5Nh/1724603429.jpeg?s=5735a349c51c280c6f6cd33aad37db7b2cbf3336",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Inny",
+    "price": {
+      "amount": "43.09",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.85",
+      "totalAmount": "45.94"
+    },
+    "seller": {
+      "userId": 79928877,
+      "username": "ro201",
+      "profile": "https://www.vinted.pl/member/79928877-ro201",
+      "profilePicture": "https://images1.vinted.net/t/02_00526_BTtnmMLysC5tXgD5oSKE3NfX/f800/1643141366.jpeg?s=f7e35b1f70e29798fb853c0abad07f6c2327ed26"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938033098,
+    "title": "adidas mikina",
+    "url": "https://www.vinted.pl/items/4938033098-adidas-mikina",
+    "image": "https://images1.vinted.net/tc/02_02423_88MTcqY2gGJPXfusT6fvty9P/1724603425.jpeg?s=dcae631f4e41ecf844afbcab02dc65f9eb5f7b1c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": "27.41",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.07",
+      "totalAmount": "29.48"
+    },
+    "seller": {
+      "userId": 190337486,
+      "username": "barboravlckova123",
+      "profile": "https://www.vinted.pl/member/190337486-barboravlckova123",
+      "profilePicture": "https://images1.vinted.net/t/01_01bc6_dcaVthV6DTEJjpZ7ZXdfneGs/f800/1724592181.jpeg?s=622944348222858783e1756c11db2e4e6aac0f84"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938030863,
+    "title": "Kedai",
+    "url": "https://www.vinted.pl/items/4938030863-kedai",
+    "image": "https://images1.vinted.net/tc/03_00e43_vNfrVojfPSq7b8yskt9Rpedz/1724603408.jpeg?s=5a589aee05f35affbbb8a27e3b1128d2f2c1edf1",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "41",
+    "price": {
+      "amount": "25.91",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.0",
+      "totalAmount": "27.91"
+    },
+    "seller": {
+      "userId": 80308534,
+      "username": "ausrastr",
+      "profile": "https://www.vinted.pl/member/80308534-ausrastr",
+      "profilePicture": "https://images1.vinted.net/t/03_00385_MF1yvBWh7PCXQiF1JffSCPc6/f800/1643552919.jpeg?s=63360fd01d64e67ea8a81a0c4e53572babafd9a4"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938011656,
+    "title": "Buty adidas",
+    "url": "https://www.vinted.pl/items/4938011656-buty-adidas",
+    "image": "https://images1.vinted.net/tc/02_0199e_CcqeA1ifSmcfqM1bG6HnuMqF/1724603266.jpeg?s=c154295b03d428335f9b0aca3e580535d7ea6803",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "38",
+    "price": {
+      "amount": "50.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "3.2",
+      "totalAmount": "53.2"
+    },
+    "seller": {
+      "userId": 217396069,
+      "username": "malpimarynarz",
+      "profile": "https://www.vinted.pl/member/217396069-malpimarynarz",
+      "profilePicture": null
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938028301,
+    "title": "Adidas alternative",
+    "url": "https://www.vinted.pl/items/4938028301-adidas-alternative",
+    "image": "https://images1.vinted.net/tc/02_01c68_vMueMi1qMdSKSAgxdFGctprr/1724603389.jpeg?s=a2ee439f3ada5f96a465d02ba19bb3b0aa05f2a1",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "39,5",
+    "price": {
+      "amount": "9.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "1.15",
+      "totalAmount": "10.15"
+    },
+    "seller": {
+      "userId": 90643301,
+      "username": "0jasia0",
+      "profile": "https://www.vinted.pl/member/90643301-0jasia0",
+      "profilePicture": "https://images1.vinted.net/t/02_0108a_2ArS8kcvNPTnMwPFGPgHxYew/f800/1652715271.jpeg?s=482be8c5a355f1e37cb261376a03c8e69319c25e"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938027767,
+    "title": "Buty męskie Nike 44 stan bardzo dobry",
+    "url": "https://www.vinted.pl/items/4938027767-buty-meskie-nike-44-stan-bardzo-dobry",
+    "image": "https://images1.vinted.net/tc/03_0137f_SeEdy5x7cYyWp6C4LUyjRono/1724603385.jpeg?s=6d363eba357247d27e0506f9fe82efdc9053f36d",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "44",
+    "price": {
+      "amount": "35.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.45",
+      "totalAmount": "37.45"
+    },
+    "seller": {
+      "userId": 136829058,
+      "username": "okazje_od_wandy",
+      "profile": "https://www.vinted.pl/member/136829058-okazjeodwandy",
+      "profilePicture": "https://images1.vinted.net/t/02_00b01_ECSCUrekwwPP4PiF1FcB9erF/f800/1679230912.jpeg?s=eb138229515600e239f5d92031297c0d0311ea17"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938027351,
+    "title": "spodnie nike",
+    "url": "https://www.vinted.pl/items/4938027351-spodnie-nike",
+    "image": "https://images1.vinted.net/tc/02_01390_CW1YyPwEJGfcNMkSSVomWyxe/1724603382.jpeg?s=a847513bcb8493bd2715ad7ebf0e37f8a0b07971",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": "45.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.95",
+      "totalAmount": "47.95"
+    },
+    "seller": {
+      "userId": 97423739,
+      "username": "pawel44969",
+      "profile": "https://www.vinted.pl/member/97423739-pawel44969",
+      "profilePicture": "https://images1.vinted.net/t/03_01a09_9Ead9MFxBfMrD9WiwvRmhU7k/f800/1655553464.jpeg?s=fcd3f709c371c3560a2b5b19e4e1ae2c1a5d82c8"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938025532,
+    "title": "Tshirt adidas 90s 00s vintage og rap hip hop retro jersey",
+    "url": "https://www.vinted.pl/items/4938025532-tshirt-adidas-90s-00s-vintage-og-rap-hip-hop-retro-jersey",
+    "image": "https://images1.vinted.net/tc/02_01069_dZ1NY5Yo39m6SexrK27EVfBG/1724603369.jpeg?s=fa043830f493b321c9ef0b79d5999b8226b081ef",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "L",
     "price": {
       "amount": "60.0",
       "currency": "PLN",
@@ -2056,250 +2296,10 @@
       "totalAmount": "63.7"
     },
     "seller": {
-      "userId": 198433149,
-      "username": "1millionshop",
-      "profile": "https://www.vinted.pl/member/198433149-1millionshop",
-      "profilePicture": "https://images1.vinted.net/t/02_00930_oBb9akLbdaafeuRkw4WCKtQH/f800/1713852791.jpeg?s=dda085d701d37a9c6d8f5f699f077e3faa7ab2ad"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4872761877,
-    "title": "Kortärmad skjorta Stüssy",
-    "url": "https://www.vinted.pl/items/4872761877-kortarmad-skjorta-stussy",
-    "image": "https://images1.vinted.net/tc/02_01359_L853iuRQ49ugZ8sUyG56f6gF/1723358948.jpeg?s=d8674be91645ec1675ccb71f65e7d1da7bddd402",
-    "promoted": false,
-    "favourites": 10,
-    "brand": "Stüssy",
-    "size": "XL",
-    "price": {
-      "amount": "75.79",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.49",
-      "totalAmount": "80.28"
-    },
-    "seller": {
-      "userId": 208524897,
-      "username": "elisebg1",
-      "profile": "https://www.vinted.pl/member/208524897-elisebg1",
-      "profilePicture": "https://images1.vinted.net/t/03_0270b_6LzqcZ3ksVHJd7hKnSnYJrvF/f800/1717101850.jpeg?s=748310960383ef74129d063a7e5a0159b49eeffc"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4871744300,
-    "title": "stussy shorts",
-    "url": "https://www.vinted.pl/items/4871744300-stussy-shorts",
-    "image": "https://images1.vinted.net/tc/03_00fbc_GoJo2ebthn9JyijbfeyUxsJc/1723309296.jpeg?s=448e2e75f3158a30e594b6385610f97d4e464900",
-    "promoted": false,
-    "favourites": 12,
-    "brand": "Stüssy",
-    "size": "50 | W34",
-    "price": {
-      "amount": "86.77",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.04",
-      "totalAmount": "91.81"
-    },
-    "seller": {
-      "userId": 147044563,
-      "username": "vladakin",
-      "profile": "https://www.vinted.pl/member/147044563-vladakin",
-      "profilePicture": "https://images1.vinted.net/t/01_01424_HaoJN72Mbc7t3skg86PzuhLs/f800/1720023573.jpeg?s=a0db6c4be1c9112e1f3b170e9cf48380a3e5dcae"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4870507417,
-    "title": "Stussy pen",
-    "url": "https://www.vinted.pl/items/4870507417-stussy-pen",
-    "image": "https://images1.vinted.net/tc/01_0205d_LbEzBSp2WnTRobAuV72XsfLT/1723293740.jpeg?s=88ebf837a4e512eeeecfb47ad7b9cd2f55621a35",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "Stüssy",
-    "size": null,
-    "price": {
-      "amount": "45.73",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "2.99",
-      "totalAmount": "48.72"
-    },
-    "seller": {
-      "userId": 184690183,
-      "username": "villadsbangh",
-      "profile": "https://www.vinted.pl/member/184690183-villadsbangh",
-      "profilePicture": "https://images1.vinted.net/t/03_01186_huLsdouVr97fwJXT6D9iPTNa/f800/1723799277.jpeg?s=67a3865c7b1540be6d837bd3befed4d9eb49d0ba"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4869659639,
-    "title": "Streetammo T-shirt",
-    "url": "https://www.vinted.pl/items/4869659639-streetammo-t-shirt",
-    "image": "https://images1.vinted.net/tc/01_015ca_z5xbAuQp4Np1Qbx8TWXmNyp8/1723282874.jpeg?s=1439f8ea22341caee7aad0e86c29a0f5c8e85360",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "57.3",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "3.57",
-      "totalAmount": "60.87"
-    },
-    "seller": {
-      "userId": 169301410,
-      "username": "nicolajoestervig",
-      "profile": "https://www.vinted.pl/member/169301410-nicolajoestervig",
-      "profilePicture": null
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4869644810,
-    "title": "Primitive t-shirt",
-    "url": "https://www.vinted.pl/items/4869644810-primitive-t-shirt",
-    "image": "https://images1.vinted.net/tc/01_0249a_p9q2xK1mnjJUH4TErPajbPLz/1723282678.jpeg?s=39797602bb69e1ced51e2abd1a2f8e04d69a31b8",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "86.24",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.01",
-      "totalAmount": "91.25"
-    },
-    "seller": {
-      "userId": 169301410,
-      "username": "nicolajoestervig",
-      "profile": "https://www.vinted.pl/member/169301410-nicolajoestervig",
-      "profilePicture": null
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4867265707,
-    "title": "Stussy tričko",
-    "url": "https://www.vinted.pl/items/4867265707-stussy-tricko",
-    "image": "https://images1.vinted.net/tc/03_01209_Tk5QcUmHfs4yC3MKpQyisLAL/1723208546.jpeg?s=ab695c6eae07e589505186dae8a70684a1626b4a",
-    "promoted": false,
-    "favourites": 115,
-    "brand": "Stüssy",
-    "size": "XL",
-    "price": {
-      "amount": "86.37",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.02",
-      "totalAmount": "91.39"
-    },
-    "seller": {
-      "userId": 110310422,
-      "username": "kajo2045",
-      "profile": "https://www.vinted.pl/member/110310422-kajo2045",
-      "profilePicture": "https://images1.vinted.net/t/03_010fd_c9XPMQjwFq7cRPaQ5J4hE6xP/f800/1664993827.jpeg?s=73a5807cb1287c9e116ba0b76bf6ff2db02c4e55"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4866836342,
-    "title": "stüssy kosile",
-    "url": "https://www.vinted.pl/items/4866836342-stussy-kosile",
-    "image": "https://images1.vinted.net/tc/01_01518_VQhTeAagpqRArFq74bJcJ8B3/1723203123.jpeg?s=de0e8bcf1362ce484c20800ed0e1cfba32e46028",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "68.95",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.15",
-      "totalAmount": "73.1"
-    },
-    "seller": {
-      "userId": 85602745,
-      "username": "d0minika33",
-      "profile": "https://www.vinted.pl/member/85602745-d0minika33",
-      "profilePicture": "https://images1.vinted.net/t/03_02645_Ur7k38VCV98ZK5vLmZChr1WP/f800/1714904143.jpeg?s=b774352589c2019f5a08f2860e172aaac6e5de00"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4864861227,
-    "title": "\"Stussy\" Shorts Mens 32 Blue Cargo Adjustable Waist 12\" Skate Y2K Streetwear",
-    "url": "https://www.vinted.pl/items/4864861227-stussy-shorts-mens-32-blue-cargo-adjustable-waist-12-skate-y2k-streetwear",
-    "image": "https://images1.vinted.net/tc/03_00d1a_pQ81WqmouDcc1V4Za6AW9pPp/1723415830.jpeg?s=8d6df658652a25a95d5fcaaafd755bc1c6d7bf5c",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "Stüssy",
-    "size": "48 | W32",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 207315220,
-      "username": "goldted",
-      "profile": "https://www.vinted.pl/member/207315220-goldted",
-      "profilePicture": "https://images1.vinted.net/t/01_01c21_549FeDPu5FQeF74cQWGQ6kL9/f800/1719172609.jpeg?s=5d37da6690ce9a66d4672e85e0c661b2822d6e05"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4865026235,
-    "title": "Kamizelka levis",
-    "url": "https://www.vinted.pl/items/4865026235-kamizelka-levis",
-    "image": "https://images1.vinted.net/tc/01_003f2_cSpp17RTm8E5vNjNnBqYFANb/1723144509.jpeg?s=e03537cc00e8a2c1961b2d83bd0f8e2a2696102f",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "Stüssy",
-    "size": "L",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.7",
-      "totalAmount": "105.7"
-    },
-    "seller": {
-      "userId": 92575976,
-      "username": "a.anton",
-      "profile": "https://www.vinted.pl/member/92575976-aanton",
-      "profilePicture": "https://images1.vinted.net/t/03_0192a_X37WaVhxLReEygB5So4TnLTi/f800/1653063922.jpeg?s=0c9792fb812d863cbc73c3b9cc7134140e319165"
-    },
-    "category": "Men"
-  },
-  {
-    "productId": 4864530079,
-    "title": "T-shirt Stüssy herr M",
-    "url": "https://www.vinted.pl/items/4864530079-t-shirt-stussy-herr-m",
-    "image": "https://images1.vinted.net/tc/03_017c5_peqz81gYTw7MdXQUjGE4hTg7/1723137666.jpeg?s=3c148cc1e0defb3a6974636aadd5661310602441",
-    "promoted": false,
-    "favourites": 35,
-    "brand": "Stüssy",
-    "size": "M",
-    "price": {
-      "amount": "72.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.3",
-      "totalAmount": "76.3"
-    },
-    "seller": {
-      "userId": 115359510,
-      "username": "clekardo",
-      "profile": "https://www.vinted.pl/member/115359510-clekardo",
-      "profilePicture": "https://images1.vinted.net/t/01_00cca_5dxFwvPBB1hQqVhcbgEoJ7Zu/f800/1709933282.jpeg?s=a0baf382434d593f587414503587f769c4c4373b"
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
     },
     "category": "Men"
   }

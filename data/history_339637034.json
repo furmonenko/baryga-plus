@@ -1,25 +1,49 @@
 [
   {
-    "productId": 4936262187,
-    "title": "Mega fajna męska czapka",
-    "url": "https://www.vinted.pl/items/4936262187-mega-fajna-meska-czapka",
-    "image": "https://images1.vinted.net/tc/01_00032_EWTPSMthomihA2hDfuE6u737/1724590646.jpeg?s=260a8201440f93549e825aa75079066fcea545a6",
+    "productId": 4938151794,
+    "title": "Koszulka piłkarska Bayern Monachium",
+    "url": "https://www.vinted.pl/items/4938151794-koszulka-pilkarska-bayern-monachium",
+    "image": "https://images1.vinted.net/tc/02_013bf_nGgQuLdyhwA5x9rmCztNT96k/1724604324.jpeg?s=89129dab79c1964fbff4162396787ecbb0367c54",
     "promoted": false,
-    "favourites": 10,
-    "brand": "Stüssy",
-    "size": "Uniwersalny",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
     "price": {
-      "amount": "40.0",
+      "amount": "30.0",
       "currency": "PLN",
       "discount": null,
-      "fees": "2.7",
-      "totalAmount": "42.7"
+      "fees": "2.2",
+      "totalAmount": "32.2"
     },
     "seller": {
-      "userId": 187733672,
-      "username": "romario335566",
-      "profile": "https://www.vinted.pl/member/187733672-romario335566",
-      "profilePicture": "https://images1.vinted.net/t/03_00789_AtEfuzTyTPEkFaSpW4um6SNH/f800/1721925337.jpeg?s=9df85bb0e49b28151570f6ed10ff82a0557b500e"
+      "userId": 190609059,
+      "username": "maldini3231",
+      "profile": "https://www.vinted.pl/member/190609059-maldini3231",
+      "profilePicture": "https://images1.vinted.net/t/01_01c69_WubGhRdbpruyeK9QFmp3tP1P/f800/1717144452.jpeg?s=e701c83050a10c0e038482e70d81657faacc9415"
+    },
+    "category": "Men"
+  },
+  {
+    "productId": 4938099372,
+    "title": "Jersey adidas koszulka tshirt",
+    "url": "https://www.vinted.pl/items/4938099372-jersey-adidas-koszulka-tshirt",
+    "image": "https://images1.vinted.net/tc/01_01d8e_VKQVakvNqcActhRvXHxhQmUa/1724603925.jpeg?s=e8aa12cf125e5e4bed191140a5c562fa1268a023",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": "30.0",
+      "currency": "PLN",
+      "discount": null,
+      "fees": "2.2",
+      "totalAmount": "32.2"
+    },
+    "seller": {
+      "userId": 99174616,
+      "username": "alex2010000",
+      "profile": "https://www.vinted.pl/member/99174616-alex2010000",
+      "profilePicture": "https://images1.vinted.net/t/03_00d19_LZ6qck4syEtXiG3Cys7ku7C9/f800/1656757805.jpeg?s=f6ea6cd4a688f53b6f746df4d64380fd03488b6f"
     },
     "category": "Men"
   }
