@@ -7,10 +7,10 @@ async function setBotCommands() {
     const commands = [
         { command: 'menu', description: 'Open main menu' },
         { command: 'active_filters', description: 'Show active filters' },
-        { command: 'stop', description: 'Stop search' },
-        { command: 'reset', description: 'Reset all commands' },
         { command: 'custom_presets_settings', description: 'Manage custom presets' },
-        { command: 'delete_preset', description: 'Delete custom filter' }
+        // { command: 'start_search', description: 'Start search' },
+        // { command: 'stop_search', description: 'Stop search' },
+        { command: 'reset', description: 'Reset all filters and clear chat' }
     ];
 
     const response = await fetch(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/setMyCommands`, {
@@ -18,9 +18,6 @@ async function setBotCommands() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ commands })
     });
-
-    const data = await response.json();
-    console.log('Set Bot Commands:', data);
 }
 
 async function sendLoggedMessage(chatId, text, options = {}) {

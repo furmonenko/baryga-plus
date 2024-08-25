@@ -1,14 +1,15 @@
-const { loadHistory, saveHistory } = require('./utils/fileOperations'); // Впевніться, що шлях правильний
-const UserManager = require('./managers/userManager'); // Для доступу до UserManager
+const { loadHistory, saveHistory } = require('./utils/fileOperations'); // Ensure the path is correct
+const UserManager = require('./managers/userManager'); // Access to UserManager
 
 class User {
-    constructor(chatId, firstName = '', lastName = '', username = '', plan = 'casual', banned = false) {
+    constructor(chatId, firstName = '', lastName = '', username = '', plan = 'casual', banned = false, isAdmin = false) {
         this.chatId = chatId;
         this.firstName = firstName;
         this.lastName = lastName;
         this.username = username;
         this.plan = plan;
         this.banned = banned;
+        this.isAdmin = isAdmin; // New property to indicate if the user is an admin
         this.filters = [];
         this.interval = this.getPlanInterval(plan);
         this.ready = false;
@@ -16,11 +17,16 @@ class User {
         this.maxCustomFilters = this.getPlanCustomFiltersNumber(plan);
         this.currentFilterIndex = 0;
         this.isSettingCustomPreset = false;
-        this.customFilters = {}; // Для зберігання кастомних фільтрів
+        this.customFilters = {}; // To store custom filters
     }
 
-    // Кількість фільтрів, які можна використовувати одночасно
-    getPlanFilters(plan) {
+    // Check if the user is an admin
+    isUserAdmin() {
+        return this.isAdmin;
+    }
+
+    // Number of filters the user can use simultaneously
+    getPlanFilters(plan = this.plan) {
         switch (plan) {
             case 'admin':
                 return Infinity;
@@ -34,8 +40,8 @@ class User {
         }
     }
 
-    // Кількість кастомних фільтрів, які можна зберігати
-    getPlanCustomFiltersNumber(plan) {
+    // Number of custom filters the user can save
+    getPlanCustomFiltersNumber(plan = this.plan) {
         switch (plan) {
             case 'admin':
                 return Infinity;
@@ -49,27 +55,27 @@ class User {
         }
     }
 
-    // Отримання кастомних фільтрів
+    // Get custom filters
     getCustomFilters() {
         return this.customFilters;
     }
 
-    // Інтервал оновлення в залежності від плану
-    getPlanInterval(plan) {
+    // Interval for updates based on the user's plan
+    getPlanInterval(plan = this.plan) {
         switch (plan) {
             case 'admin':
-                return 0; // Миттєве оновлення для admin
+                return 0;
             case 'baron':
-                return 3; // 5 секунд
+                return 3; // 3 seconds
             case 'dealer':
-                return 7; // 10 секунд
+                return 7; // 7 seconds
             case 'casual':
             default:
-                return 15; // 15 секунд
+                return 15; // 15 seconds
         }
     }
 
-    // Зміна плану
+    // Change the user's plan
     setPlan(newPlan) {
         this.plan = newPlan;
         this.interval = this.getPlanInterval(newPlan);
@@ -77,12 +83,12 @@ class User {
         this.maxCustomFilters = this.getPlanCustomFiltersNumber(newPlan);
     }
 
-    // Перевірка, чи заблокований користувач
+    // Check if the user is banned
     isBanned() {
         return this.banned;
     }
 
-    // Робота з активними фільтрами
+    // Manage active filters
     setFilters(filters) {
         this.filters = filters;
     }
@@ -107,7 +113,7 @@ class User {
         return this.ready;
     }
 
-    // Робота з історією користувача
+    // Manage user history
     getHistory() {
         return loadHistory(this.chatId);
     }
@@ -116,7 +122,7 @@ class User {
         saveHistory(this.chatId, history);
     }
 
-    // Скидання фільтрів
+    // Reset filters
     resetFilters() {
         this.filters = [];
         this.currentFilterIndex = 0;
@@ -136,6 +142,10 @@ class User {
 
     getFilterCount() {
         return this.maxFilters;
+    }
+
+    getPlan() {
+        return this.plan;
     }
 }
 

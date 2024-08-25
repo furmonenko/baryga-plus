@@ -4,6 +4,24 @@ const { loadHistory, clearHistory, getCategories, getBrands } = require('../util
 const Filters = require("../models/filters");
 const UserManager = require('../managers/userManager');
 
+function delay(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// Function to redirect the user to the main menu with a message and delay
+async function redirectToMainMenuWithMessage(user, message, delayTime = 3000) {
+    const chatId = user.chatId;
+
+    // Send the message to the user
+    await sendLoggedMessage(chatId, message);
+
+    // Delay before redirecting
+    await delay(delayTime);
+
+    // Redirect to the main menu
+    await showMainMenu(user);
+}
+
 async function processStartCommand(user) {
     await sendLoggedMessage(user.chatId, 'Welcome to the bot! Use the buttons below to set your filters and start searching.', showMainMenu(user));
 }
@@ -24,7 +42,7 @@ async function showMainMenu(user) {
             inline_keyboard: [
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
                 [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
-                [{ text: 'Active Filters', callback_data: 'command_/show_active_filters' }],
+                [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
                 [{ text: 'Stop Search', callback_data: 'command_/stop' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
@@ -37,23 +55,40 @@ async function showMainMenu(user) {
         options.reply_markup.inline_keyboard.unshift([{ text: 'Continue Searching', callback_data: 'continue_search' }]);
     }
 
-    await sendLoggedMessage(chatId, 'Welcome to the bot! Use the buttons below:', options);
+    await sendLoggedMessage(chatId, 'Main Menu:', options);
 }
 
 async function continueSearching(user) {
-    user.setReady(true);
     const chatId = user.chatId;
+
+    // Отримуємо активні фільтри
+    const filters = user.getFilters();
+
+    // Перевірка наявності фільтрів
+    if (filters.length === 0) {
+        // Якщо фільтрів немає, показуємо повідомлення
+        await sendLoggedMessage(chatId, '⚠️ *You don’t have any filters left.* You will be redirected to the main menu.', { parse_mode: 'Markdown' });
+
+        // Затримка на 3 секунди
+        await delay(3000);
+
+        // Перенаправлення до головного меню
+        await showMainMenu(user);
+        return;
+    }
+
+    // Якщо фільтри є, відновлюємо пошук
+    user.setReady(true);
 
     await clearChat(chatId);
 
     // Форматування повідомлення з актуальними фільтрами
-    const filters = user.getFilters();
     let message = '🔍 *Search has resumed with the following filters:* 🔍\n\n';
-
     message += formatActiveFilters(filters);
 
     await sendLoggedMessage(chatId, message, { parse_mode: 'Markdown' });
 }
+
 
 
 async function showCustomPresetsSettings(user) {
@@ -162,10 +197,22 @@ async function processHistoryCommand(user) {
 
 async function processStopCommand(user) {
     const chatId = user.chatId;
+
     await clearChat(chatId);
+
+    // Зупиняємо пошук
     user.setReady(false);
-    await sendLoggedMessage(chatId, 'Search stopped.');
+
+    // Відправляємо повідомлення про зупинку пошуку
+    await sendLoggedMessage(chatId, '🔴 *Search stopped.* You will be redirected to the main menu.', { parse_mode: 'Markdown' });
+
+    // Затримка на 3 секунди
+    await delay(3000);
+
+    // Показуємо головне меню
+    await showMainMenu(user);
 }
+
 
 async function processResetCommand(user) {
     const chatId = user.chatId;
@@ -173,7 +220,8 @@ async function processResetCommand(user) {
     await clearChat(chatId);
     user.setReady(false);
 
-    await sendLoggedMessage(chatId, 'Filters have been reset.');
+    let message = 'Filters have been reset. You will be redirected to the main menu.';
+    await redirectToMainMenuWithMessage(user, message, 3000);
 }
 
 async function handlePresetFiltersCommand(user) {
@@ -558,7 +606,6 @@ async function handleSizeSelection(user, size) {
 // Function to handle the /show_active_filters command and display the main menu
 async function showActiveFiltersMenu(user) {
     const chatId = user.chatId;
-    const filters = user.getFilters();
 
     // Inline keyboard with options: show filters, delete filters, and go back to menu
     const options = {
@@ -626,14 +673,14 @@ function formatActiveFilters(filters) {
     return message;
 }
 
-// Function to show the delete filter menu with inline buttons for each filter
+// Використання у функції showDeleteFilterMenu
 async function showDeleteFilterMenu(user) {
     const chatId = user.chatId;
     const filters = user.getFilters();
 
     // Check if user has any filters to delete
     if (filters.length === 0) {
-        await sendLoggedMessage(chatId, 'You have no filters to delete.');
+        await redirectToMainMenuWithMessage(user, 'You don\'t have any filters left. You will be redirected to the main menu.');
         return;
     }
 
@@ -687,12 +734,16 @@ async function handleCallbackQuery(user, data) {
         await clearChat(chatId);
 
         switch (command) {
-            case 'command_/show_active_filters':
-                await showFiltersInfo(user);
+            case 'show_active_filters':
+                await showActiveFiltersMenu(user);
                 break;
 
             case 'show_filters_info':
                 await showFiltersInfo(user);
+                break;
+
+            case 'back_to_active_filters_menu':
+                await showActiveFiltersMenu(user);
                 break;
 
             case 'delete_filter_menu':
@@ -702,10 +753,6 @@ async function handleCallbackQuery(user, data) {
             case 'delete_filter':
                 const filterIndex = parseInt(value);
                 await deleteFilter(user, filterIndex);
-                break;
-
-            case 'back_to_active_filters_menu':
-                await showActiveFiltersMenu(user);
                 break;
 
             case 'back_to_main_menu':
@@ -827,5 +874,6 @@ module.exports = {
     showDeleteCustomFilters,
     showCustomPresetsSettings,
     showMainMenu,
-    showActiveFiltersMenu
+    showActiveFiltersMenu,
+    continueSearching
 };

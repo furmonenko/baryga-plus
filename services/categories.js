@@ -41,6 +41,22 @@ function getCategoryIdByName(categoryName) {
     }
 }
 
+/**
+ * Retrieves the category name by its ID.
+ * @param {string} categoryId - The ID of the category.
+ * @returns {string|null} - The name of the category or an empty string if not found.
+ */
+function getCategoryNameById(categoryId) {
+    const category = categories[categoryId];
+    if (category) {
+        return category.title;
+    } else {
+        console.warn(`Category ID not found: ${categoryId}`);
+        return "";
+    }
+}
+
 module.exports = {
-    getCategoryIdByName
+    getCategoryIdByName,
+    getCategoryNameById
 };

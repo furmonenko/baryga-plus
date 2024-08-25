@@ -10,20 +10,21 @@ const { loadHistory, saveHistory } = require('../utils/fileOperations');
  */
 function filterItems(serverHistory, filters) {
     const keywords = filters.keywords || [];
-    const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
+    const brandsArray = Array.isArray(filters.brand) ? filters.brand.map(brand => brand.toLowerCase()) : [filters.brand.toLowerCase()];
+    const filterCategory = (typeof filters.category === 'string') ? filters.category.toLowerCase() : '';
 
     const filtered = serverHistory.filter(item => {
         // Перевірка бренду
         if (brandsArray.length > 0) {
             const itemBrand = item.brand.toLowerCase();
-            const matchesBrand = brandsArray.some(brand => itemBrand === brand.toLowerCase());
+            const matchesBrand = brandsArray.some(brand => itemBrand === brand);
             if (!matchesBrand) {
                 return false;
             }
         }
 
         // Перевірка категорії
-        if (filters.category && item.category !== filters.category) {
+        if (filterCategory && item.category.toLowerCase() !== filterCategory) {
             return false;
         }
 
@@ -62,6 +63,7 @@ function filterItems(serverHistory, filters) {
 
     return filtered;
 }
+
 
 /**
  * Sends new items found to the user.

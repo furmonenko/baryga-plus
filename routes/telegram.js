@@ -11,7 +11,8 @@ const {
     handleCallbackQuery,
     handlePresetFiltersCommand,
     showDeleteCustomFilters,
-    showMainMenu, showCustomPresetsSettings, showActiveFiltersCommand, showActiveFiltersMenu
+    showMainMenu, showCustomPresetsSettings, showActiveFiltersCommand, showActiveFiltersMenu, continueSearching,
+    showFiltersInfo
 } = require('../handlers/messageHandlers');
 const { logMessage } = require("../utils/fileOperations");
 
@@ -35,7 +36,7 @@ router.post('/webhook', async (req, res) => {
 
     if (planFromFile && planFromFile !== currentPlan) {
         console.log(`Updating plan for user ${chatId} from ${currentPlan} to ${planFromFile}`);
-        UserManager.setPlan(chatId, planFromFile);
+        await UserManager.setPlan(chatId, planFromFile);
         user.setPlan(planFromFile); // Оновлюємо план користувача в пам'яті
     }
 
@@ -53,7 +54,10 @@ router.post('/webhook', async (req, res) => {
             case '/menu':
                 await showMainMenu(user);
                 break;
-            case '/stop':
+            case '/start_search':
+                await continueSearching(user);
+                break;
+            case '/stop_search':
                 await processStopCommand(user);
                 break;
             case '/reset':

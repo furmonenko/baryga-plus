@@ -2,7 +2,7 @@ const axios = require('axios');
 const UserManager = require('../managers/userManager');
 const { saveHistory } = require('../utils/fileOperations');
 const brandsData = require('../data/brands.json');
-const {getCategoryIdByName} = require("./categories"); // Завантаження брендових даних
+const {getCategoryIdByName, getCategoryNameById} = require("./categories"); // Завантаження брендових даних
 
 // Функція затримки
 function delay(ms) {
@@ -12,7 +12,7 @@ function delay(ms) {
 // Функція об'єднання фільтрів користувачів за категоріями та брендами
 function mergeUserFilters(userFilters) {
     let combinedFilters = {
-        categories: {}, // Ключ: категорія, Значення: множина брендів
+        categories: {}, // Ключ: категорія (назва), Значення: множина брендів
         maxPrice: 0
     };
 
@@ -21,16 +21,22 @@ function mergeUserFilters(userFilters) {
     for (const filters of userFilters) {
         console.log(`Processing filters: ${JSON.stringify(filters)}`);
 
+        // Отримуємо назву категорії, якщо фільтр містить ID категорії
+        let categoryName = filters.category;
+        if (!isNaN(categoryName)) {
+            categoryName = getCategoryNameById(categoryName);
+        }
+
         // Об'єднання брендів для кожної категорії
-        if (filters.brand && filters.category) {
+        if (filters.brand && categoryName) {
             const brandsArray = Array.isArray(filters.brand) ? filters.brand : [filters.brand];
-            if (!combinedFilters.categories[filters.category]) {
-                combinedFilters.categories[filters.category] = new Set();
+            if (!combinedFilters.categories[categoryName]) {
+                combinedFilters.categories[categoryName] = new Set();
             }
             brandsArray.forEach(brand => {
                 if (brandsData[brand]) {
-                    combinedFilters.categories[filters.category].add(brandsData[brand]); // Заміна назви бренду на ID
-                    console.log(`Added brand: ${brand} (ID: ${brandsData[brand]}) to category: ${filters.category}`);
+                    combinedFilters.categories[categoryName].add(brandsData[brand]); // Заміна назви бренду на ID
+                    console.log(`Added brand: ${brand} (ID: ${brandsData[brand]}) to category: ${categoryName}`);
                 } else {
                     console.warn(`Brand '${brand}' not found in brandsData.`);
                 }

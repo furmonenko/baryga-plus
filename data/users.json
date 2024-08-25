@@ -6,9 +6,10 @@
     "username": "furmo",
     "plan": "admin",
     "banned": false,
+    "isAdmin": true,
     "customFilters": {
-      "Fear Of God + Men + 150": {
-        "brand": "Fear Of God",
+      "Stüssy + Men + 100": {
+        "brand": "Stüssy",
         "size": [
           "M",
           "L",
@@ -17,7 +18,21 @@
           "XXXL"
         ],
         "minPrice": 0,
-        "maxPrice": "150",
+        "maxPrice": "100",
+        "category": "Men",
+        "keywords": []
+      },
+      "Supreme + Men + 100": {
+        "brand": "Supreme",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "100",
         "category": "Men",
         "keywords": []
       },
@@ -35,36 +50,8 @@
         "category": "Outerwear",
         "keywords": []
       },
-      "Supreme + Men + 100": {
-        "brand": "Supreme",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "100",
-        "category": "Men",
-        "keywords": []
-      },
-      "Stüssy + Men + 100": {
-        "brand": "Stüssy",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "100",
-        "category": "Men",
-        "keywords": []
-      },
-      "A Bathing Ape + Men + 100": {
-        "brand": "A Bathing Ape",
+      "Fear Of God + Men + 100": {
+        "brand": "Fear Of God",
         "size": [
           "M",
           "L",
@@ -90,8 +77,32 @@
         "maxPrice": "50",
         "category": "Men",
         "keywords": []
+      },
+      "C.P. Company + Men + 150": {
+        "brand": "C.P. Company",
+        "size": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "XXXL"
+        ],
+        "minPrice": 0,
+        "maxPrice": "150",
+        "category": "Men",
+        "keywords": []
       }
     }
+  },
+  "482802934": {
+    "chatId": 482802934,
+    "firstName": "Анна",
+    "lastName": "Дембіцька",
+    "username": "ann_dembitska",
+    "plan": "baron",
+    "banned": false,
+    "isAdmin": false,
+    "customFilters": {}
   },
   "778831833": {
     "chatId": 778831833,
@@ -100,52 +111,7 @@
     "username": "borovoyis",
     "plan": "baron",
     "banned": false,
-    "customFilters": {
-      "Nike + Tops & T-shirts + 100": {
-        "brand": "Stone Island",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "200",
-        "category": "Outerwear",
-        "keywords": []
-      },
-      "Stone Island + Men + 150": {
-        "brand": "Stone Island",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "200",
-        "category": "Outerwear",
-        "keywords": []
-      },
-      "Stone Island + Outerwear + 200": {
-        "brand": "Stone Island",
-        "size": [
-          "M",
-          "L",
-          "XL",
-          "XXL",
-          "XXXL",
-          "XXXL"
-        ],
-        "minPrice": 0,
-        "maxPrice": "200",
-        "category": "Outerwear",
-        "keywords": []
-      }
-    }
+    "isAdmin": false,
+    "customFilters": {}
   }
 }
