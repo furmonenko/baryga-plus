@@ -43,6 +43,7 @@ async function showMainMenu(user) {
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
                 [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
+                [{ text: 'Custom Presets Settings', callback_data: '/custom_presets_settings' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
         }
@@ -399,6 +400,7 @@ async function showNextFilterMenu(user) {
                 [{ text: 'Set Filters', callback_data: 'command_/filters' }],
                 [{ text: 'Filter Presets', callback_data: 'command_/presetfilters' }],
                 [{ text: 'Active Filters', callback_data: 'show_active_filters' }],
+                [{ text: 'Custom Presets Settings', callback_data: '/custom_presets_settings' }],
                 [{ text: 'Reset Filters', callback_data: 'command_/reset' }],
             ]
         }
@@ -826,6 +828,10 @@ async function handleCallbackQuery(user, data) {
 
             case 'command_/baryga_filters':
                 await showBarygaFilters(user);
+                break;
+
+            case '/custom_presets_settings':
+                await showCustomPresetsSettings(user);
                 break;
 
             case 'command_/custom_filters':

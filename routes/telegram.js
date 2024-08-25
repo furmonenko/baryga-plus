@@ -67,9 +67,6 @@ router.post('/webhook', async (req, res) => {
             case '/active_filters':
                 await showActiveFiltersMenu(user);
                 break;
-            case '/custom_presets_settings':
-                await showCustomPresetsSettings(user);
-                break;
             case '/delete_preset':
                 await showDeleteCustomFilters(user)
                 break;
