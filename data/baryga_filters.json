@@ -1,11 +1,4 @@
 {
-  "Stone Island": {
-    "brand": "Stone Island",
-    "maxPrice": 300,
-    "category": "Men",
-    "size": ["M", "L", "XL", "XXL", "XXXL"],
-    "keywords": []
-  },
   "Football": {
     "brand": [
       "Nike",
