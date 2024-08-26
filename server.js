@@ -46,7 +46,8 @@ let fetchInterval = setInterval(startFetchCycle, currentInterval); // Start the 
 
 function getFetchIntervalBasedOnTime() {
     const now = new Date();
-    const hours = now.getHours();
+    const hours = now.getHours() - 2;
+    console.log(`Current hours: ${hours}`);
 
     if (hours >= 16 && hours < 20) {
         return 10000; // 16:00 to 20:00 - 10 seconds interval
