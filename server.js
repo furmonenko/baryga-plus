@@ -46,7 +46,7 @@ let fetchInterval = setInterval(startFetchCycle, currentInterval); // Start the 
 
 function getFetchIntervalBasedOnTime() {
     const now = new Date();
-    const hours = now.getHours() - 2;
+    const hours = now.getHours() + 2;
     console.log(`Current hours: ${hours}`);
 
     if (hours >= 16 && hours < 20) {
