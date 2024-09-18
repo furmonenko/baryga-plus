@@ -8,6 +8,7 @@ const { setTimersForAllUsers } = require('./managers/timerManager');
 const UserManager = require('./managers/userManager');
 const { sendTelegramMessage } = require("./utils/telegram");
 const { notifyAdmins } = require("./utils/adminCommands"); // Import UserManager for user operations
+const moment = require('moment-timezone');
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -45,18 +46,19 @@ async function notifyAllUsers(message) {
 let fetchInterval = setInterval(startFetchCycle, currentInterval); // Start the fetch cycle
 
 function getFetchIntervalBasedOnTime() {
-    const now = new Date();
-    const hours = now.getHours() + 2;
-    console.log(`Current hours: ${hours}`);
+    const now = moment().tz('Europe/Warsaw'); // Встановлюємо часовий пояс Варшави
+    const hours = now.hours();
+
+    console.log(`Local hours in Warsaw: ${hours}`);
 
     if (hours >= 16 && hours < 20) {
-        return 10000; // 16:00 to 20:00 - 10 seconds interval
-    } else if (hours >= 20 && hours < 24) {
-        return 30000; // 20:00 to 00:00 - 30 seconds interval
-    } else if (hours >= 0 && hours < 8) {
-        return 0; // 00:00 to 08:00 - No fetches
+        return 10000;
+    } else if (hours >= 20 && hours < 22) {
+        return 30000;
+    } else if (hours >= 22 && hours < 10) {
+        return 0;
     } else {
-        return 30000; // 08:00 to 16:00 - 30 seconds interval
+        return 30000;
     }
 }
 
