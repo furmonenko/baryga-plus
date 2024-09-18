@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const messageLogPath = path.join(__dirname, 'messageLog.json');
+const messageLogPath = path.resolve(__dirname, '../data/messageLog.json');
 
 // Зберегти message_id
 function logMessage(chatId, messageId) {
@@ -32,7 +32,6 @@ function clearLoggedMessages(chatId) {
         fs.writeFileSync(messageLogPath, JSON.stringify(messageLog, null, 2));
     }
 }
-
 
 function saveBrand(brandName, brandId) {
     const brandsPath = path.join(__dirname, '../data/brands.json');

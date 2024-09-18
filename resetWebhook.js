@@ -3,7 +3,7 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 require('dotenv').config(); // Завантаження змінних середовища з файлу .env
 
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}`;
-const NGROK_URL = 'https://barygabot.com'; // Додайте ваш NGROK URL до .env файлу
+const SERVER_URL = process.env.SERVER_IP; // Додайте ваш NGROK URL до .env файлу
 // Функція для видалення вебхука
 async function deleteWebhook() {
     const response = await fetch(`${TELEGRAM_API_URL}/deleteWebhook`, {
@@ -29,7 +29,7 @@ async function setWebhook() {
     const response = await fetch(`${TELEGRAM_API_URL}/setWebhook`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ url: `${NGROK_URL}/telegram/webhook` })
+        body: JSON.stringify({ url: `${SERVER_URL}/telegram/webhook` })
     });
     const data = await response.json();
     console.log('Set Webhook:', data);
