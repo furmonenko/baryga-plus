@@ -89,8 +89,6 @@ async function continueSearching(user) {
     await sendLoggedMessage(chatId, message, { parse_mode: 'Markdown' });
 }
 
-
-
 async function showCustomPresetsSettings(user) {
     const chatId = user.chatId;
     const customFilters = user.getCustomFilters();
@@ -213,7 +211,6 @@ async function processStopCommand(user) {
     await showMainMenu(user);
 }
 
-
 async function processResetCommand(user) {
     const chatId = user.chatId;
     user.resetFilters();
@@ -247,7 +244,7 @@ async function showBrands(user) {
     const brands = getBrands();
 
     // Генеруємо кнопки для брендів
-    const brandButtons = Object.entries(brands).map(([brandName]) => {
+    const brandButtons = Object.entries(brands).map(([brandName, info]) => {
         return [{ text: brandName, callback_data: `/brand ${brandName}` }];
     });
 
@@ -264,7 +261,6 @@ async function showBrands(user) {
 
     await sendLoggedMessage(chatId, 'Please select a brand or type a new one:', options);
 }
-
 
 async function showSizes(user, selectedSizes = []) {
     const chatId = user.chatId;
@@ -526,18 +522,20 @@ async function addCustomPreset(user) {
 // Handle the saving of the preset when the user completes the filter setup
 async function handleSaveCustomPreset(user, presetName) {
     const chatId = user.chatId;
-    const filters = user.getFilters();
-    const currentFilter = filters[user.getCurrentFilterIndex()];
 
-    // Save the filter as a custom preset
+    // Клонування поточного фільтру, щоб зберегти унікальний пресет
+    const filters = user.getFilters();
+    const currentFilter = { ...filters[user.getCurrentFilterIndex()] };  // клон фільтру
+
     if (UserManager.addCustomFilter(chatId, presetName, currentFilter)) {
         await sendLoggedMessage(chatId, `Filter "${presetName}" has been saved as a custom preset.`);
     } else {
         await sendLoggedMessage(chatId, `Failed to save the filter. You have reached your custom filter limit.`);
-        await new Promise(resolve => setTimeout(resolve, 2000)); // Delay for 2 seconds
+        await delay(2000);
     }
 
-    // Return to the custom presets settings menu
+    // Після збереження оновлюємо фільтри користувача
+    user.setFilters(filters);
     await showCustomPresetsSettings(user);
 }
 
@@ -565,6 +563,7 @@ async function handlePriceSelection(user, price) {
     await sendLoggedMessage(chatId, `Max price selected: ${price}`);
 
     if (user.isSettingCustomPreset) {
+        user.isSettingCustomPreset = false;
         await askToSaveCustomPreset(user);
     }
     else {

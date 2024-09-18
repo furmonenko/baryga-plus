@@ -43,11 +43,26 @@ function saveBrand(brandName, brandId) {
 
 function getBrands() {
     const brandsPath = path.join(__dirname, '../data', 'brands.json');
+
     if (fs.existsSync(brandsPath)) {
         try {
             const fileContent = fs.readFileSync(brandsPath, 'utf8');
-            // console.log(`Loaded brands data: ${fileContent}`);
-            return JSON.parse(fileContent);
+            const brands = JSON.parse(fileContent);
+
+            // Фільтруємо бренди, залишаючи тільки ті, у яких isShown === true
+            const shownBrands = {};
+            for (const [brand, info] of Object.entries(brands)) {
+                if (typeof info.id === 'number' && typeof info.isShown === 'boolean') {
+                    if (info.isShown) {
+                        shownBrands[brand] = info;
+                    }
+                } else {
+                    console.error(`Invalid data format for brand ${brand}`);
+                    return {};
+                }
+            }
+
+            return shownBrands;
         } catch (error) {
             console.error('Error reading or parsing brands.json:', error);
             return {};
@@ -57,6 +72,7 @@ function getBrands() {
         return {};
     }
 }
+
 
 function getCategories() {
     const categoriesPath = path.join(__dirname, '../data', 'categories.json');

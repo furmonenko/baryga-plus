@@ -9,7 +9,6 @@ function delay(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// Функція об'єднання фільтрів користувачів за категоріями та брендами
 function mergeUserFilters(userFilters) {
     let combinedFilters = {
         categories: {}, // Ключ: категорія (назва), Значення: множина брендів
@@ -35,8 +34,8 @@ function mergeUserFilters(userFilters) {
             }
             brandsArray.forEach(brand => {
                 if (brandsData[brand]) {
-                    combinedFilters.categories[categoryName].add(brandsData[brand]); // Заміна назви бренду на ID
-                    console.log(`Added brand: ${brand} (ID: ${brandsData[brand]}) to category: ${categoryName}`);
+                    combinedFilters.categories[categoryName].add(brandsData[brand].id); // Додаємо тільки id бренду
+                    console.log(`Added brand: ${brand} (ID: ${brandsData[brand].id}) to category: ${categoryName}`);
                 } else {
                     console.warn(`Brand '${brand}' not found in brandsData.`);
                 }
