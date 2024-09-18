@@ -1,6 +1,6 @@
 const UserManager = require('../managers/userManager');
-const { sendLoggedPhoto } = require('../utils/telegram');
 const { loadHistory, saveHistory } = require('../utils/fileOperations');
+const { sendPhoto, sendLoggedPhoto } = require("../utils/telegram");
 
 /**
  * Filters items from the server cache based on user filters.
@@ -82,7 +82,7 @@ async function sendNewItemsToUser(chatId, newItems) {
         console.log(`Sending new item to user: ${item.title} - ${item.url}`);
 
         // Надсилаємо фотографію з інформацією користувачу
-        await sendLoggedPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
+        await sendPhoto(chatId, item.image, message, { parse_mode: 'Markdown' });
     }
 }
 

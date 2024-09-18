@@ -41,6 +41,21 @@ async function sendTelegramMessage(chatId, text, options = {}) {
     }
 }
 
+async function sendPhoto(chatId, photoUrl, caption, options = {}) {
+    const payload = {
+        chat_id: chatId,
+        photo: photoUrl,
+        caption: caption,
+        ...options
+    };
+
+    try {
+        await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_BOT_TOKEN}/sendPhoto`, payload);
+    } catch (error) {
+        console.error('Error sending photo:', error.response ? error.response.data : error.message);
+    }
+}
+
 async function sendLoggedPhoto(chatId, photoUrl, caption, options = {}) {
     const payload = {
         chat_id: chatId,
@@ -103,5 +118,6 @@ module.exports = {
     sendLoggedPhoto,
     clearChat,
     sendLoggedMessage,
-    sendTelegramMessage
+    sendTelegramMessage,
+    sendPhoto
 };
