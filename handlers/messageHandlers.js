@@ -663,8 +663,8 @@ function formatActiveFilters(filters) {
             message += `🏷️ *Brand:* ${brand || 'Any'}\n`;
             message += `📏 *Sizes:* ${sizes || 'Any'}\n`;
             message += `💰 *Max Price:* ${maxPrice}\n`;
-            message += `📂 *Category:* ${categoryName || 'Any'}\n`;
-            message += `🔑 *Keywords:* ${(filter.keywords && filter.keywords.length > 0) ? filter.keywords.join(', ') : 'None'}\n\n`;
+            message += `📂 *Category:* ${categoryName || 'Any'}\n\n`;
+            // message += `🔑 *Keywords:* ${(filter.keywords && filter.keywords.length > 0) ? filter.keywords.join(', ') : 'None'}\n\n`;
         });
     } else {
         message += 'You have no active filters.';
