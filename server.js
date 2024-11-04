@@ -55,7 +55,7 @@ function getFetchIntervalBasedOnTime() {
         return 10000;
     } else if (hours >= 20 && hours < 22) {
         return 30000;
-    } else if (hours >= 22 && hours < 10) {
+    } else if (hours >= 22 || hours < 10) {
         return 0;
     } else {
         return 30000;
