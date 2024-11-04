@@ -107,45 +107,5 @@
         "keywords": []
       }
     }
-  },
-  "482802934": {
-    "chatId": 482802934,
-    "firstName": "Анна",
-    "lastName": "Дембіцька",
-    "username": "ann_dembitska",
-    "plan": "baron",
-    "banned": false,
-    "isAdmin": false,
-    "customFilters": {}
-  },
-  "487803470": {
-    "chatId": 487803470,
-    "firstName": "Даня",
-    "lastName": "",
-    "username": "danya_stasyuk",
-    "plan": "baron",
-    "banned": false,
-    "isAdmin": false,
-    "customFilters": {}
-  },
-  "778831833": {
-    "chatId": 778831833,
-    "firstName": "Ваня и ваня",
-    "lastName": "",
-    "username": "borovoyis",
-    "plan": "baron",
-    "banned": false,
-    "isAdmin": false,
-    "customFilters": {}
-  },
-  "6388009374": {
-    "chatId": 6388009374,
-    "firstName": "Ihor",
-    "lastName": "",
-    "username": "authez",
-    "plan": "casual",
-    "banned": false,
-    "isAdmin": false,
-    "customFilters": {}
   }
 }

@@ -44,6 +44,8 @@ async function notifyAllUsers(message) {
 }
 
 let fetchInterval = setInterval(startFetchCycle, currentInterval); // Start the fetch cycle
+let start_hour = 9
+let finish_hour = 23
 
 function getFetchIntervalBasedOnTime() {
     const now = moment().tz('Europe/Warsaw'); // Встановлюємо часовий пояс Варшави
@@ -51,36 +53,29 @@ function getFetchIntervalBasedOnTime() {
 
     console.log(`Local hours in Warsaw: ${hours}`);
 
-    if (hours >= 16 && hours < 20) {
-        return 10000;
-    } else if (hours >= 20 && hours < 22) {
-        return 30000;
-    } else if (hours >= 22 || hours < 10) {
-        return 0;
+    if (hours >= start_hour && hours < finish_hour) {
+        return 30000; // Інтервал 30 секунд з 9:00 до 23:00
     } else {
-        return 30000;
+        return 0; // Пауза з 23:00 до 9:00
     }
 }
 
+// Function to format hours as "HH:00" for messages
+function formatHour(hour) {
+    return `${hour.toString().padStart(2, '0')}:00`;
+}
+
 async function startFetchCycle() {
-    clearInterval(fetchInterval); // Stop the previous interval
+    clearInterval(fetchInterval); // Зупиняємо попередній інтервал
 
     const previousInterval = currentInterval;
-    currentInterval = getFetchIntervalBasedOnTime(); // Update interval based on current time
+    currentInterval = getFetchIntervalBasedOnTime(); // Оновлюємо інтервал на основі поточного часу
     console.log(`Fetch interval set to ${currentInterval} ms based on current time.`);
 
     if (currentInterval > 0) {
         if (previousInterval === 0 && currentInterval === 30000) {
-            // If fetches resume after a pause (8 AM)
-            await notifyAllUsers("🌅 *Good morning!*\n\n🔍 Searching is available again\. You can set filters and start searching now.");
-        } else if (currentInterval === 10000 && lastIntervalNotification !== 'peak') {
-            // Notify about peak hours when the interval decreases to 10 seconds
-            await notifyAllUsers("🚀 *It's peak time on Vinted!*\n\n🔍 The search speed has been tripled to find new items faster.");
-            lastIntervalNotification = 'peak';
-        } else if (currentInterval === 30000 && previousInterval === 10000 && lastIntervalNotification !== 'calm') {
-            // Notify about calm hours when the interval returns to 30 seconds
-            await notifyAllUsers("😌 *It's calm on Vinted right now.*\n\n🔍 The search speed has returned to normal.");
-            lastIntervalNotification = 'calm';
+            // Якщо пошук відновлюється після паузи
+            await notifyAllUsers(`🌅 *Good morning!*\n\n🔍 Searching is available again from ${formatHour(start_hour)}. You can set filters and start searching now.`);
         }
 
         fetchInterval = setInterval(async () => {
@@ -92,16 +87,18 @@ async function startFetchCycle() {
                 console.error('Error during updateCache:', error);
             }
         }, currentInterval);
-    } else {
-        console.log('Fetch cycle is paused (00:00 - 08:00).');
 
-        // Send a notification to all users about the search being paused
+    } else {
+        console.log(`Fetch cycle is paused (${formatHour(finish_hour)} - ${formatHour(start_hour)}).`);
+
+        // Повідомлення про паузу з автоматичним визначенням годин
         if (lastIntervalNotification !== 'paused') {
-            await notifyAllUsers("⏸️ *Searching is temporarily paused.*\n\n🚫 From 00:00 to 08:00, searching is unavailable.\n\n🕗 Come back after 08:00 to resume searching. Good night! 😴");
+            await notifyAllUsers(`⏸️ *Searching is temporarily paused.*\n\n🚫 From ${formatHour(finish_hour)} to ${formatHour(start_hour)}, searching is unavailable.\n\n🕗 Come back after ${formatHour(start_hour)} to resume searching. Good night! 😴`);
             lastIntervalNotification = 'paused';
         }
     }
 }
+
 
 // Start the fetch cycle immediately on server start
 notifyAllUsers("🤩 *The Barygabot+ is awake!* 🤩");
