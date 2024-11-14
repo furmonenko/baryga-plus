@@ -1,2402 +1,3362 @@
 [
   {
-    "productId": 5328464001,
-    "title": "Zimní bunda The North face",
-    "url": "https://www.vinted.pl/items/5328464001-zimni-bunda-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_00a1e_SEDdSSKdktbH3T4JSm3RoALW/1730722003.jpeg?s=9dbc1e5562a542fbafbffd764995baa76f3f8695",
+    "productId": 5379949374,
+    "title": "Adidas retro 44",
+    "url": "https://www.vinted.pl/items/5379949374-adidas-retro-44",
+    "image": "https://images1.vinted.net/tc/03_02283_8yGYGYZd2TKqgMw2ADx4VH5P/1731573531.jpeg?s=0089c8968b437a80acf476bffcd5af205c9fa41c",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "XL",
+    "brand": "adidas",
+    "size": "44",
     "price": {
-      "amount": "165.14",
-      "currency": "PLN",
+      "amount": {
+        "amount": "26.14",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "11.16",
-      "totalAmount": "176.3"
+      "fees": {
+        "amount": "4.21",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "30.35",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 75668827,
-      "username": "lubos1980",
-      "profile": "https://www.vinted.pl/member/75668827-lubos1980",
-      "profilePicture": "https://images1.vinted.net/t/01_02490_LYjCRJEj3FKHBQ8824diBCDJ/f800/1638551788.jpeg?s=e58df882f821d168b46474e3a17483a340e5e2af"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5328410923,
-    "title": "Kurtka softshell The North Face Summit Series rozmiar L",
-    "url": "https://www.vinted.pl/items/5328410923-kurtka-softshell-the-north-face-summit-series-rozmiar-l",
-    "image": "https://images1.vinted.net/tc/04_00152_jFfAvkKEspLDAomhRapr5o7M/1730721303.jpeg?s=e931aa51565b06e646ac3c6d0f2e77fe0cedfa8c",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "60.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "5.9",
-      "totalAmount": "65.9"
-    },
-    "seller": {
-      "userId": 239701342,
-      "username": "rycerz077",
-      "profile": "https://www.vinted.pl/member/239701342-rycerz077",
+      "userId": 198351666,
+      "username": "jelenaziv",
+      "profile": "https://www.vinted.pl/member/198351666-jelenaziv",
       "profilePicture": null
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5328411822,
-    "title": "Bezrękawnik the north face",
-    "url": "https://www.vinted.pl/items/5328411822-bezrekawnik-the-north-face",
-    "image": "https://images1.vinted.net/tc/03_00758_9YpttYKVJZsUSdQee1URzpcR/1730721312.jpeg?s=7ff6b679160f3ca8a49ea4adc5e138a0cae7ad39",
+    "productId": 5379948369,
+    "title": "Buty Adidas",
+    "url": "https://www.vinted.pl/items/5379948369-buty-adidas",
+    "image": "https://images1.vinted.net/tc/04_02477_dTx1Ytp3DJGutE3KtfQwdFsM/1731573515.jpeg?s=9ddeb8cd4669d1dcde3035d6c4b7a0f84d44407a",
     "promoted": false,
     "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
+    "brand": "adidas",
+    "size": "44",
     "price": {
-      "amount": "70.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "70.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "6.4",
-      "totalAmount": "76.4"
+      "fees": {
+        "amount": "6.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "76.4",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 92475362,
-      "username": "akatsumi",
-      "profile": "https://www.vinted.pl/member/92475362-akatsumi",
-      "profilePicture": "https://images1.vinted.net/t/03_00872_BR2S4EJfY2BGSULa7gZThNKP/f800/1713856677.jpeg?s=2e54b9fcecf0c358bbb4b134af0f9e61b4a25690"
+      "userId": 240978761,
+      "username": "martka.zet",
+      "profile": "https://www.vinted.pl/member/240978761-martkazet",
+      "profilePicture": "https://images1.vinted.net/t/04_0153d_w5dFDzjzS8zKpGLsn3hmj9Jx/f800/1731157494.jpeg?s=bf773cc3ee0e33d95acdcf3056b284676827038f"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5328395695,
-    "title": "The north face regnjakke",
-    "url": "https://www.vinted.pl/items/5328395695-the-north-face-regnjakke",
-    "image": "https://images1.vinted.net/tc/01_01e98_SBx8kJzbMCDvmtHUFjYDxqnN/1730721147.jpeg?s=d39108bc18cf1ed9e3b3883e6c49879a266feba3",
+    "productId": 5379948059,
+    "title": "nike hoodie",
+    "url": "https://www.vinted.pl/items/5379948059-nike-hoodie",
+    "image": "https://images1.vinted.net/tc/01_017cc_tAfahzVusDwh9uivJDiMEGn6/1731573509.jpeg?s=0e69435ed87115c63f0ce27697143f008d45dc76",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
+    "brand": "Nike",
     "size": "M",
     "price": {
-      "amount": "100.44",
-      "currency": "PLN",
+      "amount": {
+        "amount": "90.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "7.92",
-      "totalAmount": "108.36"
+      "fees": {
+        "amount": "7.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "97.4",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 229630720,
-      "username": "cecilie14432",
-      "profile": "https://www.vinted.pl/member/229630720-cecilie14432",
-      "profilePicture": null
+      "userId": 91200602,
+      "username": "mcknur",
+      "profile": "https://www.vinted.pl/member/91200602-mcknur",
+      "profilePicture": "https://images1.vinted.net/t/02_01de3_X9W98N4wwXwzH2bdmWnq17yN/f800/1718709735.jpeg?s=658ae34a398787f5c470d5bdfc90fe55b9c77fa2"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5328385595,
-    "title": "kurtka the north face",
-    "url": "https://www.vinted.pl/items/5328385595-kurtka-the-north-face",
-    "image": "https://images1.vinted.net/tc/01_002eb_sPTMRfqfX81zvYs97wpDKDXD/1730721045.jpeg?s=1dfd7f698ac4c6054f94cfe4ac5c68fac41a794a",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "180.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.9",
-      "totalAmount": "191.9"
-    },
-    "seller": {
-      "userId": 92937384,
-      "username": "pitson22",
-      "profile": "https://www.vinted.pl/member/92937384-pitson22",
-      "profilePicture": "https://images1.vinted.net/t/03_0199b_crnfwmzpXQWnu3rPEGNokKER/f800/1672604252.jpeg?s=a74656e1c2adea57bb1897ea73c3f433bad7831c"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5328351841,
-    "title": "Polar kurtka na misiu the north face",
-    "url": "https://www.vinted.pl/items/5328351841-polar-kurtka-na-misiu-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_0046c_mS9qCSXZM5s2rqDpifU273Dk/1730720699.jpeg?s=f0e070d9219fcfbd48f8d2b8d924b5fc5d5b55bf",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "120.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.9",
-      "totalAmount": "128.9"
-    },
-    "seller": {
-      "userId": 174924343,
-      "username": "szafuniaip",
-      "profile": "https://www.vinted.pl/member/174924343-szafuniaip",
-      "profilePicture": "https://images1.vinted.net/t/01_01eca_5fYFwbZanFXKh7qUteedGmif/f800/1701294936.jpeg?s=cd5e1e95cc4cf1ddd15748207b9d79bc2dd36641"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5328302370,
-    "title": "Kurtka North Face roz L.",
-    "url": "https://www.vinted.pl/items/5328302370-kurtka-north-face-roz-l",
-    "image": "https://images1.vinted.net/tc/03_004f8_xfoLKgRRurA5FmZDfQvj6Sfn/1730720189.jpeg?s=e50955218a63058ebb814247c63a35c8592d1eaf",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "95.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.65",
-      "totalAmount": "102.65"
-    },
-    "seller": {
-      "userId": 170081902,
-      "username": "whu1895",
-      "profile": "https://www.vinted.pl/member/170081902-whu1895",
-      "profilePicture": "https://images1.vinted.net/t/03_010e3_4gjazdam6b5HwY34punhvxUd/f800/1728161224.jpeg?s=3ebae38ae9eb324ef21d48e453588bff0fa28d50"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5328296088,
-    "title": "The North Face meska kamizelka",
-    "url": "https://www.vinted.pl/items/5328296088-the-north-face-meska-kamizelka",
-    "image": "https://images1.vinted.net/tc/02_0213c_CLru6BxKr4VaGvJArnTKJjZC/1730720124.jpeg?s=cffe296c81af244cb922606b0fcb5dfca6e30353",
+    "productId": 5379946335,
+    "title": "Nike Tee",
+    "url": "https://www.vinted.pl/items/5379946335-nike-tee",
+    "image": "https://images1.vinted.net/tc/02_00187_Vug1oDs2b5CoeRZ1ibdwW7Pq/1731573480.jpeg?s=b63de8a5f238d9cde608a5324dbeee54ca7cc84a",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
+    "brand": "Nike",
+    "size": "L",
     "price": {
-      "amount": "99.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "30.76",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "7.85",
-      "totalAmount": "106.85"
+      "fees": {
+        "amount": "4.44",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "35.2",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 195344206,
-      "username": "vintage_style1",
-      "profile": "https://www.vinted.pl/member/195344206-vintagestyle1",
+      "userId": 218268532,
+      "username": "paulekas24",
+      "profile": "https://www.vinted.pl/member/218268532-paulekas24",
       "profilePicture": null
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5328242157,
-    "title": "The North Face polar pulóver",
-    "url": "https://www.vinted.pl/items/5328242157-the-north-face-polar-pulover",
-    "image": "https://images1.vinted.net/tc/04_0153c_71Xn5s7N1irpxM7aXrjQoh3U/1730719566.jpeg?s=10cb707faa9107d7c0f579603bbed21944e1efcd",
+    "productId": 5379945916,
+    "title": "Bezrękawnik Burnley FC, Umbro",
+    "url": "https://www.vinted.pl/items/5379945916-bezrekawnik-burnley-fc-umbro",
+    "image": "https://images1.vinted.net/tc/03_0155e_zzCWKKB5CmDAz9R5cdBdU9Zh/1731573473.jpeg?s=34275e5b91c8b3155d16b09e30f978426fa9b319",
     "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "Umbro",
     "size": "XL",
     "price": {
-      "amount": "70.25",
-      "currency": "PLN",
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "6.41",
-      "totalAmount": "76.66"
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 108359499,
-      "username": "zsofiaagnes",
-      "profile": "https://www.vinted.pl/member/108359499-zsofiaagnes",
-      "profilePicture": "https://images1.vinted.net/t/02_00e37_agU7UTyb4KgPPDDkURaryKLZ/f800/1723204466.jpeg?s=ccb4f7b25238b1246623955393f9f027888cbf6c"
+      "userId": 90471547,
+      "username": "mlodyherod",
+      "profile": "https://www.vinted.pl/member/90471547-mlodyherod",
+      "profilePicture": "https://images1.vinted.net/t/03_01cf6_49R8hMn8WyHQ5Vd3vtCjEjkC/f800/1652699006.jpeg?s=07047c5baef09146015d85b41b2367103d50b2c6"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy bez metki",
+    "category": "Men"
   },
   {
-    "productId": 5328177291,
-    "title": "The north face jacket",
-    "url": "https://www.vinted.pl/items/5328177291-the-north-face-jacket",
-    "image": "https://images1.vinted.net/tc/04_00b4a_CTFCnqDJ1zQwWargHqByn6Xz/1730718903.jpeg?s=ff13f04cecccab433be745e689c7ab3976b47314",
+    "productId": 5379945064,
+    "title": "Bluza męska",
+    "url": "https://www.vinted.pl/items/5379945064-bluza-meska",
+    "image": "https://images1.vinted.net/tc/04_02316_GEW8a2jZ4LKVtzbAkiSSmDfC/1731573459.jpeg?s=2830df7c38b503dd7ebcd41ffb3573f3e78e0a99",
     "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "55.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "60.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 228555429,
+      "username": "nn2124",
+      "profile": "https://www.vinted.pl/member/228555429-nn2124",
+      "profilePicture": "https://images1.vinted.net/t/01_00141_5i23ooLN2qNHRQeUCHf5rQY9/f800/1726058047.jpeg?s=ca4eb15828e72d6bbcc77bbfa3f2847582263fe4"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379943048,
+    "title": "Rövid nadrág",
+    "url": "https://www.vinted.pl/items/5379943048-rovid-nadrag",
+    "image": "https://images1.vinted.net/tc/02_0219e_JvkDnPhgBZiVjJsBJnAVwL7u/1731573425.jpeg?s=622b72f6374a36d527cbd6266ec82291c72f1f17",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "32.31",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.52",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "36.83",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 209418002,
+      "username": "hdorina97",
+      "profile": "https://www.vinted.pl/member/209418002-hdorina97",
+      "profilePicture": "https://images1.vinted.net/t/02_01913_eStrMeiYMZQREkF9x6dDuuJ5/f800/1717491525.jpeg?s=6f27f6aa529c842953c1e5efdfec3a210e195d95"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379941407,
+    "title": "Skarpety skarpetki Nike białe świąteczne święta prezent",
+    "url": "https://www.vinted.pl/items/5379941407-skarpety-skarpetki-nike-biale-swiateczne-swieta-prezent",
+    "image": "https://images1.vinted.net/tc/02_023cc_fsUMrJJtDTycqUyr6hgNiaB4/1731573396.jpeg?s=3271bb113410b58d276d14689715fabf3359a06f",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M | 43–46",
+    "price": {
+      "amount": {
+        "amount": "55.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "60.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 90405159,
+      "username": "juliax79z",
+      "profile": "https://www.vinted.pl/member/90405159-juliax79z",
+      "profilePicture": "https://images1.vinted.net/t/03_000d2_HxABm5xZgGjzaSifBtpCQeAY/f800/1725450474.jpeg?s=003fcc680aba8b099d7b4c6c9ad640c5a7aa8a0f"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379940345,
+    "title": "Új, férfi Umbro póló",
+    "url": "https://www.vinted.pl/items/5379940345-uj-ferfi-umbro-polo",
+    "image": "https://images1.vinted.net/tc/02_01820_6GsmNBiEwdMY2qjuycFXaqhF/1731573377.jpeg?s=f663748d4a9511632f0a359610e1d261182ba0b3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Umbro",
     "size": "M",
     "price": {
-      "amount": "110.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "30.15",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "8.4",
-      "totalAmount": "118.4"
+      "fees": {
+        "amount": "4.41",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.56",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 115672130,
-      "username": "sk0sny",
-      "profile": "https://www.vinted.pl/member/115672130-sk0sny",
-      "profilePicture": "https://images1.vinted.net/t/02_00368_rRQzHruArWuqw8Nc8zNMmBDi/f800/1666389592.jpeg?s=05d635b2dedebd0383fe8f238acc3adbe331a016"
+      "userId": 207659323,
+      "username": "markiway",
+      "profile": "https://www.vinted.pl/member/207659323-markiway",
+      "profilePicture": "https://images1.vinted.net/t/01_00247_5zqne21ns1JYyzsPPVf6gPKx/f800/1716789048.jpeg?s=2175131ade873a7a718ce2d7af73e05fe9c7e834"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy z metką",
+    "category": "Men"
   },
   {
-    "productId": 5328163154,
-    "title": "Cienka kurtka puchowa The North Face granatowa L",
-    "url": "https://www.vinted.pl/items/5328163154-cienka-kurtka-puchowa-the-north-face-granatowa-l",
-    "image": "https://images1.vinted.net/tc/04_01fa2_bNtAbSn6mZPNhuJHTDXgy9RC/1730718758.jpeg?s=1d93c193bb9ddfebc3ef21202c90b95d85143bfd",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "140.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.9",
-      "totalAmount": "149.9"
-    },
-    "seller": {
-      "userId": 234297070,
-      "username": "ubraniamisiek18",
-      "profile": "https://www.vinted.pl/member/234297070-ubraniamisiek18",
-      "profilePicture": "https://images1.vinted.net/t/01_00a10_XdT9qixQZQh32L7EegVTcVJG/f800/1728401265.jpeg?s=07d2e2f5d33d945f7970288b2705ae21a5b63bd1"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327993211,
-    "title": "Gorp-core the North Face kurtka. Drip. Retro. Pinterest",
-    "url": "https://www.vinted.pl/items/5327993211-gorp-core-the-north-face-kurtka-drip-retro-pinterest",
-    "image": "https://images1.vinted.net/tc/04_02347_noAnpDxHiuhzKTeKQmBLzcsL/1730717047.jpeg?s=d2d9feef6685074900889033eeab17f94f1d91f6",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "179.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.85",
-      "totalAmount": "190.85"
-    },
-    "seller": {
-      "userId": 141209871,
-      "username": "lunar_vintage_shop",
-      "profile": "https://www.vinted.pl/member/141209871-lunarvintageshop",
-      "profilePicture": "https://images1.vinted.net/t/02_01d6f_dopN8StACqaiKFTcadC2PYra/f800/1681846262.jpeg?s=db5b587d8ad06c2c6ee3ab51e5b7c2e71380e567"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327950679,
-    "title": "Polar męski The North Face System podpinka XS",
-    "url": "https://www.vinted.pl/items/5327950679-polar-meski-the-north-face-system-podpinka-xs",
-    "image": "https://images1.vinted.net/tc/04_011c1_UQeXK4wrWgTwN2DEDgTnRsWF/1730716619.jpeg?s=7399cb3be856397dde5ae42f964153ccb49681e1",
+    "productId": 5379939464,
+    "title": "Adidasi Adidas",
+    "url": "https://www.vinted.pl/items/5379939464-adidasi-adidas",
+    "image": "https://images1.vinted.net/tc/04_001c3_MKM1LqSG8QuSkgyiaAMsvPKd/1731573362.jpeg?s=dc590db7a073a66248a7439344c7931e907b09b8",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
+    "brand": "adidas",
+    "size": "43",
+    "price": {
+      "amount": {
+        "amount": "96.24",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.71",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "103.95",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 164386326,
+      "username": "loryciocoi",
+      "profile": "https://www.vinted.pl/member/164386326-loryciocoi",
+      "profilePicture": "https://images1.vinted.net/t/01_011f1_e4rQ48fbrvCYkTsLxuQxETzn/f800/1705134646.jpeg?s=e38b0038c443ea57f98a576cf7653fa88c455788"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379937968,
+    "title": "Pantaloni Nike",
+    "url": "https://www.vinted.pl/items/5379937968-pantaloni-nike",
+    "image": "https://images1.vinted.net/tc/04_013a8_Ww1esyyD2cFDQR4F2AXKW7oo/1731573336.jpeg?s=cf3b88c866e03636c8e06ca60d47e782581f75a2",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
     "size": "XS",
     "price": {
-      "amount": "129.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "97.13",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "9.35",
-      "totalAmount": "138.35"
+      "fees": {
+        "amount": "7.76",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "104.89",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 92755031,
-      "username": "classicjerseys",
-      "profile": "https://www.vinted.pl/member/92755031-classicjerseys",
-      "profilePicture": "https://images1.vinted.net/t/02_02305_xt5wTJW2mNuossZSr3BnCxbM/f800/1653138942.jpeg?s=8076ec4615d1e43071378dd0335174a584fbe7fe"
+      "userId": 211029642,
+      "username": "seniionut",
+      "profile": "https://www.vinted.pl/member/211029642-seniionut",
+      "profilePicture": "https://images1.vinted.net/t/04_0136e_JeZtaVMsqEeiq7z7s1X3tzV5/f800/1730041377.jpeg?s=154350887b092e037e555dbdd71a149e0ca0bf6b"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5327942686,
-    "title": "The North Face",
-    "url": "https://www.vinted.pl/items/5327942686-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_01f58_3qLMMZoQ6eoJJnsigpavGBQi/1730716538.jpeg?s=fad1ce590fcc2d0cc3029542720a755ff573c0b8",
+    "productId": 5379937278,
+    "title": "Nike férfi cipő",
+    "url": "https://www.vinted.pl/items/5379937278-nike-ferfi-cipo",
+    "image": "https://images1.vinted.net/tc/04_0030b_A9xVwysUbAd3xqEJ95KP48ST/1731573324.jpeg?s=f61f4b1818ab8087e00633c2241e84f76d3279e3",
     "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "M",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "42",
     "price": {
-      "amount": "170.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "32.31",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "11.4",
-      "totalAmount": "181.4"
+      "fees": {
+        "amount": "4.52",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "36.83",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 154022127,
-      "username": "stone.island123",
-      "profile": "https://www.vinted.pl/member/154022127-stoneisland123",
-      "profilePicture": "https://images1.vinted.net/t/01_0109d_QMwosMrkSCFiuLSNYm54xpHc/f800/1724509672.jpeg?s=026185c9e3b0715b7ed7ed45f36db6177fac811d"
+      "userId": 126021430,
+      "username": "kamilla0905",
+      "profile": "https://www.vinted.pl/member/126021430-kamilla0905",
+      "profilePicture": "https://images1.vinted.net/t/03_01114_c2FK6WUMiWSnAV7mWFci5und/f800/1709121719.jpeg?s=dfa3d833250cc8442832adb6f6d7c1ec5b747104"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Zadowalający",
+    "category": "Men"
   },
   {
-    "productId": 5327927586,
-    "title": "The north face",
-    "url": "https://www.vinted.pl/items/5327927586-the-north-face",
-    "image": "https://images1.vinted.net/tc/02_000d3_M3V7KAcVYg8gJstRsvXQZFJG/1730716384.jpeg?s=43e207d71652b39ac34bdfc72f1421f2a8469c06",
+    "productId": 5379934141,
+    "title": "Mikina Nike",
+    "url": "https://www.vinted.pl/items/5379934141-mikina-nike",
+    "image": "https://images1.vinted.net/tc/02_00762_mCcWj9FyrczQo8weXZymnFdP/1731573269.jpeg?s=9afa899683193e3f2ca19dec1a627f2e2edea9db",
     "promoted": false,
-    "favourites": 5,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "86.71",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.24",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "93.95",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 75754492,
+      "username": "marketaarena",
+      "profile": "https://www.vinted.pl/member/75754492-marketaarena",
+      "profilePicture": "https://images1.vinted.net/t/02_01ae1_Hs7bdZ2Zevc5suWchLPNH4Lj/f800/1638641542.jpeg?s=e885b9ebd7072dc23e54a598a080b8d4803691e5"
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5379936740,
+    "title": "Adidas čarape vel.43-45",
+    "url": "https://www.vinted.pl/items/5379936740-adidas-carape-vel43-45",
+    "image": "https://images1.vinted.net/tc/04_0116e_ybFz86oHDSHc8gK5ApxArDCJ/1731573314.jpeg?s=f62e9fee946c36c9cad59bbf7bb5c8c935b8d6ca",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M | 43–46",
+    "price": {
+      "amount": {
+        "amount": "30.76",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.44",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "35.2",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 200969858,
+      "username": "zokili123",
+      "profile": "https://www.vinted.pl/member/200969858-zokili123",
+      "profilePicture": "https://images1.vinted.net/t/01_00c54_jp3vPeT7X9hPntwhpwYNVeWP/f800/1714118341.jpeg?s=55ebf17ca8189b0afb71d39b118aebc2daceaf9a"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379936643,
+    "title": "Nike Phamton, rozmiar 38",
+    "url": "https://www.vinted.pl/items/5379936643-nike-phamton-rozmiar-38",
+    "image": "https://images1.vinted.net/tc/04_0145b_oG3JvWGM4bbHTeKzhsGy4K8V/1731573313.jpeg?s=62f27080f0df427f448fba544d4b4a867ededb3b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38",
+    "price": {
+      "amount": {
+        "amount": "85.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.15",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "92.15",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 172068367,
+      "username": "ziolkocha",
+      "profile": "https://www.vinted.pl/member/172068367-ziolkocha",
+      "profilePicture": "https://images1.vinted.net/t/03_01c58_2V4u1iXM7Tt7ZVnfbtH3tkhe/f800/1701292637.jpeg?s=d1f337199ee348db98b9e16d4511aa5df28ddd99"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379936198,
+    "title": "NIKE fitsole treenikengät",
+    "url": "https://www.vinted.pl/items/5379936198-nike-fitsole-treenikengat",
+    "image": "https://images1.vinted.net/tc/02_006b0_WuerF52Q58NYoosfcZU7cZYQ/1731573305.jpeg?s=5f0d3d9cb100bc4b735d2f5574b7c1803dca6bd8",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
+    "price": {
+      "amount": {
+        "amount": "30.76",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.44",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "35.2",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 232310620,
+      "username": "sinnasof",
+      "profile": "https://www.vinted.pl/member/232310620-sinnasof",
+      "profilePicture": "https://images1.vinted.net/t/01_01364_ftwVtSDWj67JGPvQe5BdJ2AU/f800/1727681033.jpeg?s=f2816bbda181134b8139f8fe07c6cca08b2ebc43"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379933591,
+    "title": "Tavaszi poló",
+    "url": "https://www.vinted.pl/items/5379933591-tavaszi-polo",
+    "image": "https://images1.vinted.net/tc/03_00904_X3cNztnwSn3VNGtBGD6T54A4/1731573260.jpeg?s=0a079cd73892733b11993ccc6ea83165f6ad817b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "15.08",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "18.73",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 209418002,
+      "username": "hdorina97",
+      "profile": "https://www.vinted.pl/member/209418002-hdorina97",
+      "profilePicture": "https://images1.vinted.net/t/02_01913_eStrMeiYMZQREkF9x6dDuuJ5/f800/1717491525.jpeg?s=6f27f6aa529c842953c1e5efdfec3a210e195d95"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379933376,
+    "title": "Ocieplane buty Adidas",
+    "url": "https://www.vinted.pl/items/5379933376-ocieplane-buty-adidas",
+    "image": "https://images1.vinted.net/tc/02_014e0_JhotZPvVtiDaS19vj3gKLWg7/1731573256.jpeg?s=d07661e626658fe1ea21ac994fe7a3ff821eac92",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "41",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 130568609,
+      "username": "monia0369",
+      "profile": "https://www.vinted.pl/member/130568609-monia0369",
+      "profilePicture": "https://images1.vinted.net/t/03_008de_Bn2odBKCHB4BaWwV1pci9srb/f800/1697029473.jpeg?s=81409e661ef6b66c88a7e390abdec7f134517294"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379933198,
+    "title": "Umbro boxerky. 2 kusy",
+    "url": "https://www.vinted.pl/items/5379933198-umbro-boxerky-2-kusy",
+    "image": "https://images1.vinted.net/tc/04_0262b_6m2gBZmaCqSP4BYKssi29o8d/1731573253.jpeg?s=97e6fefdc240ea4f8bafb899820b8a67c7fbf87f",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Umbro",
     "size": "XL",
     "price": {
-      "amount": "81.06",
-      "currency": "PLN",
+      "amount": {
+        "amount": "24.33",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "6.95",
-      "totalAmount": "88.01"
+      "fees": {
+        "amount": "4.12",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "28.45",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 131688591,
-      "username": "daniella20045",
-      "profile": "https://www.vinted.pl/member/131688591-daniella20045",
-      "profilePicture": "https://images1.vinted.net/t/03_02163_3zZJTdc72i97Jj4iLPdbyTwx/f800/1705609991.jpeg?s=85d696a5a33e3eead6984718adecba55a1b05ea5"
+      "userId": 229363633,
+      "username": "viktori12345",
+      "profile": "https://www.vinted.pl/member/229363633-viktori12345",
+      "profilePicture": "https://images1.vinted.net/t/01_005c2_kj7QFKHu21Mo4CmJ7jjdNTRu/f800/1727849366.jpeg?s=26e7ff80cfaccb2ee08463cba41d7df968b28309"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy z metką",
+    "category": "Men"
   },
   {
-    "productId": 5327858626,
-    "title": "Polar męski The North Face 1/2Zip M",
-    "url": "https://www.vinted.pl/items/5327858626-polar-meski-the-north-face-12zip-m",
-    "image": "https://images1.vinted.net/tc/04_010df_DhjWXKRiyopqcrr9G18GTjph/1730715685.jpeg?s=19b279476fd7d567bf98afcee91878fac8fbbfb4",
+    "productId": 5379932288,
+    "title": "Czapka Adidas",
+    "url": "https://www.vinted.pl/items/5379932288-czapka-adidas",
+    "image": "https://images1.vinted.net/tc/04_00045_6kfWdDoG2uapqpWUNAHd591N/1731573237.jpeg?s=a995029e4d5f987e4fc7f8b68579ff25294e83df",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "219.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.85",
-      "totalAmount": "232.85"
-    },
-    "seller": {
-      "userId": 92755031,
-      "username": "classicjerseys",
-      "profile": "https://www.vinted.pl/member/92755031-classicjerseys",
-      "profilePicture": "https://images1.vinted.net/t/02_02305_xt5wTJW2mNuossZSr3BnCxbM/f800/1653138942.jpeg?s=8076ec4615d1e43071378dd0335174a584fbe7fe"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326647141,
-    "title": "ÄKTA North Face Atmosphere vindjacka vind jacka jacket wind skaljacka",
-    "url": "https://www.vinted.pl/items/5326647141-akta-north-face-atmosphere-vindjacka-vind-jacka-jacket-wind-skaljacka",
-    "image": "https://images1.vinted.net/tc/03_01d90_5jzZns4odAAgHdqaHPuB2rPk/1730668812.jpeg?s=56d3b0aa93a9fcaf3232dfc5f2ef35716f759bc7",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "75.47",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.67",
-      "totalAmount": "82.14"
-    },
-    "seller": {
-      "userId": 240013747,
-      "username": "welcometomysite",
-      "profile": "https://www.vinted.pl/member/240013747-welcometomysite",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327820644,
-    "title": "Striukė nuo vėjo",
-    "url": "https://www.vinted.pl/items/5327820644-striuke-nuo-vejo",
-    "image": "https://images1.vinted.net/tc/03_01c2e_JBbtvsW9npCbQu1C92SbUWv8/1730715290.jpeg?s=aab536e1c55298600801e83d71c10eee92ac9999",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "XXL",
-    "price": {
-      "amount": "207.13",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.26",
-      "totalAmount": "220.39"
-    },
-    "seller": {
-      "userId": 54335534,
-      "username": "way-da",
-      "profile": "https://www.vinted.pl/member/54335534-way-da",
-      "profilePicture": "https://images1.vinted.net/t/02_021dd_kVoiFaMGqtNocBEWang2hpqg/f800/1614621416.jpeg?s=bff361553116c16d46e536f7066464030c21e85a"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327751281,
-    "title": "vintage the north face zip polar hoodie",
-    "url": "https://www.vinted.pl/items/5327751281-vintage-the-north-face-zip-polar-hoodie",
-    "image": "https://images1.vinted.net/tc/04_023f8_GqKPaVRHEsq3Gx6PugYtCCDN/1730714544.jpeg?s=dad5287d667bf1754abc4f0c1f5748733df71287",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "109.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.35",
-      "totalAmount": "117.35"
-    },
-    "seller": {
-      "userId": 91092121,
-      "username": "ksavietix",
-      "profile": "https://www.vinted.pl/member/91092121-ksavietix",
-      "profilePicture": "https://images1.vinted.net/t/01_009e7_tc2ijbFHSagXWWYqPj3QMtro/f800/1697054588.jpeg?s=bb4e6fa45466de4fab920c65ddc4756435931d78"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327701317,
-    "title": "Kurtki The North Face",
-    "url": "https://www.vinted.pl/items/5327701317-kurtki-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_00cc9_Qfm2yny2bNymsMFLnsMCDVEE/1730713996.jpeg?s=5b251dd61a76e42f6452a4a183f79da9fb73f33c",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.9"
-    },
-    "seller": {
-      "userId": 229477212,
-      "username": "kindseller05",
-      "profile": "https://www.vinted.pl/member/229477212-kindseller05",
-      "profilePicture": "https://images1.vinted.net/t/03_0093e_WsJz3foPky22yGCWiNW9rLAr/f800/1726428954.jpeg?s=999fb6927ffe55766fd5661b7529d8ab2f29df9c"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327701504,
-    "title": "Kurtka przejściowa/przeciwdeszczowa north face M",
-    "url": "https://www.vinted.pl/items/5327701504-kurtka-przejsciowaprzeciwdeszczowa-north-face-m",
-    "image": "https://images1.vinted.net/tc/04_00ffe_bcSJcHk5QNM5Ba9gTyPwgKWY/1730713998.jpeg?s=6ec56a16f97a217fb96f3870a49c43f15e278f6d",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "250.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "15.4",
-      "totalAmount": "265.4"
-    },
-    "seller": {
-      "userId": 91697687,
-      "username": "readyforvintage",
-      "profile": "https://www.vinted.pl/member/91697687-readyforvintage",
-      "profilePicture": "https://images1.vinted.net/t/03_012c9_jDJmeuciFS5ekNmmSpsRFuLe/f800/1652868642.jpeg?s=14798e51fdd3157c92b105d1fc0a32c99161a8b9"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5277225331,
-    "title": "Polar The North Face rozmiar XXL ciemnozielony",
-    "url": "https://www.vinted.pl/items/5277225331-polar-the-north-face-rozmiar-xxl-ciemnozielony",
-    "image": "https://images1.vinted.net/tc/03_0199b_rTrsfHyz98ZuBkPdNBnmBsL3/1729881455.jpeg?s=4f6755d4dbc7f9ed7e29a1819331d29e2ac1d696",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "XXL",
-    "price": {
-      "amount": "129.9",
-      "currency": "PLN",
-      "discount": "123.41",
-      "fees": "9.07",
-      "totalAmount": "132.48"
-    },
-    "seller": {
-      "userId": 180694272,
-      "username": "staniszewsky17",
-      "profile": "https://www.vinted.pl/member/180694272-staniszewsky17",
-      "profilePicture": "https://images1.vinted.net/t/01_009f0_XzeCudt9hDv4n2Pdczn58K2V/f800/1727166877.jpeg?s=35bdc3fc292c5535a6be8526fef37edf23eaf818"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325564862,
-    "title": "The North Face Jacket",
-    "url": "https://www.vinted.pl/items/5325564862-the-north-face-jacket",
-    "image": "https://images1.vinted.net/tc/04_01c45_iGa5K23NgQBSg5gAcQEMuYAZ/1730658150.jpeg?s=396aeae161e23208f32f17bca9c7b6b2c313d3b3",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "179.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.85",
-      "totalAmount": "190.85"
-    },
-    "seller": {
-      "userId": 239911517,
-      "username": "dreamstufff",
-      "profile": "https://www.vinted.pl/member/239911517-dreamstufff",
-      "profilePicture": "https://images1.vinted.net/t/04_0107c_tdyoHPmw7wPP6jWZ9v31DVZX/f800/1730637541.jpeg?s=46a676d195f68d31d1592cf1e2cf4808f4d34584"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326050896,
-    "title": "The North Face Sherpa Jacket",
-    "url": "https://www.vinted.pl/items/5326050896-the-north-face-sherpa-jacket",
-    "image": "https://images1.vinted.net/tc/04_008df_M4fWZTDdMzYUXrqCLghU4fmZ/1730662478.jpeg?s=3380e934f537e49c0760bdc5f180b810ca594eac",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "229.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.35",
-      "totalAmount": "243.35"
-    },
-    "seller": {
-      "userId": 239911517,
-      "username": "dreamstufff",
-      "profile": "https://www.vinted.pl/member/239911517-dreamstufff",
-      "profilePicture": "https://images1.vinted.net/t/04_0107c_tdyoHPmw7wPP6jWZ9v31DVZX/f800/1730637541.jpeg?s=46a676d195f68d31d1592cf1e2cf4808f4d34584"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327644757,
-    "title": "The North Face jakke",
-    "url": "https://www.vinted.pl/items/5327644757-the-north-face-jakke",
-    "image": "https://images1.vinted.net/tc/04_009c2_2oYptiWWxv2y3B4JRTPhBJnG/1730713351.jpeg?s=db06f321a5f2669d44ce076f430dfe1302abbca4",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "236.34",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.72",
-      "totalAmount": "251.06"
-    },
-    "seller": {
-      "userId": 228159267,
-      "username": "albertevl",
-      "profile": "https://www.vinted.pl/member/228159267-albertevl",
-      "profilePicture": "https://images1.vinted.net/t/02_00c63_iVUajqdN9r68YMY3kviA5D5W/f800/1725894371.jpeg?s=4d7b4bb0d490505fa1c0e28b2bebacf1f6aa6eef"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327642055,
-    "title": "North face jakke",
-    "url": "https://www.vinted.pl/items/5327642055-north-face-jakke",
-    "image": "https://images1.vinted.net/tc/04_00271_5t2aww7WNqv166ztxnEvjxPx/1730713320.jpeg?s=c3d384512c3189bf27ac9191556e23a9a86b1bea",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "236.34",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.72",
-      "totalAmount": "251.06"
-    },
-    "seller": {
-      "userId": 228159267,
-      "username": "albertevl",
-      "profile": "https://www.vinted.pl/member/228159267-albertevl",
-      "profilePicture": "https://images1.vinted.net/t/02_00c63_iVUajqdN9r68YMY3kviA5D5W/f800/1725894371.jpeg?s=4d7b4bb0d490505fa1c0e28b2bebacf1f6aa6eef"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327637813,
-    "title": "The north face jacket M",
-    "url": "https://www.vinted.pl/items/5327637813-the-north-face-jacket-m",
-    "image": "https://images1.vinted.net/tc/02_012f3_ryxNN2XLouSMMPLcfyL2SKwd/1730713271.jpeg?s=d8b7c0b0a8176641f6a99b8cd455faed1149614c",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "108.08",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.3",
-      "totalAmount": "116.38"
-    },
-    "seller": {
-      "userId": 131416855,
-      "username": "vasutbubus",
-      "profile": "https://www.vinted.pl/member/131416855-vasutbubus",
-      "profilePicture": "https://images1.vinted.net/t/02_01d42_sBcQf4jRu8G3eN3Fja2neh32/f800/1675748055.jpeg?s=887d120841b24f41a28f5d7a907dc505883dfe63"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327601021,
-    "title": "The north face S",
-    "url": "https://www.vinted.pl/items/5327601021-the-north-face-s",
-    "image": "https://images1.vinted.net/tc/04_01c56_rRCsY5i9tWexM2BMfYLiHubT/1730712833.jpeg?s=0c9b67f29944cd0908f8d662d3a6c84cebcc4d28",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "198.32",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.82",
-      "totalAmount": "211.14"
-    },
-    "seller": {
-      "userId": 231343563,
-      "username": "bajaaa2016",
-      "profile": "https://www.vinted.pl/member/231343563-bajaaa2016",
-      "profilePicture": "https://images1.vinted.net/t/01_01ffc_r61FB1AhGgV17gZDgeSi1XP2/f800/1727714190.jpeg?s=3c1ea34c44bbdc25dd80958b807b95bb4bbff6e9"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5289347239,
-    "title": "wiatrówka the north face",
-    "url": "https://www.vinted.pl/items/5289347239-wiatrowka-the-north-face",
-    "image": "https://images1.vinted.net/tc/01_0053d_282cAd6z7DdzBMmF7RDQEHJs/1730057964.jpeg?s=f503128bbfc3388a63ee885fa9d42fd7be40dc17",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "150.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.4",
-      "totalAmount": "160.4"
-    },
-    "seller": {
-      "userId": 103495949,
-      "username": "izabelka5508",
-      "profile": "https://www.vinted.pl/member/103495949-izabelka5508",
-      "profilePicture": "https://images1.vinted.net/t/01_01e6e_G353aE2wg4QcFjnCsokcw4TU/f800/1673887800.jpeg?s=b990c46b59e10c7e013555fe547f01460935d46b"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327475131,
-    "title": "The North Face.Męska kurtka rozmiar S.",
-    "url": "https://www.vinted.pl/items/5327475131-the-north-facemeska-kurtka-rozmiar-s",
-    "image": "https://images1.vinted.net/tc/04_002a4_n2e7byEnjCGH6tmdNMpiWuy4/1730711187.jpeg?s=25d2a338b154189d9219186f207fc4ff328c8af6",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "185.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.15",
-      "totalAmount": "197.15"
-    },
-    "seller": {
-      "userId": 91862905,
-      "username": "taktojashop",
-      "profile": "https://www.vinted.pl/member/91862905-taktojashop",
-      "profilePicture": "https://images1.vinted.net/t/03_023f2_BE7HvNKEk1gHv6HKHJeV1FSZ/f800/1670312212.jpeg?s=17fc6913d71e87580579ff97e1552e84ab6b52c4"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327453678,
-    "title": "The North Face jacka/windbreaker",
-    "url": "https://www.vinted.pl/items/5327453678-the-north-face-jackawindbreaker",
-    "image": "https://images1.vinted.net/tc/04_01e02_A1fQydTYqKna5dgGyx7y5DvK/1730710877.jpeg?s=6ecadeb0cab110acde01bd86522284634cf10095",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "94.44",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.62",
-      "totalAmount": "102.06"
-    },
-    "seller": {
-      "userId": 226660109,
-      "username": "niklas121",
-      "profile": "https://www.vinted.pl/member/226660109-niklas121",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327447654,
-    "title": "Grantowy Polar the north face",
-    "url": "https://www.vinted.pl/items/5327447654-grantowy-polar-the-north-face",
-    "image": "https://images1.vinted.net/tc/03_0145e_aVJm9sqRb7v45DhyaTtnxri5/1730710787.jpeg?s=8b8d7f81d851322a5b697c62136f2aafd6d0967e",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "69.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.35",
-      "totalAmount": "75.35"
-    },
-    "seller": {
-      "userId": 91774099,
-      "username": "martynap2809",
-      "profile": "https://www.vinted.pl/member/91774099-martynap2809",
-      "profilePicture": "https://images1.vinted.net/t/03_02507_82F1jEa1s7sirUabUfkoBJ6J/f800/1668811858.jpeg?s=8d214c93d0b29c69dc63f21c28e8f28b0f8e866a"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327029519,
-    "title": "The North Face black summit series gortex wind jacket gorpcore fashion",
-    "url": "https://www.vinted.pl/items/5327029519-the-north-face-black-summit-series-gortex-wind-jacket-gorpcore-fashion",
-    "image": "https://images1.vinted.net/tc/01_00d88_vZraiT79YPU4Ve2apJRaZ1vm/1730682088.jpeg?s=c6f3e9940dba4f4641f0b80a674ae104a1a6e499",
-    "promoted": false,
-    "favourites": 9,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "149.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.4",
-      "totalAmount": "160.39"
-    },
-    "seller": {
-      "userId": 139533822,
-      "username": "xxcvs",
-      "profile": "https://www.vinted.pl/member/139533822-xxcvs",
-      "profilePicture": "https://images1.vinted.net/t/03_01ee1_R79wNqW3JZ88GHPwyBpY6KaR/f800/1718599824.jpeg?s=e2c0e5a0c81abd47a9fd33695a435ed0cd39ca28"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327322967,
-    "title": "Kurtka The north face Gore-tex",
-    "url": "https://www.vinted.pl/items/5327322967-kurtka-the-north-face-gore-tex",
-    "image": "https://images1.vinted.net/tc/04_01e75_5xb5VTh3RXmXyVxW7hN5VnFk/1730708739.jpeg?s=030aca2b237164c454732ec30b65c0072e1c229e",
-    "promoted": false,
-    "favourites": 15,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "185.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.15",
-      "totalAmount": "197.15"
-    },
-    "seller": {
-      "userId": 236275797,
-      "username": "the.volochysk_31200",
-      "profile": "https://www.vinted.pl/member/236275797-thevolochysk31200",
-      "profilePicture": "https://images1.vinted.net/t/01_00409_bsA9ixPbBoqXB894KKeQeanV/f800/1729028077.jpeg?s=98b603adda46d180b6587390eddf4639374dc8e4"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327317197,
-    "title": "The north face striukė",
-    "url": "https://www.vinted.pl/items/5327317197-the-north-face-striuke",
-    "image": "https://images1.vinted.net/tc/02_00aec_kPcAWJqC9TK99sboSNSF11QX/1730708632.jpeg?s=20364394bc43671ceab696ade1095b16b61241bb",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "123.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.07",
-      "totalAmount": "132.47"
-    },
-    "seller": {
-      "userId": 41851988,
-      "username": "vienas1vienas",
-      "profile": "https://www.vinted.pl/member/41851988-vienas1vienas",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327304052,
-    "title": "The north face talvitakki 150-160cm",
-    "url": "https://www.vinted.pl/items/5327304052-the-north-face-talvitakki-150-160cm",
-    "image": "https://images1.vinted.net/tc/04_01748_nHMtZgNdGr8rAjnuLKHNL4mg/1730708374.jpeg?s=0178042fc1d6bcee4d14fc9f096bcaa3ba9274ad",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "220.35",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.92",
-      "totalAmount": "234.27"
-    },
-    "seller": {
-      "userId": 187468186,
-      "username": "tekkkkk",
-      "profile": "https://www.vinted.pl/member/187468186-tekkkkk",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327256840,
-    "title": "Vintage 90. The North Face Hydronaline Anorak Kurtka Rozmiar M, Kurtka unisex 90.",
-    "url": "https://www.vinted.pl/items/5327256840-vintage-90-the-north-face-hydronaline-anorak-kurtka-rozmiar-m-kurtka-unisex-90",
-    "image": "https://images1.vinted.net/tc/03_02129_zfMAU32BVkESKLFnyyuixo6L/1730708483.jpeg?s=15f332460c68c17e312aba3b68a9bea29653acff",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "225.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.15",
-      "totalAmount": "239.15"
-    },
-    "seller": {
-      "userId": 216898445,
-      "username": "salamandra19877",
-      "profile": "https://www.vinted.pl/member/216898445-salamandra19877",
-      "profilePicture": "https://images1.vinted.net/t/02_00848_QqSzZ1j5JemPAAFUBEMaeyFV/f800/1724669055.jpeg?s=71f41607e7e8f33905980efac6638a38306b32fe"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327185970,
-    "title": "North Face vinterjakke",
-    "url": "https://www.vinted.pl/items/5327185970-north-face-vinterjakke",
-    "image": "https://images1.vinted.net/tc/04_01105_QdhTAXrKaMCdGCxXoWRgqBYw/1730705377.jpeg?s=4422c66bea1ea378f41f8568070b427d96ed4db4",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "177.25",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.76",
-      "totalAmount": "189.01"
-    },
-    "seller": {
-      "userId": 229817129,
-      "username": "jasperkj",
-      "profile": "https://www.vinted.pl/member/229817129-jasperkj",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327179464,
-    "title": "The north face skjorte str L",
-    "url": "https://www.vinted.pl/items/5327179464-the-north-face-skjorte-str-l",
-    "image": "https://images1.vinted.net/tc/04_017a5_kv6nAyiy3gs29RDzAQRdGQCc/1730705148.jpeg?s=9cfedc008c57fdb73b69825893c009052377026d",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "41.36",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.97",
-      "totalAmount": "46.33"
-    },
-    "seller": {
-      "userId": 162920677,
-      "username": "solskinsvejr",
-      "profile": "https://www.vinted.pl/member/162920677-solskinsvejr",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327073498,
-    "title": "The North Face fanorak kurtka wiatrowka outdoor",
-    "url": "https://www.vinted.pl/items/5327073498-the-north-face-fanorak-kurtka-wiatrowka-outdoor",
-    "image": "https://images1.vinted.net/tc/02_00be8_2q2RNDXM3vaMwbL5TqG3nuep/1730697278.jpeg?s=3516c06eaccb3f24cacdf75f82aa08c88d457fb1",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "129.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.35",
-      "totalAmount": "138.35"
-    },
-    "seller": {
-      "userId": 232955806,
-      "username": "grinderstuff",
-      "profile": "https://www.vinted.pl/member/232955806-grinderstuff",
-      "profilePicture": "https://images1.vinted.net/t/01_00063_LVqL8fu4X72Mfk5hxdNWkTs2/f800/1729424267.jpeg?s=02c2451c9f28b6c2f4d80c513b9b590132d23bac"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5327127837,
-    "title": "Kurtka the north face rozmiar XS stan bardzo dobry",
-    "url": "https://www.vinted.pl/items/5327127837-kurtka-the-north-face-rozmiar-xs-stan-bardzo-dobry",
-    "image": "https://images1.vinted.net/tc/03_025d1_DWDCDNG9M9RQ2d2ep49zah5A/1730702827.jpeg?s=3480d23a453a74f59394b554d6731f966744e2df",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "XS",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.9"
-    },
-    "seller": {
-      "userId": 104511176,
-      "username": "ambro8",
-      "profile": "https://www.vinted.pl/member/104511176-ambro8",
-      "profilePicture": "https://images1.vinted.net/t/01_004e2_T9XgHX6F8XDD8VkmCEtxEFv3/f800/1730650254.jpeg?s=7a3b5d79b97165e49d773fe968505607b063c179"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326984826,
-    "title": "The North Face 900 Ltd Nuptse Puffer Jacket Summit Series",
-    "url": "https://www.vinted.pl/items/5326984826-the-north-face-900-ltd-nuptse-puffer-jacket-summit-series",
-    "image": "https://images1.vinted.net/tc/04_007e5_KuBUQZT5Br96D6iu8v5TQjZ9/1730677375.jpeg?s=025e28f60562e68769e7723cf7dbae59bf64071a",
-    "promoted": false,
-    "favourites": 5,
-    "brand": "The North Face",
-    "size": "XXL",
-    "price": {
-      "amount": "162.01",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.0",
-      "totalAmount": "173.01"
-    },
-    "seller": {
-      "userId": 125127878,
-      "username": "csizmadiakeve",
-      "profile": "https://www.vinted.pl/member/125127878-csizmadiakeve",
-      "profilePicture": "https://images1.vinted.net/t/01_025f8_6GDyXZPpQR3iR4vE6mAzM9Fa/f800/1680810725.jpeg?s=a720b659a31743dca2b30fd6403b51d3077360cd"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326928972,
-    "title": "Sort TNF vest",
-    "url": "https://www.vinted.pl/items/5326928972-sort-tnf-vest",
-    "image": "https://images1.vinted.net/tc/02_01fd3_f8jC7NYfpWYw4tkuJCtwLZS3/1730674617.jpeg?s=258ca2b8d558dcdd4a977d5c49ab4466b8a5af45",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "177.25",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.76",
-      "totalAmount": "189.01"
-    },
-    "seller": {
-      "userId": 227932044,
-      "username": "jonas12700",
-      "profile": "https://www.vinted.pl/member/227932044-jonas12700",
-      "profilePicture": "https://images1.vinted.net/t/01_00a2f_4uVecgdVqD6zHSkXM5wbvwMk/f800/1725804834.jpeg?s=ca6d7a53f17dfeb9221a7caf0f04f8f7ee723466"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326917384,
-    "title": "Wiatrowka The North Face S",
-    "url": "https://www.vinted.pl/items/5326917384-wiatrowka-the-north-face-s",
-    "image": "https://images1.vinted.net/tc/03_02286_n2JADHhrXFFiZMDNaP5t1P79/1730674201.jpeg?s=19812b6f67cd881bdc75c2436d48f8022e082022",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.9"
-    },
-    "seller": {
-      "userId": 238158662,
-      "username": "ardexia22",
-      "profile": "https://www.vinted.pl/member/238158662-ardexia22",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326897780,
-    "title": "Kurtka the north face zimowa czarna hyvent",
-    "url": "https://www.vinted.pl/items/5326897780-kurtka-the-north-face-zimowa-czarna-hyvent",
-    "image": "https://images1.vinted.net/tc/02_0026a_fMwic1egt4Vw1WUKM1VjPdH6/1730673588.jpeg?s=4253510bfdfa41c132bd5babe30fe38161fd450b",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
+    "brand": "adidas",
     "size": "Uniwersalny",
     "price": {
-      "amount": "220.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "12.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "13.9",
-      "totalAmount": "233.9"
+      "fees": {
+        "amount": "3.5",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "15.5",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 91059980,
-      "username": "kotafu",
-      "profile": "https://www.vinted.pl/member/91059980-kotafu",
-      "profilePicture": "https://images1.vinted.net/t/01_010ce_D1BqSapFQhA8FL5UeFuGhTCr/f800/1652789634.jpeg?s=bee857b1545d63f21f66273cb7c35e74af43849e"
+      "userId": 92886432,
+      "username": "zora2304",
+      "profile": "https://www.vinted.pl/member/92886432-zora2304",
+      "profilePicture": "https://images1.vinted.net/t/02_01bbd_wTfpiBC4irdZYRcuT4iT2MhG/f800/1653201366.jpeg?s=56feeff432d09c861a3e56627fad41db88b52ace"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5328414207,
-    "title": "The north face vest",
-    "url": "https://www.vinted.pl/items/5328414207-the-north-face-vest",
-    "image": "https://images1.vinted.net/tc/03_005fb_sJFXV6rmF6pEbTbsc15XHu1q/1730721337.jpeg?s=288391629254aa1beb699d0da8b6791915a0207e",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "88.63",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.33",
-      "totalAmount": "95.96"
-    },
-    "seller": {
-      "userId": 229630720,
-      "username": "cecilie14432",
-      "profile": "https://www.vinted.pl/member/229630720-cecilie14432",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5328405990,
-    "title": "The north face vinterjakke",
-    "url": "https://www.vinted.pl/items/5328405990-the-north-face-vinterjakke",
-    "image": "https://images1.vinted.net/tc/04_007e6_vUHt3hMkijRKeqMmLPq8bhnH/1730721254.jpeg?s=5e569639da95a40f68369171861c5735608631e6",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "236.34",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.72",
-      "totalAmount": "251.06"
-    },
-    "seller": {
-      "userId": 229630720,
-      "username": "cecilie14432",
-      "profile": "https://www.vinted.pl/member/229630720-cecilie14432",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326852832,
-    "title": "Kurtka The North Face",
-    "url": "https://www.vinted.pl/items/5326852832-kurtka-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_0014a_zoq1XB2jg48FMWj7Lm4XWS7u/1730672406.jpeg?s=ba5f674a94cff8fcde7a33e3d47872dd7ca8576f",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.9"
-    },
-    "seller": {
-      "userId": 94846706,
-      "username": "klaudiaraaa",
-      "profile": "https://www.vinted.pl/member/94846706-klaudiaraaa",
-      "profilePicture": "https://images1.vinted.net/t/02_01989_m8XZULPcMjKnnCaTbh4npDcD/f800/1658524578.jpeg?s=8d0625ca7d3c721c165788fda8b158286f4dabd5"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326823687,
-    "title": "The North Face vinterjacka (Herr)",
-    "url": "https://www.vinted.pl/items/5326823687-the-north-face-vinterjacka-herr",
-    "image": "https://images1.vinted.net/tc/04_01b7c_21Nt6MWL5JSHjNapj3jQZj1r/1730671749.jpeg?s=088413c8f5d2fd0cc01bc06183bbccd06425cd6e",
+    "productId": 5379931329,
+    "title": "Nike férfi papucs",
+    "url": "https://www.vinted.pl/items/5379931329-nike-ferfi-papucs",
+    "image": "https://images1.vinted.net/tc/02_026ac_81Ji36HzFLgaJ2UnDEcZTk7F/1731573220.jpeg?s=ef1613b33481ae67294b87d1656660fd29818683",
     "promoted": false,
     "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
+    "brand": "Nike",
+    "size": "42",
     "price": {
-      "amount": "170.67",
-      "currency": "PLN",
+      "amount": {
+        "amount": "21.54",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "11.43",
-      "totalAmount": "182.1"
+      "fees": {
+        "amount": "3.98",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "25.52",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 234794433,
-      "username": "raytg",
-      "profile": "https://www.vinted.pl/member/234794433-raytg",
-      "profilePicture": "https://images1.vinted.net/t/04_0210b_NCU6GNh2xN6AySqui2ewDkdW/f800/1730674353.jpeg?s=e946169b7428141fa8e63011e88a2dace4d98ec5"
+      "userId": 126021430,
+      "username": "kamilla0905",
+      "profile": "https://www.vinted.pl/member/126021430-kamilla0905",
+      "profilePicture": "https://images1.vinted.net/t/03_01114_c2FK6WUMiWSnAV7mWFci5und/f800/1709121719.jpeg?s=dfa3d833250cc8442832adb6f6d7c1ec5b747104"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326798007,
-    "title": "The north face vindjacka",
-    "url": "https://www.vinted.pl/items/5326798007-the-north-face-vindjacka",
-    "image": "https://images1.vinted.net/tc/04_02486_1A1wncgzYh8k18HkiWa3PZws/1730671233.jpeg?s=08b02338fe43548223bc0393bb6a3fa256ff5de9",
+    "productId": 5379928148,
+    "title": "Nike tenisky na běhání",
+    "url": "https://www.vinted.pl/items/5379928148-nike-tenisky-na-behani",
+    "image": "https://images1.vinted.net/tc/03_0145e_pQjgbA5FmGoKXVTeW7ZzuBa3/1731573163.jpeg?s=705ec7b7314990acda8b26c00ec91a8c13d23ec0",
     "promoted": false,
-    "favourites": 6,
-    "brand": "The North Face",
-    "size": "M",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "42,5",
     "price": {
-      "amount": "189.63",
-      "currency": "PLN",
+      "amount": {
+        "amount": "95.57",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "12.38",
-      "totalAmount": "202.01"
+      "fees": {
+        "amount": "7.68",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "103.25",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 179229655,
-      "username": "charlie.granst1",
-      "profile": "https://www.vinted.pl/member/179229655-charliegranst1",
-      "profilePicture": "https://images1.vinted.net/t/01_01223_WxEFoEBu4fXipQqL4HDcB83p/f800/1707518919.jpeg?s=bd855ea8c3011eac9ce5dbce999e3dbcfdbd7f8e"
+      "userId": 81269775,
+      "username": "dominikasimunkova",
+      "profile": "https://www.vinted.pl/member/81269775-dominikasimunkova",
+      "profilePicture": "https://images1.vinted.net/t/01_0079d_J2PHKsXbbdnpmhuKMyhxbrHS/f800/1697107496.jpeg?s=f215597eb05351f66932716fcc462f6e0d11e6d6"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy bez metki",
+    "category": "Men"
   },
   {
-    "productId": 5326716586,
-    "title": "The North Face Summit Series męska kurtka bluza polar softshell XXL",
-    "url": "https://www.vinted.pl/items/5326716586-the-north-face-summit-series-meska-kurtka-bluza-polar-softshell-xxl",
-    "image": "https://images1.vinted.net/tc/04_0178a_fJSoai3hepZQpLL39yux4Fph/1730669987.jpeg?s=197fcb8b66e0f52ece0a8379cccbc5eaa68adf0b",
+    "productId": 5379926156,
+    "title": "Adidas baseball sapka",
+    "url": "https://www.vinted.pl/items/5379926156-adidas-baseball-sapka",
+    "image": "https://images1.vinted.net/tc/04_0140f_EAtj9nJpjjxvxvSaGm1midzR/1731573126.jpeg?s=c1fc722ac540ca1a014c0ff40989bf26ce3a2661",
     "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "XXL",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "Uniwersalny",
     "price": {
-      "amount": "149.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "53.85",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "10.35",
-      "totalAmount": "159.35"
+      "fees": {
+        "amount": "5.59",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "59.44",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 212433089,
-      "username": "exclusivefashion2024",
-      "profile": "https://www.vinted.pl/member/212433089-exclusivefashion2024",
-      "profilePicture": "https://images1.vinted.net/t/03_001ec_44fB1zDHeWZFvQzTHu6s9YDi/f800/1727773603.jpeg?s=919349a1b0e28681e038ea0dd5616db04abb04f7"
+      "userId": 239854494,
+      "username": "francee64",
+      "profile": "https://www.vinted.pl/member/239854494-francee64",
+      "profilePicture": "https://images1.vinted.net/t/04_01333_GPY3B9uW2SnEsbnfwpBvZPBz/f800/1730626936.jpeg?s=cab03c7a0db51b277eab383d066d2eade0a55a35"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326671761,
-    "title": "Geacă tip fleece bărbați - The North Face,mărimea S",
-    "url": "https://www.vinted.pl/items/5326671761-geaca-tip-fleece-barbati-the-north-facemarimea-s",
-    "image": "https://images1.vinted.net/tc/04_007a5_pAjB9fTUbyiApJiZN84cea6K/1730669156.jpeg?s=0b1cf37d3960bf930048a2069aa4623cbf90b07a",
+    "productId": 5379924748,
+    "title": "Koszulka Piłkarska Bayern Monachium Munchen",
+    "url": "https://www.vinted.pl/items/5379924748-koszulka-pilkarska-bayern-monachium-munchen",
+    "image": "https://images1.vinted.net/tc/04_00b3a_CAMbS761RDcYAKifuS1mTK51/1731573101.jpeg?s=ff4087942616d675b38a71feb86b8f3d023b0010",
     "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 92652433,
+      "username": "ralf_lump",
+      "profile": "https://www.vinted.pl/member/92652433-ralflump",
+      "profilePicture": "https://images1.vinted.net/t/04_008ce_ecLCKdqLZok3amM16afSGPaK/f800/1730904511.jpeg?s=c89a61356eac2f6b7cf856e91e53ee61192b0217"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379924150,
+    "title": "Bluza z kapturem adidas Entrada r.S - Czarna",
+    "url": "https://www.vinted.pl/items/5379924150-bluza-z-kapturem-adidas-entrada-rs-czarna",
+    "image": "https://images1.vinted.net/tc/03_00fff_YMi7n4bz8SboqPFVbcpGpvmE/1731573089.jpeg?s=1c414ef3da8ee14287ee7964bd60144ecaab6188",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
     "size": "S",
     "price": {
-      "amount": "124.06",
-      "currency": "PLN",
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "9.1",
-      "totalAmount": "133.16"
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 147990694,
-      "username": "procaaugustina",
-      "profile": "https://www.vinted.pl/member/147990694-procaaugustina",
-      "profilePicture": "https://images1.vinted.net/t/01_011a1_q7zuPpPZoRnLLNgKkk4yvTZg/f800/1721926005.jpeg?s=25e40c27e2fff29655b1e034a71a87a3f16c0d91"
+      "userId": 129704031,
+      "username": "marciinoo",
+      "profile": "https://www.vinted.pl/member/129704031-marciinoo",
+      "profilePicture": "https://images1.vinted.net/t/02_019f9_QpDJrSexL4A6wmVDy645nScE/f800/1706209671.jpeg?s=301e2c2395bd489efd1375e00b2ede81e075f475"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy z metką",
+    "category": "Men"
   },
   {
-    "productId": 5326651366,
-    "title": "Přechodná bunda",
-    "url": "https://www.vinted.pl/items/5326651366-prechodna-bunda",
-    "image": "https://images1.vinted.net/tc/02_023cc_vKJMhc6YsQ8ChuZiC1isPHN8/1730668870.jpeg?s=a566018bfdce46a94639a1eb485691a777751645",
+    "productId": 5379923837,
+    "title": "Bluză Adidas",
+    "url": "https://www.vinted.pl/items/5379923837-bluza-adidas",
+    "image": "https://images1.vinted.net/tc/04_02572_qqvLhsC2i2DQVP3uPCEvvh5A/1731573084.jpeg?s=cf6c4fceb78bb4e948e655e2db6e08c4c7e903e9",
     "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "M",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
     "price": {
-      "amount": "182.52",
-      "currency": "PLN",
+      "amount": {
+        "amount": "30.9",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "12.03",
-      "totalAmount": "194.55"
+      "fees": {
+        "amount": "4.45",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "35.35",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 85385521,
-      "username": "mattk",
-      "profile": "https://www.vinted.pl/member/85385521-mattk",
+      "userId": 178427133,
+      "username": "maderoterapie",
+      "profile": "https://www.vinted.pl/member/178427133-maderoterapie",
       "profilePicture": null
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326636472,
-    "title": "Kurtka The North Face ocieplane rozmiar L",
-    "url": "https://www.vinted.pl/items/5326636472-kurtka-the-north-face-ocieplane-rozmiar-l",
-    "image": "https://images1.vinted.net/tc/04_00c61_K5S5R13EZj9VC6mw8a89xBfn/1730668666.jpeg?s=7b2d98a3fe5e4943c3401410ae9367af232d2585",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "160.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.9",
-      "totalAmount": "170.9"
-    },
-    "seller": {
-      "userId": 90531397,
-      "username": "tomasz_kedzierski",
-      "profile": "https://www.vinted.pl/member/90531397-tomaszkedzierski",
-      "profilePicture": "https://images1.vinted.net/t/02_0072e_xxJTcBjqVDXo7RutoCrNPCmC/f800/1652705546.jpeg?s=c9814c4021b54aa59ed359b007dd24c4697cc27d"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326343108,
-    "title": "Wiatrówka The North Face",
-    "url": "https://www.vinted.pl/items/5326343108-wiatrowka-the-north-face",
-    "image": "https://images1.vinted.net/tc/01_01fe5_6jygCJ9oahGq3yJoqxSvu7DM/1730665308.jpeg?s=22fac9a9cb1459fea9494a91fdc075b61c4d8889",
+    "productId": 5379921024,
+    "title": "Bluza Nike Tech Fleece",
+    "url": "https://www.vinted.pl/items/5379921024-bluza-nike-tech-fleece",
+    "image": "https://images1.vinted.net/tc/04_00589_4tqkLQAu5jiuRim2Z7wppqNb/1731573034.jpeg?s=b7c88fe131f2fdcba67f12336a2d2769055c6f68",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
+    "brand": "Nike",
+    "size": "L",
     "price": {
-      "amount": "119.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "50.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "8.85",
-      "totalAmount": "127.85"
+      "fees": {
+        "amount": "5.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "55.4",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 190394177,
-      "username": "shous_ty",
-      "profile": "https://www.vinted.pl/member/190394177-shousty",
-      "profilePicture": "https://images1.vinted.net/t/02_009a5_ZuwDUnCpQKz35L4kx8s4VwhV/f800/1715978316.jpeg?s=e6d38106a094421e1b6c3ec211035d03fc1f4787"
+      "userId": 90552176,
+      "username": "michwlo",
+      "profile": "https://www.vinted.pl/member/90552176-michwlo",
+      "profilePicture": "https://images1.vinted.net/t/02_024a1_kYwwQVU8hr4sFHWXSuy1F3P9/f800/1652707244.jpeg?s=e3cb1bcf14cbe8349f8a70f37e369cd9c28022fa"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326343853,
-    "title": "The north Face jakke",
-    "url": "https://www.vinted.pl/items/5326343853-the-north-face-jakke",
-    "image": "https://images1.vinted.net/tc/03_00224_HyAfWqi5g7d2fwYzXgApcUXh/1730665316.jpeg?s=6fb3e45f7ad9e4c2225d6c9d66ab38dd2573849d",
+    "productId": 5379920781,
+    "title": "Adidas Sneaker",
+    "url": "https://www.vinted.pl/items/5379920781-adidas-sneaker",
+    "image": "https://images1.vinted.net/tc/04_00480_KvDKRLLS5uu3s3ygKGY3to1s/1731573030.jpeg?s=118d71dfbbbfe01d310b6c608e2868a47aec753b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "44",
+    "price": {
+      "amount": {
+        "amount": "43.08",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.05",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "48.13",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 119967457,
+      "username": "francomanca9",
+      "profile": "https://www.vinted.pl/member/119967457-francomanca9",
+      "profilePicture": "https://images1.vinted.net/t/02_00586_Qn6xUvBLdgqcXN2NgiEjjwuc/f800/1668640262.jpeg?s=276debf50cd96697d25f311ee5da45ff5fb9da51"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379918068,
+    "title": "Nowa kurtka Puma",
+    "url": "https://www.vinted.pl/items/5379918068-nowa-kurtka-puma",
+    "image": "https://images1.vinted.net/tc/02_00494_oJFoiDWDGpVQp7BZHQETiCMo/1731572979.jpeg?s=5b53ecb815cbd5966d96c54bc697d396c35203ec",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Puma",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "30.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 103751968,
+      "username": "damianaldo",
+      "profile": "https://www.vinted.pl/member/103751968-damianaldo",
+      "profilePicture": "https://images1.vinted.net/t/01_0160d_f2SMY9p5CTpfR5XxwwnbmXV9/f800/1720096676.jpeg?s=4ee28f26108fdf5df5ce4ce1945dcdb1d61b811c"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379917091,
+    "title": "Koszulka piłkarska Feyenord Rotterdam",
+    "url": "https://www.vinted.pl/items/5379917091-koszulka-pilkarska-feyenord-rotterdam",
+    "image": "https://images1.vinted.net/tc/04_020d5_6MmN33xrVaBdBnzcbaJkXPRj/1731572961.jpeg?s=b735c91543051d4b45522b730afb9d7b3d437c4d",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "50.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "55.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 186594209,
+      "username": "wydra_3",
+      "profile": "https://www.vinted.pl/member/186594209-wydra3",
+      "profilePicture": "https://images1.vinted.net/t/02_00c65_L78iNgdo8k8kyfup8ZA4MiB9/f800/1707115565.jpeg?s=3012383c59ac644b98458014ff4b211b74f1fddf"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379916188,
+    "title": "Koszulka Wisła Kraków L",
+    "url": "https://www.vinted.pl/items/5379916188-koszulka-wisla-krakow-l",
+    "image": "https://images1.vinted.net/tc/03_00205_bgB2mU9jokmB1XA3wWH7FMn1/1731572944.jpeg?s=34a05914d2ff038a2d903a5465d1484531fde93f",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 134060203,
+      "username": "moonn777",
+      "profile": "https://www.vinted.pl/member/134060203-moonn777",
+      "profilePicture": "https://images1.vinted.net/t/01_01eb2_oqEHCR6SmnxTgeHQycHs5A5G/f800/1707074497.jpeg?s=839d4fa3c417209f76bc3a23cae60bc5e2743686"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379914961,
+    "title": "Koszulka sportowa New Balance rozmiar S",
+    "url": "https://www.vinted.pl/items/5379914961-koszulka-sportowa-new-balance-rozmiar-s",
+    "image": "https://images1.vinted.net/tc/03_01578_JbufXtxTJNmZ4s8UPUa59Ujb/1731572921.jpeg?s=6ac8df5fcb165c610f590b12a1f7ba2d441202a3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "25.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.15",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "29.15",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 93014887,
+      "username": "uszpulewicz",
+      "profile": "https://www.vinted.pl/member/93014887-uszpulewicz",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379914654,
+    "title": "Koszulka z długim rękawem",
+    "url": "https://www.vinted.pl/items/5379914654-koszulka-z-dlugim-rekawem",
+    "image": "https://images1.vinted.net/tc/02_02467_bWuhBXvQAUFfNY2y72dMRH96/1731572915.jpeg?s=a5b162122be8efe55aa11d6fcaf0f7fa8c1c9e6c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "29.99",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.39",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 182990802,
+      "username": "adamek1404",
+      "profile": "https://www.vinted.pl/member/182990802-adamek1404",
+      "profilePicture": "https://images1.vinted.net/t/02_021a0_9ArakkuZ54P8ru2D5XR3iypC/f800/1705433676.jpeg?s=03a66b20e9f07c260283931204530874935c256d"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379914759,
+    "title": "Bluza adidas r. S Entrada 22 Fleece Hoodie",
+    "url": "https://www.vinted.pl/items/5379914759-bluza-adidas-r-s-entrada-22-fleece-hoodie",
+    "image": "https://images1.vinted.net/tc/04_00e41_sAbjY6EJfMeyEUn842hrb8Hx/1731572917.jpeg?s=881facea3d5af5a4840c3143620c41989d1b8ea6",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 129704031,
+      "username": "marciinoo",
+      "profile": "https://www.vinted.pl/member/129704031-marciinoo",
+      "profilePicture": "https://images1.vinted.net/t/02_019f9_QpDJrSexL4A6wmVDy645nScE/f800/1706209671.jpeg?s=301e2c2395bd489efd1375e00b2ede81e075f475"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379914242,
+    "title": "Nike pikétröja",
+    "url": "https://www.vinted.pl/items/5379914242-nike-piketroja",
+    "image": "https://images1.vinted.net/tc/02_00a44_724K7YPJqg9cY7yn3d3vT8QM/1731572907.jpeg?s=cd62603a082413f0f8a91aa5f03330365b34ad41",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "22.73",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.04",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "26.77",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 168215682,
+      "username": "malinhhorvallius",
+      "profile": "https://www.vinted.pl/member/168215682-malinhhorvallius",
+      "profilePicture": "https://images1.vinted.net/t/03_01ad0_UAjuFdj1ZdYDEiECR84VXubJ/f800/1698170053.jpeg?s=14a4e64e34380fcbd443a5d888f0ba10ef171c11"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379913394,
+    "title": "Koszulka Adidas",
+    "url": "https://www.vinted.pl/items/5379913394-koszulka-adidas",
+    "image": "https://images1.vinted.net/tc/04_00d29_RUY44KrqQNJBiYnEs2MtVewj/1731572892.jpeg?s=54e7893e05626576240d6f1a43dfe6285939f53d",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "45.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.15",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "50.15",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 144600680,
+      "username": "lemen1989",
+      "profile": "https://www.vinted.pl/member/144600680-lemen1989",
+      "profilePicture": "https://images1.vinted.net/t/04_00b33_oXycidG1p4Dp56amtfyHBWsG/f800/1730649930.jpeg?s=130d4a8207cd0984831e8c7a731d7e8d68270626"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379912706,
+    "title": "Czapka zimowa adidas Terrex",
+    "url": "https://www.vinted.pl/items/5379912706-czapka-zimowa-adidas-terrex",
+    "image": "https://images1.vinted.net/tc/01_02429_baSQK37n4U4x84faZ2U4ExPm/1731572879.jpeg?s=8af9cd3dcc4d4cd3c1e9662d223b6a548f76599a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91345064,
+      "username": "wisnimar",
+      "profile": "https://www.vinted.pl/member/91345064-wisnimar",
+      "profilePicture": "https://images1.vinted.net/t/02_0101f_4vH33cQDvxiqCh84hmrUNHep/f800/1652809603.jpeg?s=fa118834a7ae9b03f22a09ad0f7a57eb3b11f14f"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379911940,
+    "title": "Croatia national shirt",
+    "url": "https://www.vinted.pl/items/5379911940-croatia-national-shirt",
+    "image": "https://images1.vinted.net/tc/04_02330_paqPoG3fiRAz5ZYX8QpYipG8/1731572864.jpeg?s=36c78ad317c863d0509d2223b898210cd741c0d6",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "87.88",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.29",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "95.17",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 61882090,
+      "username": "matas31",
+      "profile": "https://www.vinted.pl/member/61882090-matas31",
+      "profilePicture": "https://images1.vinted.net/t/02_0008d_hXmHsbxzmEmAnA6oMmMaanBe/f800/1660592218.jpeg?s=e2743a23ffc228d81a073580d4f614af2c01e2de"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379911075,
+    "title": "Adidas Jacka Ny XL",
+    "url": "https://www.vinted.pl/items/5379911075-adidas-jacka-ny-xl",
+    "image": "https://images1.vinted.net/tc/03_002a3_FQvEtBFTsckqob5Uo5gjKcFK/1731572848.jpeg?s=19ce340276c14129d717a9681f21e0d005166fd1",
     "promoted": false,
     "favourites": 1,
-    "brand": "The North Face",
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "85.23",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.16",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "92.39",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 188968598,
+      "username": "carlsson.j",
+      "profile": "https://www.vinted.pl/member/188968598-carlssonj",
+      "profilePicture": "https://images1.vinted.net/t/03_00897_VDhmrRXMurgjnLSBv6Rmn6VA/f800/1710579756.jpeg?s=95f063d150ff56418feeaa60338a7f5bf806ba67"
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5379908875,
+    "title": "Bayern Munich shirt",
+    "url": "https://www.vinted.pl/items/5379908875-bayern-munich-shirt",
+    "image": "https://images1.vinted.net/tc/04_012fa_mtL62R791iMpmTbEFPhHh6cu/1731572808.jpeg?s=27f459ce19306ee60729880f623c496a3867cd68",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "87.88",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.29",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "95.17",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 61882090,
+      "username": "matas31",
+      "profile": "https://www.vinted.pl/member/61882090-matas31",
+      "profilePicture": "https://images1.vinted.net/t/02_0008d_hXmHsbxzmEmAnA6oMmMaanBe/f800/1660592218.jpeg?s=e2743a23ffc228d81a073580d4f614af2c01e2de"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379906760,
+    "title": "Nike Tee Airmax",
+    "url": "https://www.vinted.pl/items/5379906760-nike-tee-airmax",
+    "image": "https://images1.vinted.net/tc/02_02679_QMyEnpA6SbqQrqH5p7WhrYb4/1731572769.jpeg?s=767d4d46f0db4e0e3e4124271fd5f9aeb0a46107",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "30.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 207379322,
+      "username": "streetcreditstore",
+      "profile": "https://www.vinted.pl/member/207379322-streetcreditstore",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379906371,
+    "title": "Kurtka ocieplana zimowa Adidas rozmiar s",
+    "url": "https://www.vinted.pl/items/5379906371-kurtka-ocieplana-zimowa-adidas-rozmiar-s",
+    "image": "https://images1.vinted.net/tc/03_001df_76VfLnD5ocXV2gpYT4t8WFh9/1731572761.jpeg?s=160e89ce75c14aabc6e0f4be511bb5292ee83d53",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "70.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "76.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 92399454,
+      "username": "slowianka_44",
+      "profile": "https://www.vinted.pl/member/92399454-slowianka44",
+      "profilePicture": "https://images1.vinted.net/t/03_00f9b_6GCfg3cJQA2JpQGGGyepXUVR/f800/1652993253.jpeg?s=68a8fe096c73e7249e6ead937cb13e828b15ff3b"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5378953968,
+    "title": "Nike teremcipő 38.5",
+    "url": "https://www.vinted.pl/items/5378953968-nike-teremcipo-385",
+    "image": "https://images1.vinted.net/tc/04_01c0c_ZgkT4ieToVH2vLY5NuvTDGso/1731529378.jpeg?s=97da264b24b10909f2da68f67d524bcd323154cf",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "38,5",
+    "price": {
+      "amount": {
+        "amount": "37.69",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.78",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "42.47",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 127884851,
+      "username": "berna197605",
+      "profile": "https://www.vinted.pl/member/127884851-berna197605",
+      "profilePicture": "https://images1.vinted.net/t/01_01de6_ZZvJxcrEGJJFXtzsB5KYsHgH/f800/1673382029.jpeg?s=755bfd6f0ccf4c7a854ae139861e5cf1c4e95af6"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379905440,
+    "title": "Geacă ploaie Puma bărbați mărimea XS",
+    "url": "https://www.vinted.pl/items/5379905440-geaca-ploaie-puma-barbati-marimea-xs",
+    "image": "https://images1.vinted.net/tc/04_011ce_ZTSpo2zzDEVfq6yjqx7GnxtC/1731572743.jpeg?s=a9d8eb3bf7b3684e6e993ca3dd7cd604d94ef1ec",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Puma",
     "size": "XS",
     "price": {
-      "amount": "236.34",
-      "currency": "PLN",
+      "amount": {
+        "amount": "26.49",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "14.72",
-      "totalAmount": "251.06"
+      "fees": {
+        "amount": "4.22",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "30.71",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 229460446,
-      "username": "asketl",
-      "profile": "https://www.vinted.pl/member/229460446-asketl",
-      "profilePicture": null
+      "userId": 240316291,
+      "username": "alinasimona82",
+      "profile": "https://www.vinted.pl/member/240316291-alinasimona82",
+      "profilePicture": "https://images1.vinted.net/t/01_01644_UN9iHyybEJtqeQAUXVmQmQgG/f800/1730805019.jpeg?s=8f8eb06cd6f22c2c47560445e7992314e3a16d1f"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326298466,
-    "title": "The north face summit series 3w1 kurtka i polar rozmiar XXL czarny vintage",
-    "url": "https://www.vinted.pl/items/5326298466-the-north-face-summit-series-3w1-kurtka-i-polar-rozmiar-xxl-czarny-vintage",
-    "image": "https://images1.vinted.net/tc/04_006ad_YyXrrGtChXqikxdeUijZmEdr/1730664857.jpeg?s=fc8a6a09a6cc07ebfb2bae73ef5b937ced8a210d",
+    "productId": 5379904429,
+    "title": "Adidas vindjacka\\sommarjacka",
+    "url": "https://www.vinted.pl/items/5379904429-adidas-vindjackasommarjacka",
+    "image": "https://images1.vinted.net/tc/04_00fa7_qFFSi3NFkSYNERxGncgNzy3i/1731572723.jpeg?s=074ff1c21dd3d0ba3a7e42d4b2fe216332f14328",
     "promoted": false,
-    "favourites": 5,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "75.76",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.69",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "82.45",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 227650598,
+      "username": "rydis84",
+      "profile": "https://www.vinted.pl/member/227650598-rydis84",
+      "profilePicture": "https://images1.vinted.net/t/02_01b95_wbeziQsydBWPR3tuHc5hdY54/f800/1730831726.jpeg?s=327cf38dac5e26217365b1a67ac9e234947dd7cf"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379903305,
+    "title": "Retro Vintage Adidas Jacka M",
+    "url": "https://www.vinted.pl/items/5379903305-retro-vintage-adidas-jacka-m",
+    "image": "https://images1.vinted.net/tc/04_021eb_mgrNeYfcVaugH3ot7idCbV7n/1731572702.jpeg?s=50b1cd4929808495fe6d38e1cd9a8f93f5dac70b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "73.86",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.59",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "80.45",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 188968598,
+      "username": "carlsson.j",
+      "profile": "https://www.vinted.pl/member/188968598-carlssonj",
+      "profilePicture": "https://images1.vinted.net/t/03_00897_VDhmrRXMurgjnLSBv6Rmn6VA/f800/1710579756.jpeg?s=95f063d150ff56418feeaa60338a7f5bf806ba67"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379902014,
+    "title": "Adidasy Nike",
+    "url": "https://www.vinted.pl/items/5379902014-adidasy-nike",
+    "image": "https://images1.vinted.net/tc/03_01718_EviyrPt5EWRRUZjx7aUoskjM/1731572677.jpeg?s=552d56b72f19b091d824c12919a22e7860ac1207",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "43",
+    "price": {
+      "amount": {
+        "amount": "17.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.75",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "20.75",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 219738704,
+      "username": "loveliveshine",
+      "profile": "https://www.vinted.pl/member/219738704-loveliveshine",
+      "profilePicture": "https://images1.vinted.net/t/01_0095c_9vRwFgBT3ZkN2tqg1A8BLmXR/f800/1722326708.jpeg?s=da88775d181d5f86b1145dc466ed294e1455f703"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379901907,
+    "title": "Spodnie Nike",
+    "url": "https://www.vinted.pl/items/5379901907-spodnie-nike",
+    "image": "https://images1.vinted.net/tc/04_01c25_KoN8Xp4j3CQR5eJfzGXDBcaf/1731572675.jpeg?s=cca0c1b1233d6237a9dba4a9a9ea805546cda86c",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "45.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.15",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "50.15",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 93438765,
+      "username": "klaudyna_97",
+      "profile": "https://www.vinted.pl/member/93438765-klaudyna97",
+      "profilePicture": "https://images1.vinted.net/t/02_008a6_DJM7i8EQxdNv1EfRJizKcSUH/f800/1674046841.jpeg?s=622564da032ed4475df6c3925918f99e3b6afe5e"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379900675,
+    "title": "Nike T-shirts",
+    "url": "https://www.vinted.pl/items/5379900675-nike-t-shirts",
+    "image": "https://images1.vinted.net/tc/04_01314_v52zozQm92uUdHKpYYzGpqwf/1731572651.jpeg?s=2c03a0109c88231f0ffd0f5f570e6c6c9cb261ef",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "63.63",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.08",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "69.71",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 234784047,
+      "username": "cen3fuge",
+      "profile": "https://www.vinted.pl/member/234784047-cen3fuge",
+      "profilePicture": "https://images1.vinted.net/t/02_018da_qmhMarYBg8LeGH57vkhpQRg3/f800/1730152740.jpeg?s=fc24581ab7aa01e4ed3a60674d271040774a4433"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379899288,
+    "title": "Pánská mikina",
+    "url": "https://www.vinted.pl/items/5379899288-panska-mikina",
+    "image": "https://images1.vinted.net/tc/04_0081f_PShKGtPDvxk8c8ZRc1kFowuU/1731572625.jpeg?s=06da4ffebf63fbb2e18412aeee6297db4eef428b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Kappa",
     "size": "XXL",
     "price": {
-      "amount": "109.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "26.06",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "8.35",
-      "totalAmount": "117.35"
+      "fees": {
+        "amount": "4.2",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "30.26",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 133029884,
-      "username": "rx808",
-      "profile": "https://www.vinted.pl/member/133029884-rx808",
-      "profilePicture": "https://images1.vinted.net/t/02_019e3_P38LMeDWNyQUnqE77yjJcZTS/f800/1676824253.jpeg?s=6225190ceb2a6d09c42c322ebc8d91b116d7f80a"
+      "userId": 75558518,
+      "username": "luciesvobodova98",
+      "profile": "https://www.vinted.pl/member/75558518-luciesvobodova98",
+      "profilePicture": "https://images1.vinted.net/t/03_00bdd_X2DUjQy2JZ2sbidimaXRTHkm/f800/1700817145.jpeg?s=59a2278642d35d3aae8f32fbd10a0e50521a5e99"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5326272439,
-    "title": "The North Face tolldzseki",
-    "url": "https://www.vinted.pl/items/5326272439-the-north-face-tolldzseki",
-    "image": "https://images1.vinted.net/tc/03_02415_RZwdmVcvvit1m5er9RbMRtR9/1730664597.jpeg?s=36ce3b18c374d78e279a144e508a273861644e47",
-    "promoted": false,
-    "favourites": 12,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "140.51",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.93",
-      "totalAmount": "150.44"
-    },
-    "seller": {
-      "userId": 127717805,
-      "username": "csalexandra",
-      "profile": "https://www.vinted.pl/member/127717805-csalexandra",
-      "profilePicture": "https://images1.vinted.net/t/01_002ed_RRQYdoCHBDbzykWsQMEKUqZu/f800/1678846017.jpeg?s=c2295a097bf45cc9988edba213f552119219e5b0"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326231496,
-    "title": "Polar The north face rozmiar XL żółty",
-    "url": "https://www.vinted.pl/items/5326231496-polar-the-north-face-rozmiar-xl-zolty",
-    "image": "https://images1.vinted.net/tc/04_00584_gF1yiA84mZNYSP7UeLkUWAtX/1730664194.jpeg?s=1e5b1571216c85333f2343360b05a2fe1c8fc44e",
-    "promoted": false,
-    "favourites": 9,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "75.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.65",
-      "totalAmount": "81.65"
-    },
-    "seller": {
-      "userId": 133029884,
-      "username": "rx808",
-      "profile": "https://www.vinted.pl/member/133029884-rx808",
-      "profilePicture": "https://images1.vinted.net/t/02_019e3_P38LMeDWNyQUnqE77yjJcZTS/f800/1676824253.jpeg?s=6225190ceb2a6d09c42c322ebc8d91b116d7f80a"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326145957,
-    "title": "The north face fleece trøje",
-    "url": "https://www.vinted.pl/items/5326145957-the-north-face-fleece-troje",
-    "image": "https://images1.vinted.net/tc/04_00c6b_6cW7qa6rcDLzehLcY4AnY7Vk/1730663369.jpeg?s=6a7519261bb1cd8bbe268a0a1deafbf0ca1b5f58",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "147.71",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.29",
-      "totalAmount": "158.0"
-    },
-    "seller": {
-      "userId": 228849454,
-      "username": "elenarosss",
-      "profile": "https://www.vinted.pl/member/228849454-elenarosss",
-      "profilePicture": "https://images1.vinted.net/t/02_00b6f_Tt5VpNiqc1GsNoaqzU3iGesZ/f800/1726163465.jpeg?s=ad81c999f12d4e9af7d5ed66b6d6d6f50cb26c98"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326060825,
-    "title": "The North Face męski softshell M",
-    "url": "https://www.vinted.pl/items/5326060825-the-north-face-meski-softshell-m",
-    "image": "https://images1.vinted.net/tc/04_024d5_KUXj4EpEXWFeeo3kif9sVRKS/1730662571.jpeg?s=92b500633b5f71b001d88d47236fb6ffe0fb1c55",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "180.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.9",
-      "totalAmount": "191.9"
-    },
-    "seller": {
-      "userId": 91002661,
-      "username": "ciociazosiasamosia",
-      "profile": "https://www.vinted.pl/member/91002661-ciociazosiasamosia",
-      "profilePicture": "https://images1.vinted.net/t/03_01902_hEU916tyxcFxKjp8YtUbTsPd/f800/1688289280.jpeg?s=39207d0ab550f5c665e7bce35c3e08bd414e84b2"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5326061267,
-    "title": "Smagi, patogi",
-    "url": "https://www.vinted.pl/items/5326061267-smagi-patogi",
-    "image": "https://images1.vinted.net/tc/03_01a09_xdXKqU9u8EXVQpKkkyoXFcG1/1730662575.jpeg?s=a98ee7e7ecba10c7927b8c744dd1160edfb46127",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "123.4",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.07",
-      "totalAmount": "132.47"
-    },
-    "seller": {
-      "userId": 41300809,
-      "username": "rit",
-      "profile": "https://www.vinted.pl/member/41300809-rit",
-      "profilePicture": "https://images1.vinted.net/t/02_025ca_4PoVy9b5bMLsoDzNuF16xanE/f800/1607622775.jpeg?s=d4d1182caa3c8d3e44402b7b863dff3947388a3e"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325999714,
-    "title": "Jacka North Face",
-    "url": "https://www.vinted.pl/items/5325999714-jacka-north-face",
-    "image": "https://images1.vinted.net/tc/03_02637_tAxhuiqPzdoyu9DqSVJ9xifp/1730662003.jpeg?s=c23f979968b55d72d188992d216149625bca1287",
+    "productId": 5379897857,
+    "title": "Buty Nike Air 42,5 27cm",
+    "url": "https://www.vinted.pl/items/5379897857-buty-nike-air-425-27cm",
+    "image": "https://images1.vinted.net/tc/04_0012c_1BNswsmofQxR2HxEWaeWfiVo/1731572598.jpeg?s=9522c31f0ea14f79ab7a1123ed5e0235a5cfd052",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "XS",
+    "brand": "Nike",
+    "size": "42,5",
     "price": {
-      "amount": "182.05",
-      "currency": "PLN",
+      "amount": {
+        "amount": "50.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "12.0",
-      "totalAmount": "194.05"
+      "fees": {
+        "amount": "5.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "55.4",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 232758550,
-      "username": "jennywaller",
-      "profile": "https://www.vinted.pl/member/232758550-jennywaller",
-      "profilePicture": null
+      "userId": 224158942,
+      "username": "enjoy_my_friend",
+      "profile": "https://www.vinted.pl/member/224158942-enjoymyfriend",
+      "profilePicture": "https://images1.vinted.net/t/03_00e08_oswEvya16NTmCwoSbc2v3zmP/f800/1724348802.jpeg?s=1c0c61543e89ed1f524a24c901e9a991f79acc54"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Dobry",
+    "category": "Men"
   },
   {
-    "productId": 5325970257,
-    "title": "The North Face Polartec Softshell Summit Series",
-    "url": "https://www.vinted.pl/items/5325970257-the-north-face-polartec-softshell-summit-series",
-    "image": "https://images1.vinted.net/tc/01_00c0c_tu3qjKu2a9m3qFZdTmcUtRBd/1730661731.jpeg?s=77ac184b3599516fab8a702249d3a0b1f68ba5d0",
-    "promoted": false,
-    "favourites": 20,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "250.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "15.4",
-      "totalAmount": "265.4"
-    },
-    "seller": {
-      "userId": 148778677,
-      "username": "lil_seller",
-      "profile": "https://www.vinted.pl/member/148778677-lilseller",
-      "profilePicture": "https://images1.vinted.net/t/01_0089d_phMejPE1aEpqJcRMiFB5PWQM/f800/1686540429.jpeg?s=8be5bd3df34a65a9c6a5599690acac39cea9e7fa"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325961025,
-    "title": "The North face",
-    "url": "https://www.vinted.pl/items/5325961025-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_010e7_ofpw5bX4dYPy5k44mi4z681B/1730661647.jpeg?s=3d2ac9b3b8139b4693ff45793fc221f9dad718f3",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "34.77",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "4.64",
-      "totalAmount": "39.41"
-    },
-    "seller": {
-      "userId": 175643956,
-      "username": "katurci",
-      "profile": "https://www.vinted.pl/member/175643956-katurci",
-      "profilePicture": "https://images1.vinted.net/t/03_02450_fnRtFjWjNB6ecEvLRpoofkn4/f800/1709204318.jpeg?s=83352cae703a9ee28cac42b8eebc2e68e32a0800"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325959868,
-    "title": "Polar The North Face",
-    "url": "https://www.vinted.pl/items/5325959868-polar-the-north-face",
-    "image": "https://images1.vinted.net/tc/03_01e00_yGccGp98RouYGdwtbJUWSCDx/1730661636.jpeg?s=d45a71b1898897c852032d2f7be12f713ff29f4f",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "79.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.85",
-      "totalAmount": "85.85"
-    },
-    "seller": {
-      "userId": 198412170,
-      "username": "umichala1990",
-      "profile": "https://www.vinted.pl/member/198412170-umichala1990",
-      "profilePicture": "https://images1.vinted.net/t/01_022df_FUmQ7xthaXzfjpg94M71e9du/f800/1712874541.jpeg?s=b1d6ce54287dedb7eb413ddefc24213348b4ccd9"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325836071,
-    "title": "Kurtka turystyczna męska The North Face HyVent 2.5L",
-    "url": "https://www.vinted.pl/items/5325836071-kurtka-turystyczna-meska-the-north-face-hyvent-25l",
-    "image": "https://images1.vinted.net/tc/04_00b4e_S7f12c1HM4EWRfhNpAp6Xj15/1730660509.jpeg?s=845bd1cc0538879228aa24f78d444c43131aaec8",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "239.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "14.85",
-      "totalAmount": "253.85"
-    },
-    "seller": {
-      "userId": 88581867,
-      "username": "vash_cherodeiii",
-      "profile": "https://www.vinted.pl/member/88581867-vashcherodeiii",
-      "profilePicture": "https://images1.vinted.net/t/02_00f42_gu9BGdis49EcyM8ncdMDniMn/f800/1701293326.jpeg?s=4aad6435eb63e9e5861c042d221cd5dab0431164"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325909912,
-    "title": "Bluza rozpinana kurtka z polaru polar The north face",
-    "url": "https://www.vinted.pl/items/5325909912-bluza-rozpinana-kurtka-z-polaru-polar-the-north-face",
-    "image": "https://images1.vinted.net/tc/03_014d8_de9HnqjLpNUXKerrKVGLg4cX/1730661179.jpeg?s=68f995b02c317618f7e5f0f053f07b5ade4a218f",
-    "promoted": true,
-    "favourites": 19,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "80.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.9",
-      "totalAmount": "86.9"
-    },
-    "seller": {
-      "userId": 226753636,
-      "username": "phoenix2137",
-      "profile": "https://www.vinted.pl/member/226753636-phoenix2137",
-      "profilePicture": "https://images1.vinted.net/t/03_00e02_nheQt6dLj2RwqecvQCHWuon7/f800/1725368224.jpeg?s=338aaa7d681414758bc77f00a2d730a8410110e1"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325868511,
-    "title": "Kurtka",
-    "url": "https://www.vinted.pl/items/5325868511-kurtka",
-    "image": "https://images1.vinted.net/tc/03_00291_cfM3zQV1eWEk8T6pDXDe3Li3/1730660803.jpeg?s=fe05ea65a6c1bae08dcad1dfa48394a9c6552f74",
-    "promoted": false,
-    "favourites": 19,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "200.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.9"
-    },
-    "seller": {
-      "userId": 91229991,
-      "username": "katachwa",
-      "profile": "https://www.vinted.pl/member/91229991-katachwa",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325780509,
-    "title": "The North Face Striuke",
-    "url": "https://www.vinted.pl/items/5325780509-the-north-face-striuke",
-    "image": "https://images1.vinted.net/tc/04_01e16_a8bfT5f2TuGvpLQEvTCMRNeF/1730660017.jpeg?s=8e6532ebf5cb761ba84b770125a6758c7f12e4d1",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "154.25",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.61",
-      "totalAmount": "164.86"
-    },
-    "seller": {
-      "userId": 41386021,
-      "username": "nojukstis",
-      "profile": "https://www.vinted.pl/member/41386021-nojukstis",
-      "profilePicture": "https://images1.vinted.net/t/01_0240d_BNxYnW6fi93iFWWe2nUfoosb/f800/1704813630.jpeg?s=7d1ccdffdffe3e4ebf7ac3cf77e02bd5706b727f"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325769668,
-    "title": "Niebieski Polar Męski The North Face Rozmiar L",
-    "url": "https://www.vinted.pl/items/5325769668-niebieski-polar-meski-the-north-face-rozmiar-l",
-    "image": "https://images1.vinted.net/tc/03_01849_4jeFAnVGbvKjPCrfFBim7spQ/1730659923.jpeg?s=9abd526548ba0569d5f3da496bf1d6f3d8052402",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "89.0",
-      "currency": "PLN",
-      "discount": "80.1",
-      "fees": "6.91",
-      "totalAmount": "87.01"
-    },
-    "seller": {
-      "userId": 116318935,
-      "username": "jajcus1",
-      "profile": "https://www.vinted.pl/member/116318935-jajcus1",
-      "profilePicture": "https://images1.vinted.net/t/01_01037_csEuZPQSJ9miw7uSg3t77iYD/f800/1666888685.jpeg?s=ef90091d127e4341277a2bb2c88da6f5bc3fc059"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5273935782,
-    "title": "Bezrękawnik polarowy The North Face Apex Brązowy Rozmiar L męskie",
-    "url": "https://www.vinted.pl/items/5273935782-bezrekawnik-polarowy-the-north-face-apex-brazowy-rozmiar-l-meskie",
-    "image": "https://images1.vinted.net/tc/04_0081b_ApMncwAtxJZmeWq51mzysEpq/1729844999.jpeg?s=b1b7359fb9683905c43c828b16adda72ff90fcee",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "189.9",
-      "currency": "PLN",
-      "discount": "180.41",
-      "fees": "11.92",
-      "totalAmount": "192.33"
-    },
-    "seller": {
-      "userId": 180694272,
-      "username": "staniszewsky17",
-      "profile": "https://www.vinted.pl/member/180694272-staniszewsky17",
-      "profilePicture": "https://images1.vinted.net/t/01_009f0_XzeCudt9hDv4n2Pdczn58K2V/f800/1727166877.jpeg?s=35bdc3fc292c5535a6be8526fef37edf23eaf818"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5277162182,
-    "title": "Kurtka The North Face z polarkiem w środku Rozmiar L Niebieska",
-    "url": "https://www.vinted.pl/items/5277162182-kurtka-the-north-face-z-polarkiem-w-srodku-rozmiar-l-niebieska",
-    "image": "https://images1.vinted.net/tc/04_010cf_v35QhMyqPFq9R6BKH9MLMCzS/1729880466.jpeg?s=e40a13288980822a25fa3f67b8c886616d5fa995",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "169.9",
-      "currency": "PLN",
-      "discount": "161.41",
-      "fees": "10.97",
-      "totalAmount": "172.38"
-    },
-    "seller": {
-      "userId": 180694272,
-      "username": "staniszewsky17",
-      "profile": "https://www.vinted.pl/member/180694272-staniszewsky17",
-      "profilePicture": "https://images1.vinted.net/t/01_009f0_XzeCudt9hDv4n2Pdczn58K2V/f800/1727166877.jpeg?s=35bdc3fc292c5535a6be8526fef37edf23eaf818"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325701231,
-    "title": "Vesta The North Face noua marimea M",
-    "url": "https://www.vinted.pl/items/5325701231-vesta-the-north-face-noua-marimea-m",
-    "image": "https://images1.vinted.net/tc/03_00963_fJMMbfCcQ9cU39fuszRg5GhL/1730659326.jpeg?s=2157a2d2ca22b8e2e65d7b83cfea962dcc099eec",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "221.53",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.98",
-      "totalAmount": "235.51"
-    },
-    "seller": {
-      "userId": 166926837,
-      "username": "julianna19970420",
-      "profile": "https://www.vinted.pl/member/166926837-julianna19970420",
-      "profilePicture": "https://images1.vinted.net/t/03_01a14_54vqVqirHm1uwxgDgEiwTvws/f800/1697568446.jpeg?s=1b103d682b2a50d35a8c03569a3484442540feea"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325663596,
-    "title": "North Face Jakke",
-    "url": "https://www.vinted.pl/items/5325663596-north-face-jakke",
-    "image": "https://images1.vinted.net/tc/04_01387_vnZjrrjjvyeZak5XK9Epvkk4/1730658997.jpeg?s=fc17868fd918ba76ab2fcdfaf20d4b64b7e6c7fa",
+    "productId": 5379897152,
+    "title": "Kurtka ocieplana",
+    "url": "https://www.vinted.pl/items/5379897152-kurtka-ocieplana",
+    "image": "https://images1.vinted.net/tc/02_02678_hcp32u7bp6BYGJbPU8VVTZZX/1731572584.jpeg?s=98288bfdc7674c065833dcae1d6fa69328f5bbf4",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
+    "brand": "adidas",
+    "size": "S",
     "price": {
-      "amount": "88.63",
-      "currency": "PLN",
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "7.33",
-      "totalAmount": "95.96"
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 234650818,
-      "username": "williamorkisz",
-      "profile": "https://www.vinted.pl/member/234650818-williamorkisz",
+      "userId": 214789452,
+      "username": "zator79",
+      "profile": "https://www.vinted.pl/member/214789452-zator79",
       "profilePicture": null
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5325656542,
-    "title": "Kurtka wiatrówka north face",
-    "url": "https://www.vinted.pl/items/5325656542-kurtka-wiatrowka-north-face",
-    "image": "https://images1.vinted.net/tc/04_02325_odUJxvC9EC4Nex5iQ9HkHMHP/1730658936.jpeg?s=d68ef21ce2bc9c98aad2a67b6abff7cef817c679",
+    "productId": 5379896083,
+    "title": "Bluza z kapturem unisex",
+    "url": "https://www.vinted.pl/items/5379896083-bluza-z-kapturem-unisex",
+    "image": "https://images1.vinted.net/tc/01_01cd7_vS19CbCA6UT95hyh3vCwZjWj/1731572563.jpeg?s=2a249854df6e119d988ae7ccedd9cb11bb025959",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "15.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "18.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 163467335,
+      "username": "mgaeakcasa",
+      "profile": "https://www.vinted.pl/member/163467335-mgaeakcasa",
+      "profilePicture": "https://images1.vinted.net/t/03_010e9_XotKJaomzxnEDyLxtWjue5Na/f800/1695805750.jpeg?s=b9672fc716caca87ab3f2445bd31a3c68021fbb5"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379895520,
+    "title": "Czapka Nike",
+    "url": "https://www.vinted.pl/items/5379895520-czapka-nike",
+    "image": "https://images1.vinted.net/tc/02_0130a_a3CCtRQMs7DmcErtfFueXkDj/1731572552.jpeg?s=7270d1228353ad76573f5aad1a8dd2cd49a405ef",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "30.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 183663854,
+      "username": "vicia.09",
+      "profile": "https://www.vinted.pl/member/183663854-vicia09",
+      "profilePicture": "https://images1.vinted.net/t/04_010fd_TrxWufD1hxx1icADXL9Fh8tz/f800/1730212421.jpeg?s=74cd643ed7904844759f6adc9450c350e66e3fe2"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379895117,
+    "title": "Blå adidas träningsshorts",
+    "url": "https://www.vinted.pl/items/5379895117-bla-adidas-traningsshorts",
+    "image": "https://images1.vinted.net/tc/04_01002_E3cKeQALivmp2hyn7KN6xeMH/1731572544.jpeg?s=d8e74e7fea4725d5c78602dd7eaefde00edbc8da",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "15.15",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.66",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "18.81",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 170199406,
+      "username": "estrell75",
+      "profile": "https://www.vinted.pl/member/170199406-estrell75",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379894946,
+    "title": "Nike Air Force",
+    "url": "https://www.vinted.pl/items/5379894946-nike-air-force",
+    "image": "https://images1.vinted.net/tc/02_0224f_dVkYhqsvSWeV5MB7moy12Atn/1731572541.jpeg?s=d070c0c577366fb6874ffdbfd9bfce8f4861f63c",
+    "promoted": false,
+    "favourites": 2,
+    "brand": "Nike",
+    "size": "45",
+    "price": {
+      "amount": {
+        "amount": "30.36",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.42",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.78",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 231044297,
+      "username": "mate6891",
+      "profile": "https://www.vinted.pl/member/231044297-mate6891",
+      "profilePicture": "https://images1.vinted.net/t/01_0083f_q1hm32NryF7PkjYQPL1Fnme7/f800/1727159446.jpeg?s=c8970303444542e71af461570740f62afd29dfe7"
+    },
+    "isSold": null,
+    "status": "Zadowalający",
+    "category": "Men"
+  },
+  {
+    "productId": 5379893671,
+    "title": "Sárga adidas póló",
+    "url": "https://www.vinted.pl/items/5379893671-sarga-adidas-polo",
+    "image": "https://images1.vinted.net/tc/04_00dad_BV2F2ku8XQyYzfskjBU4Sttx/1731572516.jpeg?s=17e99d40a60ed7f2eaa5c143a86db3f368d23081",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "16.15",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.71",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "19.86",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 232237181,
+      "username": "zsombor016",
+      "profile": "https://www.vinted.pl/member/232237181-zsombor016",
+      "profilePicture": "https://images1.vinted.net/t/01_01992_PKA3SFBpo3p6CzDL1RafQEoD/f800/1727638216.jpeg?s=2c9972160166c4c36d2a5cae5439a897a73a178f"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379891451,
+    "title": "Puma bokserki S 2pak",
+    "url": "https://www.vinted.pl/items/5379891451-puma-bokserki-s-2pak",
+    "image": "https://images1.vinted.net/tc/04_00008_4NPciSLevqhpJjupuhXBsYT3/1731572471.jpeg?s=71ba88a0e515d07b8e477e6781c53cf21d0d7553",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Puma",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "30.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 184348576,
+      "username": "szop.peterson",
+      "profile": "https://www.vinted.pl/member/184348576-szoppeterson",
+      "profilePicture": "https://images1.vinted.net/t/02_02398_k7VajpouzrP8JTgRWnHepR9M/f800/1706091875.jpeg?s=e14c645cb91563ad0e7cbc802a0deeaf1981bf3a"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379891039,
+    "title": "Bluza New Balance M",
+    "url": "https://www.vinted.pl/items/5379891039-bluza-new-balance-m",
+    "image": "https://images1.vinted.net/tc/04_01332_tQvH5zWgLRjkCtvoARzSErug/1731572464.jpeg?s=0faf0a1966002cf9b21c41bd07f5acb9e14d0389",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "New Balance",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "60.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "65.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 95811610,
+      "username": "20200220",
+      "profile": "https://www.vinted.pl/member/95811610-20200220",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379890087,
+    "title": "Adidas Czarna xl",
+    "url": "https://www.vinted.pl/items/5379890087-adidas-czarna-xl",
+    "image": "https://images1.vinted.net/tc/02_026ef_1G6Wsc2CcAqyaVnEvSFoxNrT/1731572444.jpeg?s=0ea6c4a9688a9cc676f8cd767f55b36e41963611",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 241724071,
+      "username": "marlis1898",
+      "profile": "https://www.vinted.pl/member/241724071-marlis1898",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379889981,
+    "title": "Bluză de trening cu fermoar Addidas",
+    "url": "https://www.vinted.pl/items/5379889981-bluza-de-trening-cu-fermoar-addidas",
+    "image": "https://images1.vinted.net/tc/04_01b76_n8RjAetmuBD1Xk4HKHbmXutf/1731572442.jpeg?s=42863a80b7a5aea0a781f023036a20679c7fce50",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "85.65",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.18",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "92.83",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 149706046,
+      "username": "eli24beth2",
+      "profile": "https://www.vinted.pl/member/149706046-eli24beth2",
+      "profilePicture": "https://images1.vinted.net/t/03_012b1_X5sytxmYJ3H3akz1cYQCQJe5/f800/1693425042.jpeg?s=ca366d13313584f7322d9d82382913324ea0b8d7"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379889911,
+    "title": "Férfi poló",
+    "url": "https://www.vinted.pl/items/5379889911-ferfi-polo",
+    "image": "https://images1.vinted.net/tc/04_01b10_tUp1rmZcZ7Hij3Q2XxLUsmRw/1731572441.jpeg?s=a86d06c07ac43f280c2ee5aa37360854ca4fb773",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "21.54",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.98",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "25.52",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 169585020,
+      "username": "mbotond06",
+      "profile": "https://www.vinted.pl/member/169585020-mbotond06",
+      "profilePicture": "https://images1.vinted.net/t/02_0219f_DdHNKA5HoMuTm6Qi3F4Lidv4/f800/1710525220.jpeg?s=fb71683a13cf30c6eca1e24b88e68d9741bb4f77"
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5379887386,
+    "title": "Nike XL-ES kapucnis pulóver 1x használt",
+    "url": "https://www.vinted.pl/items/5379887386-nike-xl-es-kapucnis-pulover-1x-hasznalt",
+    "image": "https://images1.vinted.net/tc/03_019c5_Wu5TpTPuiEFrF7jib1VxxGkg/1731572390.jpeg?s=8caeb72807191606306870fba55a75c551b60116",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
+    "price": {
+      "amount": {
+        "amount": "40.92",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.95",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "45.87",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 112545290,
+      "username": "egoviranyi",
+      "profile": "https://www.vinted.pl/member/112545290-egoviranyi",
+      "profilePicture": "https://images1.vinted.net/t/02_0052d_7fiftdteWyLdR6DBVwBAgoaA/f800/1664996353.jpeg?s=6b489c1348c4210a757ae423c0da98024feb6bfc"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379886870,
+    "title": "Football boots",
+    "url": "https://www.vinted.pl/items/5379886870-football-boots",
+    "image": "https://images1.vinted.net/tc/04_00536_qPq6a5TeftLr5cHxz7uQJCz5/1731572380.jpeg?s=82a10fcc81137d062b8f6d6b89867d547e1a020b",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "42,5",
+    "price": {
+      "amount": {
+        "amount": "87.88",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.29",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "95.17",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 218268532,
+      "username": "paulekas24",
+      "profile": "https://www.vinted.pl/member/218268532-paulekas24",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379886257,
+    "title": "Svarta Nike träningsshorts",
+    "url": "https://www.vinted.pl/items/5379886257-svarta-nike-traningsshorts",
+    "image": "https://images1.vinted.net/tc/04_01298_4CAAM6rDLJsrnMDEgemP9bHZ/1731572368.jpeg?s=5108720b04e719f63976d2fb16e93faf017b5958",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "15.15",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.66",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "18.81",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 170199406,
+      "username": "estrell75",
+      "profile": "https://www.vinted.pl/member/170199406-estrell75",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379885897,
+    "title": "Nike shoes",
+    "url": "https://www.vinted.pl/items/5379885897-nike-shoes",
+    "image": "https://images1.vinted.net/tc/01_00583_24C7dEfaLQSf8ooESUgeptxh/1731572360.jpeg?s=43f8452ccf6d3db01170d8d7f3432d9e4dd102e8",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "42",
+    "price": {
+      "amount": {
+        "amount": "60.82",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.94",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "66.76",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 113916827,
+      "username": "desidoll",
+      "profile": "https://www.vinted.pl/member/113916827-desidoll",
+      "profilePicture": "https://images1.vinted.net/t/04_01b21_gcs6dGqhydDbhW71BKSmVhdM/f800/1731060108.jpeg?s=6c1ce09ebe702b2bd689fecfbbcd3afeb6971481"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379885465,
+    "title": "Buty Nike",
+    "url": "https://www.vinted.pl/items/5379885465-buty-nike",
+    "image": "https://images1.vinted.net/tc/04_0246c_RYyyjTaxppMCCp3M9dHto5NW/1731572351.jpeg?s=29b3f4b3cf7b340f9666d67effa3aac2a311d53c",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Nike",
+    "size": "41",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 96094699,
+      "username": "tobiaszek65901",
+      "profile": "https://www.vinted.pl/member/96094699-tobiaszek65901",
+      "profilePicture": "https://images1.vinted.net/t/02_016a4_e7oSsRk3TeCA1dGxHbBB4SCr/f800/1700522717.jpeg?s=ca236b995f68a1c6f667167849a92df1df2fad79"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379883062,
+    "title": "Adidas Germany Jersey",
+    "url": "https://www.vinted.pl/items/5379883062-adidas-germany-jersey",
+    "image": "https://images1.vinted.net/tc/02_00eef_G7CtwWFiTQVykQzCAB9ZxcrC/1731572302.jpeg?s=ff10b11ce1421b87c4db0171317d3b9721552d94",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "53.85",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.59",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "59.44",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 183315508,
+      "username": "szalayromeo",
+      "profile": "https://www.vinted.pl/member/183315508-szalayromeo",
+      "profilePicture": "https://images1.vinted.net/t/03_01a65_w6ya62U1gkvRAXS7x4WTjAiw/f800/1705583959.jpeg?s=721c8d42407452bc07028715c296f8a7ed95d15f"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379881609,
+    "title": "Torba Adidas",
+    "url": "https://www.vinted.pl/items/5379881609-torba-adidas",
+    "image": "https://images1.vinted.net/tc/04_020b0_cYeZYtnRRqKk9z6nENCe82SR/1731572273.jpeg?s=48512ce7b8bf8933d4e9b7ca4b9aa13df555d071",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": null,
+    "price": {
+      "amount": {
+        "amount": "50.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "55.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 211971589,
+      "username": "majkowe03",
+      "profile": "https://www.vinted.pl/member/211971589-majkowe03",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379881228,
+    "title": "Umbro pulóver",
+    "url": "https://www.vinted.pl/items/5379881228-umbro-pulover",
+    "image": "https://images1.vinted.net/tc/02_01aa6_eVgkwkfDouuj18ERHX3SgVRs/1731572265.jpeg?s=1efd0955768a7900ece8d5161b1bf7bc59417945",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Umbro",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "37.69",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.78",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "42.47",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 113780023,
+      "username": "03deboo",
+      "profile": "https://www.vinted.pl/member/113780023-03deboo",
+      "profilePicture": "https://images1.vinted.net/t/01_022ac_aWxqdjBwmHiUX7rEJyGzFrFL/f800/1679056574.jpeg?s=5bff1ed7bfd1c91ea04634541908901412b2a5e9"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379880008,
+    "title": "Vyriški Nike kedai",
+    "url": "https://www.vinted.pl/items/5379880008-vyriski-nike-kedai",
+    "image": "https://images1.vinted.net/tc/01_02206_57Jj3yAXaz8tnUqHeDhKYMZs/1731572241.jpeg?s=71a1683aadf5b93bddb18ccd4be005368993cd97",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "43",
+    "price": {
+      "amount": {
+        "amount": "87.88",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.29",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "95.17",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 41918051,
+      "username": "zaizaliukas",
+      "profile": "https://www.vinted.pl/member/41918051-zaizaliukas",
+      "profilePicture": "https://images1.vinted.net/t/02_01d20_PNiNpftMNQ2AhfctYPEgAnVx/f800/1605238677.jpeg?s=21603ce56357c929750b373edd26afe25054fa58"
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379879936,
+    "title": "Bluza nike",
+    "url": "https://www.vinted.pl/items/5379879936-bluza-nike",
+    "image": "https://images1.vinted.net/tc/04_01475_YUQwcAnnUY5LzZukzYxssjSd/1731572239.jpeg?s=d690d61393f975def40c7eb0d05d94aa0383284f",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "52.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.5",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "57.5",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 133852949,
+      "username": "xjutte35",
+      "profile": "https://www.vinted.pl/member/133852949-xjutte35",
+      "profilePicture": "https://images1.vinted.net/t/02_0245b_zYVD6NkauXvFCMcxLpibDDUT/f800/1723556629.jpeg?s=9fd7f53f07365dc07110c40947dc8b3f7a850cc7"
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5379878743,
+    "title": "Czapka z daszkiem",
+    "url": "https://www.vinted.pl/items/5379878743-czapka-z-daszkiem",
+    "image": "https://images1.vinted.net/tc/04_008be_ViAJLNuk1zaggHUkebdy1q2C/1731572215.jpeg?s=e647ac06242281382b288e45412a7d79381fc5c3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "38.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.8",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "42.8",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91227493,
+      "username": "bozka542203",
+      "profile": "https://www.vinted.pl/member/91227493-bozka542203",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379878465,
+    "title": "Adidas Copa Pure.3 FG",
+    "url": "https://www.vinted.pl/items/5379878465-adidas-copa-pure3-fg",
+    "image": "https://images1.vinted.net/tc/02_0202a_FforG96pvXV269Yaeo4sXatT/1731572208.jpeg?s=f022c9cc2bb7dab2b3cb706a5456258e786ba72a",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "44",
+    "price": {
+      "amount": {
+        "amount": "100.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "107.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 94695803,
+      "username": "roody071186",
+      "profile": "https://www.vinted.pl/member/94695803-roody071186",
+      "profilePicture": "https://images1.vinted.net/t/01_014b0_bguZoHJZ79pcjmWJiiqXHHam/f800/1653971282.jpeg?s=65ffcf607228984e9dde143588ada2ebe2476f6f"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379878281,
+    "title": "Adidasy męskie",
+    "url": "https://www.vinted.pl/items/5379878281-adidasy-meskie",
+    "image": "https://images1.vinted.net/tc/01_004fa_wR3Y3Emo31aL1N4Y5twWdcUZ/1731572205.jpeg?s=aa9a48ef81878b24f4e782a551741221f752f8e2",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "47",
+    "price": {
+      "amount": {
+        "amount": "60.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "65.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 90611676,
+      "username": "kamill765",
+      "profile": "https://www.vinted.pl/member/90611676-kamill765",
+      "profilePicture": "https://images1.vinted.net/t/03_007c6_xkoPPXT7Dfn8Xfie2HbShby2/f800/1652712223.jpeg?s=ab158f15752ccbed207b722dc4c42c3d7f2498a9"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379877021,
+    "title": "Hanorac negru Puma",
+    "url": "https://www.vinted.pl/items/5379877021-hanorac-negru-puma",
+    "image": "https://images1.vinted.net/tc/04_01f58_4cBEg6Xp5jCugVXss2R4E7uo/1731572178.jpeg?s=015ed117dc75584ddd1cd76942feff8cded58871",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Puma",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "48.56",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.33",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "53.89",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 183011198,
+      "username": "loredanavoinea",
+      "profile": "https://www.vinted.pl/member/183011198-loredanavoinea",
+      "profilePicture": "https://images1.vinted.net/t/01_003f6_23JGwLh2c1sbbwN5Svj1Kusa/f800/1705442406.jpeg?s=aa61a791469d13030e470fd30d54de675403ed3b"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379876292,
+    "title": "Koszulka sportowa Puma r. XL",
+    "url": "https://www.vinted.pl/items/5379876292-koszulka-sportowa-puma-r-xl",
+    "image": "https://images1.vinted.net/tc/04_00091_uv6bgSNKKRrd6a1Tz9x64B8x/1731572163.jpeg?s=95d699b7d67532735a3b587beac08a697fee14a8",
+    "promoted": false,
+    "favourites": 1,
+    "brand": "Puma",
+    "size": "XL",
+    "price": {
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91079076,
+      "username": "niusia2030",
+      "profile": "https://www.vinted.pl/member/91079076-niusia2030",
+      "profilePicture": "https://images1.vinted.net/t/02_02007_CikVZV4A8bpwjmVvkY9xnjCA/f800/1652790805.jpeg?s=73ea7f75a8525ac06c14950fe04a22c30d8c9432"
+    },
+    "isSold": null,
+    "status": "Nowy z metką",
+    "category": "Men"
+  },
+  {
+    "productId": 5379875709,
+    "title": "Sneakersy Nike",
+    "url": "https://www.vinted.pl/items/5379875709-sneakersy-nike",
+    "image": "https://images1.vinted.net/tc/04_0191d_oTHHyGfvJH3hCCAyPXKf1aY9/1731572151.jpeg?s=8a1b9c00db48f6962e7c0cb1e760b2f2b5f141c6",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "46",
+    "price": {
+      "amount": {
+        "amount": "65.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.15",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "71.15",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 213901896,
+      "username": "milkaloveeee",
+      "profile": "https://www.vinted.pl/member/213901896-milkaloveeee",
+      "profilePicture": "https://images1.vinted.net/t/03_014e4_A3tLuNjLh9Q4ZJJcGhxSLRkS/f800/1729619452.jpeg?s=57ebb84d13ba54193f65cc3322615dd114728d21"
+    },
+    "isSold": null,
+    "status": "Zadowalający",
+    "category": "Men"
+  },
+  {
+    "productId": 5379875763,
+    "title": "Koszulka sportowa męska Adidas L",
+    "url": "https://www.vinted.pl/items/5379875763-koszulka-sportowa-meska-adidas-l",
+    "image": "https://images1.vinted.net/tc/04_00a5c_re4eBbGctiMX8HxbacYpVSro/1731572152.jpeg?s=466f89bff4f8d6574d66c2c0caa841b635cf3d41",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "18.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.8",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "21.8",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91007412,
+      "username": "gewcia",
+      "profile": "https://www.vinted.pl/member/91007412-gewcia",
+      "profilePicture": "https://images1.vinted.net/t/03_007d5_RrcfRUFC9ccxvzMfLc9Uh2nH/f800/1727526893.jpeg?s=53cf1d62e0ee212c6fce4c8709a8f6104064f492"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379874084,
+    "title": "Butu męskie",
+    "url": "https://www.vinted.pl/items/5379874084-butu-meskie",
+    "image": "https://images1.vinted.net/tc/04_003f0_YvoBmGNh77Uf3k8W8SVyMABi/1731572117.jpeg?s=0b33cf48b2d599a009cc475f8ebf4db9f46ffeb7",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "41",
+    "price": {
+      "amount": {
+        "amount": "55.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "60.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91227493,
+      "username": "bozka542203",
+      "profile": "https://www.vinted.pl/member/91227493-bozka542203",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Zadowalający",
+    "category": "Men"
+  },
+  {
+    "productId": 5379873598,
+    "title": "Nike Gyakusou begimo kelnes",
+    "url": "https://www.vinted.pl/items/5379873598-nike-gyakusou-begimo-kelnes",
+    "image": "https://images1.vinted.net/tc/04_00c20_amnT5jVwxaCUzrJsVsUhEZSm/1731572106.jpeg?s=154227fe373b15887b272456459832ba98394ae7",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "96.66",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.73",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "104.39",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 53024106,
+      "username": "tivis_016",
+      "profile": "https://www.vinted.pl/member/53024106-tivis016",
+      "profilePicture": "https://images1.vinted.net/t/02_0149c_CEKU8BN1BwWaiXsiku5PJVzY/f800/1613316983.jpeg?s=faa219d10d7d8b44c3373e6ec18b45c81c773121"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379873525,
+    "title": "40-47 nowe skarpety nike z frotką",
+    "url": "https://www.vinted.pl/items/5379873525-40-47-nowe-skarpety-nike-z-frotka",
+    "image": "https://images1.vinted.net/tc/01_01394_mdrRhmjpTiTYjCLX3YyqjMPe/1731572104.jpeg?s=d22013ac8ef374e3d04814da6a0dcd4b70e20778",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "35.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "39.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 137959797,
+      "username": "tytusiak",
+      "profile": "https://www.vinted.pl/member/137959797-tytusiak",
+      "profilePicture": "https://images1.vinted.net/t/02_025f0_7Kxp9M5sD3Dz3M8C5fzPC9wV/f800/1679938064.jpeg?s=d2acb4f4120c0b61008653875d574d946e16820c"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379866431,
+    "title": "40-47 Super model wzmacniany frotą. Nowe skarpetki Nike.",
+    "url": "https://www.vinted.pl/items/5379866431-40-47-super-model-wzmacniany-frota-nowe-skarpetki-nike",
+    "image": "https://images1.vinted.net/tc/04_01786_USTXmp7NhTcWWAGuaGZwmseN/1731571955.jpeg?s=54f3aeb63f06b22192985bfcc5b92c908abf206d",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "35.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "39.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 241062469,
+      "username": "jankowy62",
+      "profile": "https://www.vinted.pl/member/241062469-jankowy62",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379872689,
+    "title": "Trapery zimowe Puma rozmiar 42,5 cm",
+    "url": "https://www.vinted.pl/items/5379872689-trapery-zimowe-puma-rozmiar-425-cm",
+    "image": "https://images1.vinted.net/tc/04_01b48_L4n8ctjhpRzaVJJbQk28MLYp/1731572088.jpeg?s=3a3f2d9801dae9167fdea0f6d39649e63ac5ed13",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Puma",
+    "size": "42,5",
+    "price": {
+      "amount": {
+        "amount": "70.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "76.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 90758527,
+      "username": "ubrania29846",
+      "profile": "https://www.vinted.pl/member/90758527-ubrania29846",
+      "profilePicture": "https://images1.vinted.net/t/01_0022e_GADMXi7CA7dppufoT6cF14w7/f800/1652727235.jpeg?s=853493469f1a69f84d053530f8ae1a16a4e9e8b1"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379871471,
+    "title": "Turfy Nike 45 Żwirówki",
+    "url": "https://www.vinted.pl/items/5379871471-turfy-nike-45-zwirowki",
+    "image": "https://images1.vinted.net/tc/02_023c9_VdBbQ6syBNfpJmr7PaASqJtP/1731572061.jpeg?s=56f8311cff6014d8854cc3c3873549beb22e30e3",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "45",
+    "price": {
+      "amount": {
+        "amount": "90.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "97.4",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 93205121,
+      "username": "marcin221092",
+      "profile": "https://www.vinted.pl/member/93205121-marcin221092",
+      "profilePicture": "https://images1.vinted.net/t/01_01033_uMB8g1Xz4uNg6CKdWHBhW9p4/f800/1656342909.jpeg?s=39533ec3fcd900bbbc910fc3e12b866f65b77cc6"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379870591,
+    "title": "Bluzka T-shirt męski zielony nike L polo kołnierzyk",
+    "url": "https://www.vinted.pl/items/5379870591-bluzka-t-shirt-meski-zielony-nike-l-polo-kolnierzyk",
+    "image": "https://images1.vinted.net/tc/03_0255e_GNhruw3Jd2w88KEwf4R3MYsU/1731572043.jpeg?s=70d44068053b212659c1eff774f27ef77808b617",
+    "promoted": false,
+    "favourites": 16,
+    "brand": "Nike",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "35.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "4.65",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "39.65",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 181537809,
+      "username": "niegrzeczna1991",
+      "profile": "https://www.vinted.pl/member/181537809-niegrzeczna1991",
+      "profilePicture": "https://images1.vinted.net/t/03_024e7_SucBQkkh5uQ8pY97TPPW1Aqa/f800/1704832568.jpeg?s=fc395e7dd56c7dac79f8e0009746a5da66c4cbfa"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379870445,
+    "title": "Czarne kolarki Nike",
+    "url": "https://www.vinted.pl/items/5379870445-czarne-kolarki-nike",
+    "image": "https://images1.vinted.net/tc/02_01d7c_JnUS4yGMq3XoKguLzRSmURVm/1731572040.jpeg?s=31ab31c5db4a533d976f1279c96bca5d8c4a4503",
     "promoted": false,
     "favourites": 7,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "110.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.4",
-      "totalAmount": "118.4"
-    },
-    "seller": {
-      "userId": 91312578,
-      "username": "szlagmnietrafi",
-      "profile": "https://www.vinted.pl/member/91312578-szlagmnietrafi",
-      "profilePicture": "https://images1.vinted.net/t/03_01d90_kyPsn97zXZMFAvvxFAbmsP2x/f800/1652807211.jpeg?s=aaa04e63c682fd11de5bfaaff353add8162f2aee"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325651584,
-    "title": "The north face huppari",
-    "url": "https://www.vinted.pl/items/5325651584-the-north-face-huppari",
-    "image": "https://images1.vinted.net/tc/02_013d6_EKDSCz7wLf2nFJqFtF917hw2/1730658892.jpeg?s=81113345448c7df3513c08dbde1193e856ac492e",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "88.14",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.31",
-      "totalAmount": "95.45"
-    },
-    "seller": {
-      "userId": 222709891,
-      "username": "thefcgt22",
-      "profile": "https://www.vinted.pl/member/222709891-thefcgt22",
-      "profilePicture": "https://images1.vinted.net/t/01_02322_How3626N3ujYnpHB7eVxtpT6/f800/1726584368.jpeg?s=25e5addcbb3dc7bb7a229031862700888b1b90a9"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325630229,
-    "title": "Kurtka z Polaru The North Face",
-    "url": "https://www.vinted.pl/items/5325630229-kurtka-z-polaru-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_00a85_QVwsetfhYuXizdTPZofTpFgs/1730658705.jpeg?s=f2dc56a4e69be0c415a721ae627ef858560e8205",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "100.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.9",
-      "totalAmount": "107.9"
-    },
-    "seller": {
-      "userId": 191666849,
-      "username": "g.nowakk",
-      "profile": "https://www.vinted.pl/member/191666849-gnowakk",
-      "profilePicture": "https://images1.vinted.net/t/03_01ae5_GJXWotH49whvdAGDzFJTxNwp/f800/1709919767.jpeg?s=8300a370359bacad3c86b742c60ec0b999f93e45"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325578277,
-    "title": "Kamizelka The North Face S",
-    "url": "https://www.vinted.pl/items/5325578277-kamizelka-the-north-face-s",
-    "image": "https://images1.vinted.net/tc/04_0267f_N7NbVvRKWcToeHbQgWYj4U82/1730658262.jpeg?s=e7fd3463ed9ffc5cc2e41308b2ee32657639c379",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "89.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.35",
-      "totalAmount": "96.35"
-    },
-    "seller": {
-      "userId": 132771583,
-      "username": "houseofmorningstar",
-      "profile": "https://www.vinted.pl/member/132771583-houseofmorningstar",
-      "profilePicture": "https://images1.vinted.net/t/02_011f7_UQZ11PLxRU2HLUMXCB2hg5XG/f800/1676670984.jpeg?s=de3dbc5d19ea60680caf36ce9a6ca93349abcf78"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325576272,
-    "title": "Kurtka The North Face",
-    "url": "https://www.vinted.pl/items/5325576272-kurtka-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_02636_zzuKQPz4JMpdYwpeatp6fgJv/1730658245.jpeg?s=a432ea41855f944713353da77c7bf4dc4bf5f583",
-    "promoted": false,
-    "favourites": 0,
-    "brand": "The North Face",
+    "brand": "Nike",
     "size": "M",
     "price": {
-      "amount": "199.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "40.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "12.85",
-      "totalAmount": "211.85"
+      "fees": {
+        "amount": "4.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "44.9",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 185141929,
-      "username": "dyzme",
-      "profile": "https://www.vinted.pl/member/185141929-dyzme",
-      "profilePicture": "https://images1.vinted.net/t/03_00623_VXBHHkjKPdXYD7qLhYLPCeyN/f800/1708782187.jpeg?s=d86a22384ba16fbc77417ff9bc4385d126ad3fa3"
+      "userId": 90895156,
+      "username": "maxaderiho",
+      "profile": "https://www.vinted.pl/member/90895156-maxaderiho",
+      "profilePicture": "https://images1.vinted.net/t/03_0213f_daaJDMb3H5NckJrzobJboQmj/f800/1717326168.jpeg?s=53e2a78cb0b443991ccd8aaa3a1e6f973836a2d9"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5325419211,
-    "title": "Fleece trøje",
-    "url": "https://www.vinted.pl/items/5325419211-fleece-troje",
-    "image": "https://images1.vinted.net/tc/04_01b13_2FjCV3QmotWErivAexQswtYd/1730656975.jpeg?s=d3151c4c3613cb554105c2b33e913787ec574ca0",
+    "productId": 5379869756,
+    "title": "Koszulka sportowa Nike Dry Academy Pro SS",
+    "url": "https://www.vinted.pl/items/5379869756-koszulka-sportowa-nike-dry-academy-pro-ss",
+    "image": "https://images1.vinted.net/tc/04_00078_Y9Ew8CZyDNN5aHvLC6b2jmtu/1731572026.jpeg?s=45a45aff96ebadf6127c4dbd790cd71e02df30eb",
     "promoted": false,
-    "favourites": 15,
-    "brand": "The North Face",
-    "size": "XL",
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "XXL",
     "price": {
-      "amount": "88.63",
-      "currency": "PLN",
+      "amount": {
+        "amount": "40.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "7.33",
-      "totalAmount": "95.96"
+      "fees": {
+        "amount": "4.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "44.9",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 193129048,
-      "username": "beapeytz",
-      "profile": "https://www.vinted.pl/member/193129048-beapeytz",
-      "profilePicture": "https://images1.vinted.net/t/01_01a69_P9xiff7dLJAyYD5ZVhjCR2zx/f800/1710445025.jpeg?s=c46937276679ee79e649e2e5e2019c37925699e3"
+      "userId": 108415474,
+      "username": "romanistas",
+      "profile": "https://www.vinted.pl/member/108415474-romanistas",
+      "profilePicture": "https://images1.vinted.net/t/03_006b4_BXmhrTF5QEzojSVGVP1SixZz/f800/1726533137.jpeg?s=10391da95e7f6ca46755e1f4ce2475722cecfa57"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Bardzo dobry",
+    "category": "Men"
   },
   {
-    "productId": 5325395532,
-    "title": "Kurtka The North Face",
-    "url": "https://www.vinted.pl/items/5325395532-kurtka-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_012f5_bqfftytfSvATegib4uAdEaCn/1730656793.jpeg?s=5a5a103fe48427df04b248e0bf2f71da4935c8b7",
+    "productId": 5379869236,
+    "title": "Korki metalowe skórzane umbro",
+    "url": "https://www.vinted.pl/items/5379869236-korki-metalowe-skorzane-umbro",
+    "image": "https://images1.vinted.net/tc/04_000c1_DSqfUTNvuYTi3YDqUPyXqvx8/1731572015.jpeg?s=0b9a99217bdeff6266c168eb6938bff47e7e6fc1",
     "promoted": false,
-    "favourites": 5,
-    "brand": "The North Face",
-    "size": "M",
+    "favourites": 0,
+    "brand": "Umbro",
+    "size": "42,5",
     "price": {
-      "amount": "220.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "30.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "13.9",
-      "totalAmount": "233.9"
+      "fees": {
+        "amount": "4.4",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "34.4",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 92658603,
-      "username": "sellbestclothes",
-      "profile": "https://www.vinted.pl/member/92658603-sellbestclothes",
-      "profilePicture": "https://images1.vinted.net/t/04_00fb5_HMc73dLfhL15UzRqodF7fJsG/f800/1730575785.jpeg?s=8d0d91b57f084d722b9baf2905d965271642d29a"
+      "userId": 150412800,
+      "username": "13piekarz12",
+      "profile": "https://www.vinted.pl/member/150412800-13piekarz12",
+      "profilePicture": null
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Nowy bez metki",
+    "category": "Men"
   },
   {
-    "productId": 5325237241,
-    "title": "Cienka kurtka The North Face Summit Series outdoor",
-    "url": "https://www.vinted.pl/items/5325237241-cienka-kurtka-the-north-face-summit-series-outdoor",
-    "image": "https://images1.vinted.net/tc/03_017dc_jCtjUcajusMTXcmAA1HZSL8D/1730655613.jpeg?s=982aea4afa3671de78fab4e184b89c4f61b7bfcf",
+    "productId": 5379868230,
+    "title": "Dresy spodnie  Nike baggy pants drill Basic czarne y2k vintage",
+    "url": "https://www.vinted.pl/items/5379868230-dresy-spodnie-nike-baggy-pants-drill-basic-czarne-y2k-vintage",
+    "image": "https://images1.vinted.net/tc/04_01daa_qHxccHGnhdL7qibkJtEd2wBm/1731571994.jpeg?s=edbe303dad4fae82061dd4d10ff9c2c3013af039",
     "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
+    "favourites": 0,
+    "brand": "Nike",
     "size": "S",
     "price": {
-      "amount": "235.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "59.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "14.65",
-      "totalAmount": "249.65"
+      "fees": {
+        "amount": "5.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "64.85",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 91052132,
-      "username": "jakotakopojaponsku",
-      "profile": "https://www.vinted.pl/member/91052132-jakotakopojaponsku",
-      "profilePicture": "https://images1.vinted.net/t/01_0028e_N8HBLWqVmZHRySUFCGFKXwjf/f800/1652789168.jpeg?s=61c71c4a6a909ba5104a32310f0f3b97625cb408"
+      "userId": 127028768,
+      "username": "kantyky2",
+      "profile": "https://www.vinted.pl/member/127028768-kantyky2",
+      "profilePicture": "https://images1.vinted.net/t/03_01eae_ngj6kqAfM6ZPLajRfdF3W19o/f800/1729458929.jpeg?s=f36af4bb079d29c9733a5e25b10ee50db4d22aa9"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Dobry",
+    "category": "Men"
   },
   {
-    "productId": 5325363444,
-    "title": "Kurtka the north face",
-    "url": "https://www.vinted.pl/items/5325363444-kurtka-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_01bce_eW2XXdy4DNi1tLJpVc8Sp2Bo/1730656550.jpeg?s=c800c7a99522e3f4fccdd5f4716771ba9235d37a",
+    "productId": 5379867159,
+    "title": "Bluza New Balance męska XL",
+    "url": "https://www.vinted.pl/items/5379867159-bluza-new-balance-meska-xl",
+    "image": "https://images1.vinted.net/tc/03_001b5_62Jhz5cgCSAzTgvFid2zU97R/1731571972.jpeg?s=3f185ab0502580e172b96560aab354c4eb2ef083",
     "promoted": false,
     "favourites": 1,
-    "brand": "The North Face",
-    "size": "L",
-    "price": {
-      "amount": "75.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "6.65",
-      "totalAmount": "81.65"
-    },
-    "seller": {
-      "userId": 93067354,
-      "username": "kamilll18",
-      "profile": "https://www.vinted.pl/member/93067354-kamilll18",
-      "profilePicture": "https://images1.vinted.net/t/03_00dd3_5Aib1ydutmYa4qHsMJQfb1oW/f800/1653245911.jpeg?s=7bf01744cc69d845567179f4e065a1c4428428ad"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325276740,
-    "title": "Polar the north face",
-    "url": "https://www.vinted.pl/items/5325276740-polar-the-north-face",
-    "image": "https://images1.vinted.net/tc/02_008ce_9SpTcC2AUZxMw5usjaD3KBkY/1730655903.jpeg?s=e2fadcbc5b3e043b5a102fc406b076ee07036769",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "99.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.85",
-      "totalAmount": "106.85"
-    },
-    "seller": {
-      "userId": 92502718,
-      "username": "deproxconcern",
-      "profile": "https://www.vinted.pl/member/92502718-deproxconcern",
-      "profilePicture": "https://images1.vinted.net/t/03_018a0_yq1b9AYrfie3dCdadRQrA8Mu/f800/1716496549.jpeg?s=e8b73103604faafa8fec82864e2fd32040cc70a3"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325245451,
-    "title": "Kurtka Ocieplane The North Face y2k drip drill gorpcore",
-    "url": "https://www.vinted.pl/items/5325245451-kurtka-ocieplane-the-north-face-y2k-drip-drill-gorpcore",
-    "image": "https://images1.vinted.net/tc/02_01c6c_nQXLT6ciicCyUW5UnrQXTVae/1730655673.jpeg?s=3c5b6ee3ef8bc3da44ef5c91d6fd45aeed1e8a50",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "199.99",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "12.9",
-      "totalAmount": "212.89"
-    },
-    "seller": {
-      "userId": 230052495,
-      "username": "stinty.shop",
-      "profile": "https://www.vinted.pl/member/230052495-stintyshop",
-      "profilePicture": "https://images1.vinted.net/t/03_0126a_KKxJQjD15229nSo8y8jYPAuA/f800/1726682706.jpeg?s=16cd2c1f6f3ee97dc626322bdee702ee9f60a12e"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5325177547,
-    "title": "Sort dunjakke The north face",
-    "url": "https://www.vinted.pl/items/5325177547-sort-dunjakke-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_018fb_67rgXJZEd4Fn5ZKeLf9ykYfD/1730655183.jpeg?s=b2d3528b8fcc3bd86b8e30a4ce623b70f8aef093",
-    "promoted": false,
-    "favourites": 14,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "88.63",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "7.33",
-      "totalAmount": "95.96"
-    },
-    "seller": {
-      "userId": 239960539,
-      "username": "heidihansen1",
-      "profile": "https://www.vinted.pl/member/239960539-heidihansen1",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324983312,
-    "title": "Kurtka z polaru the north face vintage y2k rap outdoor street wear drip",
-    "url": "https://www.vinted.pl/items/5324983312-kurtka-z-polaru-the-north-face-vintage-y2k-rap-outdoor-street-wear-drip",
-    "image": "https://images1.vinted.net/tc/03_01b6b_547scW6NpqeFrGJQanqk5bMt/1730653823.jpeg?s=1fdddb2ec3a6d8fac80072f70fb61276c072c548",
-    "promoted": false,
-    "favourites": 7,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "119.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.85",
-      "totalAmount": "127.85"
-    },
-    "seller": {
-      "userId": 200386064,
-      "username": "lump.rar",
-      "profile": "https://www.vinted.pl/member/200386064-lumprar",
-      "profilePicture": "https://images1.vinted.net/t/03_026ce_QrHuLnZk88wF1U8Vy8TVAZ5q/f800/1713710942.jpeg?s=b78d863996324b7e2fcfa027721e35ebe93c7e1c"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324909355,
-    "title": "Męska kurtka puchowa the north face reversible dwustronna",
-    "url": "https://www.vinted.pl/items/5324909355-meska-kurtka-puchowa-the-north-face-reversible-dwustronna",
-    "image": "https://images1.vinted.net/tc/04_00934_HDMYzqWtYgNy2LCkTuoSePKH/1730653319.jpeg?s=f1c5acf9b49e6fb0e46fe484c6cd405cd4edbc48",
-    "promoted": false,
-    "favourites": 18,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "169.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "11.35",
-      "totalAmount": "180.35"
-    },
-    "seller": {
-      "userId": 91042919,
-      "username": "mlodyanakin",
-      "profile": "https://www.vinted.pl/member/91042919-mlodyanakin",
-      "profilePicture": "https://images1.vinted.net/t/01_00f47_XMifu4vDL5McqMgmRUyPmz4G/f800/1672391623.jpeg?s=3cf92eec3d178739bd438de096794509ed272ac4"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324881154,
-    "title": "Kurtka The North Face Hyvent 2.5L",
-    "url": "https://www.vinted.pl/items/5324881154-kurtka-the-north-face-hyvent-25l",
-    "image": "https://images1.vinted.net/tc/04_00852_Qvwpg6rZT4ZuqH6vKUV5LByM/1730653130.jpeg?s=60defe9a0eac6227ef17d1e64b39773c946950fb",
-    "promoted": false,
-    "favourites": 4,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "145.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "10.15",
-      "totalAmount": "155.15"
-    },
-    "seller": {
-      "userId": 234032603,
-      "username": "piotrek9119",
-      "profile": "https://www.vinted.pl/member/234032603-piotrek9119",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324800488,
-    "title": "Green WindBreaker The North Face Hyvent Size S|Zielona wiatrówka Rozmiar S",
-    "url": "https://www.vinted.pl/items/5324800488-green-windbreaker-the-north-face-hyvent-size-szielona-wiatrowka-rozmiar-s",
-    "image": "https://images1.vinted.net/tc/04_018f6_o72UH2apG8yFvkbd7Jgcs3Hk/1730652601.jpeg?s=8bfe9ba010954d47debe21144fa152bfe86a3ae4",
-    "promoted": false,
-    "favourites": 3,
-    "brand": "The North Face",
-    "size": "S",
-    "price": {
-      "amount": "109.0",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.35",
-      "totalAmount": "117.35"
-    },
-    "seller": {
-      "userId": 132094487,
-      "username": "d.g.g.1.8",
-      "profile": "https://www.vinted.pl/member/132094487-dgg18",
-      "profilePicture": "https://images1.vinted.net/t/03_00e8a_amXtZEBRuzZy8jHLC7kMiw8Z/f800/1687026718.jpeg?s=e75c7672788efbcc0d01df32d74ad7390370434b"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324712869,
-    "title": "The North Face DryVent",
-    "url": "https://www.vinted.pl/items/5324712869-the-north-face-dryvent",
-    "image": "https://images1.vinted.net/tc/03_0036c_SbrSYXyRbR9bEqdAffb4sbSb/1730652038.jpeg?s=75779e8df21fa322163929ce69d2077342838c29",
-    "promoted": false,
-    "favourites": 1,
-    "brand": "The North Face",
+    "brand": "New Balance",
     "size": "XL",
     "price": {
-      "amount": "250.0",
-      "currency": "PLN",
+      "amount": {
+        "amount": "60.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "15.4",
-      "totalAmount": "265.4"
+      "fees": {
+        "amount": "5.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "65.9",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 184729648,
-      "username": "baceuszbaceusz",
-      "profile": "https://www.vinted.pl/member/184729648-baceuszbaceusz",
-      "profilePicture": "https://images1.vinted.net/t/03_00e7d_7zL3ZbK3qtARaJEY7zv3mPC9/f800/1706214270.jpeg?s=767a1f7a144db97398acbf53666b0214bcac4269"
+      "userId": 91629747,
+      "username": "marocco75",
+      "profile": "https://www.vinted.pl/member/91629747-marocco75",
+      "profilePicture": "https://images1.vinted.net/t/03_01fe6_oc16eW7F9SXaWpAFh55Wthor/f800/1652860797.jpeg?s=7ec603a2131903fcfd9a55024fdc677803901322"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Dobry",
+    "category": "Men"
   },
   {
-    "productId": 5324654795,
-    "title": "The North Face",
-    "url": "https://www.vinted.pl/items/5324654795-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_01abd_t5XZn4G4KU7UFEhbagmzFWvo/1730651674.jpeg?s=1faf109914ff9aa2effaeb58d976ef129c7206a8",
+    "productId": 5375010844,
+    "title": "Trening Nike",
+    "url": "https://www.vinted.pl/items/5375010844-trening-nike",
+    "image": "https://images1.vinted.net/tc/04_024e1_yhBTePqbWvq57vVvq3pBApVU/1731489722.jpeg?s=d548a56053c6a1d285215d094461f6744ae36015",
     "promoted": false,
     "favourites": 0,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "132.21",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "9.51",
-      "totalAmount": "141.72"
-    },
-    "seller": {
-      "userId": 131936395,
-      "username": "dripshop09876",
-      "profile": "https://www.vinted.pl/member/131936395-dripshop09876",
-      "profilePicture": "https://images1.vinted.net/t/03_00a26_aRKojTm9WuLbucBNPosf7tYY/f800/1676113863.jpeg?s=fb02ee5470b620c4eaa8e7985e4682a491a9f796"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324602618,
-    "title": "The north face shell jacket",
-    "url": "https://www.vinted.pl/items/5324602618-the-north-face-shell-jacket",
-    "image": "https://images1.vinted.net/tc/01_01f8f_Mz9XjkimHE3TB24To4MT6FgD/1730651350.jpeg?s=5cd74c3a24b21107fdf5bb26601efb714365e805",
-    "promoted": false,
-    "favourites": 8,
-    "brand": "The North Face",
-    "size": "M",
-    "price": {
-      "amount": "206.79",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "13.24",
-      "totalAmount": "220.03"
-    },
-    "seller": {
-      "userId": 170891893,
-      "username": "valuren",
-      "profile": "https://www.vinted.pl/member/170891893-valuren",
-      "profilePicture": null
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324478133,
-    "title": "The north face",
-    "url": "https://www.vinted.pl/items/5324478133-the-north-face",
-    "image": "https://images1.vinted.net/tc/04_00663_5hP8XU6x1kpAukpMQcRKq3qq/1730650594.jpeg?s=483ec0f672bc99bcacf6ef7e42e5b72cc4ab51e7",
-    "promoted": false,
-    "favourites": 2,
-    "brand": "The North Face",
-    "size": "XL",
-    "price": {
-      "amount": "121.12",
-      "currency": "PLN",
-      "discount": null,
-      "fees": "8.96",
-      "totalAmount": "130.08"
-    },
-    "seller": {
-      "userId": 161354072,
-      "username": "lichon06",
-      "profile": "https://www.vinted.pl/member/161354072-lichon06",
-      "profilePicture": "https://images1.vinted.net/t/03_00ad5_iHk45aRF8yL7EBDUiLt9EL82/f800/1723745102.jpeg?s=c4cf43740c6c75f47aca25e667deea1759ca3f92"
-    },
-    "isSold": null,
-    "category": "Outerwear"
-  },
-  {
-    "productId": 5324321072,
-    "title": "Bluza The North Face polar",
-    "url": "https://www.vinted.pl/items/5324321072-bluza-the-north-face-polar",
-    "image": "https://images1.vinted.net/tc/01_00eec_KYJCNbDcJt7i1Z4QUKQgfDxB/1730649659.jpeg?s=a7b895552967afaaa3a9a63e1c1d563fce6e97cb",
-    "promoted": false,
-    "favourites": 11,
-    "brand": "The North Face",
+    "brand": "Nike",
     "size": "L",
     "price": {
-      "amount": "132.92",
-      "currency": "PLN",
+      "amount": {
+        "amount": "57.39",
+        "currency_code": "PLN"
+      },
+      "currency": null,
       "discount": null,
-      "fees": "9.55",
-      "totalAmount": "142.47"
+      "fees": {
+        "amount": "5.77",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "63.16",
+        "currency_code": "PLN"
+      }
     },
     "seller": {
-      "userId": 163816984,
-      "username": "mihai2092",
-      "profile": "https://www.vinted.pl/member/163816984-mihai2092",
-      "profilePicture": "https://images1.vinted.net/t/03_024a9_967uf5zfgo4UFQDVoaPNquN4/f800/1695990676.jpeg?s=cb4a2b06e1f9825310589d4dc35317c62499f7cb"
+      "userId": 218782863,
+      "username": "adinadinulica",
+      "profile": "https://www.vinted.pl/member/218782863-adinadinulica",
+      "profilePicture": "https://images1.vinted.net/t/03_0191a_4iizSafTqbs4AXbH8w5ob4G8/f800/1721819095.jpeg?s=64b70d75ab5781086fe0705c683bf59ee390a874"
     },
     "isSold": null,
-    "category": "Outerwear"
+    "status": "Dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379866044,
+    "title": "Puma træningstrøje",
+    "url": "https://www.vinted.pl/items/5379866044-puma-traeningstroje",
+    "image": "https://images1.vinted.net/tc/04_0131f_LBn4DVjx54xELxJRrcBqhCYf/1731571945.jpeg?s=185d5028b453fac0016f81393d50187f43241990",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Puma",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "58.91",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "64.76",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 240567042,
+      "username": "ben209010",
+      "profile": "https://www.vinted.pl/member/240567042-ben209010",
+      "profilePicture": "https://images1.vinted.net/t/04_0033d_Rp4jgTVgJpwfQvduPZapp2oF/f800/1731325542.jpeg?s=68e22eb0f89ed1c9284ecb03809023ec366d1dd6"
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5379653928,
+    "title": "Adidas Techfit Compression T-shirt, Size S",
+    "url": "https://www.vinted.pl/items/5379653928-adidas-techfit-compression-t-shirt-size-s",
+    "image": "https://images1.vinted.net/tc/03_019be_58ZNpAPPzLmSUgVG9ATyVexM/1731562153.jpeg?s=46c9aae7d9153346fbdabae18e82b02de23b2dfc",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "61.81",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "5.99",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "67.8",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 178750543,
+      "username": "athletic_threads",
+      "profile": "https://www.vinted.pl/member/178750543-athleticthreads",
+      "profilePicture": "https://images1.vinted.net/t/01_0176e_psK6NMcL2D72e5rtEk8Chu1W/f800/1716406843.jpeg?s=a0937c3495e33e91c03cd9619e86b009f2d8dc6f"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379655414,
+    "title": "Adidas Techfit Compression T-shirt, Size S",
+    "url": "https://www.vinted.pl/items/5379655414-adidas-techfit-compression-t-shirt-size-s",
+    "image": "https://images1.vinted.net/tc/04_025b8_wz8wLd1s9GMvVh4JeJtrq8RG/1731562363.jpeg?s=3ead0ab61507e638b7c07c943456adac1c5b65bc",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "70.64",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.43",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "77.07",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 178750543,
+      "username": "athletic_threads",
+      "profile": "https://www.vinted.pl/member/178750543-athleticthreads",
+      "profilePicture": "https://images1.vinted.net/t/01_0176e_psK6NMcL2D72e5rtEk8Chu1W/f800/1716406843.jpeg?s=a0937c3495e33e91c03cd9619e86b009f2d8dc6f"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5379862536,
+    "title": "jachetă adidas",
+    "url": "https://www.vinted.pl/items/5379862536-jacheta-adidas",
+    "image": "https://images1.vinted.net/tc/01_009fb_D3gvvZUPWbJXcmKRrfx56A2f/1731571873.jpeg?s=82a76de5e5e7ca41cedddfc0d08b1fcf5bfc1505",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "S",
+    "price": {
+      "amount": {
+        "amount": "97.13",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.76",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "104.89",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 150718905,
+      "username": "dnselena",
+      "profile": "https://www.vinted.pl/member/150718905-dnselena",
+      "profilePicture": "https://images1.vinted.net/t/01_01d6d_m5azivN4nT6n8CXE8p1MFniu/f800/1730142764.jpeg?s=b50176767b2c87dbc95e7e655f5e9c26d7a161fd"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
   }
 ]
