@@ -1,0 +1,142 @@
+[
+  {
+    "productId": 5380433170,
+    "title": "Keps PSG",
+    "url": "https://www.vinted.pl/items/5380433170-keps-psg",
+    "image": "https://images1.vinted.net/tc/02_00b4b_AhmYLb92guY324nxE8r11496/1731579719.jpeg?s=c394af95b74611eb0cec0ce0c13410fd67901740",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Nike",
+    "size": "Uniwersalny",
+    "price": {
+      "amount": {
+        "amount": "18.94",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "3.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "22.79",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 236110430,
+      "username": "elith78",
+      "profile": "https://www.vinted.pl/member/236110430-elith78",
+      "profilePicture": null
+    },
+    "isSold": null,
+    "status": "Nowy bez metki",
+    "category": "Men"
+  },
+  {
+    "productId": 5380431681,
+    "title": "Koszulka Stussy",
+    "url": "https://www.vinted.pl/items/5380431681-koszulka-stussy",
+    "image": "https://images1.vinted.net/tc/02_024e1_6RcaGqN3C42gEe8L2dVF6Hdr/1731579703.jpeg?s=f5de4cffc23e1ff7484dce8ed5085d4d0f6a1ace",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "Stüssy",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "80.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "6.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "86.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 180982894,
+      "username": "xay_wey",
+      "profile": "https://www.vinted.pl/member/180982894-xaywey",
+      "profilePicture": "https://images1.vinted.net/t/03_00c93_GbdacKiuperSoxkjEuLj8CqT/f800/1728985416.jpeg?s=54619e37fb709f0f54005aeb5b9c57bfbb648933"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5380427741,
+    "title": "Świetna koszulka Adidas Juventus Turyn",
+    "url": "https://www.vinted.pl/items/5380427741-swietna-koszulka-adidas-juventus-turyn",
+    "image": "https://images1.vinted.net/tc/04_00f7a_poLUm8AEAM6Lkd3N9wCovhCJ/1731579660.jpeg?s=99b7aad819fb8c3d64b9b515c08ff369240c9e4e",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "adidas",
+    "size": "M",
+    "price": {
+      "amount": {
+        "amount": "99.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "7.85",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "106.85",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 91389354,
+      "username": "superciuchy1980",
+      "profile": "https://www.vinted.pl/member/91389354-superciuchy1980",
+      "profilePicture": "https://images1.vinted.net/t/03_019dc_2zRFzNjX4vhsKJRSwNTbbaCW/f800/1707756849.jpeg?s=082abaf55a96d3d604971060508679adff6080b2"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Men"
+  },
+  {
+    "productId": 5380331430,
+    "title": "Ocieplana kurtka The North Face",
+    "url": "https://www.vinted.pl/items/5380331430-ocieplana-kurtka-the-north-face",
+    "image": "https://images1.vinted.net/tc/04_018ac_RLG2UAzYCUGkjBtditKtewtU/1731578607.jpeg?s=2cc92edaccf2bf299a49734ac7e41e0e5f2198f4",
+    "promoted": false,
+    "favourites": 0,
+    "brand": "The North Face",
+    "size": "L",
+    "price": {
+      "amount": {
+        "amount": "140.0",
+        "currency_code": "PLN"
+      },
+      "currency": null,
+      "discount": null,
+      "fees": {
+        "amount": "9.9",
+        "currency_code": "PLN"
+      },
+      "totalAmount": {
+        "amount": "149.9",
+        "currency_code": "PLN"
+      }
+    },
+    "seller": {
+      "userId": 92355949,
+      "username": "janesca12",
+      "profile": "https://www.vinted.pl/member/92355949-janesca12",
+      "profilePicture": "https://images1.vinted.net/t/02_003ec_EcZzfUs7PL2KiRvmpFoeTbb9/f800/1652984940.jpeg?s=f4a4f2f2ab793a7997f633b924a6721fccbe5bf2"
+    },
+    "isSold": null,
+    "status": "Bardzo dobry",
+    "category": "Outerwear"
+  }
+]

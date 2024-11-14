@@ -42,7 +42,7 @@ function filterItems(serverHistory, filters) {
         }
 
         // Перевірка ціни
-        if (filters.maxPrice && parseFloat(item.price.amount) > parseFloat(filters.maxPrice)) {
+        if (filters.maxPrice && item.price && item.price.amount && item.price.amount.amount && parseFloat(item.price.amount.amount) > parseFloat(filters.maxPrice)) {
             return false;
         }
 
@@ -64,7 +64,6 @@ function filterItems(serverHistory, filters) {
     return filtered;
 }
 
-
 /**
  * Sends new items found to the user.
  * @param {number} chatId - The chat ID of the user.
@@ -76,7 +75,7 @@ async function sendNewItemsToUser(chatId, newItems) {
             `📌 *Title:* ${item.title}\n\n` +
             `🏷️ *Brand:* ${item.brand}\n\n` +
             `📏 *Size:* ${item.size}\n\n` +
-            `💰 *Price:* ${item.price.amount} ${item.price.currency}\n\n` +
+            `💰 *Price:* ${item.price.amount.amount} ${item.price.amount.currency_code}\n\n` +
             `🔗 [👉 BUY THE ITEM NOW 👈](${item.url})`;
 
         console.log(`Sending new item to user: ${item.title} - ${item.url}`);
