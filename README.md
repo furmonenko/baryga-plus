@@ -166,34 +166,162 @@ Administrators have access to special features:
 - npm or yarn
 - A Telegram Bot Token (from @BotFather)
 - RapidAPI key with access to the Vinted3 API
+- Server with public IP address (for webhook setup)
 
-### Environment Variables
+### Detailed Installation Guide
 
-Create a `.env` file with the following variables:
+#### Step 1: Set Up Your Environment
 
-```
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token
-RAPIDAPI_KEY=your_rapidapi_key
-PORT=3000
-SESSION_SECRET=your_session_secret
-SERVER_IP=your_server_ip_or_domain
-```
+1. **Install Node.js**:
+   - Download and install Node.js from [nodejs.org](https://nodejs.org/)
+   - Verify installation with: `node --version` and `npm --version`
 
-### Installation Steps
+2. **Get a Telegram Bot Token**:
+   - Open Telegram and search for [@BotFather](https://t.me/BotFather)
+   - Send the command `/newbot` and follow the instructions
+   - Save the API token provided by BotFather
 
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Set up environment variables in the `.env` file
-4. Start the server: `npm start`
-5. (Optional) Set up a webhook using the `resetWebhook.js` script
+3. **Register for RapidAPI and Subscribe to Vinted3 API**:
+   - Create an account on [RapidAPI](https://rapidapi.com/)
+   - Search for "Vinted3" API
+   - Subscribe to the API (free or paid tier depending on usage needs)
+   - Copy your API key from the dashboard
 
-### Webhook Setup
+#### Step 2: Clone and Configure the Repository
 
-To ensure reliable message delivery, set up a webhook:
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/baryga-bot.git
+   cd baryga-bot
+   ```
 
-1. Ensure your server is accessible via HTTPS
-2. Run the webhook setup script: `node resetWebhook.js`
-3. Verify webhook status via Telegram Bot API
+2. **Create Environment Configuration**:
+   - Create a `.env` file in the root directory:
+   ```bash
+   touch .env
+   ```
+   - Add the following configuration to the `.env` file:
+   ```
+   TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+   RAPIDAPI_KEY=your_rapidapi_key
+   PORT=3000
+   SESSION_SECRET=your_random_secure_string
+   SERVER_IP=your_server_ip_or_domain
+   ```
+   
+3. **Make sure `.env` is in `.gitignore`**:
+   - Add `.env` to your `.gitignore` file to prevent committing sensitive information:
+   ```bash
+   echo ".env" >> .gitignore
+   ```
+
+#### Step 3: Install Dependencies and Prepare the Server
+
+1. **Install Required Packages**:
+   ```bash
+   npm install
+   ```
+
+2. **Prepare Data Directory Structure**:
+   ```bash
+   mkdir -p data
+   ```
+
+3. **Initialize Base JSON Files** (if they don't exist):
+   ```bash
+   # Create empty JSON files with proper structure
+   echo '{}' > data/users.json
+   echo '{"admins":[],"barons":[],"dealers":[],"casuals":[]}' > data/userPlans.json
+   echo '[]' > data/messageLog.json
+   ```
+
+#### Step 4: Start the Bot
+
+1. **Run the Bot in Development Mode**:
+   ```bash
+   node server.js
+   ```
+   
+   For production, consider using a process manager like PM2:
+   ```bash
+   # Install PM2
+   npm install -g pm2
+   
+   # Start the bot with PM2
+   pm2 start server.js --name "baryga-bot"
+   
+   # Set up PM2 to start on system boot
+   pm2 startup
+   pm2 save
+   ```
+
+#### Step 5: Set Up Webhook for Production
+
+For reliable operation in production, set up a webhook:
+
+1. **Ensure Your Server is Accessible**:
+   - Make sure your server has a public IP address
+   - Configure your firewall to allow incoming connections on the specified port
+   - For production, HTTPS is required by Telegram's Bot API
+
+2. **Set Up SSL Certificate** (required for webhook):
+   - If you have a domain, use Let's Encrypt to get a free SSL certificate
+   - Or use a reverse proxy like Nginx with SSL termination
+
+3. **Configure the Webhook**:
+   - Update the `SERVER_IP` variable in your `.env` file to include the protocol:
+   ```
+   SERVER_IP=https://your-domain.com
+   ```
+   - Run the webhook setup script:
+   ```bash
+   node resetWebhook.js
+   ```
+
+4. **Verify Webhook Status**:
+   You can check if your webhook is set up correctly using:
+   ```
+   https://api.telegram.org/bot<your_bot_token>/getWebhookInfo
+   ```
+
+#### Step 6: Configure Bot as Admin
+
+To set yourself as an admin:
+
+1. **Start a conversation with your bot** in Telegram
+2. **Get your Telegram User ID** (you can use @userinfobot)
+3. **Add yourself to the admin list**:
+   ```bash
+   # Edit data/userPlans.json
+   # Add your user ID to the "admins" array
+   ```
+4. **Restart the bot**:
+   ```bash
+   # If using PM2
+   pm2 restart baryga-bot
+   
+   # If running directly
+   # Press Ctrl+C to stop and then start again with node server.js
+   ```
+
+#### Step 7: Test the Bot
+
+1. **Verify Basic Functionality**:
+   - Send `/start` to your bot
+   - You should receive a welcome message with buttons
+   
+2. **Configure Initial Filters**:
+   - Follow the bot prompts to set up your first filter
+   
+3. **Test Search Functionality**:
+   - Start searching and check if results appear
+
+#### Troubleshooting Common Issues
+
+- **Bot doesn't respond**: Check server logs and ensure the bot is running
+- **Webhook errors**: Verify SSL certificate and server accessibility
+- **No search results**: Check RapidAPI subscription status and key validity
+- **Database errors**: Ensure proper permissions on the data directory and files
 
 ## Maintenance
 
